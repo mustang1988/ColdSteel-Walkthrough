@@ -1,4 +1,4 @@
 ---
 banner: "![[ColdSteel_Cover.jpg]]"
-banner_y: 0.304
+banner_y: 0.496
 ---
