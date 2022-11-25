@@ -4,155 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13f886da109e0862",
+        "id": "bc03c6da00b620d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ac42301c09dd8e8b",
+            "id": "8aa97a4998c43d7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Space/Master/骑士.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6b55e79470dfb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Space/Master/天使.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b1208b2d894245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Space/Master/纹章.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4972d6bc5c3c72a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Space/Master/无限.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca63ab690259129e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Time/Master/丛云.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f793b7924d206c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Time/Master/渡鸦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc9aa02496d4c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Time/Master/灵猫.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b192a1e205d15e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Time/SR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3834715785119b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Water/Master/白羊.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bbfd758f58cd5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Water/Master/大蛇.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eac43e92decba561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Water/Master/法则.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "202a5bf9307e01b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Water/Master/权杖.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Water/Master/权杖.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Water/Master/权杖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Quartz/Water/Master/权杖.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -269,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1976cac1a5126337",
+  "active": "8aa97a4998c43d7d",
   "lastOpenFiles": [
+    "Database/Quartz/Earth/Master/Iron.md",
+    "test.md",
+    "index.md",
+    "Database/Quartz/Water/Master/权杖.md",
     "Database/Quartz/Water/Master/法则.md",
     "Database/Quartz/Water/Master/大蛇.md",
     "Database/Quartz/Water/Master/白羊.md",
     "Database/Quartz/Time/SR.md",
     "Database/Quartz/Time/R.md",
-    "Database/Quartz/Time/N.md",
-    "Database/Quartz/Time/Master/虚无.md",
-    "Database/Quartz/Time/Master/灵猫.md",
-    "Database/Quartz/Time/Master/渡鸦.md",
-    "Database/Quartz/Time/Master/丛云.md"
+    "Database/Quartz/Time/N.md"
   ]
 }
