@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc03c6da00b620d4",
+        "id": "f7a048790f066ea3",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa97a4998c43d7d",
+            "id": "919843f320fc370b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           }
         ],
@@ -128,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8aa97a4998c43d7d",
+  "active": "919843f320fc370b",
   "lastOpenFiles": [
-    "Database/Quartz/Earth/Master/Iron.md",
+    "Database/Quartz/Mirage/Master/Magius.md",
     "test.md",
+    "Database/Quartz/Mirage/R.md",
+    "Database/Quartz/Fire/SR.md",
+    "Database/Quartz/Water/Master/Canon.md",
+    "Database/Quartz/Wind/Master/Falco.md",
     "index.md",
-    "Database/Quartz/Water/Master/权杖.md",
-    "Database/Quartz/Water/Master/法则.md",
-    "Database/Quartz/Water/Master/大蛇.md",
-    "Database/Quartz/Water/Master/白羊.md",
-    "Database/Quartz/Time/SR.md",
-    "Database/Quartz/Time/R.md",
-    "Database/Quartz/Time/N.md"
+    "Database/Quartz/Mirage/Master/Juggler.md",
+    "Database/Quartz/Mirage/Master/Pandora.md",
+    "Database/Quartz/Mirage/Master/Mirage.md"
   ]
 }

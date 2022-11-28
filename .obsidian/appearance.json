@@ -2,6 +2,7 @@
   "accentColor": "",
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "ColdSteel"
+    "ColdSteel",
+    "ColdSteel-Quartz"
   ]
 }
