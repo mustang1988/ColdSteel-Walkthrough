@@ -9,25 +9,25 @@
     /*Earth*/
     --bafe-2513-color: var(--element-earth-color);
     --bafe-2513-weight: bold;
-    --bafe-2513-before: url("");
+    --bafe-2513-before: url("data:image/webp;base64,UklGRjoCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHEAAAABcFpr29O8PwoPv4QJYAAUtrMdruOQDEASjUxz/0GxQXqhlxUiYgIAEM2vWOVrBFMhb7tpmwsA6LFbPlKQoltbEL1d1epBtz44bjg2G5rrhmu2ITM3GFy5asdBqlfUEgB5v3CQAV5UnJTd3jeWeirlAQBWUDggogEAALAKAJ0BKg8ADwAAAAAlsAJ0ugH4AfqBTgJEr4ADpCP2g/VX2gLkByLPpB+pOS7/ADMQPxVzCP8l/KrUQPyO1yf9P5QXqB7gH8R/iX86/Iz+28hn+sB5uzBVZno5R4AA/v/++QnzoIGn2M/5LoMBwqlJhjxL+Kw6my7b50oqCQ0I/+3v/UB24822R1qjrSkKraf71/Gbo+u/Xu07tjs/Bff/4r7bHXETv/iQP3Vp96WFL0gbQwihxZzVJFz1SYCjY1r6UHTdpKRhKrcjqLI3h9543wVCTZnhtkP9/90Zq1hTADLdyhNH8f9Np+HGQW2Gqr/O1ij6LhqBDFNivPtobPGXtKr//kmO73/+LD4Yf/tC1stLvN+N/8G6h/4k+U4teu9ir54ZMWan/ypengLhG+vutGekAIN/C/NgNQCfdREb1j2syKxX+18hhbTa1GhTtbA//lFos/9czybB2Yof/a/x2VgfbT/xL5RW/w17c3rOl//ys/7/wyMyjZj7kD/+5HK/9/PuXqy6Tcm5gjNAnUSppczDiMb8/+NWTsPrAR+WAAA=");
     --15ba-df82-color: var(--element-earth-color);
     --15ba-df82-weight: bold;
-    --15ba-df82-before: url("");
+    --15ba-df82-before: url("data:image/webp;base64,UklGRkACAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHEAAAABcFpr29O8PwoPv4QJYAAUtrMdruOQDEASjUxz/0GxQXqhlxUiYgIAEM2vWOVrBFMhb7tpmwsA6LFbPlKQoltbEL1d1epBtz44bjg2G5rrhmu2ITM3GFy5asdBqlfUEgB5v3CQAV5UnJTd3jeWeirlAQBWUDggqAEAANALAJ0BKg8ADwAAAAAlsAJ0ugH4ANcz3QDgAPKA9gnyYqAl/SvLBPE/wo/aP/GaRT8K/2Z/zOWUfkZqgH8T1Ff+A5QXxh/ivyA+gD+F/xj+q/zL9hP7D/4uUA/Ro+uWL77bJPHlxcAA/v//A/wp7Gmg3hDFnjdDqjki34Vt3j/8OUq6sSBDb6m+ld/OYII1+PyYPpTVhoqXfw26n/k88m20WRkJwf7WuPu3r3iJxCDFsG7AuMf9TpD7/T68/dRBQFgfX+ZR+lMBXXWdj6R8wp8aMBms7eWaIx95UFggR85+Xs3dpAD/O2zSrtYv/+ozbtg/ns2P4AYm9zTCjGC73XqCKyQi+O/44YSuBa6CLEH0jwY1f8Tv/3tA5yWNdkD8AHizzpZDbnvwm1NERCIPWHMJ9/vGAPSa+k81iwTZA4xstfCZyBYgmjPDHP7xP/9/3etrgebjIxXy4D75P/lE2J77wZBF9Qi0/z+893kfR5//f/g/j0/r/fWjpMz//dnAP/oTH74V4sY5l7/A1zfzBcQcb+F2vFH/hcfR90LzP/2JfIb+FHIfQAA=");
     --bc71-e809-color: var(--element-earth-color);
     --bc71-e809-weight: bold;
-    --bc71-e809-before: url("");
+    --bc71-e809-before: url("data:image/webp;base64,UklGRkICAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHEAAAABcFpr29O8PwoPv4QJYAAUtrMdruOQDEASjUxz/0GxQXqhlxUiYgIAEM2vWOVrBFMhb7tpmwsA6LFbPlKQoltbEL1d1epBtz44bjg2G5rrhmu2ITM3GFy5asdBqlfUEgB5v3CQAV5UnJTd3jeWeirlAQBWUDggqgEAABAMAJ0BKg8ADwAAAAAlsAJ0ugH4AfiAtwDgAPKH9hX9kv1m9mC5AfgBYgfyX8Vf2A0W/4jfsBlFH5R6oh/Ivx210X9P/I7oBfCP9c/HL6A/4b/FP6N+O39o/9HKNfo6bh28EQ6z4PdAAAD+//8Scb//Af4960kZ5H5oP+tjUbH7kQrCvygg+SJ0E40H8dMBmA1rollRkS/ZQ3fG5x9m//A/Q8cc9bD/D2xUL+vqmGYT3RJXdo2G9tAGOP1Ztf+F6mCH9V0c0hYHgx2JrAsfpoFFAqD2T//0Y6ObtV2EP/85ErfRU+aN/I2ohg/IxhhZP7MWZivnaVjRFuZvu/1Ro9wWQzMWcSdN/+f9a7W0CxJrvGSa18MXxO+0gUN6vFW+q6ITub41hIAOkB522tG8EcypxYUVO/yVrai6S/lHQ8LlI6vrP/1jn/zxDQzoP2frbgRhtv/+/5E/+OAQmLhIIGw78XL/lF8S83Hp/JucRv7r/MeeMtvX3f+EBr/tUv199eSI//2gfXvxYY71tNL3/6w2/o8qKUpz9J1+Xr7G6f/tPwEyNsy/jgAAAA==");
     --26df-bc88-color: var(--element-earth-color);
     --26df-bc88-weight: bold;
-    --26df-bc88-before: url("");
+    --26df-bc88-before: url("data:image/webp;base64,UklGRkICAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHEAAAABcFpr29O8PwoPv4QJYAAUtrMdruOQDEASjUxz/0GxQXqhlxUiYgIAEM2vWOVrBFMhb7tpmwsA6LFbPlKQoltbEL1d1epBtz44bjg2G5rrhmu2ITM3GFy5asdBqlfUEgB5v3CQAV5UnJTd3jeWeirlAQBWUDggqgEAAPAMAJ0BKg8ADwAAAAAlsAJ0ugH4AfqAt1XgAPKw9gD9p/05mgH4Afpzlgnon4X/sdpgP4B+GH7Y/4rLE/xj/GDYEP6J+Luuo/o35Aezj/AfgB6gvgD+m+4B/C/4p/Mfx8/r/IV/qaem5CbzYQcHbgAA/v/+1TvXQ9WprjplvnBCFoek6lLW52qFtSrUnjgNMm7FIvYPZgBcz/FvvAqmlrklNJND8TWpqjp1c9sdoXHfx8GYpQavJPmpi/zqkzZz/D/+Nv3Ctbjc+QZ14wQs2aBMhHFaKPRdjCP9Xi6i0KctcATf/+9MmHmDJsQu08tTcpBl1ph/BxIdY/H02zIZEBj/jpuejlA8fkkyetUGfnCvJulH58hOqf6Zh1v2zIqf8Tv/6UV3auFUM1pqvAkmYa0COHfPujX7g9+5ZaRr2YGqY3gLZervX4u0X2R/kuiBdUZdLff8X/+/NWx/T/0m0RTmRTj/tz+6lLNRg98h/uuYKqcjvkv/3/r/79Xfibe0ckZAP/32h/T+v/nt5HE6bdqzV7hccWNImU8oreCXLWL/xOEC/ggnKFAAAA==");
     --c3bb-a07a-color: var(--element-earth-color);
     --c3bb-a07a-weight: bold;
-    --c3bb-a07a-before: url("");
+    --c3bb-a07a-before: url("data:image/webp;base64,UklGRjACAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSIsAAAABgGJb27LqxR2iOzQaJDKZObBIbskm4JDdkiYG4N5drrsl94vDFCJiAgAAWGp3yKdhwVaCofe1WCy+ekYaEoDg/Vxs/85wkWD7XOz+DtFFo8W+lyrdYv9w/IBe+YCr7AGnrgMayqe9viKk7F4zLUj6ezzYZYCWlt62fM3tCiIgMEJH8fT5thnRyYkAAFZQOCB+AQAAUAoAnQEqDwAPAAAAACWwAnS6AfgBSgNgA/gG2Z5IBvGXkq3ID6QOlZ9IJh3+DWQNfjlqI35Aa4D/K/jN0AvYD3A/4f/Dv6j+RX9g/8PKLfqMbab3fQ+AzFa1GAD+/+sNbJ1f/hQavt0gYvgJ4w7Uv83gsTec9Q6NkHRCHqg9ueU/7GULAmQxZuI30zltOrDV4AzSZDdrj6AK//gfslCv3zKb8jNkdPh+5+TX0mPwqsoTXxsU5MNg38mjYOngq72Szhhh08CUqvLvya68k9OnKd9a4gQLuYoH101n8MwVydFwBfLXozpeU6G/faf/6PP/+Fvy04rz75t/ahl9DV6w//nM6v4QIPPcMupqUKvBQi5V9/wgwW6U/94bZyfGG9ERBgdiX/AHOv/7WHkl50ZA3Sj4qT9vv/0Ef89P5fT+97/zVUwvxcv7+T8PJvirf4LW/9X7ZzCXOR/HzG/5lHUrhv/+oyPl7FQA/IutH8/e0DaZeXGALsRu+7OHEsCAAA==");
     --24f8-d702-color: var(--element-earth-color);
     --24f8-d702-weight: bold;
-    --24f8-d702-before: url("");
+    --24f8-d702-before: url("data:image/webp;base64,UklGRkgCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSIoAAAABgGpb27LoxSW7Q3KnUcnch3WJXt0hWdVGdujujGty95nvv4WImAAAIMqd0VTEISMAABD4oeXL5+fnyyLExwPwiy+ff7+URThi6OXz/5cwW7/7RD2yuj7RCxUMozaGkxaGnRdDx3KN9JxjVJGWNpCPES7dJiCpmvd/PG+8ZjoAQeqp7m7Oujm7iQ5WUDggmAEAADALAJ0BKg8ADwAAAAAlsAJ0ugH4AfgBSyftm3QC6md8A6TL9h/RytgD9ZrMD+Rfifnk/xj/WDLAf1X8gNQ7/IDXAf4DzAv5n8QOoA/jn8W/rX49f0vkGv1VPvJqrOjdNx+YAP5m0a7zdfDgEcpJgnGfJ74zPCizX/+JZsFVc/rP6KHyYNTAYltqMrl+3igf0c+DmIEaYZ3E6miaJRbCrpul9k3btsXzvVeJNfgz6tHPr34dYMWHCviMxcP4Mv9Lj54f4CHC5+f/7l5vdwAvZfca6PPH1uU2+lWfu5h+2eiCSthsaaoKFfvokpQ70FIoXdI9Kt+TXz1EfL70jkf/Ez9iD+sMB//6+Fe0dNseS18YclDxGu9G2f/H+r+8OyHlXqeOd4u3//Ympndnp//3KNo25L5EzNBshNt7k8HvFza+H9bK7YSuPf/qTw3H9Tp97/jJSupv3/qL/Wd44uWmQVv/fx+fwdWmgjf5dr++c718T31/9zrfw8/ub+O9M6+3gH/Oe+k2dG9doOMuLu/rZUty1crsH4AAAA==");
     --e183-fe79-color: var(--element-earth-color);
     --e183-fe79-weight: bold;
-    --e183-fe79-before: url("");
+    --e183-fe79-before: url("data:image/webp;base64,UklGRjwCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSIQAAAABcFtr25p82ApWpsZhj7TpUqfKBmjJMFC5u7vTu7tLBPizQkQoTNuGUdJxC4BIbRkxzD1DygEAJESX+ck5YZCCiLgy/+mYQd1lUPFiFgZpRc3QGA8joCVk+BJQy6K9I+QZaeeSJ5A3hIO5g5g2rQCZ2bv6+RYhWiUCAIxyFwfZgBNXiABWUDggkgEAANALAJ0BKg8ADwAAAAAlsAJ0ugH4APsA20nJAPQA6SyTAP1Jy1nxP8T9EB/M/xV/WDLAf1D8dNUA/t34ga4D+n/ar7gX5L3wHuAfw/+Of1D8of6////AB+s3sNfoAfdEew+KEC12TIAA/v/+6BcxLGy8I+rf6tz8Z7kZqMoIrvwu/eaj3wLf/mVVObzYon1L4ROv/n4YbRRJWgp+eJqbma8Qf2AsWp1xRrpBnpdxPtimhBxPNTOGfnVsa8OrrppePXUxmYr6N0I00CRq+WNQ31f7oV+ceRC/4/szSxSTHDtt+iIP84afCouuqzoOUjv1vm7vnUc+7MxdpH7z8BImEwfG74cXwvLOTc3/2runNTGBpqP85O6hDKbKkZ+7BptCGTaOv/aXvMu+0UnFSJ5tCYO7pqh5DZ6djObmrxdKxr0gEl4esCX/9dZhYuP9q7sv+i3/6iYDH/Fxx9/jx9OceP+P+GI+Y0rP78++Ff1vsX1N/+1B+J05lq5f0xBMHf/kW/uTB/biU3TqkP20LR/GPgAAAA==");
     /*Water*/
     --697d-a156-color: var(--element-water-color);
     --697d-a156-weight: bold;
@@ -172,6 +172,7 @@ div[data-id="bafe-2513"] div.setting-item-description,
 div[data-id="bafe-2513"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/Master/Aegis" i]::before {
     content: var(--bafe-2513-before);
+    padding-right: 3px;
 }
 
 div[data-id="15ba-df82"] div.setting-item-description,
@@ -183,6 +184,7 @@ div[data-id="15ba-df82"] div.setting-item-description,
 div[data-id="15ba-df82"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/Master/Iron" i]::before {
     content: var(--15ba-df82-before);
+    padding-right: 3px;
 }
 
 div[data-id="bc71-e809"] div.setting-item-description,
@@ -194,6 +196,7 @@ div[data-id="bc71-e809"] div.setting-item-description,
 div[data-id="bc71-e809"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/Master/Megalith" i]::before {
     content: var(--bc71-e809-before);
+    padding-right: 3px;
 }
 
 div[data-id="26df-bc88"] div.setting-item-description,
@@ -205,6 +208,7 @@ div[data-id="26df-bc88"] div.setting-item-description,
 div[data-id="26df-bc88"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/Master/Tauros" i]::before {
     content: var(--26df-bc88-before);
+    padding-right: 3px;
 }
 
 div[data-id="c3bb-a07a"] div.setting-item-description,
@@ -216,6 +220,7 @@ div[data-id="c3bb-a07a"] div.setting-item-description,
 div[data-id="c3bb-a07a"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/N" i]::before {
     content: var(--c3bb-a07a-before);
+    padding-right: 3px;
 }
 
 div[data-id="24f8-d702"] div.setting-item-description,
@@ -227,6 +232,7 @@ div[data-id="24f8-d702"] div.setting-item-description,
 div[data-id="24f8-d702"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/R" i]::before {
     content: var(--24f8-d702-before);
+    padding-right: 3px;
 }
 
 div[data-id="e183-fe79"] div.setting-item-description,
@@ -238,6 +244,7 @@ div[data-id="e183-fe79"] div.setting-item-description,
 div[data-id="e183-fe79"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Earth/SR" i]::before {
     content: var(--e183-fe79-before);
+    padding-right: 3px;
 }
 
 /* ===== Water ===== */
@@ -251,6 +258,7 @@ div[data-id="697d-a156"] div.setting-item-description,
 div[data-id="697d-a156"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/Master/Canon" i]::before {
     content: var(--697d-a156-before);
+    padding-right: 3px;
 }
 
 div[data-id="4e5f-9049"] div.setting-item-description,
@@ -262,6 +270,7 @@ div[data-id="4e5f-9049"] div.setting-item-description,
 div[data-id="4e5f-9049"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/Master/Aries" i]::before {
     content: var(--4e5f-9049-before);
+    padding-right: 3px;
 }
 
 div[data-id="d50f-b348"] div.setting-item-description,
@@ -273,6 +282,7 @@ div[data-id="d50f-b348"] div.setting-item-description,
 div[data-id="d50f-b348"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/Master/Orochi" i]::before {
     content: var(--d50f-b348-before);
+    padding-right: 3px;
 }
 
 div[data-id="028c-afa6"] div.setting-item-description,
@@ -284,6 +294,7 @@ div[data-id="028c-afa6"] div.setting-item-description,
 div[data-id="028c-afa6"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/Master/Scepter" i]::before {
     content: var(--028c-afa6-before);
+    padding-right: 3px;
 }
 
 div[data-id="b7d9-7f79"] div.setting-item-description,
@@ -295,6 +306,7 @@ div[data-id="b7d9-7f79"] div.setting-item-description,
 div[data-id="b7d9-7f79"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/SR" i]::before {
     content: var(--b7d9-7f79-before);
+    padding-right: 3px;
 }
 
 div[data-id="a226-4818"] div.setting-item-description,
@@ -306,6 +318,7 @@ div[data-id="a226-4818"] div.setting-item-description,
 div[data-id="a226-4818"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/R" i]::before {
     content: var(--a226-4818-before);
+    padding-right: 3px;
 }
 
 div[data-id="3dd8-ce4a"] div.setting-item-description,
@@ -317,6 +330,7 @@ div[data-id="3dd8-ce4a"] div.setting-item-description,
 div[data-id="3dd8-ce4a"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Water/N" i]::before {
     content: var(--3dd8-ce4a-before);
+    padding-right: 3px;
 }
 
 /* ===== Fire ===== */
@@ -330,6 +344,7 @@ div[data-id="ea29-3484"] div.setting-item-description,
 div[data-id="ea29-3484"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/Master/Brave" i]::before {
     content: var(--ea29-3484-before);
+    padding-right: 3px;
 }
 
 div[data-id="5739-ea4b"] div.setting-item-description,
@@ -341,6 +356,7 @@ div[data-id="5739-ea4b"] div.setting-item-description,
 div[data-id="5739-ea4b"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/Master/Criminal" i]::before {
     content: var(--5739-ea4b-before);
+    padding-right: 3px;
 }
 
 div[data-id="0ade-585b"] div.setting-item-description,
@@ -352,6 +368,7 @@ div[data-id="0ade-585b"] div.setting-item-description,
 div[data-id="0ade-585b"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/Master/Force" i]::before {
     content: var(--0ade-585b-before);
+    padding-right: 3px;
 }
 
 div[data-id="f0fb-1716"] div.setting-item-description,
@@ -363,6 +380,7 @@ div[data-id="f0fb-1716"] div.setting-item-description,
 div[data-id="f0fb-1716"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/Master/Vermillion" i]::before {
     content: var(--f0fb-1716-before);
+    padding-right: 3px;
 }
 
 div[data-id="f8cb-1a0c"] div.setting-item-description,
@@ -374,6 +392,7 @@ div[data-id="f8cb-1a0c"] div.setting-item-description,
 div[data-id="f8cb-1a0c"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/SR" i]::before {
     content: var(--f8cb-1a0c-before);
+    padding-right: 3px;
 }
 
 div[data-id="9f6e-dbfe"] div.setting-item-description,
@@ -385,6 +404,7 @@ div[data-id="9f6e-dbfe"] div.setting-item-description,
 div[data-id="9f6e-dbfe"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/R" i]::before {
     content: var(--9f6e-dbfe-before);
+    padding-right: 3px;
 }
 
 div[data-id="7383-44f2"] div.setting-item-description,
@@ -396,6 +416,7 @@ div[data-id="7383-44f2"] div.setting-item-description,
 div[data-id="7383-44f2"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Fire/N" i]::before {
     content: var(--7383-44f2-before);
+    padding-right: 3px;
 }
 
 /* ===== Wind ===== */
@@ -409,6 +430,7 @@ div[data-id="2a9c-2edf"] div.setting-item-description,
 div[data-id="2a9c-2edf"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/Master/Falco" i]::before {
     content: var(--2a9c-2edf-before);
+    padding-right: 3px;
 }
 
 div[data-id="e3ab-36f6"] div.setting-item-description,
@@ -420,6 +442,7 @@ div[data-id="e3ab-36f6"] div.setting-item-description,
 div[data-id="e3ab-36f6"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/Master/Mistral" i]::before {
     content: var(--e3ab-36f6-before);
+    padding-right: 3px;
 }
 
 div[data-id="cbd8-f0b0"] div.setting-item-description,
@@ -431,6 +454,7 @@ div[data-id="cbd8-f0b0"] div.setting-item-description,
 div[data-id="cbd8-f0b0"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/Master/Thor" i]::before {
     content: var(--cbd8-f0b0-before);
+    padding-right: 3px;
 }
 
 div[data-id="6df9-f6ac"] div.setting-item-description,
@@ -442,6 +466,7 @@ div[data-id="6df9-f6ac"] div.setting-item-description,
 div[data-id="6df9-f6ac"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/Master/Wing" i]::before {
     content: var(--6df9-f6ac-before);
+    padding-right: 3px;
 }
 
 div[data-id="72ce-ffae"] div.setting-item-description,
@@ -453,6 +478,7 @@ div[data-id="72ce-ffae"] div.setting-item-description,
 div[data-id="72ce-ffae"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/SR" i]::before {
     content: var(--72ce-ffae-before);
+    padding-right: 3px;
 }
 
 div[data-id="ebf4-7cd5"] div.setting-item-description,
@@ -464,6 +490,7 @@ div[data-id="ebf4-7cd5"] div.setting-item-description,
 div[data-id="ebf4-7cd5"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/R" i]::before {
     content: var(--ebf4-7cd5-before);
+    padding-right: 3px;
 }
 
 div[data-id="440c-dfce"] div.setting-item-description,
@@ -475,6 +502,7 @@ div[data-id="440c-dfce"] div.setting-item-description,
 div[data-id="440c-dfce"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Wind/N" i]::before {
     content: var(--440c-dfce-before);
+    padding-right: 3px;
 }
 
 div[data-id="7303-e63a"] div.setting-item-description,
@@ -486,6 +514,7 @@ div[data-id="7303-e63a"] div.setting-item-description,
 div[data-id="7303-e63a"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/Master/Cypher" i]::before {
     content: var(--7303-e63a-before);
+    padding-right: 3px;
 }
 
 div[data-id="3873-b20b"] div.setting-item-description,
@@ -497,6 +526,7 @@ div[data-id="3873-b20b"] div.setting-item-description,
 div[data-id="3873-b20b"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/Master/Katze" i]::before {
     content: var(--3873-b20b-before);
+    padding-right: 3px;
 }
 
 div[data-id="483b-63a8"] div.setting-item-description,
@@ -508,6 +538,7 @@ div[data-id="483b-63a8"] div.setting-item-description,
 div[data-id="483b-63a8"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/Master/Murakumo" i]::before {
     content: var(--483b-63a8-before);
+    padding-right: 3px;
 }
 
 div[data-id="64b5-3c53"] div.setting-item-description,
@@ -519,6 +550,7 @@ div[data-id="64b5-3c53"] div.setting-item-description,
 div[data-id="64b5-3c53"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/Master/Raven" i]::before {
     content: var(--64b5-3c53-before);
+    padding-right: 3px;
 }
 
 div[data-id="105b-cb6c"] div.setting-item-description,
@@ -530,6 +562,7 @@ div[data-id="105b-cb6c"] div.setting-item-description,
 div[data-id="105b-cb6c"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/SR" i]::before {
     content: var(--105b-cb6c-before);
+    padding-right: 3px;
 }
 
 div[data-id="db7c-1e67"] div.setting-item-description,
@@ -541,6 +574,7 @@ div[data-id="db7c-1e67"] div.setting-item-description,
 div[data-id="db7c-1e67"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/R" i]::before {
     content: var(--db7c-1e67-before);
+    padding-right: 3px;
 }
 
 div[data-id="4462-24a8"] div.setting-item-description,
@@ -552,6 +586,7 @@ div[data-id="4462-24a8"] div.setting-item-description,
 div[data-id="4462-24a8"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Time/N" i]::before {
     content: var(--4462-24a8-before);
+    padding-right: 3px;
 }
 
 div[data-id="cded-e258"] div.setting-item-description,
@@ -563,6 +598,7 @@ div[data-id="cded-e258"] div.setting-item-description,
 div[data-id="cded-e258"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/Master/Angel" i]::before {
     content: var(--cded-e258-before);
+    padding-right: 3px;
 }
 
 div[data-id="4b00-2a9a"] div.setting-item-description,
@@ -574,6 +610,7 @@ div[data-id="4b00-2a9a"] div.setting-item-description,
 div[data-id="4b00-2a9a"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/Master/Chevalier" i]::before {
     content: var(--4b00-2a9a-before);
+    padding-right: 3px;
 }
 
 div[data-id="72c3-7cc7"] div.setting-item-description,
@@ -585,6 +622,7 @@ div[data-id="72c3-7cc7"] div.setting-item-description,
 div[data-id="72c3-7cc7"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/Master/Emblem" i]::before {
     content: var(--72c3-7cc7-before);
+    padding-right: 3px;
 }
 
 div[data-id="f926-146e"] div.setting-item-description,
@@ -596,6 +634,7 @@ div[data-id="f926-146e"] div.setting-item-description,
 div[data-id="f926-146e"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/Master/Moebius" i]::before {
     content: var(--f926-146e-before);
+    padding-right: 3px;
 }
 
 div[data-id="6e9c-565b"] div.setting-item-description,
@@ -607,6 +646,7 @@ div[data-id="6e9c-565b"] div.setting-item-description,
 div[data-id="6e9c-565b"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/SR" i]::before {
     content: var(--6e9c-565b-before);
+    padding-right: 3px;
 }
 
 div[data-id="acde-3dea"] div.setting-item-description,
@@ -618,6 +658,7 @@ div[data-id="acde-3dea"] div.setting-item-description,
 div[data-id="acde-3dea"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/R" i]::before {
     content: var(--acde-3dea-before);
+    padding-right: 3px;
 }
 
 div[data-id="2e7e-a552"] div.setting-item-description,
@@ -629,6 +670,7 @@ div[data-id="2e7e-a552"] div.setting-item-description,
 div[data-id="2e7e-a552"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Space/N" i]::before {
     content: var(--2e7e-a552-before);
+    padding-right: 3px;
 }
 
 div[data-id="0681-7e9c"] div.setting-item-description,
@@ -640,6 +682,7 @@ div[data-id="0681-7e9c"] div.setting-item-description,
 div[data-id="0681-7e9c"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/Master/Juggler" i]::before {
     content: var(--0681-7e9c-before);
+    padding-right: 3px;
 }
 
 div[data-id="485f-ccde"] div.setting-item-description,
@@ -651,6 +694,7 @@ div[data-id="485f-ccde"] div.setting-item-description,
 div[data-id="485f-ccde"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/Master/Magius" i]::before {
     content: var(--485f-ccde-before);
+    padding-right: 3px;
 }
 
 div[data-id="cdd3-f13d"] div.setting-item-description,
@@ -662,6 +706,7 @@ div[data-id="cdd3-f13d"] div.setting-item-description,
 div[data-id="cdd3-f13d"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/Master/Mirage" i]::before {
     content: var(--cdd3-f13d-before);
+    padding-right: 3px;
 }
 
 div[data-id="8620-962b"] div.setting-item-description,
@@ -673,6 +718,7 @@ div[data-id="8620-962b"] div.setting-item-description,
 div[data-id="8620-962b"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/Master/Pandora" i]::before {
     content: var(--8620-962b-before);
+    padding-right: 3px;
 }
 
 div[data-id="eb46-acf9"] div.setting-item-description,
@@ -684,6 +730,7 @@ div[data-id="eb46-acf9"] div.setting-item-description,
 div[data-id="eb46-acf9"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/SR" i]::before {
     content: var(--eb46-acf9-before);
+    padding-right: 3px;
 }
 
 div[data-id="9483-e6e6"] div.setting-item-description,
@@ -695,6 +742,7 @@ div[data-id="9483-e6e6"] div.setting-item-description,
 div[data-id="9483-e6e6"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/R" i]::before {
     content: var(--9483-e6e6-before);
+    padding-right: 3px;
 }
 
 div[data-id="523d-9af1"] div.setting-item-description,
@@ -706,4 +754,5 @@ div[data-id="523d-9af1"] div.setting-item-description,
 div[data-id="523d-9af1"] div.setting-item-description::before,
 .data-link-icon[data-link-tags*="Quartz/Mirage/N" i]::before {
     content: var(--523d-9af1-before);
+    padding-right: 3px;
 }
