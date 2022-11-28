@@ -1,0 +1,709 @@
+:root {
+    --element-earth-color: #D2691E;
+    --element-water-color: #1E90FF;
+    --element-fire-color: #ae0003;
+    --element-wind-color: #32CD32;
+    --element-time-color: #696969;
+    --element-space-color: #FFD700;
+    --element-mirage-color: #DCDCDC;
+    /*Earth*/
+    --bafe-2513-color: var(--element-earth-color);
+    --bafe-2513-weight: bold;
+    --bafe-2513-before: url("");
+    --15ba-df82-color: var(--element-earth-color);
+    --15ba-df82-weight: bold;
+    --15ba-df82-before: url("");
+    --bc71-e809-color: var(--element-earth-color);
+    --bc71-e809-weight: bold;
+    --bc71-e809-before: url("");
+    --26df-bc88-color: var(--element-earth-color);
+    --26df-bc88-weight: bold;
+    --26df-bc88-before: url("");
+    --c3bb-a07a-color: var(--element-earth-color);
+    --c3bb-a07a-weight: bold;
+    --c3bb-a07a-before: url("");
+    --24f8-d702-color: var(--element-earth-color);
+    --24f8-d702-weight: bold;
+    --24f8-d702-before: url("");
+    --e183-fe79-color: var(--element-earth-color);
+    --e183-fe79-weight: bold;
+    --e183-fe79-before: url("");
+    /*Water*/
+    --697d-a156-color: var(--element-water-color);
+    --697d-a156-weight: bold;
+    --697d-a156-before: url("");
+    --4e5f-9049-color: var(--element-water-color);
+    --4e5f-9049-weight: bold;
+    --4e5f-9049-before: url("");
+    --d50f-b348-color: var(--element-water-color);
+    --d50f-b348-weight: bold;
+    --d50f-b348-before: url("");
+    --028c-afa6-color: var(--element-water-color);
+    --028c-afa6-weight: bold;
+    --028c-afa6-before: url("");
+    --b7d9-7f79-color: var(--element-water-color);
+    --b7d9-7f79-weight: bold;
+    --b7d9-7f79-before: url("");
+    --a226-4818-color: var(--element-water-color);
+    --a226-4818-weight: bold;
+    --a226-4818-before: url("");
+    --3dd8-ce4a-color: var(--element-water-color);
+    --3dd8-ce4a-weight: bold;
+    --3dd8-ce4a-before: url("");
+    /*Fire*/
+    --ea29-3484-color: var(--element-fire-color);
+    --ea29-3484-weight: bold;
+    --ea29-3484-before: url("");
+    --5739-ea4b-color: var(--element-fire-color);
+    --5739-ea4b-weight: bold;
+    --5739-ea4b-before: url("");
+    --0ade-585b-color: var(--element-fire-color);
+    --0ade-585b-weight: bold;
+    --0ade-585b-before: url("");
+    --f0fb-1716-color: var(--element-fire-color);
+    --f0fb-1716-weight: bold;
+    --f0fb-1716-before: url("");
+    --f8cb-1a0c-color: var(--element-fire-color);
+    --f8cb-1a0c-weight: bold;
+    --f8cb-1a0c-before: url("");
+    --9f6e-dbfe-color: var(--element-fire-color);
+    --9f6e-dbfe-weight: bold;
+    --9f6e-dbfe-before: url("");
+    --7383-44f2-color: var(--element-fire-color);
+    --7383-44f2-weight: bold;
+    --7383-44f2-before: url("");
+    /*Wind*/
+    --2a9c-2edf-color: var(--element-wind-color);
+    --2a9c-2edf-weight: bold;
+    --2a9c-2edf-before: url("");
+    --e3ab-36f6-color: var(--element-wind-color);
+    --e3ab-36f6-weight: bold;
+    --e3ab-36f6-before: url("");
+    --cbd8-f0b0-color: var(--element-wind-color);
+    --cbd8-f0b0-weight: bold;
+    --cbd8-f0b0-before: url("");
+    --6df9-f6ac-color: var(--element-wind-color);
+    --6df9-f6ac-weight: bold;
+    --6df9-f6ac-before: url("");
+    --72ce-ffae-color: var(--element-wind-color);
+    --72ce-ffae-weight: bold;
+    --72ce-ffae-before: url("");
+    --ebf4-7cd5-color: var(--element-wind-color);
+    --ebf4-7cd5-weight: bold;
+    --ebf4-7cd5-before: url("");
+    --440c-dfce-color: var(--element-wind-color);
+    --440c-dfce-weight: bold;
+    --440c-dfce-before: url("");
+    /*Time*/
+    --7303-e63a-color: var(--element-time-color);
+    --7303-e63a-weight: bold;
+    --7303-e63a-before: url("");
+    --3873-b20b-color: var(--element-time-color);
+    --3873-b20b-weight: bold;
+    --3873-b20b-before: url("");
+    --483b-63a8-color: var(--element-time-color);
+    --483b-63a8-weight: bold;
+    --483b-63a8-before: url("");
+    --64b5-3c53-color: var(--element-time-color);
+    --64b5-3c53-weight: bold;
+    --64b5-3c53-before: url("");
+    --105b-cb6c-color: var(--element-time-color);
+    --105b-cb6c-weight: bold;
+    --105b-cb6c-before: url("");
+    --db7c-1e67-color: var(--element-time-color);
+    --db7c-1e67-weight: bold;
+    --db7c-1e67-before: url("");
+    --4462-24a8-color: var(--element-time-color);
+    --4462-24a8-weight: bold;
+    --4462-24a8-before: url("");
+    /*Space*/
+    --cded-e258-color: var(--element-space-color);
+    --cded-e258-weight: bold;
+    --cded-e258-before: url("");
+    --4b00-2a9a-color: var(--element-space-color);
+    --4b00-2a9a-weight: bold;
+    --4b00-2a9a-before: url("");
+    --72c3-7cc7-color: var(--element-space-color);
+    --72c3-7cc7-weight: bold;
+    --72c3-7cc7-before: url("");
+    --f926-146e-color: var(--element-space-color);
+    --f926-146e-weight: bold;
+    --f926-146e-before: url("");
+    --6e9c-565b-color: var(--element-space-color);
+    --6e9c-565b-weight: bold;
+    --6e9c-565b-before: url("");
+    --acde-3dea-color: var(--element-space-color);
+    --acde-3dea-weight: bold;
+    --acde-3dea-before: url("");
+    --2e7e-a552-color: var(--element-space-color);
+    --2e7e-a552-weight: bold;
+    --2e7e-a552-before: url("");
+    /*Mirage*/
+    --0681-7e9c-color: var(--element-mirage-color);
+    --0681-7e9c-weight: bold;
+    --0681-7e9c-before: url("");
+    --485f-ccde-color: var(--element-mirage-color);
+    --485f-ccde-weight: bold;
+    --485f-ccde-before: url("");
+    --cdd3-f13d-color: var(--element-mirage-color);
+    --cdd3-f13d-weight: bold;
+    --cdd3-f13d-before: url("");
+    --8620-962b-color: var(--element-mirage-color);
+    --8620-962b-weight: bold;
+    --8620-962b-before: url("");
+    --eb46-acf9-color: var(--element-mirage-color);
+    --eb46-acf9-weight: bold;
+    --eb46-acf9-before: url("");
+    --9483-e6e6-color: var(--element-mirage-color);
+    --9483-e6e6-weight: bold;
+    --9483-e6e6-before: url("");
+    --523d-9af1-color: var(--element-mirage-color);
+    --523d-9af1-weight: bold;
+    --523d-9af1-before: url("");
+}
+
+/* ===== Earth ===== */
+div[data-id="bafe-2513"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/Master/Aegis" i] {
+    color: var(--bafe-2513-color) !important;
+    font-weight: var(--bafe-2513-weight);
+}
+
+div[data-id="bafe-2513"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/Master/Aegis" i]::before {
+    content: var(--bafe-2513-before);
+}
+
+div[data-id="15ba-df82"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/Master/Iron" i] {
+    color: var(--15ba-df82-color) !important;
+    font-weight: var(--15ba-df82-weight);
+}
+
+div[data-id="15ba-df82"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/Master/Iron" i]::before {
+    content: var(--15ba-df82-before);
+}
+
+div[data-id="bc71-e809"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/Master/Megalith" i] {
+    color: var(--bc71-e809-color) !important;
+    font-weight: var(--bc71-e809-weight);
+}
+
+div[data-id="bc71-e809"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/Master/Megalith" i]::before {
+    content: var(--bc71-e809-before);
+}
+
+div[data-id="26df-bc88"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/Master/Tauros" i] {
+    color: var(--26df-bc88-color) !important;
+    font-weight: var(--26df-bc88-weight);
+}
+
+div[data-id="26df-bc88"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/Master/Tauros" i]::before {
+    content: var(--26df-bc88-before);
+}
+
+div[data-id="c3bb-a07a"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/N" i] {
+    color: var(--c3bb-a07a-color) !important;
+    font-weight: var(--c3bb-a07a-weight);
+}
+
+div[data-id="c3bb-a07a"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/N" i]::before {
+    content: var(--c3bb-a07a-before);
+}
+
+div[data-id="24f8-d702"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/R" i] {
+    color: var(--24f8-d702-color) !important;
+    font-weight: var(--24f8-d702-weight);
+}
+
+div[data-id="24f8-d702"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/R" i]::before {
+    content: var(--24f8-d702-before);
+}
+
+div[data-id="e183-fe79"] div.setting-item-description,
+[data-link-tags*="Quartz/Earth/SR" i] {
+    color: var(--e183-fe79-color) !important;
+    font-weight: var(--e183-fe79-weight);
+}
+
+div[data-id="e183-fe79"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Earth/SR" i]::before {
+    content: var(--e183-fe79-before);
+}
+
+/* ===== Water ===== */
+
+div[data-id="697d-a156"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/Master/Canon" i] {
+    color: var(--697d-a156-color) !important;
+    font-weight: var(--697d-a156-weight);
+}
+
+div[data-id="697d-a156"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/Master/Canon" i]::before {
+    content: var(--697d-a156-before);
+}
+
+div[data-id="4e5f-9049"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/Master/Aries" i] {
+    color: var(--4e5f-9049-color) !important;
+    font-weight: var(--4e5f-9049-weight);
+}
+
+div[data-id="4e5f-9049"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/Master/Aries" i]::before {
+    content: var(--4e5f-9049-before);
+}
+
+div[data-id="d50f-b348"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/Master/Orochi" i] {
+    color: var(--d50f-b348-color) !important;
+    font-weight: var(--d50f-b348-weight);
+}
+
+div[data-id="d50f-b348"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/Master/Orochi" i]::before {
+    content: var(--d50f-b348-before);
+}
+
+div[data-id="028c-afa6"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/Master/Scepter" i] {
+    color: var(--028c-afa6-color) !important;
+    font-weight: var(--028c-afa6-weight);
+}
+
+div[data-id="028c-afa6"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/Master/Scepter" i]::before {
+    content: var(--028c-afa6-before);
+}
+
+div[data-id="b7d9-7f79"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/SR" i] {
+    color: var(--b7d9-7f79-color) !important;
+    font-weight: var(--b7d9-7f79-weight);
+}
+
+div[data-id="b7d9-7f79"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/SR" i]::before {
+    content: var(--b7d9-7f79-before);
+}
+
+div[data-id="a226-4818"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/R" i] {
+    color: var(--a226-4818-color) !important;
+    font-weight: var(--a226-4818-weight);
+}
+
+div[data-id="a226-4818"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/R" i]::before {
+    content: var(--a226-4818-before);
+}
+
+div[data-id="3dd8-ce4a"] div.setting-item-description,
+[data-link-tags*="Quartz/Water/N" i] {
+    color: var(--3dd8-ce4a-color) !important;
+    font-weight: var(--3dd8-ce4a-weight);
+}
+
+div[data-id="3dd8-ce4a"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Water/N" i]::before {
+    content: var(--3dd8-ce4a-before);
+}
+
+/* ===== Fire ===== */
+
+div[data-id="ea29-3484"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/Master/Brave" i] {
+    color: var(--ea29-3484-color) !important;
+    font-weight: var(--ea29-3484-weight);
+}
+
+div[data-id="ea29-3484"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/Master/Brave" i]::before {
+    content: var(--ea29-3484-before);
+}
+
+div[data-id="5739-ea4b"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/Master/Criminal" i] {
+    color: var(--5739-ea4b-color) !important;
+    font-weight: var(--5739-ea4b-weight);
+}
+
+div[data-id="5739-ea4b"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/Master/Criminal" i]::before {
+    content: var(--5739-ea4b-before);
+}
+
+div[data-id="0ade-585b"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/Master/Force" i] {
+    color: var(--0ade-585b-color) !important;
+    font-weight: var(--0ade-585b-weight);
+}
+
+div[data-id="0ade-585b"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/Master/Force" i]::before {
+    content: var(--0ade-585b-before);
+}
+
+div[data-id="f0fb-1716"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/Master/Vermillion" i] {
+    color: var(--f0fb-1716-color) !important;
+    font-weight: var(--f0fb-1716-weight);
+}
+
+div[data-id="f0fb-1716"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/Master/Vermillion" i]::before {
+    content: var(--f0fb-1716-before);
+}
+
+div[data-id="f8cb-1a0c"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/SR" i] {
+    color: var(--f8cb-1a0c-color) !important;
+    font-weight: var(--f8cb-1a0c-weight);
+}
+
+div[data-id="f8cb-1a0c"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/SR" i]::before {
+    content: var(--f8cb-1a0c-before);
+}
+
+div[data-id="9f6e-dbfe"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/R" i] {
+    color: var(--9f6e-dbfe-color) !important;
+    font-weight: var(--9f6e-dbfe-weight);
+}
+
+div[data-id="9f6e-dbfe"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/R" i]::before {
+    content: var(--9f6e-dbfe-before);
+}
+
+div[data-id="7383-44f2"] div.setting-item-description,
+[data-link-tags*="Quartz/Fire/N" i] {
+    color: var(--7383-44f2-color) !important;
+    font-weight: var(--7383-44f2-weight);
+}
+
+div[data-id="7383-44f2"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Fire/N" i]::before {
+    content: var(--7383-44f2-before);
+}
+
+/* ===== Wind ===== */
+
+div[data-id="2a9c-2edf"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/Master/Falco" i] {
+    color: var(--2a9c-2edf-color) !important;
+    font-weight: var(--2a9c-2edf-weight);
+}
+
+div[data-id="2a9c-2edf"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/Master/Falco" i]::before {
+    content: var(--2a9c-2edf-before);
+}
+
+div[data-id="e3ab-36f6"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/Master/Mistral" i] {
+    color: var(--e3ab-36f6-color) !important;
+    font-weight: var(--e3ab-36f6-weight);
+}
+
+div[data-id="e3ab-36f6"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/Master/Mistral" i]::before {
+    content: var(--e3ab-36f6-before);
+}
+
+div[data-id="cbd8-f0b0"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/Master/Thor" i] {
+    color: var(--cbd8-f0b0-color) !important;
+    font-weight: var(--cbd8-f0b0-weight);
+}
+
+div[data-id="cbd8-f0b0"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/Master/Thor" i]::before {
+    content: var(--cbd8-f0b0-before);
+}
+
+div[data-id="6df9-f6ac"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/Master/Wing" i] {
+    color: var(--6df9-f6ac-color) !important;
+    font-weight: var(--6df9-f6ac-weight);
+}
+
+div[data-id="6df9-f6ac"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/Master/Wing" i]::before {
+    content: var(--6df9-f6ac-before);
+}
+
+div[data-id="72ce-ffae"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/SR" i] {
+    color: var(--72ce-ffae-color) !important;
+    font-weight: var(--72ce-ffae-weight);
+}
+
+div[data-id="72ce-ffae"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/SR" i]::before {
+    content: var(--72ce-ffae-before);
+}
+
+div[data-id="ebf4-7cd5"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/R" i] {
+    color: var(--ebf4-7cd5-color) !important;
+    font-weight: var(--ebf4-7cd5-weight);
+}
+
+div[data-id="ebf4-7cd5"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/R" i]::before {
+    content: var(--ebf4-7cd5-before);
+}
+
+div[data-id="440c-dfce"] div.setting-item-description,
+[data-link-tags*="Quartz/Wind/N" i] {
+    color: var(--440c-dfce-color) !important;
+    font-weight: var(--440c-dfce-weight);
+}
+
+div[data-id="440c-dfce"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Wind/N" i]::before {
+    content: var(--440c-dfce-before);
+}
+
+div[data-id="7303-e63a"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/Master/Cypher" i] {
+    color: var(--7303-e63a-color) !important;
+    font-weight: var(--7303-e63a-weight);
+}
+
+div[data-id="7303-e63a"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/Master/Cypher" i]::before {
+    content: var(--7303-e63a-before);
+}
+
+div[data-id="3873-b20b"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/Master/Katze" i] {
+    color: var(--3873-b20b-color) !important;
+    font-weight: var(--3873-b20b-weight);
+}
+
+div[data-id="3873-b20b"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/Master/Katze" i]::before {
+    content: var(--3873-b20b-before);
+}
+
+div[data-id="483b-63a8"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/Master/Murakumo" i] {
+    color: var(--483b-63a8-color) !important;
+    font-weight: var(--483b-63a8-weight);
+}
+
+div[data-id="483b-63a8"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/Master/Murakumo" i]::before {
+    content: var(--483b-63a8-before);
+}
+
+div[data-id="64b5-3c53"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/Master/Raven" i] {
+    color: var(--64b5-3c53-color) !important;
+    font-weight: var(--64b5-3c53-weight);
+}
+
+div[data-id="64b5-3c53"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/Master/Raven" i]::before {
+    content: var(--64b5-3c53-before);
+}
+
+div[data-id="105b-cb6c"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/SR" i] {
+    color: var(--105b-cb6c-color) !important;
+    font-weight: var(--105b-cb6c-weight);
+}
+
+div[data-id="105b-cb6c"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/SR" i]::before {
+    content: var(--105b-cb6c-before);
+}
+
+div[data-id="db7c-1e67"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/R" i] {
+    color: var(--db7c-1e67-color) !important;
+    font-weight: var(--db7c-1e67-weight);
+}
+
+div[data-id="db7c-1e67"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/R" i]::before {
+    content: var(--db7c-1e67-before);
+}
+
+div[data-id="4462-24a8"] div.setting-item-description,
+[data-link-tags*="Quartz/Time/N" i] {
+    color: var(--4462-24a8-color) !important;
+    font-weight: var(--4462-24a8-weight);
+}
+
+div[data-id="4462-24a8"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Time/N" i]::before {
+    content: var(--4462-24a8-before);
+}
+
+div[data-id="cded-e258"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/Master/Angel" i] {
+    color: var(--cded-e258-color) !important;
+    font-weight: var(--cded-e258-weight);
+}
+
+div[data-id="cded-e258"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/Master/Angel" i]::before {
+    content: var(--cded-e258-before);
+}
+
+div[data-id="4b00-2a9a"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/Master/Chevalier" i] {
+    color: var(--4b00-2a9a-color) !important;
+    font-weight: var(--4b00-2a9a-weight);
+}
+
+div[data-id="4b00-2a9a"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/Master/Chevalier" i]::before {
+    content: var(--4b00-2a9a-before);
+}
+
+div[data-id="72c3-7cc7"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/Master/Emblem" i] {
+    color: var(--72c3-7cc7-color) !important;
+    font-weight: var(--72c3-7cc7-weight);
+}
+
+div[data-id="72c3-7cc7"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/Master/Emblem" i]::before {
+    content: var(--72c3-7cc7-before);
+}
+
+div[data-id="f926-146e"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/Master/Moebius" i] {
+    color: var(--f926-146e-color) !important;
+    font-weight: var(--f926-146e-weight);
+}
+
+div[data-id="f926-146e"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/Master/Moebius" i]::before {
+    content: var(--f926-146e-before);
+}
+
+div[data-id="6e9c-565b"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/SR" i] {
+    color: var(--6e9c-565b-color) !important;
+    font-weight: var(--6e9c-565b-weight);
+}
+
+div[data-id="6e9c-565b"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/SR" i]::before {
+    content: var(--6e9c-565b-before);
+}
+
+div[data-id="acde-3dea"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/R" i] {
+    color: var(--acde-3dea-color) !important;
+    font-weight: var(--acde-3dea-weight);
+}
+
+div[data-id="acde-3dea"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/R" i]::before {
+    content: var(--acde-3dea-before);
+}
+
+div[data-id="2e7e-a552"] div.setting-item-description,
+[data-link-tags*="Quartz/Space/N" i] {
+    color: var(--2e7e-a552-color) !important;
+    font-weight: var(--2e7e-a552-weight);
+}
+
+div[data-id="2e7e-a552"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Space/N" i]::before {
+    content: var(--2e7e-a552-before);
+}
+
+div[data-id="0681-7e9c"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/Master/Juggler" i] {
+    color: var(--0681-7e9c-color) !important;
+    font-weight: var(--0681-7e9c-weight);
+}
+
+div[data-id="0681-7e9c"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/Master/Juggler" i]::before {
+    content: var(--0681-7e9c-before);
+}
+
+div[data-id="485f-ccde"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/Master/Magius" i] {
+    color: var(--485f-ccde-color) !important;
+    font-weight: var(--485f-ccde-weight);
+}
+
+div[data-id="485f-ccde"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/Master/Magius" i]::before {
+    content: var(--485f-ccde-before);
+}
+
+div[data-id="cdd3-f13d"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/Master/Mirage" i] {
+    color: var(--cdd3-f13d-color) !important;
+    font-weight: var(--cdd3-f13d-weight);
+}
+
+div[data-id="cdd3-f13d"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/Master/Mirage" i]::before {
+    content: var(--cdd3-f13d-before);
+}
+
+div[data-id="8620-962b"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/Master/Pandora" i] {
+    color: var(--8620-962b-color) !important;
+    font-weight: var(--8620-962b-weight);
+}
+
+div[data-id="8620-962b"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/Master/Pandora" i]::before {
+    content: var(--8620-962b-before);
+}
+
+div[data-id="eb46-acf9"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/SR" i] {
+    color: var(--eb46-acf9-color) !important;
+    font-weight: var(--eb46-acf9-weight);
+}
+
+div[data-id="eb46-acf9"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/SR" i]::before {
+    content: var(--eb46-acf9-before);
+}
+
+div[data-id="9483-e6e6"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/R" i] {
+    color: var(--9483-e6e6-color) !important;
+    font-weight: var(--9483-e6e6-weight);
+}
+
+div[data-id="9483-e6e6"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/R" i]::before {
+    content: var(--9483-e6e6-before);
+}
+
+div[data-id="523d-9af1"] div.setting-item-description,
+[data-link-tags*="Quartz/Mirage/N" i] {
+    color: var(--523d-9af1-color) !important;
+    font-weight: var(--523d-9af1-weight);
+}
+
+div[data-id="523d-9af1"] div.setting-item-description::before,
+.data-link-icon[data-link-tags*="Quartz/Mirage/N" i]::before {
+    content: var(--523d-9af1-before);
+}
