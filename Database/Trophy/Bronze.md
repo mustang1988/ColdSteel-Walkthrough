@@ -1,0 +1,4 @@
+---
+ID: "Trophy.Bronze"
+Trophies:
+---

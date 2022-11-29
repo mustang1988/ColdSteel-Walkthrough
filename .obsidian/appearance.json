@@ -6,7 +6,8 @@
     "Element",
     "Quartz",
     "MasterQuartz",
-    "Item"
+    "Item",
+    "Trophy"
   ],
   "cssTheme": "Minimal"
 }

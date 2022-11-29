@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58218ceaf9349aef",
+        "id": "62f00f9b7911269e",
         "type": "tabs",
         "children": [
           {
-            "id": "bf29ca1a20636409",
+            "id": "0e428e4f0c17e39b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Demo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Demo.md"
+              }
             }
           }
         ],
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf29ca1a20636409",
+  "active": "0e428e4f0c17e39b",
   "lastOpenFiles": [
-    "Database/Item/Book.md",
     "Database/Item/Earth Sepith.md",
+    "Demo.md",
+    "index.md",
+    "Database/Trophy/Silver.md",
+    "Database/Trophy/Platinum.md",
+    "Database/Trophy/Gold.md",
+    "Database/Trophy/Bronze.md",
+    "Database/Item/Book.md",
     "Database/Item/Food Ingredient.md",
-    "Database/Item/Regular Food.md",
-    "Database/Item/Peculiar Food.md",
-    "Database/Item/Attack Food.md",
-    "Database/Item/Wind Sepith.md",
-    "Database/Item/Water Sepith.md",
-    "Database/Item/U-Material.md",
-    "Database/Item/Time Sepith.md"
+    "Database/Item/Regular Food.md"
   ]
 }
