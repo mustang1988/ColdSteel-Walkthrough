@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a048790f066ea3",
+        "id": "43ccfff771e0e9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "919843f320fc370b",
+            "id": "d79533ac40bda3c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Quartz/Wind",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Database/Quartz/Pandora.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Database/Quartz/Pandora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Database/Quartz/Pandora.md"
               }
             }
           }
@@ -134,19 +130,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "919843f320fc370b",
+  "active": "e9a920dda4cc7f1e",
   "lastOpenFiles": [
-    "Database/Quartz/Mirage/Master/Magius.md",
-    "test.md",
-    "Database/Quartz/Mirage/R.md",
-    "Database/Quartz/Fire/SR.md",
-    "Database/Quartz/Water/Master/Canon.md",
-    "Database/Quartz/Wind/Master/Falco.md",
-    "index.md",
-    "Database/Quartz/Mirage/Master/Juggler.md",
-    "Database/Quartz/Mirage/Master/Pandora.md",
-    "Database/Quartz/Mirage/Master/Mirage.md"
+    "Database/Quartz/Mirage.md",
+    "Database/Quartz/Magius.md",
+    "Database/Quartz/Pandora.md",
+    "Database/Quartz/Juggler.md",
+    "Database/Quartz/Moebius.md",
+    "Database/Quartz/Emblem.md",
+    "Database/Quartz/Chevalier.md",
+    "Database/Quartz/Angel.md",
+    "Database/Quartz/Raven.md",
+    "Database/Quartz/Murakumo.md"
   ]
 }

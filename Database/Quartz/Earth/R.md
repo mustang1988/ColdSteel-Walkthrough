@@ -1,5 +1,0 @@
----
-Quartzs:
----
-
-#Quartz/Earth/R

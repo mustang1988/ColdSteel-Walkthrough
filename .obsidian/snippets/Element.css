@@ -1,0 +1,58 @@
+:root {
+    --Earth-color: 	#D2691E;
+    --Earth-weight: bold;
+    --Water-color: 	#00BFFF;
+    --Water-weight: bold;
+    --Fire-color: #FF0000;
+    --Fire-weight: bold;
+    --Wind-color: 	#00FF00;
+    --Wind-weight: bold;
+    --Time-color: 	#696969;
+    --Time-weight: bold;
+    --Space-color: 	#FFD700;
+    --Space-weight: bold;
+    --Mirage-color: #D3D3D3;
+    --Mirage-weight: bold;
+}
+
+div[data-id="Earth"] div.setting-item-description,
+[data-link-Element="Earth" ] {
+    color: var(--Earth-color) !important;
+    font-weight: var(--Earth-weight);
+}
+
+div[data-id="Water"] div.setting-item-description,
+[data-link-Element="Water" ] {
+    color: var(--Water-color) !important;
+    font-weight: var(--Water-weight);
+}
+
+div[data-id="Fire"] div.setting-item-description,
+[data-link-Element="Fire" ] {
+    color: var(--Fire-color) !important;
+    font-weight: var(--Fire-weight);
+}
+
+div[data-id="Wind"] div.setting-item-description,
+[data-link-Element="Wind" ] {
+    color: var(--Wind-color) !important;
+    font-weight: var(--Wind-weight);
+}
+
+div[data-id="Time"] div.setting-item-description,
+[data-link-Element="Time" ] {
+    color: var(--Time-color) !important;
+    font-weight: var(--Time-weight);
+}
+
+div[data-id="Space"] div.setting-item-description,
+[data-link-Element="Space" ] {
+    color: var(--Space-color) !important;
+    font-weight: var(--Space-weight);
+}
+
+div[data-id="Mirage"] div.setting-item-description,
+[data-link-Element="Mirage" ] {
+    color: var(--Mirage-color) !important;
+    font-weight: var(--Mirage-weight);
+}

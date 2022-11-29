@@ -1,4 +1,0 @@
----
----
-
-#Quartz/Wind/SR

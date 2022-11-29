@@ -1,4 +1,0 @@
----
----
-
-#Quartz/Fire/SR

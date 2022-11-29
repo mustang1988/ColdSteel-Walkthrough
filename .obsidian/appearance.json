@@ -3,6 +3,9 @@
   "baseFontSize": 15,
   "enabledCssSnippets": [
     "ColdSteel",
-    "ColdSteel-Quartz"
-  ]
+    "Element",
+    "Quartz",
+    "MasterQuartz"
+  ],
+  "cssTheme": "Minimal"
 }

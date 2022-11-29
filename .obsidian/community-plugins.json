@@ -1,9 +1,9 @@
 [
-  "obsidian-admonition",
-  "dataview",
-  "obsidian-style-settings",
   "supercharged-links-obsidian",
+  "dataview",
+  "obsidian-admonition",
   "obsidian-banners",
-  "tag-wrangler",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-style-settings",
+  "tag-wrangler"
 ]
