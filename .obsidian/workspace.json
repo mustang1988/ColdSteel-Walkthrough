@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43ccfff771e0e9b6",
+        "id": "58218ceaf9349aef",
         "type": "tabs",
         "children": [
           {
-            "id": "d79533ac40bda3c7",
+            "id": "bf29ca1a20636409",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Pandora.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Pandora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Quartz/Pandora.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -133,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "bf29ca1a20636409",
   "lastOpenFiles": [
-    "Database/Quartz/Mirage.md",
-    "Database/Quartz/Magius.md",
-    "Database/Quartz/Pandora.md",
-    "Database/Quartz/Juggler.md",
-    "Database/Quartz/Moebius.md",
-    "Database/Quartz/Emblem.md",
-    "Database/Quartz/Chevalier.md",
-    "Database/Quartz/Angel.md",
-    "Database/Quartz/Raven.md",
-    "Database/Quartz/Murakumo.md"
+    "Database/Item/Book.md",
+    "Database/Item/Earth Sepith.md",
+    "Database/Item/Food Ingredient.md",
+    "Database/Item/Regular Food.md",
+    "Database/Item/Peculiar Food.md",
+    "Database/Item/Attack Food.md",
+    "Database/Item/Wind Sepith.md",
+    "Database/Item/Water Sepith.md",
+    "Database/Item/U-Material.md",
+    "Database/Item/Time Sepith.md"
   ]
 }

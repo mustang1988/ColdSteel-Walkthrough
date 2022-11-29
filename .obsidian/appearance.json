@@ -5,7 +5,8 @@
     "ColdSteel",
     "Element",
     "Quartz",
-    "MasterQuartz"
+    "MasterQuartz",
+    "Item"
   ],
   "cssTheme": "Minimal"
 }

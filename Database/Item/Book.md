@@ -1,4 +1,5 @@
 ---
+ID: "Item.Book"
 books:
 ---
 
