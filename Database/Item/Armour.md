@@ -1,0 +1,4 @@
+---
+ID: "Item.Armour"
+Armours:
+---
