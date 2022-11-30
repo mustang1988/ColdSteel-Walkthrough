@@ -74,12 +74,20 @@
 
 # Art
 - [[Earth|地]]
+	- [[Earth#^yan-shi-zhi-ci|岩石之刺]]
+	- [[Earth#^da-di-zhi-qiang|大地之枪]]
 - [[Water|水]]
+	- [[Water#^gao-ya-shui-kuai|高压水块]]
 - [[Fire|火]]
+	- [[Fire#^huo-yan-zhi-she|火焰之舌]]
 - [[Wind|风]]
+	- [[Wind#^sheng-ming-zhi-xi|生命之息]]
 - [[Time|时]]
+	- [[Time#^shi-jian-qu-dong|时间驱动]]
 - [[Space|空]]
+	- [[Space#^mo-dao-zhu-fu|魔导祝福]]
 - [[Database/Art/Mirage|幻]]
+	- [[Database/Art/Mirage#^xing-guang-zhi-jian|星光之剑]]
 
 # Enemy
 - [[Monster|怪物]]
