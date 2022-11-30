@@ -82,22 +82,22 @@
 - [[Database/Art/Mirage|幻]]
 
 # Enemy
-- [[Monster]]
-- [[Boss]]
+- [[Monster|怪物]]
+- [[Boss|Boss]]
 
 # Quest
-- [[Main Quest]]
-- [[Side Quest]]
+- [[Main Quest|主线任务]]
+- [[Side Quest|支线任务]]
 
 # Recipe
-- [[Recipe]]
+- [[Recipe|食谱]]
 
 # Treasure Chest
-- [[Treasure Chest]]
-- [[Monster Treasure Chest]]
+- [[Treasure Chest|宝箱]]
+- [[Monster Treasure Chest|怪物宝箱]]
 
 # Trophy
-- [[Platinum]]
-- [[Gold]]
-- [[Silver]]
-- [[Bronze]]
+- [[Platinum|白金奖杯]]
+- [[Gold|黄金奖杯]]
+- [[Silver|白银奖杯]]
+- [[Bronze|青铜奖杯]]
