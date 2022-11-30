@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Demo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -138,6 +138,8 @@
   },
   "active": "a5394b39a97891a5",
   "lastOpenFiles": [
+    "Database/Quartz/Earth N.md",
+    "Demo.md",
     "Database/Art/Mirage.md",
     "Database/Art/Space.md",
     "Database/Art/Time.md",
@@ -145,8 +147,6 @@
     "Database/Art/Wind.md",
     "Database/Art/Earth.md",
     "Database/Art/Fire.md",
-    "Demo.md",
-    "Index.md",
-    "Database/Trophy/Bronze.md"
+    "Index.md"
   ]
 }

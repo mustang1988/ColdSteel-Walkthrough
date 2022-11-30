@@ -6,6 +6,7 @@
 - [[Earth SR|SR]]
 - [[Earth R|R]]
 - [[Earth N|N]]
+	- [[Earth N#^yan-shi-zhi-ci|岩石之刺]]
 - [[Canon|法则]]
 - [[Aries|白羊]]
 - [[Orochi|大蛇]]
