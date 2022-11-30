@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "399a4dc8c9401e04",
+        "id": "cf09c9803bff4982",
         "type": "tabs",
         "children": [
           {
-            "id": "41f7fe9e2d4eed58",
+            "id": "0242bea42200360a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Item/Earth Sepith.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Item/Earth Sepith.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Item/Earth Sepith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Item/Earth Sepith.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "0242bea42200360a",
   "lastOpenFiles": [
-    "Database/Quartz/Earth N.md",
-    "Database/Enemy/Monster.md",
-    "Database/Enemy/Boss.md",
-    "Database/Item/Boot.md",
-    "Database/Item/Armour.md",
+    "Database/Item/Food Ingredient.md",
+    "Database/Item/Key.md",
     "Database/Item/Accessory.md",
-    "Database/Fish/Fish.md",
-    "Database/Quartz/Mirage.md",
-    "Demo.md",
-    "Database/Art/Mirage.md"
+    "Database/Enemy/Monster.md",
+    "Database/Treasure Chest/Monster Treasure Chest.md",
+    "Database/Treasure Chest/Treasure Chest.md",
+    "Database/Art/Wind.md",
+    "Database/Art/Water.md",
+    "Database/Art/Time.md",
+    "Database/Art/Space.md"
   ]
 }

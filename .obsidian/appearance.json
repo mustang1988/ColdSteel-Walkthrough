@@ -2,13 +2,7 @@
   "accentColor": "",
   "baseFontSize": 15,
   "enabledCssSnippets": [
-    "ColdSteel",
-    "Element",
-    "Quartz",
-    "MasterQuartz",
-    "Item",
-    "Trophy",
-    "Art"
+    "ColdSteel"
   ],
   "cssTheme": "Minimal"
 }
