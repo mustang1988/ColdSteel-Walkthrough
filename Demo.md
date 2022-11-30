@@ -97,7 +97,7 @@
 - [[Monster Treasure Chest|怪物宝箱]]
 
 # Trophy
-- [[Platinum|白金奖杯]]
-- [[Gold|黄金奖杯]]
+- [[Platinum#^THE-LEGEND-OF-HEROES|THE LEGEND OF HEROES]]
+- [[Gold#^jia-ling-ji-xue-sheng|甲零級學生]]
 - [[Silver|白银奖杯]]
 - [[Bronze|青铜奖杯]]
