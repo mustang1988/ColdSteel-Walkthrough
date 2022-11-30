@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6215f42d7d5917e",
+        "id": "db11855d9d3a221e",
         "type": "tabs",
         "children": [
           {
-            "id": "f16e1f80a202d28b",
+            "id": "7423c629d86e9a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Demo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Demo.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f16e1f80a202d28b",
+  "active": "7423c629d86e9a47",
   "lastOpenFiles": [
+    "Index.md",
     "Walkthrough/Chapter 7.md",
     "Walkthrough/Chapter 6.md",
     "Walkthrough/Chapter 5.md",
@@ -146,7 +147,6 @@
     "Walkthrough/Chapter 2.md",
     "Walkthrough/Chapter 1.md",
     "Walkthrough/Chapter 0.md",
-    "Index.md",
     "Database/Item/Earth Sepith.md"
   ]
 }

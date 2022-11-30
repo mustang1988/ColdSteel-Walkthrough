@@ -50,21 +50,54 @@
 - [[Mirage N|N]]
 
 # Item
-[[Earth Sepith|x1]]
-[[Water Sepith|x2]]
-[[Fire Sepith|x3]]
-[[Wind Sepith|x4]]
-[[Time Sepith|x5]]
-[[Space Sepith|x6]]
-[[Mirage Sepith|x7]]
-[[Mass Sepith|x10]]
-[[Earth Sepith| ]][[Water Sepith| ]][[Fire Sepith| ]][[Wind Sepith| ]][[Time Sepith| ]][[Space Sepith| ]][[Mirage Sepith| ]]
-[[Food Ingredient|食材]]
-[[Regular Food|普通料理]]
-[[Peculiar Food|古怪料理]]
-[[Attack Food|攻击料理]]
-[[Superb Food|极品料理]]
-[[Unique Food|独门料理]]
-[[Book|书]]
-[[U-Material|U物质]]
-[[Potion|消耗品]]
+- [[Earth Sepith|x1]]
+- [[Water Sepith|x2]]
+- [[Fire Sepith|x3]]
+- [[Wind Sepith|x4]]
+- [[Time Sepith|x5]]
+- [[Space Sepith|x6]]
+- [[Mirage Sepith|x7]]
+- [[Mass Sepith|x10]]
+- [[Earth Sepith| ]][[Water Sepith| ]][[Fire Sepith| ]][[Wind Sepith| ]][[Time Sepith| ]][[Space Sepith| ]][[Mirage Sepith| ]]
+- [[Food Ingredient|食材]]
+- [[Regular Food|普通料理]]
+- [[Peculiar Food|古怪料理]]
+- [[Attack Food|攻击料理]]
+- [[Superb Food|极品料理]]
+- [[Unique Food|独门料理]]
+- [[Book|书]]
+- [[U-Material|U物质]]
+- [[Potion|消耗品]]
+- [[Armour|护甲]]
+- [[Boot|护腿]]
+- [[Accessory|饰品]]
+
+# Art
+- [[Earth|地]]
+- [[Water|水]]
+- [[Fire|火]]
+- [[Wind|风]]
+- [[Time|时]]
+- [[Space|空]]
+- [[Database/Art/Mirage|幻]]
+
+# Enemy
+- [[Monster]]
+- [[Boss]]
+
+# Quest
+- [[Main Quest]]
+- [[Side Quest]]
+
+# Recipe
+- [[Recipe]]
+
+# Treasure Chest
+- [[Treasure Chest]]
+- [[Monster Treasure Chest]]
+
+# Trophy
+- [[Platinum]]
+- [[Gold]]
+- [[Silver]]
+- [[Bronze]]
