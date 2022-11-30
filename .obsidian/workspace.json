@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d18151f98ae20d9",
+        "id": "399a4dc8c9401e04",
         "type": "tabs",
         "children": [
           {
-            "id": "8a07f1b442c46bbc",
+            "id": "41f7fe9e2d4eed58",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Art/Mirage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Art/Mirage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Art/Mirage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -134,15 +130,15 @@
   },
   "active": "e9a920dda4cc7f1e",
   "lastOpenFiles": [
+    "Database/Quartz/Earth N.md",
+    "Database/Enemy/Monster.md",
+    "Database/Enemy/Boss.md",
+    "Database/Item/Boot.md",
+    "Database/Item/Armour.md",
+    "Database/Item/Accessory.md",
+    "Database/Fish/Fish.md",
     "Database/Quartz/Mirage.md",
     "Demo.md",
-    "Database/Art/Mirage.md",
-    "Database/Art/Earth.md",
-    "Walkthrough/Chapter 0.md",
-    "Walkthrough/Chapter 6.md",
-    "Walkthrough/Chapter 7 Fin.md",
-    "Walkthrough/Chapter 5.md",
-    "Walkthrough/Chapter 4.md",
-    "Walkthrough/Chapter 3.md"
+    "Database/Art/Mirage.md"
   ]
 }
