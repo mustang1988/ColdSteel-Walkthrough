@@ -11,19 +11,11 @@ const {
 const compositions_content =
   compositions == null
     ? ["无法通过合成获得"]
-    : compositions.map((c) =>
-        c.Item.subpath
-          ? dv.blockLink(c.Item.path, c.Item.subpath, false, `x${c.Count}`)
-          : dv.fileLink(c.Item.path, false, `x${c.Count}`)
-      );
+    : compositions;
 const exchanges_content =
   exchanges == null
     ? ["无法通过交换获得"]
-    : exchanges.map((c) =>
-        c.Item.id
-          ? dv.blockLink(c.Item.path, c.Item.id, false, `x${c.Count}`)
-          : dv.fileLink(c.Item.path, false, `x${c.Count}`)
-      );
+    : exchanges;
 const admonition = `\`\`\`ad-quartz-space-r
 title: ${name}
 

@@ -9,8 +9,7 @@ Quartzs:
       - "[[Earth#^yan-shi-zhi-ci|岩石之刺]]"
     Effects:
     Compositions:
-      - Item: "[[Earth Sepith| ]]"
-        Count: 40
+      - "[[Earth Sepith|x40]]"
     Exchanges:
 ---
 ```dataviewjs
