@@ -11,5 +11,13 @@
   },
   "livePreview": false,
   "showInlineTitle": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "autoPairBrackets": false,
+  "useTab": false,
+  "tabSize": 2,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }

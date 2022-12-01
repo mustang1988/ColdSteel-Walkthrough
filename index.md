@@ -1,6 +1,6 @@
 ---
 banner: "![[Cover.jpg]]"
-banner_y: 0.42934
+banner_y: 0.33268
 ---
 # 英雄传说 闪之轨迹
 
