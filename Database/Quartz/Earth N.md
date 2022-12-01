@@ -129,7 +129,7 @@ Quartzs:
     Exchanges:
       - Item: "[[Earth N#^da-di-zhi-yu|大地之愈]]"
         Count: 1
-      - Item: "[[Accessory^qi-shi-xiong-zhen|奇石胸针]]"
+      - Item: "[[Accessory#^qi-shi-xiong-zhen|奇石胸针]]"
         Count: 1
 ---
 ```dataviewjs
