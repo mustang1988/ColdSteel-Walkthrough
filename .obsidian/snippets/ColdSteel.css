@@ -1,14 +1,15 @@
 :root {
     /* Common */
-    --link-weight-bold: bold;
+    --Link-Weight-Bold: bold;
+    --Icon-Padding: 3px;
     /* End Common */
     /* Colors */
-    --Element-Earth-color: 	#D2691E;
-    --Element-Water-color: 	#00BFFF;
+    --Element-Earth-color: #D2691E;
+    --Element-Water-color: #00BFFF;
     --Element-Fire-color: #ff0000;
-    --Element-Wind-color: 	#00FF00;
-    --Element-Time-color: 	#696969;
-    --Element-Space-color: 	#FFD700;
+    --Element-Wind-color: #00FF00;
+    --Element-Time-color: #696969;
+    --Element-Space-color: #FFD700;
     --Element-Mirage-color: #D3D3D3;
     --Quest-Main-color: #fab005;
     --Quest-Side-color: #40c057;
@@ -114,567 +115,567 @@
     --Side-Quest-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAPCAYAAADd/14OAAAACXBIWXMAAAsTAAALEwEAmpwYAAABqklEQVQoU5WPXUhTcRyGn//Z0WEdO9MW0yUm4QcGhYMU6SJEDAsRBSlCMIiu9EK8CYqom4SEECX0QqKIIIIuQm+UkogoAi2/oGmZpmM0cvNrKS22c/6nC7exgTc9Nz9+vM/F+woA17kid/mtM1fBbAFKAQVYFtIanr838Xht3LciXHVF7pIuz4CqZTYCKmCxhwCksRt78/3BVIeoedt6A2HejUtz6x8CwzSVZTs3di4BBYClKKJXRZjn41I48Mp3bbn/8wxDc8qpm1Ve/cThR4CQ0jqrfu2Z7AOeAOHQO7/XjBgS/28po2YwXgFAipQnSdn1ysr8huMDQBUQC+sHbqeJWnWuvfiyp9lR4ewBCgHDilojCy+XOtVUMa/72AWH6hwCdGBzeyZ4PzjmGwy+/rGTJjrXj14kDx2IbE//6vpy5+NzYzdmwN7aVHLi17/6dGEyIf0XaWPsR7IOCpuSC/yJbv7dklFTJrKk6KhwiJPdNYM2zd4GeEPPvl3xPpxdTOTJjjkeV5ZNy6wHNOD0odr8YvYTQ+9/RtzN5S8ydHs78CkwujSfyAD+AR6blPz1cIWGAAAAAElFTkSuQmCC");
     /* End Quest */
     /* Trophy */
-    --trophy-platinum-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACRElEQVQoU33ST0iTcRzH8c/zb3vW3ONWc9PqmZjuktUgcNVldNCgDE8bJB6KWdeSRtChLgVFCEFEx0yQWHWwyEMsVkKUJkL/iJGPc/7ZppZuz+am8Dw+e55OyvPk6Hf7fXm/+MKPH6FpGvRHkiT09/fbM5l0F0EyzfPL5fR+l/Xdwwf3Z81ms6El9FhVVfT09LSGw72v5tadLfPZPJwcjeyckPr68eW5t29GJkmSrI6j0agpX1z/kBD5YxQ24HIQYGgS3kYn0lPfxve6606GQiF5q6e3JYCxsfGWSkOnn9KKONTEwl5jgVjeQL5YQlPr0eOjIy8OhEKhX1VxIrXSer7DQfAN+7CUyWBi8gvqXXXwn/BjQ64QkiTX6nsDPux1jzbuUQsUTdnr3U6cOXsaqMhQVAK/l5bWLKx5Rt8bcCQSyV2+0nfvUt/1uwwFZGdTUEy7Mbu4jB+JaVFZmPYAWN3qDZjnec1WY339+dPEjV01nFWRJdCmNagFcV1beN915/atn/re8NoAEI/HqcGhZwN/VlaZg0fauqcS34drOVv54oXucHt7e0XfGjYDgM/nqwRSqd7Hg0+v5cRidz63Mt15KnDT5/MZIFAFsywLRVEoiqa92cUMVIJslmWZZll28992B47FYqbh509ibo4LyJtZcA4mODTwyOXxeDqCweD2BwGqYEEQrCxD+jPpOWJrpmlKmyAIVgD/x6mZGb5QLFnEQkk/tiSTSR6AqB/uwDbOVihLxFWTxb69GYDGcbaC7g4A+Atm3Oe+RRcS6wAAAABJRU5ErkJggg==");
-    --trophy-gold-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACeElEQVQoU52RS2gTcRDGv02ym8bNbtpDggcbSqsSKt7s49CGHqp4sB4k+AKLYEML6kGpB8VWxNJDYyxV2oKINg0NgvRgLyXXILYXxdTWSGilomJNDXnsZneT3c3fg2RNqXhwYGBm+H58MwxFCMH/hqVSBINB7uPq63NqSbXYONfXGnOhUS+XbXRNrVJUyWY+/c3J0Caze3/L8+Hh4YwBr6ysUPFX82OCxr7QxO/e8MzAZPrDAswOF+yuw6DKGi4PPhoXKH5effvyQSzW1ef1enULAKRSKVOhoNAXBgZji4sLEkNb7qhyAUVagLUkosakwrH3YPTM2d6l4G3/xXQ6bQLwG25vb9dH8+rS1MRYV0NTY1lTZIg5CbqeB82mQdEaQPQ9gdG7bYJM3nd0dKjG2na7HbdGxkM3rl7qLYg/61XlBBRRQR2vg9FFKLKIT8nV1tTW9ud7galpp9MJAwaA7u5uLTj5bObmtb5+WchAkkqw5CTQtm1ougmKkMuO3J9+3NPTU64wVPWrBvr9Dfmtd0MFWdsePN92xcFqbFGniiNP30xwLO002ZsCs+FIwgAIIUYmEglqbm7Oury8TJ06fmQo9vAkOX3sUCAWi1GRSISJx+NUtd5YGwA8Hg/xeDxFSZKgKbKW+iFA18p6c3Mz6ezsLFVrgaqbKyEIAsLhsLXWZj7wce0LGFVvCoVCNr/fL3Mct0O7C45Go8x8ZCa6r471rooMGM7sm30y5XK73Ud9Pt8O911wMplkrbSpdW0zRVVmpKy1JJNJFsC/4Y2NjfpsTrBlsoIxI4BtfX29HkDmj/IvMM/zWUnFdYZ1GM4ACM9z2aoeAPALlgcrLdzFGAYAAAAASUVORK5CYII=");
-    --trophy-silver-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACdUlEQVQoU52RX0hTcRTHv3fdzd3t3rmBK/ozyf7AZe+ZD26EKNSDPa0HC6qHVChLkIIIXSGloEwtsiToz5iKEUUvBoMgGIV7ytSH4VXDpIdczv25293u7p9fD7ExEXrowIFzvnw/nHM4FCEE/xt0qQgEAtzXb0ttiqLQjmruJ0Ad0XXCMIy5oKrKenxr20nTxj1u/tiM3+9PluHFxUXq46cvQxRR3iQzOe+9/oHx+aUVVHNWHNpfg6Kqo/fOrVETTb39HJ0fiUQiV7xer0YDQDweN0h5ydh9rSMyO/tBogz03ZSYBQUdkp2FChqug/vCF863zd287b+cSCQMAP7CDQ0NmpTNzI2OPTp1pK5OL8gyMuk0DFoBaZsFmsEMXSeW+wODJ4tyfqmxsVEpr82yLAYf9Aevdt24mM6ILilfQC6XA8uyKCg6svkMloWV+s3NzR+jgaGnTqcTZRgAmpub1Yknj19d7+7pFLM55PIyMhkRW2YLdKJBzGZTYyPDz1pbW/USQ1W+qqOz8/D6xq8+Wc7/PnvuUhdtNFt1XZPfzzx/yDAWZ42DHZ6cDMXKACGknLFYjJqamqqKRqNUU8uZvt7BCeJpOj0ciUSo6elp08LCAlXpL68NADzPE57nZUmSUJCLamJ7C5qmaW63m3g8nmKlF6i4uRSiKCIUClWZGctxYTkGRdWPBoNBpr29Pc9x3A7vLjgcDpvevX4Zttsd3oKcxgGHyRd6Mb63tra2xefz7Zi+CxYEwWo2Guo31teokkaIekIQBCuAf8Pf19ZcqbTIJFNipcysrq66ACQrxV0wZ+NSWZnqMTH28mQAxGbjUhU9AOAP8I0sotPhGKUAAAAASUVORK5CYII=");
-    --trophy-bronze-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACcklEQVQoU52RX2hScRTHv9f5Z3d6h405gtCGI7C9tWj5sNmi9Tgo8CWItWBusGrUnnqZwaCIxEkwGQStxJT+UPQPypcgo/Qp2AJl5mqj2EhzXr16vffqvb8eQnEMeujAgXO+fD+cczgUIQT/G+p64fV6mdjn+JlqtaruMnb+lCnJWlMU2tBqEOSasr6Z3TKpNC0thw/2PXS73fkGvLKyQj1/9+JWG+gnvwoZx4x72v/p60cY9Xuwv7MbYq0K76zPx2gNT9/E3s4PRYfGHQ6HrAaATCajEnhBc+XS5ejL1694haKu5YtFUIoKnL4Ekcjo2WeNnDs7Gpu6OjWWy+VUAP7CdrtdlspizOPzDFmtPYogCSgVOGiqQIHehtQCyERum7s+d1QW5C8DAwPVxtoGgwHeG97A+AXXaK64bT5dOQW+zKNNbwAvC+DKAhKrif7fmezGwvzCoslkQgMGgOHh4drS4t37E9OTk3mOBV+RUC6WkdWxgAJwpSLr9/nvjIyMKHWGan6Va8LVnfiRmJUqUtbhPHaRaCk9ZIgfHr+/3UrrTJYOsyf0IJxsAISQRiaTSSoUCuni8ThlP2GfPX9zjBw63ueJRqNUOBzWLi8vU83+xtoAYLPZiM1mE3mehygJtUKOhVyT5d7eXjI4OCg1e4Gmm+vBcRyCwaBOQ2sOfF/dgKSIPYFAgHa5XBWGYXZ4d8GRSET77NG9yF6jziGKgLqjwxlc8ndZLJaTTqdzx/RdcCqV0rdqVP2b61tUXSOkdiSVSukB/Bv+trZmZgscnWe5ZplOp9NmAPlmcRfMtDNsSaRmtLSxMRkAaW9n2KYeAPAHcO8qUDRCLEYAAAAASUVORK5CYII=");
+    --Trophy-Platinum-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACRElEQVQoU33ST0iTcRzH8c/zb3vW3ONWc9PqmZjuktUgcNVldNCgDE8bJB6KWdeSRtChLgVFCEFEx0yQWHWwyEMsVkKUJkL/iJGPc/7ZppZuz+am8Dw+e55OyvPk6Hf7fXm/+MKPH6FpGvRHkiT09/fbM5l0F0EyzfPL5fR+l/Xdwwf3Z81ms6El9FhVVfT09LSGw72v5tadLfPZPJwcjeyckPr68eW5t29GJkmSrI6j0agpX1z/kBD5YxQ24HIQYGgS3kYn0lPfxve6606GQiF5q6e3JYCxsfGWSkOnn9KKONTEwl5jgVjeQL5YQlPr0eOjIy8OhEKhX1VxIrXSer7DQfAN+7CUyWBi8gvqXXXwn/BjQ64QkiTX6nsDPux1jzbuUQsUTdnr3U6cOXsaqMhQVAK/l5bWLKx5Rt8bcCQSyV2+0nfvUt/1uwwFZGdTUEy7Mbu4jB+JaVFZmPYAWN3qDZjnec1WY339+dPEjV01nFWRJdCmNagFcV1beN915/atn/re8NoAEI/HqcGhZwN/VlaZg0fauqcS34drOVv54oXucHt7e0XfGjYDgM/nqwRSqd7Hg0+v5cRidz63Mt15KnDT5/MZIFAFsywLRVEoiqa92cUMVIJslmWZZll28992B47FYqbh509ibo4LyJtZcA4mODTwyOXxeDqCweD2BwGqYEEQrCxD+jPpOWJrpmlKmyAIVgD/x6mZGb5QLFnEQkk/tiSTSR6AqB/uwDbOVihLxFWTxb69GYDGcbaC7g4A+Atm3Oe+RRcS6wAAAABJRU5ErkJggg==");
+    --Trophy-Gold-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACeElEQVQoU52RS2gTcRDGv02ym8bNbtpDggcbSqsSKt7s49CGHqp4sB4k+AKLYEML6kGpB8VWxNJDYyxV2oKINg0NgvRgLyXXILYXxdTWSGilomJNDXnsZneT3c3fg2RNqXhwYGBm+H58MwxFCMH/hqVSBINB7uPq63NqSbXYONfXGnOhUS+XbXRNrVJUyWY+/c3J0Caze3/L8+Hh4YwBr6ysUPFX82OCxr7QxO/e8MzAZPrDAswOF+yuw6DKGi4PPhoXKH5effvyQSzW1ef1enULAKRSKVOhoNAXBgZji4sLEkNb7qhyAUVagLUkosakwrH3YPTM2d6l4G3/xXQ6bQLwG25vb9dH8+rS1MRYV0NTY1lTZIg5CbqeB82mQdEaQPQ9gdG7bYJM3nd0dKjG2na7HbdGxkM3rl7qLYg/61XlBBRRQR2vg9FFKLKIT8nV1tTW9ud7galpp9MJAwaA7u5uLTj5bObmtb5+WchAkkqw5CTQtm1ougmKkMuO3J9+3NPTU64wVPWrBvr9Dfmtd0MFWdsePN92xcFqbFGniiNP30xwLO002ZsCs+FIwgAIIUYmEglqbm7Oury8TJ06fmQo9vAkOX3sUCAWi1GRSISJx+NUtd5YGwA8Hg/xeDxFSZKgKbKW+iFA18p6c3Mz6ezsLFVrgaqbKyEIAsLhsLXWZj7wce0LGFVvCoVCNr/fL3Mct0O7C45Go8x8ZCa6r471rooMGM7sm30y5XK73Ud9Pt8O911wMplkrbSpdW0zRVVmpKy1JJNJFsC/4Y2NjfpsTrBlsoIxI4BtfX29HkDmj/IvMM/zWUnFdYZ1GM4ACM9z2aoeAPALlgcrLdzFGAYAAAAASUVORK5CYII=");
+    --Trophy-Silver-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACdUlEQVQoU52RX0hTcRTHv3fdzd3t3rmBK/ozyf7AZe+ZD26EKNSDPa0HC6qHVChLkIIIXSGloEwtsiToz5iKEUUvBoMgGIV7ytSH4VXDpIdczv25293u7p9fD7ExEXrowIFzvnw/nHM4FCEE/xt0qQgEAtzXb0ttiqLQjmruJ0Ad0XXCMIy5oKrKenxr20nTxj1u/tiM3+9PluHFxUXq46cvQxRR3iQzOe+9/oHx+aUVVHNWHNpfg6Kqo/fOrVETTb39HJ0fiUQiV7xer0YDQDweN0h5ydh9rSMyO/tBogz03ZSYBQUdkp2FChqug/vCF863zd287b+cSCQMAP7CDQ0NmpTNzI2OPTp1pK5OL8gyMuk0DFoBaZsFmsEMXSeW+wODJ4tyfqmxsVEpr82yLAYf9Aevdt24mM6ILilfQC6XA8uyKCg6svkMloWV+s3NzR+jgaGnTqcTZRgAmpub1Yknj19d7+7pFLM55PIyMhkRW2YLdKJBzGZTYyPDz1pbW/USQ1W+qqOz8/D6xq8+Wc7/PnvuUhdtNFt1XZPfzzx/yDAWZ42DHZ6cDMXKACGknLFYjJqamqqKRqNUU8uZvt7BCeJpOj0ciUSo6elp08LCAlXpL68NADzPE57nZUmSUJCLamJ7C5qmaW63m3g8nmKlF6i4uRSiKCIUClWZGctxYTkGRdWPBoNBpr29Pc9x3A7vLjgcDpvevX4Zttsd3oKcxgGHyRd6Mb63tra2xefz7Zi+CxYEwWo2Guo31teokkaIekIQBCuAf8Pf19ZcqbTIJFNipcysrq66ACQrxV0wZ+NSWZnqMTH28mQAxGbjUhU9AOAP8I0sotPhGKUAAAAASUVORK5CYII=");
+    --Trophy-Bronze-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACcklEQVQoU52RX2hScRTHv9f5Z3d6h405gtCGI7C9tWj5sNmi9Tgo8CWItWBusGrUnnqZwaCIxEkwGQStxJT+UPQPypcgo/Qp2AJl5mqj2EhzXr16vffqvb8eQnEMeujAgXO+fD+cczgUIQT/G+p64fV6mdjn+JlqtaruMnb+lCnJWlMU2tBqEOSasr6Z3TKpNC0thw/2PXS73fkGvLKyQj1/9+JWG+gnvwoZx4x72v/p60cY9Xuwv7MbYq0K76zPx2gNT9/E3s4PRYfGHQ6HrAaATCajEnhBc+XS5ejL1694haKu5YtFUIoKnL4Ekcjo2WeNnDs7Gpu6OjWWy+VUAP7CdrtdlspizOPzDFmtPYogCSgVOGiqQIHehtQCyERum7s+d1QW5C8DAwPVxtoGgwHeG97A+AXXaK64bT5dOQW+zKNNbwAvC+DKAhKrif7fmezGwvzCoslkQgMGgOHh4drS4t37E9OTk3mOBV+RUC6WkdWxgAJwpSLr9/nvjIyMKHWGan6Va8LVnfiRmJUqUtbhPHaRaCk9ZIgfHr+/3UrrTJYOsyf0IJxsAISQRiaTSSoUCuni8ThlP2GfPX9zjBw63ueJRqNUOBzWLi8vU83+xtoAYLPZiM1mE3mehygJtUKOhVyT5d7eXjI4OCg1e4Gmm+vBcRyCwaBOQ2sOfF/dgKSIPYFAgHa5XBWGYXZ4d8GRSET77NG9yF6jziGKgLqjwxlc8ndZLJaTTqdzx/RdcCqV0rdqVP2b61tUXSOkdiSVSukB/Bv+trZmZgscnWe5ZplOp9NmAPlmcRfMtDNsSaRmtLSxMRkAaW9n2KYeAPAHcO8qUDRCLEYAAAAASUVORK5CYII=");
     /* End Trophy */
     /* Treasure Chest */
-    --treasure-chest-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVklEQVQoU4WSS08TURiG32/mlE6nl0FabOhwScv9EkGtthpADTvdGIkuMSHuiCv/iYkrfwFuXLvwgmxMiBKMxqooptYu7IXO9Mp05hwXhaZ045OczXneNznfyUcAMK33eWaGwnGJSMF/4ILXP6dz71PZQp1mBkPhxxt33ur6wASR1A7VG3WUy2X4/X54FE9nGdlMNvXwyfNltpqcXhsdi00QUTsAAE31CEurSXx6/QWKOP2g0fHRqbuLs2usUKkoW2+2hSxJp9qhfhWHv9KoVpvI52qdCg7nIm+WvTQY8rEHKwuvosHA0ol0uWScDXthWQ5Khw0QAZbltMsHBXP76cuPKyyTr9iyRAwAGJMQ0f242KuBqQxiRIVjc8gVB6lsCdmMiWKxDlki9idvNtmVST0R9CpxfXwAc4kogiEvxA8DkuYHhlSIrAn72R7mNs5hhiR8TRVQe7EbvzqpJ9mteGw94FWZqvlEPlfHYfGIHIeLM06VfHkbFesIhRu6oH0TkAiyi6Gv189uXhpbZ7MjQ+L8hfnWZzWPD0C1WgOR2Qj+7vxEQA4RHADHYycSl9HzYY8zzjkZpVLrtgPutJKVUhVSudFlAc45MSKCu2MJTrCqFnY2d+Fxq3ApPd0aRAQWjvhihllCsC8IxlhbKoobAfg74i1s20ahWEA44oux6cSwpkWHsb35Dm6uoHvTOhFCwJIbWLyXhHGQ1hiEAHEbC9cn8W3rNwKa1t1pYxoG5q9NgbgNCAF6dH/5NpNoTAAi/T2XsR1udJdOYLKkDY/3DxJANhf7/wAqe+exEUPF/wAAAABJRU5ErkJggg==");
-    --monster-treasure-chest-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQ4T6WQv2tTURTHP/fHa5L30rw2yWtsiwWldnLp4uRcRK0OLv4LxcElo52Lm+DgILhId0Hr4OTQRXQSEVErUayhT4jRkCYv9yXXofhSXooa/Uznnu/3fDnnCoBl8iurlNbLOKfO3foovMDwpLpAqz5BSIjBoNFUqJArxpy/XSP6oXi0doIGZmeLxsZzWg/1MvmV68w/BhRAeRLyPvhSIVC0ERgEGkEBhSstgQ9dCwUUBdTMNeYe3OHLFb1K6cavoP9AXqK0rgOcpbTyL5RxlrQ7G0lPDhfrW4sxkK306GO5eDUiCiDX7PL6fkR2KsYYiAfgzUfJnLZWiGc3CUuTBEk3hfIcFqtneLXxAqc3HE7T6dHWcQzGQLcpsAOR9rB42lC98Jnj0xFvX8q0jBCW7PTBNeLdXcJygWBrbYFOQ6e9zJ39xtTJLt8/Zdh9WkzLON6Ay/dq7Ee0teuC54EUEsHoZvXtIvXtg3pUBSkEngcoSFbZY4/Wkfbfk8UmdRImkShG/+RPyKPCZjnG/vD510zQB94Dh8KU20d3xz9T5wZJLXY3CTOCoNk85BgT3wedoa3f1NiZ8XDThnHofIWW4cNP/QKHfDqchBkAAAAASUVORK5CYII=");
+    --Treasure-Chest-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVklEQVQoU4WSS08TURiG32/mlE6nl0FabOhwScv9EkGtthpADTvdGIkuMSHuiCv/iYkrfwFuXLvwgmxMiBKMxqooptYu7IXO9Mp05hwXhaZ045OczXneNznfyUcAMK33eWaGwnGJSMF/4ILXP6dz71PZQp1mBkPhxxt33ur6wASR1A7VG3WUy2X4/X54FE9nGdlMNvXwyfNltpqcXhsdi00QUTsAAE31CEurSXx6/QWKOP2g0fHRqbuLs2usUKkoW2+2hSxJp9qhfhWHv9KoVpvI52qdCg7nIm+WvTQY8rEHKwuvosHA0ol0uWScDXthWQ5Khw0QAZbltMsHBXP76cuPKyyTr9iyRAwAGJMQ0f242KuBqQxiRIVjc8gVB6lsCdmMiWKxDlki9idvNtmVST0R9CpxfXwAc4kogiEvxA8DkuYHhlSIrAn72R7mNs5hhiR8TRVQe7EbvzqpJ9mteGw94FWZqvlEPlfHYfGIHIeLM06VfHkbFesIhRu6oH0TkAiyi6Gv189uXhpbZ7MjQ+L8hfnWZzWPD0C1WgOR2Qj+7vxEQA4RHADHYycSl9HzYY8zzjkZpVLrtgPutJKVUhVSudFlAc45MSKCu2MJTrCqFnY2d+Fxq3ApPd0aRAQWjvhihllCsC8IxlhbKoobAfg74i1s20ahWEA44oux6cSwpkWHsb35Dm6uoHvTOhFCwJIbWLyXhHGQ1hiEAHEbC9cn8W3rNwKa1t1pYxoG5q9NgbgNCAF6dH/5NpNoTAAi/T2XsR1udJdOYLKkDY/3DxJANhf7/wAqe+exEUPF/wAAAABJRU5ErkJggg==");
+    --Monster-Treasure-Chest-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQ4T6WQv2tTURTHP/fHa5L30rw2yWtsiwWldnLp4uRcRK0OLv4LxcElo52Lm+DgILhId0Hr4OTQRXQSEVErUayhT4jRkCYv9yXXofhSXooa/Uznnu/3fDnnCoBl8iurlNbLOKfO3foovMDwpLpAqz5BSIjBoNFUqJArxpy/XSP6oXi0doIGZmeLxsZzWg/1MvmV68w/BhRAeRLyPvhSIVC0ERgEGkEBhSstgQ9dCwUUBdTMNeYe3OHLFb1K6cavoP9AXqK0rgOcpbTyL5RxlrQ7G0lPDhfrW4sxkK306GO5eDUiCiDX7PL6fkR2KsYYiAfgzUfJnLZWiGc3CUuTBEk3hfIcFqtneLXxAqc3HE7T6dHWcQzGQLcpsAOR9rB42lC98Jnj0xFvX8q0jBCW7PTBNeLdXcJygWBrbYFOQ6e9zJ39xtTJLt8/Zdh9WkzLON6Ay/dq7Ee0teuC54EUEsHoZvXtIvXtg3pUBSkEngcoSFbZY4/Wkfbfk8UmdRImkShG/+RPyKPCZjnG/vD510zQB94Dh8KU20d3xz9T5wZJLXY3CTOCoNk85BgT3wedoa3f1NiZ8XDThnHofIWW4cNP/QKHfDqchBkAAAAASUVORK5CYII=");
     /* End Treasure Chest */
     /* Monster */
-    --enemy-monster-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAPCAYAAAACsSQRAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVQ4T32QaUxTaRiFz3evlgLa1lsMilDbIpVFBKE6qGhEI4wGcUZjXBKXBDWZDGjiGjOJFWLUxCXuqJNJjMFASByXKGbGBY380VAVIwootbRmhluk7e0tbRH7ff6Zi0rMnF9v8p7z5LwvwX+aW1y6Lzt/+qz33Y4Wl6OrxdHxqlnyeT3KXtAnJGTnTJudnpFltWRkTn/W+vxZ7e9n9wDACMUk+byyKiZuwbxFZQsJIQiH+vuO7d1l7e3515k4PmnC+Yt1dq1Wl8gYQ7co0r6m+81KdgjywdNjlyWJczkc1GA2c7Fx8foNlTsazhywFdn2H65XAC7RQ6VgP+d2OuxKlihDjDpWs/aX7T4AnEanoylmEwcAatB36WkWEwPg6hGpPxjkAMBWuTFROXeoyUAkHHC+ba83TkpfE/D7ObfjHZ082cJZjBNNDIBb/AJ43fr02tf/GmoCAIQQklcwd0/uD4XVcXGxfOmPJRipUsEteuCTZTDGaNOt6/tvNtRWUUrpdyGK0jKzyw4eOXldLwhwfQGg7sLp1U8eNdUP9w+dk5rCG2+c1F3dckjeWrB4dZleEOAWPcwnyyQSDoHnRyBrmnXJayninLj9eE2Xbf3KsLO98xtIMMSCGjXTNp4S/m5jhpiXYi/1yjLnfNP5Qg7IU8cIejqhsGRNZtnO5QOyvzfaL8tK9httLuHLo8069vFxEqtrODhQtHhpBSEEmbnWjatsJyIFdz1sxn2JJS+tqBieBQAUT8FCz2kS8h7lo4N3RrPAPW2gMIcvAID4jPy8vEa3N/evPmY89iY672JPZKy1tFTJkp3lo7ZwoUHVtlkfqzgJatGBD7/ZSXlNVexZewdtWbI7vCy1+tJlTU7h/I7qXzcN5FeeG2cwjk9LFga7bh/d+0nFomi/JrRSewLz16hoWznxZAmYAgAJWiIIGqIFAH6UTjNyzFg9ABC9ycJvbvzHfKqLznggsZyGtk6Ykrhk55+j30YfatiGOfx6peL/KX7mzyvy7vlY7pWObnXKJBMAwJxEDC//iHm6rphfOcz/XQlFy37Krm1pVRvSUgHgM29ZXZ3ICXl7AAAAAElFTkSuQmCC");
-    --enemy-boss-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC9ElEQVQoU02TX2hbdRTHP797b/7O2jRtJG2nlL5tU6hdl9rVQS3E1qorWjpYdahPCoJPgm8KIsjwbfhSEClYC1bUFWYYSdGhdKxr9sfoYLK1ZW6s7dY1TZsmuffmd48P0a0fOA8HzvlyHj5HsQsFaijeOni8te3EwUg0EfX5o3nHLlwt5C9N3/3n25nVOzNaxNs1X2NvMNz8dedzkz0NsX4RwRXBCwdRO2V8CAj8UchfeCd3cWyxVFx+uNwaDMczh/vn9gbD7RrBfXUQ/9EhzPrH8YpF7FQa87vTmNpj3amsDGZ/771ZKi4rBaS6+9K90aakiFA59hqh0WFMw0QZChHB0x6lVBr/+AQKyG0XFvqzv/VYyVg8eTjSmBRPcEwD65WB2kEKlFIgtdb/Yj/2N9MEikWeCdcdej3WMmIdiz/5BiK4WqOtAIZp4eSuoc9mCH/wHqVT45h9z2N0duD5LJyqxqcUo7GWN61n6yJdtni4p07iTUyhz2YwVtZg/hJuYQudvYI2DNgu4saakM8/Qb//IR3hui61dOSlu4Gn9zUbH3+EqTXuwmWsxEEM12VnYoo9b48hPh/O+Xn8XZ3ocAj3sy8IXbxcsTYce6N1I99c/ekMMp/FfOEIemsLr6EB38sD6EAAr1zC0h7OpyfxDuxDrd5jw3Hy1pVCPtu+EjqgUmn0yDDeteuYLXGkIUK1VMKwbfw7ZZxbt6EngTnzM/7V+5zfLmSt6bU7kyNN8bd0MIiZ7MPo7Uanf0G+/Irgyho6GMDp7cYYHsJsewp79hzirfH9g9VJazZ/f3Yuv55JuNWkc2MRzs0RSmWQ/6wySmVI/0rZtjGOj2Bev8FflZ2F05v3flAALf5APLX/0Fzc8rcrBEMAEURqAYjgiaDFY7Pqrhxd+rN30S4vP3S71R9oHm/bP5nYU98PAlKr3QG5cvHCu7f/HltyKo/c/h8FaqC+cXA08sSJjtBjiUbTiuarbiFXLmZ/3FyfOrP1YEbz6Kv+Bd/Gas+dPaxuAAAAAElFTkSuQmCC");
+    --Enemy-Monster-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAPCAYAAAACsSQRAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVQ4T32QaUxTaRiFz3evlgLa1lsMilDbIpVFBKE6qGhEI4wGcUZjXBKXBDWZDGjiGjOJFWLUxCXuqJNJjMFASByXKGbGBY380VAVIwootbRmhluk7e0tbRH7ff6Zi0rMnF9v8p7z5LwvwX+aW1y6Lzt/+qz33Y4Wl6OrxdHxqlnyeT3KXtAnJGTnTJudnpFltWRkTn/W+vxZ7e9n9wDACMUk+byyKiZuwbxFZQsJIQiH+vuO7d1l7e3515k4PmnC+Yt1dq1Wl8gYQ7co0r6m+81KdgjywdNjlyWJczkc1GA2c7Fx8foNlTsazhywFdn2H65XAC7RQ6VgP+d2OuxKlihDjDpWs/aX7T4AnEanoylmEwcAatB36WkWEwPg6hGpPxjkAMBWuTFROXeoyUAkHHC+ba83TkpfE/D7ObfjHZ082cJZjBNNDIBb/AJ43fr02tf/GmoCAIQQklcwd0/uD4XVcXGxfOmPJRipUsEteuCTZTDGaNOt6/tvNtRWUUrpdyGK0jKzyw4eOXldLwhwfQGg7sLp1U8eNdUP9w+dk5rCG2+c1F3dckjeWrB4dZleEOAWPcwnyyQSDoHnRyBrmnXJayninLj9eE2Xbf3KsLO98xtIMMSCGjXTNp4S/m5jhpiXYi/1yjLnfNP5Qg7IU8cIejqhsGRNZtnO5QOyvzfaL8tK9httLuHLo8069vFxEqtrODhQtHhpBSEEmbnWjatsJyIFdz1sxn2JJS+tqBieBQAUT8FCz2kS8h7lo4N3RrPAPW2gMIcvAID4jPy8vEa3N/evPmY89iY672JPZKy1tFTJkp3lo7ZwoUHVtlkfqzgJatGBD7/ZSXlNVexZewdtWbI7vCy1+tJlTU7h/I7qXzcN5FeeG2cwjk9LFga7bh/d+0nFomi/JrRSewLz16hoWznxZAmYAgAJWiIIGqIFAH6UTjNyzFg9ABC9ycJvbvzHfKqLznggsZyGtk6Ykrhk55+j30YfatiGOfx6peL/KX7mzyvy7vlY7pWObnXKJBMAwJxEDC//iHm6rphfOcz/XQlFy37Krm1pVRvSUgHgM29ZXZ3ICXl7AAAAAElFTkSuQmCC");
+    --Enemy-Boss-before: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC9ElEQVQoU02TX2hbdRTHP797b/7O2jRtJG2nlL5tU6hdl9rVQS3E1qorWjpYdahPCoJPgm8KIsjwbfhSEClYC1bUFWYYSdGhdKxr9sfoYLK1ZW6s7dY1TZsmuffmd48P0a0fOA8HzvlyHj5HsQsFaijeOni8te3EwUg0EfX5o3nHLlwt5C9N3/3n25nVOzNaxNs1X2NvMNz8dedzkz0NsX4RwRXBCwdRO2V8CAj8UchfeCd3cWyxVFx+uNwaDMczh/vn9gbD7RrBfXUQ/9EhzPrH8YpF7FQa87vTmNpj3amsDGZ/771ZKi4rBaS6+9K90aakiFA59hqh0WFMw0QZChHB0x6lVBr/+AQKyG0XFvqzv/VYyVg8eTjSmBRPcEwD65WB2kEKlFIgtdb/Yj/2N9MEikWeCdcdej3WMmIdiz/5BiK4WqOtAIZp4eSuoc9mCH/wHqVT45h9z2N0duD5LJyqxqcUo7GWN61n6yJdtni4p07iTUyhz2YwVtZg/hJuYQudvYI2DNgu4saakM8/Qb//IR3hui61dOSlu4Gn9zUbH3+EqTXuwmWsxEEM12VnYoo9b48hPh/O+Xn8XZ3ocAj3sy8IXbxcsTYce6N1I99c/ekMMp/FfOEIemsLr6EB38sD6EAAr1zC0h7OpyfxDuxDrd5jw3Hy1pVCPtu+EjqgUmn0yDDeteuYLXGkIUK1VMKwbfw7ZZxbt6EngTnzM/7V+5zfLmSt6bU7kyNN8bd0MIiZ7MPo7Uanf0G+/Irgyho6GMDp7cYYHsJsewp79hzirfH9g9VJazZ/f3Yuv55JuNWkc2MRzs0RSmWQ/6wySmVI/0rZtjGOj2Bev8FflZ2F05v3flAALf5APLX/0Fzc8rcrBEMAEURqAYjgiaDFY7Pqrhxd+rN30S4vP3S71R9oHm/bP5nYU98PAlKr3QG5cvHCu7f/HltyKo/c/h8FaqC+cXA08sSJjtBjiUbTiuarbiFXLmZ/3FyfOrP1YEbz6Kv+Bd/Gas+dPaxuAAAAAElFTkSuQmCC");
     /* End Monster */
 }
 /* Common */
 .data-link-text {
-    font-weight: var(--link-weight-bold);
+    font-weight: var(--Link-Weight-Bold);
 }
-div[data-id="Earth"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Earth" ] {
     color: var(--Element-Earth-color) !important;
 }
-div[data-id="Water"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Water" ] {
     color: var(--Element-Water-color) !important;
 }
-div[data-id="Fire"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Fire" ] {
     color: var(--Element-Fire-color) !important;
 }
-div[data-id="Wind"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Wind" ] {
     color: var(--Element-Wind-color) !important;
 }
-div[data-id="Time"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Time" ] {
     color: var(--Element-Time-color) !important;
 }
-div[data-id="Space"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Space" ] {
     color: var(--Element-Space-color) !important;
 }
-div[data-id="Mirage"] div.setting-item-description,
+div.setting-item-description,
 [data-link-Element="Mirage" ] {
     color: var(--Element-Mirage-color) !important;
 }
 /* End Common */
 
 /* Art */
-div[data-id="Earth"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Earth" ]::before {
     content: var(--Earth-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Water"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Water" ]::before {
     content: var(--Water-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Fire"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Fire" ]::before {
     content: var(--Fire-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Wind"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Wind" ]::before {
     content: var(--Wind-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Time"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Time" ]::before {
     content: var(--Time-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Space"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Space" ]::before {
     content: var(--Space-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mirage"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Art.Mirage" ]::before {
     content: var(--Mirage-Art-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
 /* End Art */
 
 /* Item */
-div[data-id="Item"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Item." i] {
     color: var(--Trophy-Platinum-color) !important;
 }
-div[data-id="Attack-Food"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Attack" ]::before {
     content: var(--Attack-Food-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Peculiar-Food"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Peculiar" ]::before {
     content: var(--Peculiar-Food-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Regular-Food"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Regular" ]::before {
     content: var(--Regular-Food-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Superb-Food"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Superb" ]::before {
     content: var(--Superb-Food-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Unique-Food"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Unique" ]::before {
     content: var(--Unique-Food-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Food-Ingredient"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Food.Ingredient" ]::before {
     content: var(--Food-Ingredient-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Earth"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Earth" ]::before {
     content: var(--Sepith-Earth-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Water"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Water" ]::before {
     content: var(--Sepith-Water-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Fire"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Fire" ]::before {
     content: var(--Sepith-Fire-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Wind"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Wind" ]::before {
     content: var(--Sepith-Wind-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Time"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Time" ]::before {
     content: var(--Sepith-Time-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Space"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Space" ]::before {
     content: var(--Sepith-Space-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Mirage"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Mirage" ]::before {
     content: var(--Sepith-Mirage-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Sepith-Mass"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Mass" ]::before {
     content: var(--Sepith-Mass-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Book"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Book" ]::before {
     content: var(--Book-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Potion"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Potion" ]::before {
     content: var(--Potion-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="U-Material"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.U-Material" ]::before {
     content: var(--U-Material-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Fish-Rod"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Fish.Rod" ]::before {
     content: var(--Fish-Rod-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Key"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Key" ]::before {
     content: var(--Key-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Accessory"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Accessory" ]::before {
     content: var(--Accessory-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Armour"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Armour" ]::before {
     content: var(--Armour-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Boot"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Item.Boot" ]::before {
     content: var(--Boot-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Recipe"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id="Recipe.Recipe" ] {
     color: var(--Recipe-color) !important;
 }
-div[data-id="Recipe"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Recipe.Recipe" ]::before {
     content: var(--Recipe-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
 /* End Item */
 
 /* Master Quartz */
-div[data-id="Aegis"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Aegis" ]::before {
     content: var(--Aegis-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Iron"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Iron" ]::before {
     content: var(--Iron-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Megalith"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Megalith" ]::before {
     content: var(--Megalith-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Tauros"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Tauros" ]::before {
     content: var(--Tauros-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Aries"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Aries" ]::before {
     content: var(--Aries-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Canon"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Canon" ]::before {
     content: var(--Canon-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Orochi"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Orochi" ]::before {
     content: var(--Orochi-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Scepter"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Scepter" ]::before {
     content: var(--Scepter-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Brave"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Brave" ]::before {
     content: var(--Brave-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Criminal"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Criminal" ]::before {
     content: var(--Criminal-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Force"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Force" ]::before {
     content: var(--Force-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Vermillion"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Vermillion" ]::before {
     content: var(--Vermillion-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Falco"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Falco" ]::before {
     content: var(--Falco-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mistral"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Mistral" ]::before {
     content: var(--Mistral-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Thor"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Thor" ]::before {
     content: var(--Thor-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Wing"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Wing" ]::before {
     content: var(--Wing-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Cypher"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Cypher" ]::before {
     content: var(--Cypher-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Katze"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Katze" ]::before {
     content: var(--Katze-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Murakumo"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Murakumo" ]::before {
     content: var(--Murakumo-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Raven"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Raven" ]::before {
     content: var(--Raven-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Angel"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Angel" ]::before {
     content: var(--Angel-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Chevalier"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Chevalier" ]::before {
     content: var(--Chevalier-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Emblem"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Emblem" ]::before {
     content: var(--Emblem-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Moebius"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Moebius" ]::before {
     content: var(--Moebius-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Juggler"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Juggler" ]::before {
     content: var(--Juggler-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Magius"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Magius" ]::before {
     content: var(--Magius-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mirage"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Mirage" ]::before {
     content: var(--Mirage-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Pandora"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Pandora" ]::before {
     content: var(--Pandora-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
 /* End Master Quartz */
 
 /* Quartz */
-div[data-id="Earth-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Earth.N" ]::before {
     content: var(--Earth-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Earth-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Earth.R" ]::before {
     content: var(--Earth-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Earth-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Earth.SR" ]::before {
     content: var(--Earth-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Water-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Water.N" ]::before {
     content: var(--Water-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Water-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Water.R" ]::before {
     content: var(--Water-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Water-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Water.SR" ]::before {
     content: var(--Water-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Fire-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Fire.N" ]::before {
     content: var(--Fire-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Fire-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Fire.R" ]::before {
     content: var(--Fire-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Fire-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Fire.SR" ]::before {
     content: var(--Fire-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Wind-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Wind.N" ]::before {
     content: var(--Wind-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Wind-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Wind.R" ]::before {
     content: var(--Wind-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Wind-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Wind.SR" ]::before {
     content: var(--Wind-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Time-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Time.N" ]::before {
     content: var(--Time-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Time-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Time.R" ]::before {
     content: var(--Time-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Time-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Time.SR" ]::before {
     content: var(--Time-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Space-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Space.N" ]::before {
     content: var(--Space-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Space-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Space.R" ]::before {
     content: var(--Space-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Space-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Space.SR" ]::before {
     content: var(--Space-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mirage-N"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Mirage.N" ]::before {
     content: var(--Mirage-N-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mirage-R"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Mirage.R" ]::before {
     content: var(--Mirage-R-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Mirage-SR"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quartz.Mirage.SR" ]::before {
     content: var(--Mirage-SR-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
 /* End Quartz */
 
 /* Quest */
-div[data-id="Main-Quest"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Quest.Main-Quest" ] {
     color: var(--Quest-Main-color) !important;
 }
-div[data-id="Main-Quest"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quest.Main-Quest" ]::before {
     content: var(--Main-Quest-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="Side-Quest"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Quest.Side-Quest" ] {
     color: var(--Quest-Side-color) !important;
 }
-div[data-id="Side-Quest"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Quest.Side-Quest" ]::before {
     content: var(--Side-Quest-before);
-    padding-right: 3px;
+    padding-right: var(--Icon-Padding);
 }
 /* End Quest */
 
 /* Trophy */
-div[data-id="trophy-platinum"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id="Trophy.Platinum" ] {
     color: var(--Trophy-Platinum-color) !important;
 }
-div[data-id="trophy-platinum"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Trophy.Platinum" ]::before {
-    content: var(--trophy-platinum-before);
-    padding-right: 3px;
+    content: var(--Trophy-Platinum-before);
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="trophy-gold"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Trophy.Gold" ] {
     color: var(--Trophy-Gold-color) !important;
 }
-div[data-id="trophy-gold"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Trophy.Gold" ]::before {
-    content: var(--trophy-gold-before);
-    padding-right: 3px;
+    content: var(--Trophy-Gold-before);
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="trophy-silver"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Trophy.Silver" ] {
     color: var(--Trophy-Silver-color) !important;
 }
-div[data-id="trophy-silver"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Trophy.Silver" ]::before {
-    content: var(--trophy-silver-before);
-    padding-right: 3px;
+    content: var(--Trophy-Silver-before);
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="trophy-bronze"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Trophy.Bronze" ] {
     color: var(--Trophy-Bronze-color) !important;
 }
-div[data-id="trophy-bronze"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Trophy.Bronze" ]::before {
-    content: var(--trophy-bronze-before);
-    padding-right: 3px;
+    content: var(--Trophy-Bronze-before);
+    padding-right: var(--Icon-Padding);
 }
 /* End Trophy */
 
 /* Treasure Chest */
-div[data-id="treasure-chest"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Treasure-Chest.Treasure-Chest" ] {
     color: var(--Treasure-Chest-color) !important;
 }
-div[data-id="treasure-chest"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Treasure-Chest.Treasure-Chest" ]::before {
-    content: var(--treasure-chest-before);
-    padding-right: 3px;
+    content: var(--Treasure-Chest-before);
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="monster-treasure-chest"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Treasure-Chest.Monster-Treasure-Chest" ] {
     color: var(--Treasure-Chest-Monster-color) !important;
 }
-div[data-id="monster-treasure-chest"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Treasure-Chest.Monster-Treasure-Chest" ]::before {
-    content: var(--monster-treasure-chest-before);
-    padding-right: 3px;
+    content: var(--Monster-Treasure-Chest-before);
+    padding-right: var(--Icon-Padding);
 }
 /* End Treasure Chest */
 
 /* Monster */
-div[data-id="enemy-monster"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Enemy.Monster" ] {
     color: var(--Enemy-Monster-color) !important;
 }
-div[data-id="enemy-monster"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Enemy.Monster" ]::before {
-    content: var(--enemy-monster-before);
-    padding-right: 3px;
+    content: var(--Enemy-Monster-before);
+    padding-right: var(--Icon-Padding);
 }
-div[data-id="enemy-boss"] div.setting-item-description,
+div.setting-item-description,
 [data-link-id^="Enemy.Boss" ] {
     color: var(--Enemy-Boss-color) !important;
 }
-div[data-id="enemy-boss"] div.setting-item-description::before,
+div.setting-item-description::before,
 .data-link-icon[data-link-id^="Enemy.Boss" ]::before {
-    content: var(--enemy-boss-before);
-    padding-right: 3px;
+    content: var(--Enemy-Boss-before);
+    padding-right: var(--Icon-Padding);
 }
 /* End Monster */

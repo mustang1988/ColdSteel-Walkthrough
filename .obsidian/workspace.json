@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Art/Earth.md",
-                "mode": "source",
+                "file": "Demo.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Art/Earth.md",
+                "file": "Demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Art/Earth.md",
+                "file": "Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Art/Earth.md"
+                "file": "Demo.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "14c7f22ba3c617fa",
   "lastOpenFiles": [
+    "Database/Art/Earth.md",
     "Database/Quartz/Earth N.md",
     "Database/Quartz/Earth R.md",
-    "Database/Art/Earth.md",
     "Demo.md",
     "Database/Art/Mirage.md",
     "Database/Art/Space.md",
