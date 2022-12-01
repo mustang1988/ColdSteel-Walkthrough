@@ -43,6 +43,45 @@ Quartzs:
         Count: 2
       - Item: "[[U-Material|U物质]]"
         Count: 2
+  - Name: "世界之树R"
+    ID: "shi-jie-zhi-shu-r"
+    Arts:
+      - "[[Earth#^shi-jie-zhi-shu|世界之树]]"
+    Effects:
+      - "DEF+10"
+      - "STR+7"
+    Compositions:
+    Exchanges:
+      - Item: "[[Earth N#^shi-jie-zhi-shu|世界之树]]"
+        Count: 2
+      - Item: "[[U-Material|U物质]]"
+        Count: 2
+  - Name: "远古巨岩R"
+    ID: "yuan-gu-ju-yan-r"
+    Arts:
+      - "[[Earth#^yuan-gu-ju-yan|远古巨岩]]"
+    Effects:
+      - "DEF+15"
+      - "STR+10"
+    Compositions:
+    Exchanges:
+      - Item: "[[Earth N#^yuan-gu-ju-yan|远古巨岩]]"
+        Count: 2
+      - Item: "[[U-Material|U物质]]"
+        Count: 3
+  - Name: "大地之愈R"
+    ID: "da-di-zhi-yu-r"
+    Arts:
+      - "[[Earth#^da-di-zhi-yu|大地之愈]]"
+    Effects:
+      - "HP+200"
+      - "DEF+5"
+    Compositions:
+    Exchanges:
+      - Item: "[[Earth N#^da-di-zhi-yu|大地之愈]]"
+        Count: 2
+      - Item: "[[U-Material|U物质]]"
+        Count: 1
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
@@ -61,3 +100,21 @@ const quartz = dv.current().Quartzs[2];
 await dv.view('Views/Quartz/Earth/R', { quartz });
 ```
 ^da-di-beng-lie-r
+
+```dataviewjs
+const quartz = dv.current().Quartzs[3];
+await dv.view('Views/Quartz/Earth/R', { quartz });
+```
+^shi-jie-zhi-shu-r
+
+```dataviewjs
+const quartz = dv.current().Quartzs[4];
+await dv.view('Views/Quartz/Earth/R', { quartz });
+```
+^yuan-gu-ju-yan-r
+
+```dataviewjs
+const quartz = dv.current().Quartzs[5];
+await dv.view('Views/Quartz/Earth/R', { quartz });
+```
+^da-di-zhi-yu-r

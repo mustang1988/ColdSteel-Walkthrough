@@ -9,9 +9,7 @@ const {
   },
 } = input;
 const compositions_content =
-  compositions == null
-    ? ["无法通过合成获得"]
-    : compositions;
+  compositions == null ? ["无法通过合成获得"] : compositions;
 const exchanges_content =
   exchanges == null
     ? ["无法通过交换获得"]
