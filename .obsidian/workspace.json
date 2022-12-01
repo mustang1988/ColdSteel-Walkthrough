@@ -11,8 +11,12 @@
             "id": "2b4a7ff0adf259dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Quartz/Earth R.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Quartz/Earth R.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Quartz/Earth R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Quartz/Earth R.md"
+              }
             }
           }
         ]
@@ -130,12 +138,12 @@
   },
   "active": "2b4a7ff0adf259dd",
   "lastOpenFiles": [
-    "Database/Item/Accessory.md",
     "Database/Quartz/Earth N.md",
+    "Database/Quartz/Earth R.md",
+    "Database/Item/Accessory.md",
     "Database/Trophy/Gold.md",
     "Demo.md",
     "Database/Art/Earth.md",
-    "Database/Quartz/Earth R.md",
     "Database/Art/Mirage.md",
     "Database/Art/Space.md",
     "Database/Art/Time.md",
