@@ -15,7 +15,13 @@ const compositions_content =
 const exchanges_content =
   exchanges == null
     ? ["无法通过交换获得"]
-    : exchanges;
+    : exchanges.map((ex) => {
+        const {
+          Item: { path, subpath, display },
+          Count,
+        } = ex;
+        return dv.blockLink(path, subpath, false, display) + `x${Count}`;
+      });
 const admonition = `\`\`\`ad-quartz-mirage-n
 title: ${name}
 

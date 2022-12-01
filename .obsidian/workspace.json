@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0a07a16d6dc3d291",
+        "id": "85d512e0a81ae4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "59d3b4536e95f7b1",
+            "id": "1c010c6c56e98b3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Item/Accessory.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo.md",
+                "file": "Database/Item/Accessory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo.md",
+                "file": "Database/Item/Accessory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo.md"
+                "file": "Database/Item/Accessory.md"
               }
             }
           }
@@ -132,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "1c010c6c56e98b3c",
   "lastOpenFiles": [
+    "Database/Quartz/Earth N.md",
+    "Database/Item/Accessory.md",
     "Database/Trophy/Gold.md",
     "Demo.md",
-    "Database/Quartz/Earth N.md",
     "Database/Art/Earth.md",
     "Database/Quartz/Earth R.md",
     "Database/Art/Mirage.md",
     "Database/Art/Space.md",
     "Database/Art/Time.md",
-    "Database/Art/Water.md",
-    "Database/Art/Wind.md"
+    "Database/Art/Water.md"
   ]
 }

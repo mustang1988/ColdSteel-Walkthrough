@@ -616,6 +616,18 @@
       "title": "quartz-master-mirage",
       "injectColor": true,
       "noTitle": true
+    },
+    "accessory": {
+      "type": "accessory",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,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",
+        "type": "image"
+      },
+      "command": false,
+      "title": "accessory",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
