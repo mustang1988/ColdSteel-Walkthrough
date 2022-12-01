@@ -29,7 +29,7 @@ title: ${name}
 ${dv.markdownList(effects ? effects : ["无"])}
 
 魔法:
-${arts === null ? "无" : dv.markdownList(arts)}
+${dv.markdownList(arts ? arts : ["无"])}
 
 合成素材:
 ${dv.markdownList(compositions_content)}
