@@ -761,6 +761,18 @@
       "title": "upgrade",
       "injectColor": true,
       "noTitle": true
+    },
+    "book": {
+      "type": "book",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,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",
+        "type": "image"
+      },
+      "command": false,
+      "title": "book",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
