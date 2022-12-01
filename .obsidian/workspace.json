@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "16f7659916d0132b",
+        "id": "44731d366216e871",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d64c068046314a",
+            "id": "14c7f22ba3c617fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Art/Earth.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -132,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "14c7f22ba3c617fa",
   "lastOpenFiles": [
-    "Demo.md",
     "Database/Quartz/Earth N.md",
+    "Database/Quartz/Earth R.md",
+    "Database/Art/Earth.md",
+    "Demo.md",
     "Database/Art/Mirage.md",
     "Database/Art/Space.md",
     "Database/Art/Time.md",
     "Database/Art/Water.md",
     "Database/Art/Wind.md",
-    "Database/Art/Earth.md",
-    "Database/Art/Fire.md",
-    "Index.md"
+    "Database/Art/Fire.md"
   ]
 }

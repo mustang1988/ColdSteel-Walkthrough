@@ -8,8 +8,22 @@ const {
     Exchanges: exchanges,
   },
 } = input;
-const compositions_content = compositions == null ? ['无法通过合成获得'] : compositions.map(c => dv.blockLink(c.Item.path, c.Item.subpath, false, `x${c.Count}`));
-const exchanges_content = exchanges == null ? ['无法通过交换获得'] : exchanges.map(c => dv.blockLink(c.Item.path, c.Item.id, false, `x${c.Count}`));
+const compositions_content =
+  compositions == null
+    ? ["无法通过合成获得"]
+    : compositions.map((c) =>
+        c.Item.subpath
+          ? dv.blockLink(c.Item.path, c.Item.subpath, false, `x${c.Count}`)
+          : dv.fileLink(c.Item.path, false, `x${c.Count}`)
+      );
+const exchanges_content =
+  exchanges == null
+    ? ["无法通过交换获得"]
+    : exchanges.map((c) =>
+        c.Item.id
+          ? dv.blockLink(c.Item.path, c.Item.id, false, `x${c.Count}`)
+          : dv.fileLink(c.Item.path, false, `x${c.Count}`)
+      );
 const admonition = `\`\`\`ad-quartz-mirage-sr
 title: ${name}
 
