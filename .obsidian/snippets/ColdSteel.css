@@ -22,6 +22,7 @@
     --Treasure-Chest-Monster-Color: #DC143C; /*怪物宝箱颜色*/
     --Enemy-Monster-Color: #bfc8d1;          /*战斗笔记颜色*/
     --Enemy-Boss-Color: #f24a56;             /*Boss战斗笔记颜色*/
+    --Chapter-Color: #c74538;                /*攻略章节颜色*/
     /* End Colors */
     /* Begin Icons */
     /* Art Icons */
@@ -129,6 +130,9 @@
     --Enemy-Monster-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAPCAYAAAACsSQRAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJElEQVQ4T32QaUxTaRiFz3evlgLa1lsMilDbIpVFBKE6qGhEI4wGcUZjXBKXBDWZDGjiGjOJFWLUxCXuqJNJjMFASByXKGbGBY380VAVIwootbRmhluk7e0tbRH7ff6Zi0rMnF9v8p7z5LwvwX+aW1y6Lzt/+qz33Y4Wl6OrxdHxqlnyeT3KXtAnJGTnTJudnpFltWRkTn/W+vxZ7e9n9wDACMUk+byyKiZuwbxFZQsJIQiH+vuO7d1l7e3515k4PmnC+Yt1dq1Wl8gYQ7co0r6m+81KdgjywdNjlyWJczkc1GA2c7Fx8foNlTsazhywFdn2H65XAC7RQ6VgP+d2OuxKlihDjDpWs/aX7T4AnEanoylmEwcAatB36WkWEwPg6hGpPxjkAMBWuTFROXeoyUAkHHC+ba83TkpfE/D7ObfjHZ082cJZjBNNDIBb/AJ43fr02tf/GmoCAIQQklcwd0/uD4XVcXGxfOmPJRipUsEteuCTZTDGaNOt6/tvNtRWUUrpdyGK0jKzyw4eOXldLwhwfQGg7sLp1U8eNdUP9w+dk5rCG2+c1F3dckjeWrB4dZleEOAWPcwnyyQSDoHnRyBrmnXJayninLj9eE2Xbf3KsLO98xtIMMSCGjXTNp4S/m5jhpiXYi/1yjLnfNP5Qg7IU8cIejqhsGRNZtnO5QOyvzfaL8tK9httLuHLo8069vFxEqtrODhQtHhpBSEEmbnWjatsJyIFdz1sxn2JJS+tqBieBQAUT8FCz2kS8h7lo4N3RrPAPW2gMIcvAID4jPy8vEa3N/evPmY89iY672JPZKy1tFTJkp3lo7ZwoUHVtlkfqzgJatGBD7/ZSXlNVexZewdtWbI7vCy1+tJlTU7h/I7qXzcN5FeeG2cwjk9LFga7bh/d+0nFomi/JrRSewLz16hoWznxZAmYAgAJWiIIGqIFAH6UTjNyzFg9ABC9ycJvbvzHfKqLznggsZyGtk6Ykrhk55+j30YfatiGOfx6peL/KX7mzyvy7vlY7pWObnXKJBMAwJxEDC//iHm6rphfOcz/XQlFy37Krm1pVRvSUgHgM29ZXZ3ICXl7AAAAAElFTkSuQmCC");
     --Enemy-Boss-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC9ElEQVQoU02TX2hbdRTHP797b/7O2jRtJG2nlL5tU6hdl9rVQS3E1qorWjpYdahPCoJPgm8KIsjwbfhSEClYC1bUFWYYSdGhdKxr9sfoYLK1ZW6s7dY1TZsmuffmd48P0a0fOA8HzvlyHj5HsQsFaijeOni8te3EwUg0EfX5o3nHLlwt5C9N3/3n25nVOzNaxNs1X2NvMNz8dedzkz0NsX4RwRXBCwdRO2V8CAj8UchfeCd3cWyxVFx+uNwaDMczh/vn9gbD7RrBfXUQ/9EhzPrH8YpF7FQa87vTmNpj3amsDGZ/771ZKi4rBaS6+9K90aakiFA59hqh0WFMw0QZChHB0x6lVBr/+AQKyG0XFvqzv/VYyVg8eTjSmBRPcEwD65WB2kEKlFIgtdb/Yj/2N9MEikWeCdcdej3WMmIdiz/5BiK4WqOtAIZp4eSuoc9mCH/wHqVT45h9z2N0duD5LJyqxqcUo7GWN61n6yJdtni4p07iTUyhz2YwVtZg/hJuYQudvYI2DNgu4saakM8/Qb//IR3hui61dOSlu4Gn9zUbH3+EqTXuwmWsxEEM12VnYoo9b48hPh/O+Xn8XZ3ocAj3sy8IXbxcsTYce6N1I99c/ekMMp/FfOEIemsLr6EB38sD6EAAr1zC0h7OpyfxDuxDrd5jw3Hy1pVCPtu+EjqgUmn0yDDeteuYLXGkIUK1VMKwbfw7ZZxbt6EngTnzM/7V+5zfLmSt6bU7kyNN8bd0MIiZ7MPo7Uanf0G+/Irgyho6GMDp7cYYHsJsewp79hzirfH9g9VJazZ/f3Yuv55JuNWkc2MRzs0RSmWQ/6wySmVI/0rZtjGOj2Bev8FflZ2F05v3flAALf5APLX/0Fzc8rcrBEMAEURqAYjgiaDFY7Pqrhxd+rN30S4vP3S71R9oHm/bP5nYU98PAlKr3QG5cvHCu7f/HltyKo/c/h8FaqC+cXA08sSJjtBjiUbTiuarbiFXLmZ/3FyfOrP1YEbz6Kv+Bd/Gas+dPaxuAAAAAElFTkSuQmCC");
     /* End Monster Icons */
+    /* Chapter Icons */
+    --Chapter-Icon: url("data:image/webp;base64,UklGRvYBAABXRUJQVlA4WAoAAAAQAAAADAAADgAAQUxQSHAAAAABcFpt27I852//j2UakeY6AAmSJd/A3ZK7TaAj6BQsQIJEdnfeGSJiAgCwudV+0xMBgGG0f35fxiam9qTO7aRsl9QSDwkLCcKEPuAglAAzIQEIt/9kACp/pgAgXP84Sr9gvH358Nt7fj5K+K9eWvANVlA4IGABAABwCQCdASoNAA8AAAAAJbACdLoB+ACAFvKQuQH4AfsB0gXoB+wGTGmUD8Of1u1jn8Jdc7/IPxJ9gL+A/AD1BaBn8b/pX5C/1LkAP0aPuxL8V0/2WgAA/vNnMV6z1l6aKTagMRrnmagSKyN/NP/avdFb9wYu/Ew+nPuHVL99TeqE57513i6NFgbIYGaWcLl+ybx/hGFWvLW1teunYJ/+pNUvr/+AA6rWxgSJAzr/ulPu9r44h75GqBg69pv/6DCsXYHQt5xQ9pundX8Xf/7Pq9DBLusrzWZP+1bqU7EwXx6k1ZuKxeIk+X33EAViXBy81JCDBMHJEnnM/v///PjG4jEZAbZ/+JNgB/eleWbRDwi3t+sui7X//eBpnf3W0Hz3tzjt/GQ3PPvampyG/EYfIuXHG/tZVfI2yKDf/92vcn+8h+35jD6QsWcvI09I/94g6Nr/RUc2DvGz+xb4/RWWAAAA");
+    /* End Chapter Icons */
     /* End Icons */
 }
 
@@ -791,3 +795,15 @@ div[data-id="enemy-boss"] div.setting-item-description::before,
 }
 
 /* End Monster */
+
+/* Chapter */
+div[data-id="Chapter"] div.setting-item-description,
+[data-link-id^="Walkthrough.Chapter"] {
+    color: var(--Chapter-Color) !important;
+}
+div[data-id="Chapter"] div.setting-item-description::before,
+.data-link-icon[data-link-id^="Walkthrough.Chapter"]::before {
+    content: var(--Chapter-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+/* End Chapter */

@@ -4,4 +4,5 @@ Aliases:
   - "序章 托尔兹士官学院"
 banner: "![[Chapter 0.jpeg]]"
 banner_y: 0.6
+ID: "Walkthrough.Chapter.0"
 ---

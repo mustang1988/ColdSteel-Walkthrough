@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2740255fc80a70fb",
+        "id": "8daacc5528d7c918",
         "type": "tabs",
         "children": [
           {
-            "id": "3a838d5f23e75f58",
+            "id": "0fd8204c15ed2316",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ],
@@ -126,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "0fd8204c15ed2316",
   "lastOpenFiles": [
-    "Database/Quartz/Earth SR.md",
-    "Database/Quartz/Earth R.md",
-    "Database/Item/Wind Sepith.md",
-    "Database/Item/Water Sepith.md",
-    "Database/Item/Unique Food.md",
-    "Database/Item/U-Material.md",
-    "Database/Item/Time Sepith.md",
-    "Database/Item/Superb Food.md",
-    "Database/Item/Space Sepith.md",
-    "Database/Item/Regular Food.md"
+    "Walkthrough/Chapter 0.md",
+    "Walkthrough/Chapter 7.md",
+    "Walkthrough/Chapter 6.md",
+    "Walkthrough/Chapter 5.md",
+    "Walkthrough/Chapter 4.md",
+    "Walkthrough/Chapter 3.md",
+    "Walkthrough/Chapter 2.md",
+    "Walkthrough/Chapter 1.md",
+    "Index.md",
+    "Database/Quartz/Water N.md"
   ]
 }

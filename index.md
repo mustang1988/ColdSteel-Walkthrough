@@ -63,7 +63,3 @@ dv.table(
 )
 ~~~
 ```
-
-```dataviewjs
-
-```
