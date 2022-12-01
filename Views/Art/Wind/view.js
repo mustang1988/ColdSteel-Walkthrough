@@ -11,7 +11,7 @@ const {
 
 const admonition = `\`\`\`ad-art-wind
 title: ${name}
-collapse: open
+collapse: none
 ${type} : ${range} ${effects ? effects.join(" ") : ""}
 
 ${comment}

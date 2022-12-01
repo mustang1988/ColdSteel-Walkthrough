@@ -10,7 +10,7 @@ const {
 } = input;
 const compositions_content = compositions == null ? ['无法通过合成获得'] : compositions.map(c => dv.blockLink(c.Item.path, c.Item.subpath, false, `x${c.Count}`));
 const exchanges_content = exchanges == null ? ['无法通过交换获得'] : exchanges.map(c => dv.blockLink(c.Item.path, c.Item.id, false, `x${c.Count}`));
-const admonition = `\`\`\`ad-quartz-earth-sr
+const admonition = `\`\`\`ad-quartz-time-n
 title: ${name}
 
 装备效果:
