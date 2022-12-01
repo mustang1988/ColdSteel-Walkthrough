@@ -1,3 +1,6 @@
+/**
+ * Custom render view for accessory
+ */
 const {
   accessory: { Name: name, ID: id, Description: desc, Effects: effects },
 } = input;

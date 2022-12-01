@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8daacc5528d7c918",
+        "id": "986912fbf4db95fb",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd8204c15ed2316",
+            "id": "fbd8b4f4d507b7cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Database/Quartz/Water N.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Database/Quartz/Water N.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Database/Quartz/Water N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Database/Quartz/Water N.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fd8204c15ed2316",
+  "active": "fbd8b4f4d507b7cb",
   "lastOpenFiles": [
+    "Database/Quartz/Earth SR.md",
+    "Database/Quartz/Earth R.md",
+    "Database/Quartz/Earth N.md",
+    "Database/Quartz/Water N.md",
+    "Database/Quartz/Aegis.md",
+    "Index.md",
     "Walkthrough/Chapter 0.md",
     "Walkthrough/Chapter 7.md",
     "Walkthrough/Chapter 6.md",
-    "Walkthrough/Chapter 5.md",
-    "Walkthrough/Chapter 4.md",
-    "Walkthrough/Chapter 3.md",
-    "Walkthrough/Chapter 2.md",
-    "Walkthrough/Chapter 1.md",
-    "Index.md",
-    "Database/Quartz/Water N.md"
+    "Walkthrough/Chapter 5.md"
   ]
 }

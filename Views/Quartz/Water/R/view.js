@@ -8,34 +8,59 @@ const {
     Exchanges: exchanges,
   },
 } = input;
-const compositions_content =
-  compositions == null
-    ? ["无法通过合成获得"]
-    : compositions;
-const exchanges_content =
-  exchanges == null
-    ? ["无法通过交换获得"]
-    : exchanges.map((ex) => {
-        const {
-          Item: { path, subpath, display },
-          Count,
-        } = ex;
-        return dv.blockLink(path, subpath, false, display) + `x${Count}`;
-      });
-const admonition = `\`\`\`ad-quartz-water-r
-title: ${name}
-
-装备效果:
-${dv.markdownList(effects ? effects : ["无"])}
-
-魔法:
-${dv.markdownList(arts ? arts : ["无"])}
-
-合成素材:
-${dv.markdownList(compositions_content)}
-
-交换素材:
-${dv.markdownList(exchanges_content)}
-
+const buildEffects = (effects) => {
+  if (effects != null) {
+    return `
+\`\`\`ad-list
+title: 装备效果
+${dv.markdownList(effects)}
 \`\`\``;
+  }
+  return "";
+};
+const buildArts = (arts) => {
+  if (arts != null) {
+    return `
+\`\`\`ad-art
+title: 魔法
+${dv.markdownList(arts)}
+\`\`\``;
+  }
+  return "";
+};
+const buildComposition = (compositions) => {
+  if (compositions != null) {
+    return `
+\`\`\`ad-sepith-water
+title: 合成素材
+${dv.markdownList(compositions)}
+\`\`\``;
+  }
+  return "";
+};
+const buildExchange = (exchanges) => {
+  if (exchanges != null) {
+    return `
+\`\`\`ad-upgrade
+title: 交换素材
+${dv.markdownList(
+  exchanges.map((ex) => {
+    const {
+      Item: { path, subpath, display },
+      Count,
+    } = ex;
+    return dv.blockLink(path, subpath, false, display) + `x${Count}`;
+  })
+)}
+\`\`\``;
+  }
+  return "";
+};
+const admonition = `\`\`\`\`ad-quartz-water-r
+title: ${name}
+${buildEffects(effects)}
+${buildArts(arts)}
+${buildComposition(compositions)}
+${buildExchange(exchanges)}
+\`\`\`\``;
 dv.paragraph(admonition);

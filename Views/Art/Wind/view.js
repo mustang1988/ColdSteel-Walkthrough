@@ -1,3 +1,6 @@
+/**
+ * Custom render view for art of element wind
+ */
 const {
   art: {
     Name: name,
