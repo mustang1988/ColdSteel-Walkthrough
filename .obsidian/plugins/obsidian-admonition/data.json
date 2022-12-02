@@ -809,6 +809,18 @@
       "title": "rod",
       "injectColor": true,
       "noTitle": true
+    },
+    "u-material": {
+      "type": "u-material",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,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",
+        "type": "image"
+      },
+      "command": false,
+      "title": "u-material",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
