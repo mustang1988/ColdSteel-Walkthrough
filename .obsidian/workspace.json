@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c057ac1456140ebd",
+        "id": "f9b0cf5741b6f244",
         "type": "tabs",
         "children": [
           {
-            "id": "73973cc636a3e8c4",
+            "id": "4c3b1247e95571ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73973cc636a3e8c4",
+  "active": "4c3b1247e95571ed",
   "lastOpenFiles": [
+    "Database/Quartz/Water N.md",
     "Database/Item/Fish Rod.md",
     "Database/Item/Unique Food.md",
     "Database/Item/Regular Food.md",
@@ -139,7 +140,6 @@
     "Database/Item/Attack Food.md",
     "Database/Item/Food Ingredient.md",
     "Database/Item/Potion.md",
-    "Database/Item/Mass Sepith.md",
-    "Database/Item/Earth Sepith.md"
+    "Database/Item/Mass Sepith.md"
   ]
 }

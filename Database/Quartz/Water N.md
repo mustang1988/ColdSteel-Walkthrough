@@ -60,6 +60,108 @@ Quartzs:
     Compositions:
       - "[[Database/Item/Water Sepith|x150]]"
     Exchanges:
+  - Name: "大回复术"
+    ID: "da-hui-fu-shu"
+    Arts:
+      - "[[Database/Art/Water#^da-hui-fu-shu|大回复术]]"
+    Effects:
+    Compositions:
+      - "[[Database/Item/Water Sepith|x300]]"
+    Exchanges:
+  - Name: "复活术"
+    ID: "fu-huo-shu"
+    Arts:
+      - "[[Database/Art/Water#^fu-huo-shu|复活术]]"
+    Effects:
+    Compositions:
+      - "[[Database/Item/Water Sepith|x80]]"
+      - "[[Database/Item/Space Sepith|x80]]"
+    Exchanges:
+  - Name: "圣灵术"
+    ID: "sheng-ling-shu"
+    Arts:
+      - "[[Database/Art/Water#^sheng-ling-shu|圣灵术]]"
+    Effects:
+    Compositions:
+      - "[[Database/Item/Water Sepith|x400]]"
+      - "[[Database/Item/Space Sepith|x100]]"
+    Exchanges:
+  - Name: "HP1"
+    ID: "hp-1"
+    Arts:
+    Effects:
+      - "HP+500"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x120]]"
+      - "[[Database/Item/Earth Sepith|x30]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^gao-ya-shui-kuai|高压水块]]"
+        Count: 4
+  - Name: "HP2"
+    ID: "hp-2"
+    Arts:
+    Effects:
+      - "HP+1000"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x320]]"
+      - "[[Database/Item/Earth Sepith|x80]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^hp-1|HP1]]"
+        Count: 3
+  - Name: "魔防1"
+    ID: "mo-fang-1"
+    Arts:
+    Effects:
+      - "ADF+10"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x100]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^gao-ya-shui-kuai|高压水块]]"
+        Count: 3
+  - Name: "魔防2"
+    ID: "mo-fang-2"
+    Arts:
+    Effects:
+      - "ADF+20"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x250]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^mo-fang-1|魔防1]]"
+        Count: 3
+  - Name: "魔防3"
+    ID: "mo-fang-3"
+    Arts:
+    Effects:
+      - "ADF+40"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x600]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^mo-fang-2|魔防2]]"
+        Count: 3
+  - Name: "封魔之刃"
+    ID: "feng-mo-zhi-ren"
+    Arts:
+    Effects:
+      - "普通攻击·战技附加「封魔(10%)」"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x150]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^hp-1|HP1]]"
+        Count: 1
+      - Item: "[[Database/Item/Accessory#^da-li-shi-jie-zhi|大理石戒指]]"
+        Count: 1
+  - Name: "冻结之刃"
+    ID: "dong-jie-zhi-ren"
+    Arts:
+    Effects:
+      - "普通攻击·战技附加「冻结(10%)」"
+    Compositions:
+      - "[[Database/Item/Water Sepith|x250]]"
+    Exchanges:
+      - Item: "[[Database/Quartz/Water N#^han-shuang-zhi-ren|寒霜之刃]]"
+        Count: 1
+      - Item: "[[Database/Item/Accessory#^liang-shuang-xiang-lian|凉爽项链]]"
+        Count: 1
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
@@ -102,3 +204,63 @@ const quartz = dv.current().Quartzs[6];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^zhong-hui-fu-shu
+
+```dataviewjs
+const quartz = dv.current().Quartzs[7];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^da-hui-fu-shu
+
+```dataviewjs
+const quartz = dv.current().Quartzs[8];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^fu-huo-shu
+
+```dataviewjs
+const quartz = dv.current().Quartzs[9];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^sheng-ling-shu
+
+```dataviewjs
+const quartz = dv.current().Quartzs[10];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^hp-1
+
+```dataviewjs
+const quartz = dv.current().Quartzs[11];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^hp-2
+
+```dataviewjs
+const quartz = dv.current().Quartzs[12];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^mo-fang-1
+
+```dataviewjs
+const quartz = dv.current().Quartzs[13];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^mo-fang-2
+
+```dataviewjs
+const quartz = dv.current().Quartzs[14];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^mo-fang-3
+
+```dataviewjs
+const quartz = dv.current().Quartzs[15];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^feng-mo-zhi-ren
+
+```dataviewjs
+const quartz = dv.current().Quartzs[16];
+await dv.view('Views/Quartz/Water/N', { quartz });
+```
+^dong-jie-zhi-ren
