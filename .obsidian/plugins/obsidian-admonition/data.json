@@ -797,6 +797,18 @@
       "title": "potion",
       "injectColor": true,
       "noTitle": true
+    },
+    "rod": {
+      "type": "rod",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,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",
+        "type": "image"
+      },
+      "command": true,
+      "title": "rod",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,
