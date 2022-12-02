@@ -785,6 +785,18 @@
       "title": "food-ingredient",
       "injectColor": true,
       "noTitle": true
+    },
+    "potion": {
+      "type": "potion",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAABXxJREFUSEut1mtsU2UYB/D/e3raret1bdd1vYzBLmWTbR2MVpZsMFAQIdNtbHLzwmVqDIaLgoLEYIxgFAQEg0SNjqARMXIpiBhhGxuMMtkAZQtTYGNjFza69qzt2p5zegwfJEFxAuH9+H54fnmS9/k/L8FDOrW1F2Lj4mIcNK3EwcOH0ev2NruIp4s8pPq40nrldVWseoOXCeP9jZsgV6q2KBLitj0UoK+3d6Vapf0gIvBo/eMCVry2CnS00h1nMM5/YMDj6VjFhnzSG/2e1PTRtnnnzzbhWnsP6s8cx+Wr1xCj0LkVqrgHA+rqjs7LHZ+zu3L7WoTEMkzITseBvT8A4kS0dffhxs1+5OVPOVT42Mw1991BR8fFFC4cqTaZjaYNy4oxEKFg0Crx+/kmBKFGkFch4xFb/fSZpZMLCwuD9wVcbDydoTNYTvj8jPbCrydgUPuwZfNW2LLsCPMB+IIRTCicdaSkfPGTfz+efwGXqibpFFZFgKIKSDzbFbnU+CPd3ekWEifumaa32Lb5fYGE7utdWLG8Apu3b4KvuwlbPtyGcY/mIhDkkDluUlb5/BW/3RXwMd+flsmS0iAEeZ71R6iwG+3Nx3HqZKvInDE/Nn/aHPLcs3PJgoVLEBMVha2bNmDJ0qXQaii8985qWFOtKC8ry7fmltTdAXRdmqPTJ68/JPCMg/BXQYmDYDrbcaWxHkecZ3CmoQcVazdG3J4gmq+0UnVVLnz21deIEBHWrV0JNhyGNU0Pa+ool9mUWjL1qUVdtwF3z5eZCs3I3RSVlBViLgDUZVCiZng6XBj6M4C6U14cqfVCb06B44kinGvuhEKmxcnaBix78w18u+tzgBDk5Tmer3j5rV3/HFzi7dhhF0RilyIuC+HeY2CHeiFRN8HdN4iNbzejrS0IIqYxyESQmulA8YLFcB6uAs8JqP7lZ+Tk5KCkrPSV4lkv7bhbKhDnjly7MT3DlT3egWDXfhDNRFzvHMCaik2IldEgtAi8AAyFRehzh2BJzkbJvCLs3X2Q0ySkYfYLFa86Jkz59L8ih1SuM9vTcjNctjwtIkPXsLeSgZRWQ6/346cDLRBAEGAFDAY4hMMAH2Sh12mQoFFwMkVM1bKdLVOHyzOy8mnY7I5RDaUv2uiaw+1oqm5Gbw+LbEcGrFnR2L+3Ab5BgkCIQiDAwWqOhkHBwyIXc9bxOc6kuSdL/hcomFTQYBkppqudx6BXqxGM8Dh3cQjWsQbYxihx7GgrenoE6A1i6CVhjNBJYNTIOU1i8oERs12zhgU+WgS70ZDo6r85CAp+SGgxhAgQhhSNLQzSUuWwZytRXXsdmaMkCDF+5GaqQMnCnCZxwj5twfHyYYHK5VI7y3KuGJkIHo8AP0shSiKGQFh4Bim0d3MwJ6Ri+eoyOD9ZjySdANMoKSQKlpPqx+/T5dcMDzjXie20ONrV1zsEQkXhho/AF+Igiabg80bQ72NhUsZCRg9hdIoOKZYEgOoHEfciSjvGOWJ6fdGwHZz4WGoHJ3ENuDkwXh5EqgTDy3D+YicITyMn04yQxwPvzX5IYgCzVgaLxQhTogTxBSucctPC4YGqnZmjjdqYbW1trZOD/iDp7g8RjT4dA14lFAoNfFfPYYDpASWKQKUgMMkJR4uikf74M6xlbKmDGGbcDra7Dtqty9qd4xK1OmXNpZazI8Q0RW72BWCzFYAVgKYaF7gwDxHNIV5GECsVIqpkG5Kzptnkee8OW/xW7dtxffa7ohSBZZx+z1m1OMJx8XFymkIYcmkCx/hEGOSSKNYzAIHpEcxjC1cZZ3zxzb18GO7YB417phaE+0+JaHAwGKIBBMFzKhEHGcRxxSLe7cZARwuVM2uxi1gWu+8F+AvP/zvSSwm/NQAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": true,
+      "title": "potion",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,

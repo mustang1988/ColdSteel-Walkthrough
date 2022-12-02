@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18e807aa4116b77c",
+        "id": "bd62a302bdf1f3ae",
         "type": "tabs",
         "children": [
           {
-            "id": "69bcf2f18d431e42",
+            "id": "2f59808ec77eed19",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,8 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69bcf2f18d431e42",
+  "active": "2f59808ec77eed19",
   "lastOpenFiles": [
+    "Database/Item/Potion.md",
+    "Database/Item/Unique Food.md",
     "Database/Item/Food Ingredient.md",
     "Database/Item/Mass Sepith.md",
     "Database/Item/Earth Sepith.md",
@@ -138,8 +140,6 @@
     "Database/Quartz/Water N.md",
     "Database/Quartz/Earth SR.md",
     "Database/Quartz/Earth R.md",
-    "Database/Quartz/Earth N.md",
-    "Database/Quartz/Aegis.md",
-    "Index.md"
+    "Database/Quartz/Earth N.md"
   ]
 }
