@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd62a302bdf1f3ae",
+        "id": "1cdbf61a78cf0afa",
         "type": "tabs",
         "children": [
           {
-            "id": "2f59808ec77eed19",
+            "id": "9f45efc378d15554",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Item/Superb Food.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Item/Superb Food.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Item/Superb Food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Item/Superb Food.md"
+              }
             }
           }
         ],
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f59808ec77eed19",
+  "active": "9f45efc378d15554",
   "lastOpenFiles": [
+    "Database/Item/Regular Food.md",
+    "Database/Item/Peculiar Food.md",
+    "Database/Item/Attack Food.md",
+    "Database/Item/Food Ingredient.md",
     "Database/Item/Potion.md",
     "Database/Item/Unique Food.md",
-    "Database/Item/Food Ingredient.md",
     "Database/Item/Mass Sepith.md",
     "Database/Item/Earth Sepith.md",
     "Database/Item/Book.md",
-    "Database/Quartz/Water N.md",
-    "Database/Quartz/Earth SR.md",
-    "Database/Quartz/Earth R.md",
-    "Database/Quartz/Earth N.md"
+    "Database/Quartz/Water N.md"
   ]
 }
