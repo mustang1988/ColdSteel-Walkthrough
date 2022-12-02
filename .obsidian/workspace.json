@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b0cf5741b6f244",
+        "id": "f7b249a1e1ee6b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3b1247e95571ed",
+            "id": "12675b41df34b6c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "adb1521153f8552f",
@@ -129,8 +130,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c3b1247e95571ed",
+  "active": "12675b41df34b6c0",
   "lastOpenFiles": [
+    "Database/Quartz/Water SR.md",
+    "Database/Quartz/Water R.md",
     "Database/Quartz/Water N.md",
     "Database/Item/Fish Rod.md",
     "Database/Item/Unique Food.md",
@@ -138,8 +141,6 @@
     "Database/Item/Superb Food.md",
     "Database/Item/Peculiar Food.md",
     "Database/Item/Attack Food.md",
-    "Database/Item/Food Ingredient.md",
-    "Database/Item/Potion.md",
-    "Database/Item/Mass Sepith.md"
+    "Database/Item/Food Ingredient.md"
   ]
 }
