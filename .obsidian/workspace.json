@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd77681a07af3a68",
+        "id": "68c43c0a13ea36a3",
         "type": "tabs",
         "children": [
           {
-            "id": "33ef2fdca55f341d",
+            "id": "f8c1e30f00588cdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Quartz/Wind R.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Quartz/Wind R.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Quartz/Wind R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Quartz/Wind R.md"
+              }
             }
           }
         ],
@@ -129,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33ef2fdca55f341d",
+  "active": "f8c1e30f00588cdd",
   "lastOpenFiles": [
+    "Database/Quartz/Wind N.md",
+    "Database/Quartz/Water N.md",
     "Database/Quartz/Fire SR.md",
     "Database/Quartz/Fire R.md",
     "Database/Quartz/Water R.md",
@@ -138,8 +148,6 @@
     "Database/Quartz/Earth N.md",
     "Index.md",
     "Walkthrough/Chapter 0.md",
-    "Database/Item/U-Material.md",
-    "Database/Quartz/Earth R.md",
-    "Database/Quartz/Earth SR.md"
+    "Database/Item/U-Material.md"
   ]
 }
