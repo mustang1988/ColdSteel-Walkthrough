@@ -52,7 +52,11 @@ ${dv.markdownList(
       Item: { path, subpath, display },
       Count,
     } = ex;
-    return dv.blockLink(path, subpath, false, display) + `x${Count}`;
+    return (
+      (subpath
+        ? dv.blockLink(path, subpath, false, display)
+        : dv.fileLink(path, false, display)) + `\tx\t${Count}`
+    );
   })
 )}
 \`\`\``;
