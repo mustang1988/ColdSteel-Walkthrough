@@ -2,7 +2,9 @@
   "accentColor": "",
   "baseFontSize": 14,
   "enabledCssSnippets": [
-    "ColdSteel"
+    "ColdSteel",
+    "ColdSteelCharacter",
+    "ColdSteelCharacterImages"
   ],
   "cssTheme": "Minimal",
   "theme": "obsidian",

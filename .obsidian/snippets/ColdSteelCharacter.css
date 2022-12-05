@@ -1,0 +1,111 @@
+:root {
+    --Character-Rean-Icon: url("data:image/webp;base64,UklGRvABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/zemgZaURkb3OAABWUDgguAEAAPAMAJ0BKhIADwAAAAAllAJ0yhHce4DBJckA5272KP1y9DO2AP1m7AbuF6c5IJ5X+Gf616YD+V/jv+EGWifi7qJP5Aa5H+k/kz/VfaA8o/yX/gPyA+gL+Hfxj+t/lh/Y+QR/SU+4GXKVfgcOS9EdaCgA/v//H8abS1sxgjNBebT6WiNztdZERqGx0alykXvZ8UIpdOtUHJ1X9DSo1w8j8SbRl8I+G9oEQ7O6yx51CSKeKghzvRQxf4pQ4404BRJS1QOj+5z/6D3VbGhvTY27XBes/4epeml9qOQaaQCf8we617fmIkYtkopWkB3F0naBfEz2taUj9o/X+BCwO2Rw2zzTfMHq0fhX2EiQBmNqUlIeEGKDZi8DiCEAII/oa/tf+4ZzGOf/5bNlbe3aY3qkCa6c+TmkJrGR7k2Lo0twn6Gh2FRQgmOfAAHtBm0NDoULybN39zdLn+/wbOn9gq2f+oMM+cQ4ZYPRJoN51ga/+mys5lU27IPVONOt/83G8HpjzlP8+p9BzNPISwDmlWNm4BnAdZBA/8qiAE0TlNEd0Glo0Gq4QxI5ZiKsCp/jF9Ci/pL+MX0KLqAA");
+    --Character-Alisa-Icon: url("data:image/webp;base64,UklGRggCAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/umXf3cHCoxExAdfzU+4BVlA4IMwBAADQCwCdASoSAA8AAAAAJQBOmUGMHgBfAPsA3SXbM90r4AD9QPSq/Wb4Iv2G9FK0QOYlx0v4gfsdPO343akBqSf7N9oHTc+QP7J+Uf0AfxP+Of2H8tf7fyCf6UG30KUJ3pTPzmfdqFbAAP7//wTU8o5O/u1XAKtqr71Aj/+UyyNdrclREJCQP2Xf4fb1Fkf7HWoEJcApUo/1zdm+AUH9gF2vW9f19JPjq97xPJRhHvQwt3/+aBtnY71e3USLie/84XPf/lxQGL//LeGbQJfV4rYdZ+s6dGFcJRa0teqVcf/hO/x4YkSrGKl/y7ofGP/V6PgOB9APJUAIHeTq/+9LC30/X+n6xfAEq74dn3kuuf5wIv/8psccLPldKAXNr5xPV9QY1uSWMQX5XuzT3Qhoy4WcHfQL3cMh9/n5txLjPAYwrCDSIyz6Ly4MntfuC/l/thp3Q54NytYBfhys/jC034ZouJt3vpGlbedG1U5V8Z+Afl84g2bV/QefM/DihpRyH90GXLnULRp79P/6a8TGm2OAw3U5/20k4+74KBA53y+fFBbRWegIuk/yhcDJIi5ZJtB1j4FNBypidNLgAoNKEGGATnAL/AS9BgLIAAAA");
+    --Character-Elliot-Icon: url("data:image/webp;base64,UklGRvQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBQAAAABUNq2EbT/yH0PFh6NiAm4vZ/SDlZQOCC6AQAA8AoAnQEqEgAPAAAAACUAWIXhKgFwAf0neQOAA/QDrDf1u/YD2YKBA/VXLVPRPxG/ICedtFr1Cf+K/FXoxfKX93/ID6Bf4h/JP7F+Wf9z5ED9OTidBFvKvMkt8RYAaQOAAP7//yrobcXGa7vmV4snoIBAqiRVUYO/62/zHv0Je3nKdut0FP/6CRLTW0beP8XTI/pa6c8j//tTrSUivQ+XxX/eWm454cSfZK9v147gCt+4eTZrc5O/aJs2Wu2/9fUYTfc97H+7yorXdqm0SB1w/E0KGA//2QDf4hYzfZefX29sLvz6f/qSFRR/xnnv6d6lqGHispov/hLMlMO3Vw/5aOn19Vw5eIXKaLlDmvDOtNsZ83sYUkATUy7l2dvZORhT9+JWD3j9v1n/e3/uGBZ7jgqFKJC5Ovj/8YvT3xH0w/+uboNXmX/FOp2HsHP+mbhE0BgtnhXuQqKNL6OTc1jfU8dUqG//nMdw/850x//4iikgTYgP/86DeU91XT8jZ5HE95rUKl/4gJ0VQ9N48XK8C8GLVDf2M1E0mVtoagD8W3dZmwjCfNAlHKv7O89dnSM97tt/DiHRWiMAAA==");
+    --Character-Laura-Icon: url("data:image/webp;base64,UklGRu4BAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/zemgZaURkb3OAABWUDggtgEAAFALAJ0BKhIADwAAAAAllAJ0ygxgoyv9QKok/Zn9YPZNpQT0D8Occp+IH7HaJb8dPyAoAD+q/kBrsP7t5QHlH+R/7H+QH0B/xP+Kf2H8uv8ByFf6mmtHoCopkiJVK/5YdHacAAD+//8q5Nsw/mH8VL1KyE37IHfcLinjTH7fAEuuLDQz5O//Go9j5oK4nBXeiP845lhKH/+rhJ97YXxvd7cr//7UQ//nesJ9ookXLQMOujm2cy6n//0LJuvmTGSR7jl7edNJkKOFTyuuW+BQ/9qrFn4ZvWhbVfkyVptPX15NK4W/gvhFzWcOvA/gkIGpawRIEr3e3JH9Xn/DB//smUuKzm6onxf8+0mFg8bguGvfMzJUH4YfScn/pQRDxZt3PWxc+fP7f+hnjYNTgtUO/OP/1asJRH/SfK7l2S5k60a3+MGJmI5tWh/985s/4baHY02ov9pP+DWW2/12s7/8JC2g/hvtV/WTTB3T62iXC6784VB3937bglopl1fCfq54j38/+liVVubbRurQGdzDzOOvKauMpr4G3QDRpj+HTSLeTU2YfkNenlougt/vrqkVM85kzqAAAA==");
+    --Character-Machias-Icon: url("data:image/webp;base64,UklGRt4BAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBUAAAABUNq2EbT/yH0PFh6NiAnIjtvzKAMAVlA4IKIBAAAQCgCdASoSAA8AAAAAJZwCxC8FbgZKB+0Hoq0BL+wGWqeRfh3+M2oA/nn4x4qrqNf43a5P+7eiZhAfkB9AH8W/jn9l/Jn+ychX+mZ9wNWLfptcAAG/Q2FUAAD+//8cuj3uhoMjlEqsP+6jqMDKPFla+AXCfw+H86CBsdMsW8moQ2a3/9FBI6GnCZtvCLC+rKSrz1vYFvZxLD5NW0iv9//6GTBnl9iNsxTZf9qmP/B5Cp//5gsDGqbNTuif/2tUalW9/6a02cOTR414Ftj/7I5GNPZW88hiV5HjV6JuOgulm4RFBbDWNrI3n5K8gn3rzOM+kzorRDGT7L0nb/bTW+eKL7mjx7Ip0K7fdiO4+0WaOpz/8zbJ7Ql5Vxf5+O8SFTyNafRAv/k725oM6QdO/8LvDRvcy6Q6WzgsqOswfxl3O/jPCfCye433ndH5m7yfSD8QMEfkDrxFBiSR3qOeDIDbvBS/41W+1E9tAG8Chf+OIBO+5zcxqjq0Dw1KqKIM8YaqTMyP9u4b//5EZI0SU9EGlrCz8PFtw/q+3XutcXVwAAAA");
+    --Character-Emma-Icon: url("data:image/webp;base64,UklGRvYBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/xv3uDhYejYgJmOv3UXAPVlA4ILoBAAAwDACdASoSAA8AAAAAJQBOmUI4ECgV3/pgG8UfsN6N1HA/FX9gMlL+IGiA+1X9gMsn/Y/yA1QD+ufirrov7t+N3vI/yvll+R/877gv8Y/kf9u/Kr+wchf+nJxOiD9uaBP1ed8Z2mAO+OfgAP7//yun1aqDSax/NK9Hlw8nz+q4Mf1kf/9g0j5ThfXSa2f/9IMpu2Qv7FjfC5sf6mfTzdNgfVDI+MFz/U5Rfhm+iViAG8wlmi+5HfOv37BQ37dzZ/IJDOfHorkbWuVjV0UiH/7folRIosZv7avpE6n0ttV0iZe/IggeIaUBdee5O7Xg2+SdeiotRqfD+Ufn3KMF98y5WX1s1E8vnIYeYTXFQ+87C2X/mXWq+BMwbnt9a0PFoVpFlAYrMCqyBXxwj6+HQRJftOkHufimlPx7/wvKCcw8XJYejdf/cb6yaDMMBjVld89bxjhu1T95NSuo/3qxP/pfjijtKd9ceo/zbb2tqGPdnZulBHO/3//zFMk3H+ifQn/DLHg19o/6ZgX+Y++/Z/EPZoPAPBhduGMHGj0TzHr3WZ2ES3GO/rXJtkr+GW0hfEKz4BNAcIfKRgAA");
+    --Character-Jusis-Icon: url("data:image/webp;base64,UklGRvQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/y52wsDQiste5AQBWUDggvAEAABAMAJ0BKhIADwAAAAAljAJ0ygqAC5Td1A4ADydPY+/Vz9bvZ4oADJBPIvxP/XLRJ/h3+TOWx/kBqiH931JP9N9FL+O8rnzB/Vfxm+gP+J/xz+7flf/TP//ymf6QH3Hj78YnD0O6i4bssAD+//8oEudNhU5egW3379Lvfjf8wOpxKLccjfn8NPZdTYZRmZ0AJ+3v/8BN0XW4H72v7MKDYIjuAJOAo2QTDPzbSH//5zj5gNUya7XP1mnW+3XS0leYa92OhmLcZpHkk9iw3l5bb/4H3KAIXz+tMsdyZM4Y/XuIj4winwQ20ipKWoJs/65bIMqaSaBXMmmf45GliWdB8dT/rCl/fOZ3v+c25cZvIL+qyse+2nj3+dVRh+h5VNrjN2MzfHpRQgR3KDZXYSU3gW0s4nAoMv0//+/v6+Xf8fevwdzTP/pZLo2vMic7IqDdgfDPP1Jn/zjzW1HfkzcYvdBJhLdRetZ7dl74QW24mesvqAW4U4pn2LZX+PEkm6tVzORivy4G9tLMdO7jwb2hE09fIV4ocuPl4P2/Jm5BrFwPwbBayHhNYTa5SVfBCik6B/06eleXH9Onn4AAAA==");
+    --Character-Fie-Icon: url("data:image/webp;base64,UklGRrYBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBQAAAABUNq2EbT/yH0PFh6NiAm4vZ/SDlZQOCB8AQAA8AkAnQEqEgAPAAAAACWcASLOTQNN39k38AK8B+AHPN+oH7AZaz65nAP61+I35AT7XqO/8B+GfSG+ZP9J7gf8Z/j39l/Kr+48hf+nJ3TcREyLQKofsTZIUAD+//8f8MhGh+0NRxsnhAddNuX1t1Tj49X9jL9v2Lx/8c+J0/OITuE/e6tRovO5I+fkf952J1H6Tofy/+/SGe5ngr46cmk3l6r9OEGeJTemIAJltCvf/+1tqkww6Th6x79v3APp2O7enxwO+TOYuRUwD9//wQP/0t508DHRApFQar7Fv9fKSEGoqCs0C4gAFn49tzJEoSG0r4fmkR/hEjRr/PwL4vGBOelDXCBz7/sOf68lfOr1pp6Kbdekc8Gf/6gjBN9TKx98MegP6uf0/d9Pb/zPlJ43ue+tJpMiS3h7uXN0vbmUP7oyKbEofXEPkbsRUqP5wPH+kuRm6gifJ/8TtOpz6KKFbGbe2idR4xJYT0rwcICMq20BhUuXuc0GUw4AAAA=");
+    --Character-Gaius-Icon: url("data:image/webp;base64,UklGRgICAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABINK28S92szB4eBoR2XWcAABWUDggygEAAHALAJ0BKhIADwAAAAAlAE6ZQjgQqX7M3qAdZb5NNsAciB+quWCeH/jh+x2jL/GvJH/1DRKPx011v9c+0n4Gc3fyr/QPcE/iX8j/r/5Jf3b/28ox+jR7m733Qx7WpwzUbvA3qAAA/v//HK/ichQev/EQdjnnH1RgXVQSF6AUJBvRfmT5bwBR+XjhJ9v4ORvKc9iUXw11M2f/I58GaObT//r7+n/3e+/0MaW3MaBGx//p5f/9vf66cuYRUrK9HbXFP2bve1P3F0AaGQ1Hu99CyZCEXSloLX/8Tv90NXRQd5bILqvhMx7sODoFFoIf1sseJrcjLUe7jVVt//8mhGXbgcRF4izTFvB7iX6YCT7skT1c2ui/dJbNCttn4Y3BRiZbEpxYxU23mUQzPe5oPf3/9c8Dz6y10PHOfFa8jr5r9T0qeOP1Xn49qPvX2//fEdOPzKP/l8saNMFCt3O3vs20f85jd/ptnKnbcEXr+Tt/flRiD8z+Gtv+J8/+IziT4Lho3MRGxFempQZv//FpWhaLvFz0P07P5//67qnH04dZfJjKovZOqJSTjeN2VAvWckpj79B/ZThSCe5n62IN2cHr09Pz0bKxkPGESQAA");
+    --Character-Millium-Icon: url("data:image/webp;base64,UklGRgwCAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA4AAAABEBIQ/w+rqqZGRLpOAFZQOCDYAQAAcA0AnQEqEgAPAAAAACUATplCO49wH8Awiv9AN9m4AD9M+sn/Tz/O+pncpeTC9Vf1Vy0rzn8gPxJ1AH85/En8gMs7/GbVAP8B+JOuP/qH46dGL5J/s3uBfxD+P/1L8ov7B/9uUA/UY6c6mbGJ3rJf9Q7V6AAA/v//Ir34g4xVP4V/J69/WffdYgEKPwx1InUUz6gbBep4TSpxJSPT/C/1nwvzM21rrp5LsaKBluHmNQqR8PEnSlCZ5bz1WiGz6lRjuEHBvmqXedFIiv2ZLKhEGQAVmvNLS3v31B/Ex93t+r///4uGqTV//dDcxjOHhKNtxiLM8wyEc6LRi4rXOJeLgfLnh55/8lIc2qH2a7FMNF/rlV6vrI2HA/7uK7MOOqO29nMVUZCImnlvJ/9oCP+jGTj8gOELdWYCIuTrN1LuSJ45+5Pwmj9emeq1dq97otE/v8GczD3Un+L8X/ocg4TL5BlLY3D4v3hlnqqm/V3jkGy9/nQz/aNu+MsmXFs1O/3o/L+9u93E3Xr/+LBL/n8P/f68Q42l29vbmXk56f6lhzqlNamLHkX/4rjXSHABN8V7G8fMPo1mA6mhTHWDfipZhkk+pxn7YMTRguSCazTA8On2B1kTA6pAAA==");
+    --Character-Crow-Icon: url("data:image/webp;base64,UklGRuYBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBgAAAABUNo2ErP/to96g4FPI2ICPLAcz7/0YAVWUDggqAEAANAKAJ0BKhIADwAAAAAllALELwYn/0VWScftv+s1WAdMf6c5Kp7NnAP5B+QE6Af0T8dNkA/h/94+4D4EM5rxn/YPcD/jv8j/sn5Yf3rkAP1cNvrrCNe/Ew3TNm/VXnYAAP7//wUV8Jnd3ETElMnYq+eKd4eWnaFioBRPFIf1lpNbRy4sgr/w1Pwq139dgRna/3OkDGs98aOoMGjsYj1oTpTg86bIx4P16sX027cJAL5S0abCt3B1IP/9Jxs7KV64X4zHgbGplHfvezDNBHzaEPtP3658yhZ+Pi2Tra3vP+Rww5/8zzt28ukcZfLYb2Q+CjvSktek9232w12Hj/9TPc2AWd+RETqyP2v/zy8RmFkTxx0pvLyTLrOg9mc5D9mKSHx0Nf4J3hfJ8Vqn4L71GPl/fxTHES8GIFOK/HkLzr2UosLom9ZbH+0vyjFeI/dayinfWBg1dXO+a49kxxiPzd5g/prfb39awD/BtQ/d97u9bkxIe7r/6/9MCVrN4dK02twJu7i8SYGGNEvpp1TupAEY5pNWacy16ggtxb/o9DV2nunBDkrAAAA=");
+
+
+}
+
+/* Begin Common */
+.character-table {
+    width: 100%;
+}
+
+.character-table tbody tr td {
+    border: none;
+}
+
+.character-image {
+    width: 30%;
+}
+
+.character-desc {
+    width: 70%;
+}
+
+/* End Common */
+
+/* 黎恩 */
+div[data-id="Rean"] div.setting-item-description::before,
+.data-link-icon[data-link-id="li-en"]::before {
+    content: var(--Character-Rean-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 亚莉莎 */
+div[data-id="Alisa"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ya-li-sha"]::before {
+    content: var(--Character-Alisa-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 艾略特 */
+div[data-id="Elliot"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ai-lve-te"]::before {
+    content: var(--Character-Elliot-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 劳拉 */
+div[data-id="Laura"] div.setting-item-description::before,
+.data-link-icon[data-link-id="lao-la"]::before {
+    content: var(--Character-Laura-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 马奇亚斯 */
+div[data-id="Machias"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ma-qi-ya-si"]::before {
+    content: var(--Character-Machias-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 艾玛 */
+div[data-id="Emma"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ai-ma"]::before {
+    content: var(--Character-Emma-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 尤西斯 */
+div[data-id="Jusis"] div.setting-item-description::before,
+.data-link-icon[data-link-id="you-xi-si"]::before {
+    content: var(--Character-Jusis-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 菲 */
+div[data-id="Fie"] div.setting-item-description::before,
+.data-link-icon[data-link-id="fei"]::before {
+    content: var(--Character-Fie-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 盖乌斯 */
+div[data-id="Gaius"] div.setting-item-description::before,
+.data-link-icon[data-link-id="gai-wu-si"]::before {
+    content: var(--Character-Gaius-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 米利亚姆 */
+div[data-id="Millium"] div.setting-item-description::before,
+.data-link-icon[data-link-id="mi-li-ya-mu"]::before {
+    content: var(--Character-Millium-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 克洛 */
+div[data-id="Crow"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ke-luo"]::before {
+    content: var(--Character-Crow-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}

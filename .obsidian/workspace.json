@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3171c6c2e99944be",
+        "id": "57b5bb4f072273d8",
         "type": "tabs",
         "children": [
           {
-            "id": "6e97f9255af35ae5",
+            "id": "885d93728539d7f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Character/Crow Armbrust.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Character/Crow Armbrust.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Character/Crow Armbrust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Character/Crow Armbrust.md"
+              }
             }
           }
         ],
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "885d93728539d7f6",
   "lastOpenFiles": [
-    "Database/Quartz/Mirage SR.md",
-    "Database/Quartz/Mirage R.md",
-    "Database/Quartz/Mirage N.md",
-    "Index.md",
-    "Database/Quartz/Fire N.md",
-    "Database/Quartz/Fire R.md",
-    "Database/Quartz/Space SR.md",
-    "Database/Quartz/Space R.md",
-    "Database/Quartz/Space N.md",
-    "Database/Quartz/Water R.md"
+    "Database/Character/Millium Orion.md",
+    "Database/Character/Crow Armbrust.md",
+    "Database/Character/Gaius Worzel.md",
+    "Database/Character/Fie Claussell.md",
+    "Database/Character/Jusis Albarea.md",
+    "Database/Character/Emma Millstein.md",
+    "Database/Character/Machias Regnitz.md",
+    "Database/Character/Alisa Reinford.md",
+    "Database/Character/Laura S Arseid.md",
+    "Database/Character/Rean Schwarzer.md"
   ]
 }
