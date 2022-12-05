@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0a04f0dd8eeb35",
+        "id": "cd77681a07af3a68",
         "type": "tabs",
         "children": [
           {
-            "id": "22a430ee340a3129",
+            "id": "33ef2fdca55f341d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22a430ee340a3129",
+  "active": "33ef2fdca55f341d",
   "lastOpenFiles": [
+    "Database/Quartz/Fire SR.md",
+    "Database/Quartz/Fire R.md",
+    "Database/Quartz/Water R.md",
     "Database/Quartz/Fire N.md",
     "Database/Quartz/Earth N.md",
     "Index.md",
     "Walkthrough/Chapter 0.md",
     "Database/Item/U-Material.md",
     "Database/Quartz/Earth R.md",
-    "Database/Quartz/Earth SR.md",
-    "DEBUG.md",
-    "Views/Item/未命名.md",
-    "Demo.md"
+    "Database/Quartz/Earth SR.md"
   ]
 }

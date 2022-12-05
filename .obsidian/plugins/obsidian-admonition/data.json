@@ -741,8 +741,8 @@
       "type": "list",
       "color": "#7d7d7d",
       "icon": {
-        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAjxJREFUSEtjZKAxYKSx+QzD1AIZGTVpLR2tlJ3b1xMVgu6egQw3b91+/fDe1WnoGjCCSF5eU/L0mUMrv379Znvo0FGGJUtW4rUkNjaCwc7WiuHe/Qc/E5OzitAtwbDAzSOgfuaMiQ2trd0MM2dMZGBkZGR4/foNg5iYKEHfPHv2bJKrq2vptWvXfsEUY1jw////+kWLlzd4e7kzzJ23mEHTypOB9/dLBgcHW4IWTJs++1NvT5/pvXs3buG1wM09oGHKlB6GmLgMBmYuQYbje1cTNBykYOKk6X/7eqfqPXp09RpBC3bt3MCweMkKhnXrNzOsX7uUNhacPn2OQVlZkYFfgJ+BmYmJoCUk+WDWrEkMIaGxDJMMTRgsZ/SAI5sQINmC4JAYhsmGpgyWM2lgASgOQEGkpKzAIMDPz8DMzEzIA6RH8qLFyxk2bNzCsG4NDSIZlEwTE1MYJMX+MKxZdwTs+v///2P1BSx+iI6DyuqGhtLifIY5cxcyxIVJMNx4IM3gYG/L8PfvX6yWgIJv5869oPLoT3/fNL2HD69cx5kPXNz86vt62hq0tDTAKYfYouL5i5cMf37/nuLk5Fhy586dnzgtkFfSzpo/d1qfoqICO6iwi4uNxBu5O3buYTDQ12W4fuPmz8SkrOKH969ORdaANXGDLDl6ZLfa5k07Yv78+cVFKPn4+3nPtbX3uIFuOEgfztxjbGzM+vLDD3mWv0wshCzg4vp7D7kEJegDQgaSIk84/5NiGha1NLcAAJ7dOihGteWQAAAAAElFTkSuQmCC",
-        "type": "image"
+        "name": "list",
+        "type": "font-awesome"
       },
       "command": true,
       "title": "list",
@@ -754,13 +754,14 @@
       "type": "upgrade",
       "color": "#7d7d7d",
       "icon": {
-        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAsZJREFUSEu9lV9IU3EUx7/n7l/4J0JqVi8FrUi3axAVPVTbsJjWg0H/X4IiiOZLKAhBgUI9hCQkbY+hEEj6IpRRQXrFHqJ6yW3Ug0gigWgYQc7Nu90T9+5uunm3ucTOy4X7O7/zOb/v7/zOIWyw0QbHR1GALIkDAGqMEmGmTqt3vLdQknkB8WGxSRAwuGLzLIA5QEtqO4AqfS1OzOfN3vBLI5AhYGlEbCbCE3UDEQIMnoOCUYs3LDFDSIw5T4HpKDHsDPKrfgxqtnrGg7mQVQA9+CMACYA7zNFYN52eiBtK9MphS5Zt6tIhcQa15EKyAGlZiLBoOrG/kmgguZYikIfFNgh4qPoqCs4KAp4zo9XqDQWyALIkshaQ6K7FPf5gLcHTPpm9qR8Riyfk0kKlHZYkVy+BrqqamxYWW/PJkgvVJb0FwLlibTVAlsSw5kTcbnGHO0rJXvWVR8UPYFQAcJhjyk5qiMxnnUAH2AHlksUTGSkVsKxEnX/lRWck0gFIa/evgLxl+p8AXA3wxfVIVOwEJV9yfY+vGYBaRRlj5hfD197eMS5TcNAUjbWspUxPPvU1cXa/WqYQBa2/qSXPQ8M9izt0v9BF65lr/SrXju86hLGpz1AAl2GrADhmdtdUFGoV9T2+1LvJMf/hK6jdtgf9kdcqZGJ1s5Pq/ATuApAUoHQI0fhjI7lUgFkwOc/s82Byfhpff07igtMHz+4j+DLzDcFPfRrauF2nIIGUAweZMJtp1+0QEh5X/eXpHc9kodx+/eA5uOx7IX3/qAVXv32hocy5Shk46rCZZW1EsP3mj+qtU7IZldZytB27AXt5lRZ8IPIGCSVRHJD2SEhiPwO1uVp3zm3Bu4WyzB2o2qdl0X1lEpIHis7kgpXU2xAAszbRckwG0BePmm+vC9DY3WiLbVYcJmCQAUcaQkKyNvbHNvPeP/TrL4/BJagwYEL8AAAAAElFTkSuQmCC",
-        "type": "image"
+        "name": "exchange-alt",
+        "type": "font-awesome"
       },
       "command": true,
       "title": "upgrade",
       "injectColor": true,
-      "noTitle": true
+      "noTitle": true,
+      "copy": false
     },
     "book": {
       "type": "book",
