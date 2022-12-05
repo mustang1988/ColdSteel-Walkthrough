@@ -24,11 +24,12 @@
 }
 
 .character-image {
-    width: 30%;
+    text-align: center;
+    width: 20%;
 }
 
 .character-desc {
-    width: 70%;
+    width: 80%;
 }
 
 /* End Common */
