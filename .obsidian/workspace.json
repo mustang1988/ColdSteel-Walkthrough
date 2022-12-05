@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "703c3fabef3fe3f9",
+        "id": "a25becad445be590",
         "type": "tabs",
         "children": [
           {
-            "id": "2b7ae64cb693b92f",
+            "id": "36326f2977865b0e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b7ae64cb693b92f",
+  "active": "36326f2977865b0e",
   "lastOpenFiles": [
+    "Database/Quartz/Time SR.md",
+    "Database/Quartz/Time R.md",
+    "Database/Quartz/Time N.md",
+    "Database/Quartz/Water N.md",
     "Database/Quartz/Wind SR.md",
     "Database/Quartz/Wind R.md",
     "Database/Quartz/Water R.md",
     "Database/Quartz/Wind N.md",
     "Database/Item/U-Material.md",
-    "Database/Quartz/Water N.md",
-    "Database/Quartz/Fire SR.md",
-    "Database/Quartz/Fire R.md",
-    "Database/Quartz/Fire N.md",
-    "Database/Quartz/Earth N.md"
+    "Database/Quartz/Fire SR.md"
   ]
 }
