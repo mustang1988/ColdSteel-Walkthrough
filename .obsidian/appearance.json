@@ -4,7 +4,10 @@
   "enabledCssSnippets": [
     "ColdSteel",
     "ColdSteelCharacter",
-    "ColdSteelCharacterImages"
+    "ColdSteelCharacterImages",
+    "Monster.icon",
+    "ColdSteel-Images",
+    "Monster.image"
   ],
   "cssTheme": "Minimal",
   "theme": "obsidian",

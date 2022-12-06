@@ -136,7 +136,7 @@ const ArtRateTable = (rates) => {
 <table class="art-rate-table">
     <thead>
         <tr>
-            <td colspan="4">魔法属性有效率</td>
+            <td colspan="4"><h1>魔法属性有效率</h1></td>
         </tr>
     </thead>
     <tbody>
@@ -182,7 +182,7 @@ const SepithLootTable = (loots) => {
 <table class="sepith-loot-table">
     <thead>
         <tr>
-            <td colspan="8">取得耀晶石</td>
+            <td colspan="8"><h1>取得耀晶石</h1></td>
         </tr>
     </thead>
     <tbody>
@@ -217,7 +217,7 @@ const ItemLootTable = (loots) => {
 <table class="item-loot-table">
 <thead>
 <tr>
-<td colspan="2">取得道具</td>
+<td colspan="2"><h1>取得道具</h1></td>
 </tr>
 </thead>
 <tbody>
@@ -244,15 +244,15 @@ const UnbalanceRateTable = (rates) => {
 <table class="unbalance-rate-table">
 <thead>
 <tr>
-<td colspan="4">失衡引发几率</td>
+<td colspan="4"><h1>失衡引发几率</h1></td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>斩</td>
-<td>突</td>
-<td>射</td>
-<td>钢</td>
+<td><h2>斩</h2></td>
+<td><h2>突</h2></td>
+<td><h2>射</h2></td>
+<td><h2>钢</h2></td>
 </tr>
 <tr>
 <td>${RenderUnballanceRate(slashRate)}</td>
@@ -298,47 +298,62 @@ const StatusRateTable = (status) => {
 <table class="status-rate-table">
     <thead>
         <tr>
-            <td colspan="6">状态变化有效率</td>
+            <td colspan="9"><h1>状态变化有效率<h1></td>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td><img class="status-poison" /></td>
             <td>中毒</td>
             <td>${poisonRate}</td>
+            <td><img class="status-burn" /></td>
             <td>炎伤</td>
             <td>${burnRate}</td>
+            <td><img class="status-death" /></td>
             <td>即死</td>
             <td>${deathRate}</td>
         </tr>
         <tr>
+            <td><img class="status-seal" /></td>
             <td>封技</td>
             <td>${sealRate}</td>
+            <td><img class="status-freeze" /></td>
             <td>冻结</td>
             <td>${freezeRate}</td>
-            <td>噩梦</td>
+            <td><img class="status-nightmare" /></td>
+            <td>恶梦</td>
             <td>${nightmareRate}</td>
         </tr>
         <tr>
+            <td><img class="status-mute" /></td>
             <td>封魔</td>
             <td>${muteRate}</td>
+            <td><img class="status-petrify" /></td>
             <td>石化</td>
             <td>${petrifyRate}</td>
+            <td><img class="status-delay" /></td>
             <td>延迟</td>
             <td>${delayRate}</td>
         </tr>
         <tr>
+            <td><img class="status-blind" /></td>
             <td>黑暗</td>
             <td>${blindRate}</td>
+            <td><img class="status-faint" /></td>
             <td>气绝</td>
             <td>${faintRate}</td>
+            <td><img class="status-vanish" /></td>
             <td>消失</td>
             <td>${vanishRate}</td>
         </tr>
         <tr>
+            <td><img class="status-sleep" /></td>
             <td>睡眠</td>
             <td>${sleepRate}</td>
+            <td><img class="status-confuse" /></td>
             <td>混乱</td>
             <td>${confuseRate}</td>
+            <td><img class="status-s-down" /></td>
             <td>能力降低</td>
             <td>${sDownRate}</td>
         </tr>
