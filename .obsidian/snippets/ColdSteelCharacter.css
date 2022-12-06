@@ -1,4 +1,5 @@
 :root {
+    /* VII班 */
     --Character-Rean-Icon: url("data:image/webp;base64,UklGRvABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/zemgZaURkb3OAABWUDgguAEAAPAMAJ0BKhIADwAAAAAllAJ0yhHce4DBJckA5272KP1y9DO2AP1m7AbuF6c5IJ5X+Gf616YD+V/jv+EGWifi7qJP5Aa5H+k/kz/VfaA8o/yX/gPyA+gL+Hfxj+t/lh/Y+QR/SU+4GXKVfgcOS9EdaCgA/v//H8abS1sxgjNBebT6WiNztdZERqGx0alykXvZ8UIpdOtUHJ1X9DSo1w8j8SbRl8I+G9oEQ7O6yx51CSKeKghzvRQxf4pQ4404BRJS1QOj+5z/6D3VbGhvTY27XBes/4epeml9qOQaaQCf8we617fmIkYtkopWkB3F0naBfEz2taUj9o/X+BCwO2Rw2zzTfMHq0fhX2EiQBmNqUlIeEGKDZi8DiCEAII/oa/tf+4ZzGOf/5bNlbe3aY3qkCa6c+TmkJrGR7k2Lo0twn6Gh2FRQgmOfAAHtBm0NDoULybN39zdLn+/wbOn9gq2f+oMM+cQ4ZYPRJoN51ga/+mys5lU27IPVONOt/83G8HpjzlP8+p9BzNPISwDmlWNm4BnAdZBA/8qiAE0TlNEd0Glo0Gq4QxI5ZiKsCp/jF9Ci/pL+MX0KLqAA");
     --Character-Alisa-Icon: url("data:image/webp;base64,UklGRggCAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/umXf3cHCoxExAdfzU+4BVlA4IMwBAADQCwCdASoSAA8AAAAAJQBOmUGMHgBfAPsA3SXbM90r4AD9QPSq/Wb4Iv2G9FK0QOYlx0v4gfsdPO343akBqSf7N9oHTc+QP7J+Uf0AfxP+Of2H8tf7fyCf6UG30KUJ3pTPzmfdqFbAAP7//wTU8o5O/u1XAKtqr71Aj/+UyyNdrclREJCQP2Xf4fb1Fkf7HWoEJcApUo/1zdm+AUH9gF2vW9f19JPjq97xPJRhHvQwt3/+aBtnY71e3USLie/84XPf/lxQGL//LeGbQJfV4rYdZ+s6dGFcJRa0teqVcf/hO/x4YkSrGKl/y7ofGP/V6PgOB9APJUAIHeTq/+9LC30/X+n6xfAEq74dn3kuuf5wIv/8psccLPldKAXNr5xPV9QY1uSWMQX5XuzT3Qhoy4WcHfQL3cMh9/n5txLjPAYwrCDSIyz6Ly4MntfuC/l/thp3Q54NytYBfhys/jC034ZouJt3vpGlbedG1U5V8Z+Afl84g2bV/QefM/DihpRyH90GXLnULRp79P/6a8TGm2OAw3U5/20k4+74KBA53y+fFBbRWegIuk/yhcDJIi5ZJtB1j4FNBypidNLgAoNKEGGATnAL/AS9BgLIAAAA");
     --Character-Elliot-Icon: url("data:image/webp;base64,UklGRvQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBQAAAABUNq2EbT/yH0PFh6NiAm4vZ/SDlZQOCC6AQAA8AoAnQEqEgAPAAAAACUAWIXhKgFwAf0neQOAA/QDrDf1u/YD2YKBA/VXLVPRPxG/ICedtFr1Cf+K/FXoxfKX93/ID6Bf4h/JP7F+Wf9z5ED9OTidBFvKvMkt8RYAaQOAAP7//yrobcXGa7vmV4snoIBAqiRVUYO/62/zHv0Je3nKdut0FP/6CRLTW0beP8XTI/pa6c8j//tTrSUivQ+XxX/eWm454cSfZK9v147gCt+4eTZrc5O/aJs2Wu2/9fUYTfc97H+7yorXdqm0SB1w/E0KGA//2QDf4hYzfZefX29sLvz6f/qSFRR/xnnv6d6lqGHispov/hLMlMO3Vw/5aOn19Vw5eIXKaLlDmvDOtNsZ83sYUkATUy7l2dvZORhT9+JWD3j9v1n/e3/uGBZ7jgqFKJC5Ovj/8YvT3xH0w/+uboNXmX/FOp2HsHP+mbhE0BgtnhXuQqKNL6OTc1jfU8dUqG//nMdw/850x//4iikgTYgP/86DeU91XT8jZ5HE95rUKl/4gJ0VQ9N48XK8C8GLVDf2M1E0mVtoagD8W3dZmwjCfNAlHKv7O89dnSM97tt/DiHRWiMAAA==");
@@ -10,6 +11,27 @@
     --Character-Gaius-Icon: url("data:image/webp;base64,UklGRgICAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABINK28S92szB4eBoR2XWcAABWUDggygEAAHALAJ0BKhIADwAAAAAlAE6ZQjgQqX7M3qAdZb5NNsAciB+quWCeH/jh+x2jL/GvJH/1DRKPx011v9c+0n4Gc3fyr/QPcE/iX8j/r/5Jf3b/28ox+jR7m733Qx7WpwzUbvA3qAAA/v//HK/ichQev/EQdjnnH1RgXVQSF6AUJBvRfmT5bwBR+XjhJ9v4ORvKc9iUXw11M2f/I58GaObT//r7+n/3e+/0MaW3MaBGx//p5f/9vf66cuYRUrK9HbXFP2bve1P3F0AaGQ1Hu99CyZCEXSloLX/8Tv90NXRQd5bILqvhMx7sODoFFoIf1sseJrcjLUe7jVVt//8mhGXbgcRF4izTFvB7iX6YCT7skT1c2ui/dJbNCttn4Y3BRiZbEpxYxU23mUQzPe5oPf3/9c8Dz6y10PHOfFa8jr5r9T0qeOP1Xn49qPvX2//fEdOPzKP/l8saNMFCt3O3vs20f85jd/ptnKnbcEXr+Tt/flRiD8z+Gtv+J8/+IziT4Lho3MRGxFempQZv//FpWhaLvFz0P07P5//67qnH04dZfJjKovZOqJSTjeN2VAvWckpj79B/ZThSCe5n62IN2cHr09Pz0bKxkPGESQAA");
     --Character-Millium-Icon: url("data:image/webp;base64,UklGRgwCAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA4AAAABEBIQ/w+rqqZGRLpOAFZQOCDYAQAAcA0AnQEqEgAPAAAAACUATplCO49wH8Awiv9AN9m4AD9M+sn/Tz/O+pncpeTC9Vf1Vy0rzn8gPxJ1AH85/En8gMs7/GbVAP8B+JOuP/qH46dGL5J/s3uBfxD+P/1L8ov7B/9uUA/UY6c6mbGJ3rJf9Q7V6AAA/v//Ir34g4xVP4V/J69/WffdYgEKPwx1InUUz6gbBep4TSpxJSPT/C/1nwvzM21rrp5LsaKBluHmNQqR8PEnSlCZ5bz1WiGz6lRjuEHBvmqXedFIiv2ZLKhEGQAVmvNLS3v31B/Ex93t+r///4uGqTV//dDcxjOHhKNtxiLM8wyEc6LRi4rXOJeLgfLnh55/8lIc2qH2a7FMNF/rlV6vrI2HA/7uK7MOOqO29nMVUZCImnlvJ/9oCP+jGTj8gOELdWYCIuTrN1LuSJ45+5Pwmj9emeq1dq97otE/v8GczD3Un+L8X/ocg4TL5BlLY3D4v3hlnqqm/V3jkGy9/nQz/aNu+MsmXFs1O/3o/L+9u93E3Xr/+LBL/n8P/f68Q42l29vbmXk56f6lhzqlNamLHkX/4rjXSHABN8V7G8fMPo1mA6mhTHWDfipZhkk+pxn7YMTRguSCazTA8On2B1kTA6pAAA==");
     --Character-Crow-Icon: url("data:image/webp;base64,UklGRuYBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBgAAAABUNo2ErP/to96g4FPI2ICPLAcz7/0YAVWUDggqAEAANAKAJ0BKhIADwAAAAAllALELwYn/0VWScftv+s1WAdMf6c5Kp7NnAP5B+QE6Af0T8dNkA/h/94+4D4EM5rxn/YPcD/jv8j/sn5Yf3rkAP1cNvrrCNe/Ew3TNm/VXnYAAP7//wUV8Jnd3ETElMnYq+eKd4eWnaFioBRPFIf1lpNbRy4sgr/w1Pwq139dgRna/3OkDGs98aOoMGjsYj1oTpTg86bIx4P16sX027cJAL5S0abCt3B1IP/9Jxs7KV64X4zHgbGplHfvezDNBHzaEPtP3658yhZ+Pi2Tra3vP+Rww5/8zzt28ukcZfLYb2Q+CjvSktek9232w12Hj/9TPc2AWd+RETqyP2v/zy8RmFkTxx0pvLyTLrOg9mc5D9mKSHx0Nf4J3hfJ8Vqn4L71GPl/fxTHES8GIFOK/HkLzr2UosLom9ZbH+0vyjFeI/dayinfWBg1dXO+a49kxxiPzd5g/prfb39awD/BtQ/d97u9bkxIe7r/6/9MCVrN4dK02twJu7i8SYGGNEvpp1TupAEY5pNWacy16ggtxb/o9DV2nunBDkrAAAA=");
+    /* 1年I II班 */
+    --Character-Patrick-Icon: url("data:image/webp;base64,UklGRvQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABINK28S96Oxw8jYgJsLPuUwBWUDggvAEAAFAKAJ0BKhIADwAAAAAlAE6ZQjgQqX8VfYBgkH9u3kDgAP1A9Iz0K/YA/Tr/wvKL9a/EbPl/LNlrmizfire4VQD+GfyP+2flH+//KAfqacX6g0rO0YLhWjAceoAA/v//JcPoX3Hydef//jK3YWCpOXDL0GuOVRaO8fZFN8tJ79fW3Ok+dZzLrzFGOv+HXZnLC/0u94cL8/l9yTZ0H8cxguQDx59mBtW/8xLqgZftf/mWGhvD4ACnHlKUMl/db2VQfP/934/g1HeKl89vHIdcNj/+8EnCCL20p//PQcFUeXugkSEaopj/PA0UMk0ulpIQskt/9uC7D29lMbH17f/JLZLWfvV9MH/l5Yi4gIMf3LT/2yk/1IIgGF9WNkS9JdIzhBT72MNiu/iKPav/lW2XJNf66hKU1ks/+kDhHGwD8OswMT+a3iOKJu9OTGz69Wn9ZiEmfWLVl93QZJ2f7cJAISxf78KzzplP9T/fCc5GaTQh//G0+sVkgJUDnlEnewvM/44rUZcOBiZI9M6v4F7ndgZ/Juby5EZdzbXX92/pTB//qyLbAJqlYTh5fgI/NgL0qykkd4HMCH4NqIsgAA==");
+    --Character-Ferris-Icon: url("data:image/webp;base64,UklGRtoBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBAAAAABINK28S94o4OHpxGRXXcDVlA4IKQBAABwCgCdASoSAA8AAAAAJZQCdMoRwEGAbw99gHs5XIDhAMlP8Q/FX9mdMB/K/x3yT32q6jv+MGul/oH4q8yB/ZvcA/g38b/rn5M/vdyif6dm168lssS/IY+EAwO3AAD+//8rJBmR4ddxQHdaPBFKa5ue53/Z6iToLi18ww22/BI/+O/5Jv4AL/kNH6RgCPnlH/Xjs1Ocp5+xWRgUmm7lR3WBEJr4T+Y2RpW/PiuPBvi/TAPhxV3nGTf31uDYp8/4+hO3yy3ZLFccz21oUSrNNb+7YiEl9kFAPZFQixxlS+9pX/p0+CoyxUVp/HySfv8sK/0pl8arpjspi/I4pz0+bJrUYHyISoh/4zi+fM//+4K7HpK5C1c1536AEnp12W5Ur6k/x0ovEtePXDsjITL+TNjcCPK9zxSiYMvbcyZHnRzuSjtUpr/q5GP+Ljfixf/TtL4u8ktT/+enj+35v7CLvqX/A9+frotzqGz22LiKWbYJG+JZ8b4VuflnYM6kS41NTO4ySmpNbsRg9XUV6PxE+Js0Opt119xzhsnQD3GJdWo58JIAAAA=");
+    --Character-Kenneth-Icon: url("data:image/webp;base64,UklGRhACAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBkAAAABUNo2ErP/sveNdXjwaURMgAeN4+cvs3QCAFZQOCDQAQAA0AwAnQEqEgAPAAAAACWUAnTKEcDegUwHkge4D+O4gD9Y/1g30DgAP0z9JD2MPKApQTyv8AP1my0/2DOAfzD8T/xyzB+gufirrt/7p+QHq3eUT5l/w/uAfxz+Nf3D8nuMW/UY+quTXtuLnl2UOLkUAP7//yrlE5+hKDb+3/O60/+pTOzs4xwc+7lWfE35sq3FqJNeT3/4hLXkl8ZD37s9e2SboSxMJLCmqoexeab//bXH54gDrQiVJIn77wo1Rf/3DvBGMvpn4srBWTe//wOWLGdrKf1kMjOMgGe5PPSFAIr21Qqb79T3NnNi+eT/m/H/6vAD/hkcCmCr7Smo/32xqOJoR1SMUSMG+vVPWCJrk01iq4FlavA7g4S2EmkFAEFn0wv/X37CX6sbLdBHMOGRrCF/0cAo/YaTfyKESUteYc26t8wLqP0eQ6+jf6SDh5H/U8Nnr46yMbv9kbnMD/kUhHxPaOHY534izbMT9DQ4wla9TmKb5LqQzIJDxQX8X0+vzvt4f//ND0OtP/8SaF/FZT6Ix3oYjROUkxrYZ0HcdMW0J/aw7if4wwrZcLEZH1wWQMR7QHoooMUW81DEFBbn2JGEQUrEYRBSeFidrPsAAAA=");
+    --Character-Bridget-Icon: url("data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA8AAAABINK28S96Gzw8jYjsOm4AVlA4IJ4BAACwCwCdASoSAA8AAAAAJQBOmUI4EKl+wC5K90r4AD9AOsN/Yf9YPZc//90A5I/0dx1H46Z7f8dMhr/G7VANNv/XeWb8if5L8gPoD/if8g/tH5c/3HkTf1uOvdUG/8DBDysJuUTzpgAA/v//KuVU5anYwY8azmds7KN3dXy8EUDiuzqBhAEVmd/aq8SrTHphdV58Dgt4T5fiJz4VL7o6R2Y7nobzp+nTusXDvEmvSoWGfQWeMs38okCrbtDIOr0ioTNgPoNZm/9qv5ctpekou+7wg4KPam3yFDzN/MAK4c2nHbEX/48fuT/tNUA7Opdaf/P+da8MaH/8ivV8AqxeF8H/S7eJ91/9lQ7Ok/DY+1gx0fSjrm8ZcSIdgP4/D9Rj//7xue3/9gLoE0f/9CS/3yd/z580cc9//rqaPuXvtj77c63p/TqxuX+VrV58HXiaZ7bHv39r+Rqap8hI8mN0lF3j0/+khRF0gTnjQvJN7JWME1T1L+Rx1kNWIvJBWGKYnxeMId9W3tRlNAIOQVrTgSAQGIkgG0ONDqo5qvHyAAA=");
+    --Character-Margarita-Icon: url("data:image/webp;base64,UklGRhYCAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBUAAAABUNq2EbT/yH0PFh6NiAnIjtvzKAMAVlA4INoBAADwDQCdASoSAA8AAAAAJZACdMoO4C7AZIHkAewBhHP6Z+//zmfAAfsB6Wnsd/sl+wHsx2iBzEGSn+YfjHn0PxGySH9m0gD+QfklrkP6r+M3tN/wH2gegB/kvcC/hv8g/wP5U/0j//8oB+qp5t8D2/8jVnA7uUp/nAAA/v//ATuf3qwzyWRVj2Zr2eXlZ8c72TR9bCNUNF29/RWoQJ7haH1jk9NHIHgatJRsiNPpe+TvnyiU9yv9DP9U58rUfanYKyKjqZO5//7dVqq/g2f1X7gfnNdBIPp4HkhfPY81gFsSuRgJG6xr5v5sj3lAd2gEil6G+6U9U2uu/8y96v0mIVcxzwV+K//j7A+ErhSnrNyqVPey3p/m3+LRr/zw8jjQYCn9F7i/S5/LCn/kJZ+f2HzzDKEAMmEX9ebMh3S8ksmPcvs/+LHM25LiZ38mN1ICjav/6PPN/xacyX0kRf/3Rv2pT/mVuOBcgl5gmDACmBT9hQwT85YH46n/5NuEBX9+N/RId//oc7VuB0fzAf+AB7ssfI6AWHzY55tvr9WgBwmoq4G8L/nL94WfBbh0X3Q2xhHqJiaNDbVdLoZo5NU4kcuTkEqfGWJ9UJj7f7gp730V74KdlkgIwxkigAA=");
+    /* 1年III IV V 班 */
+    --Character-Hugo-Icon: url("data:image/webp;base64,UklGRvABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/y52wsDQistfBDQBWUDgguAEAAHALAJ0BKhIADwAAAAAllALEIwF8gtQD9M8sA56D2IvJA//90A4UD9Vcua9E/Eb9YNFX8s2Wx/jBqDH4za6L+x/jBzAH+g9wP+Kfyn+1/k1xqv6QG1NSorScHDv+IhNmrSOzPAAA/v//KuWNSfZqpGm5/eOWIpM7lL1ZUj5X74qxSb+T7F/frkrM9NZlU+EZ8E9P4hd8FrG6J8qw/3/9+yKi41J2/rjUr+j1HKIf/3Le//Nt2wz6PWxauVJ7/0uKjH/HpZmZ0O0VCAo3YzfXzS1V6Qwh/KkefI3r+KKWD4h/11f22s08oLgwDlcuzH50OJawpLpTHEbscxh4VeRXcSHTail76sL2SaCT1RA0fnpie8/U18QrXzQbZ3gue/x4hTY6p8WHvOwHZPTA4OFXwJDcaKm4W0hga+Huhv/3+JR6f1zcUTW2X/xPxgvzUH6chUi777HN/SCfzCpydXh8/yWXmaw/Jm/yF3/2tL3mLcP9MeDO3r+36+HltactwmVyz2ZzUXX/Hslz0B5TNl/sZC8fNxJVbBWxNH5AP/KAQb/+3oJEwcbbGqngAa7gAkj7792qleQOGAAA");
+    --Character-Monica-Icon: url("data:image/webp;base64,UklGRtIBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA8AAAABINK28S96Gzw8jYjsOm4AVlA4IJwBAACwCgCdASoSAA8AAAAAJQBOmUI4EOA/kH2AXIB+gG+AcAB+mfWG/sR+lfsx0BB+t2Ws6Sc+TjNf4k6iB+Kuur/s34q7oH/G/4f/dPyl/qHIq/sAd1+mmE2wnpz0FGYAAP7//yrl4aK+M7DY/iTRG5//OXsAou+X7Xt8wEv4DA5cNrE4MwPD+M9g8oV35q1/1vZS+KGH+el2XfuoqH5/3I/+oLJaZbPXumzfx9thw3pE62TwvTLqiIhy33qY+I//Smu29KzkCQL2c7/Gm1yNHUK8mFrhp38dpGRwaqYTG0LB3TzS8iHjUz2C9m13WQe3wcs/2a1KDO4IbJutPf/rcD6fTWLv72Jf/3VvJ1//0rTunSxzASzbB1/mI0saZhWRh/1ai9/P/yx4cnU7Aff64ld8OJqPLpKH+2x+sjXWKG4ng/65h2jShr/8uTzv/P5JO4wB6P9eHWf/2Y3OY+1+ot/U7/Yz0Dy67ke//bYB0ZzBREcmqOYrAOnRqKKZQhMun09frlqQIMpPoXhlS/Iou2CGanP0NrjqOarx8gAA");
+    --Character-Mint-Icon: url("data:image/webp;base64,UklGRqoBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA4AAAABEBIQ/w+rqqZGRLpOAFZQOCB2AQAAsAgAnQEqEgAPAAAAACWcAnTKEdxcme6AcAB0nEsY/DP9YMsE87/E39SZtm0TPWYOKM9wP+K/xf+t/lTxgH6NHXuCQ5r3vynbT9CzIWugAP7//yskZj0cILOWR/y8Bo/sH+Iy5iPDq+zv2ZTP/alqRIYBOVhyfxPMefzfbkFv/Q8qFw/3mvwox4CT2281SRT/jTXHX3QN8+ey/+FHSY+c1J6mHOrfcb5X5jUGH33D/SEgp+mdUBwfKc/LEd97e9Y//uoJ3IWryHp08l//vLgilIvGQn//sR23baRmViNIbfYnxs5FXZV/Qvms2Bkm7GpHo3/O/wO7NqV5/0SGFfbs7v8AjbzaRAOY4HmH+YDPKl4bN8Se9tcef7f5CDPk//zZw4nAtboXeJcx//kHtyZaCn88O8gaVUZXP+LxKN/+eK62J/r+D/TAfRdkrB/httLZlWTUmsOQF0Ga1+gRc/c1MV+tctlNKBVMw+ovPYYzg85EFYboAAA=");
+    --Character-Beryl-Icon: url("data:image/webp;base64,UklGRr4BAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/yn1hjx2NiAnorgP/JTsAVlA4IIIBAADwCQCdASoSAA8AAAAAJZwCdMoRwIcB/YH8A3if7ZpcryU/0D8K/2A/zOk3+mbHZtRA/HLWM/xg5W73AP4r/F/6f+Pn9S/93KAfpAh1HOP6IYWWjbmnwCUoAP7//ys8mIhLN/TOdQf9DEeD//v+KCsVctVv75t8TZm68KB+a9SfUGLRDv/8IFn4N2POhIKclP3pRUQtlOj6e+pZO7GRmfH9KkM+VYGZo03/+6OEzLu+MeX+vHu//t5JC//4/jn+L8Z/F8fd4TIKi+m050oT7YvtuvXTMSQcRb/2UBURPvz3xqSrC+K8NOoLIxbZlGFDI7HhuV9qXtyauUU5OH/0IWmWYbWs8hnyKr9w3YSXvzMLxqxeP/r61Lry11J7gdz/f55ajDh2rY4/aFyeiZPsAS5RPVYTb6HxuoYq/Ha1Uvlpnufe44zjAn+4+RaOwzxZH5dChOG/lrAbePvkSq90L9wMtl6zJu6NmzpUkSpC8Ze5IE4pZEVTWp/Rqg7gjY59ciAAAA==");
+    --Character-Casper-Icon: url("data:image/webp;base64,UklGRuIBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBAAAAABINK28S96Gzw8jYjsOk4AVlA4IKwBAACQCwCdASoSAA8AAAAAJZQCdMoRwIcB/IPtV9wGCwbqBwAH6Aek77If7EekdRr/w5yQTyX8QJxN0U38JdYz/GDolfFf93/GD6A/4Z/Iv6L+Rf9M/8/KAfoweOU2PGzW/erZibvB0AD+//8q5SabOuNcOkiVZ/MHkzg865Y7fO1Fbry/giHy+9Z//q6mE1OwRhqyziYaweZFnSix/3+yv/0l4TUZi8G6T7idj/r3/+Yxpvt+L5trp2Frqtn/huC6D+CrbW14xPpxBcGa9kEz/HbnjlMgeSxmPJRwPFT+3SQnIavr4kpd/HM5xz/wIojfXjRKSIWAp4gPt9b+7Hgy5Jj5o8i5Qzj/8Q5yTa2LvrpUG/uP6lfPYqbKQ6H5Bv2IIF5Xm00f/LY378yrawXrLwLlrtCla+f/9UUb1jv3ojOaf6P1X4ZseGT3x4CT2zr5hNn94x1hrVlWjwVwHpiP+gbOjOdG+I6bDPiCxXjqbK/nQllH5ekWKm/JhwihL8HqSTttNaZQW6N0g6+kNzT+GQv/530fhTZ7lU33JSAfktgL52wFr9BhPwLlr2eAAA==");
+    --Character-Alan-Icon: url("data:image/webp;base64,UklGRgACAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/yn1hjx2NiAnorgP/JTsAVlA4IMQBAACwDACdASoSAA8AAAAAJZQCdMoRwIcB/IPtmgwDeLv2d9Fq5S/QBzAH6wZYJ5z+G/66f4zSofiNkkf6T+GeqAfyX8gNdb/bvJA8o/zZ/d/cA/h/8d/pv5L/2X/78qJ+l59V7l+9b6+Fvy/b4Xbp0AD+//8ctm3om+pXBKc8PjstA+ykZj89q+W6VFp4cBQITZd4ljosx83wP+gqhaJSNNTnACOMfsPI7pOp3ueVAMB+us7QD1BppOj3n/rpCUsgydtDMJsHyUoMw3SenyNjFzz//w19hP85WMx5805CU5dam78zXO0Ck2tZRu/FJWvijvgvDJnBW+sc8BvpoGnZl/y2SB6NKLOkQo2QLUnr2/ulcT89YCApEuCt/+/CvHDdtkWTj+/BdNJti6qsb/JINLejQaCprpbXGCnq9EEn98x/4M4g2Hgmu/UIE/ufEGKKEo/489Sewke+3XMiQpGovftwqzAU+/7Tylz/31p0/S1f67a9UeNX/72+u+MQuE+Z3jnUTT/8vtPe48hB/C44IcS0Fp56QK673u5onkYpPJDpA/+xgR5iKyb8UN7Zov6bNBbKgQuI+pgPB+A55WFqaQJf3AAAAA==");
+    --Character-Linde-Icon: url("data:image/webp;base64,UklGRtIBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBUAAAABUNq2EbT/yH0PFh6NiAnIjtvzKAMAVlA4IJYBAABQCgCdASoSAA8AAAAAJZQCdMoRwIcB/YPwzewB+gHWT+SfQFeSx+x/jB+M087aJX+M2vJ/pv2geyB5Tfln/ae4B/Df5X/b/yW/f/lM/0gNYVxqWoaVvAKsr2dAAP7//yhlIT/EHYf6szc8a3nD3DO7P4hJf8lxpUAX6xdP+cNbPiOpP4B3/tI24tYmoKgDycq7y2fzTY6pDGblvnxoaPfwHLUIbKcmSL648XeXJtQeh+Kax58E7/7aJ5iQwhNUkwNX/IY1u43oX9mQ9hwzi3GmrV/vX/fV5QiRc1i7v9qZzgdy+0oDj5QKf+i2Kp+JHP73Sf3N+KOnBvnlFxwDMPY1qL/+vij1ahNgNH8w+1+0w+GE9qoM8P6Lz39maJD5O/IPrcW9V8XUPkZCYHoy34kP/a1suWn4x/xKORADC+PWaLewAK5/f76V17/w538Z/vrlf+HfS930JvdJDdP++S+cn3pX/SGkxJcPX2S+wn3sE5Az+SUSZb/EbHbXXyMEnwYZ/Wasf6Vb+8PY2XNPLrW/F8rXuGAA");
+    --Character-Vivi-Icon: url("data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/y52wsDQiste5AQBWUDggnAEAAPAJAJ0BKhIADwAAAAAllAJ0yhHAhwH9g+wB1RXseeSfRr/w5yVn0n8TdEB/VZsA/lf5Aa7f+u/iT0WflL/M+4H/Ff5r/WvyA/fXjADi/RzgVLUTGFlnAMAA/v//KyP3xg9/4us88H0Cd5//49OE/0uUY/TKt8TRz6kEtf/sjt6zja8cBX5LN1UWNZVrbEMLP5SxGnHAFUM1if9nN1I5f4HN2IFPZ8DXgfECK0cVvzVtU89jDTL5a7Uc9eL99jqUjPWf/3vkSGhgNWlgi5/dUqdvKV5//sxpl1ZtfmyhMboYydYx/9U4//1XcmW9r8sKrYae37IHS2cefKECgTiDu7917i2GWALvr7M61jMb9lQy8gtppSMgHNIADz3/xMfZF++LC///uGn6vePOa54LnQqBizrzwo5XbwvbXwSnra8vPJ7n0ciF//Ex8xnu/71yv/Dv7GbT+sPLkvv+QV/f//kieseGWcUNNKf0x5u+po33vkLfpKOHH7Pt+YotckrmF/RPTNUJqJ9JqwjoPNITk78UzQBfYbJznctAAAA=");
+    --Character-Colette-Icon: url("data:image/webp;base64,UklGRtABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA8AAAABINK28S96Gzw8jYjsuhsAVlA4IJoBAABQCgCdASoSAA8AAAAAJZQCdMoRwIcB/QPsAuTP9AMsA9AD9QOst/ZL9gPZzoCD9bsua0gTIBowGvE/rv43dFn5V9gP+Jfx3+v/lNxjX6AHXtVtJ6SyTaXUJ/lAAP7//yskT/MJneLKcwtKL275sWScLyf7AbTwP7c9FWL/3RoXVGXhJMBEwY0DSqtaQg8v/qh4ZLBtatzr6JxDbKn/71fqi6/QOQEB2JUYzU3DOlxvf9lZ5KVxHbdgipRIwtgiH/icP0NiXkngZHVaUGIraNHrIS+f/7P+YtLPWB85X6cp6w/sm+1zInzq8+QGxfs3Li9wklLmj+kNLvDXLfyvzJnkwPX+O/5nQurUf/72ff/Cb04Vn02dyUZoScjFvfuqc7/GLu0I6dIxmcR2/0//gfg104l91t3A6db13Tceb/QGVlr+xkNclZPq0SevRb/2nhruw5Ppgpn996vMQFsyfWzslYgmdzpsDBGmjbmt0yJvNW4rUJXiQdLX2aMVaPCl5DYC4Y9+h1zpZbhNB61BNQHmfwECfBNIN5kAAA==");
+    --Character-Rex-Icon: url("data:image/webp;base64,UklGRtYBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/zemgZaURkb3OAABWUDggngEAALAJAJ0BKhIADwAAAAAlnAJ0yhHAhwH9gfwD0APBA+DL9lvQld7P8YP1m0Vf0zTy5+Kuuz/yvMA+YvYD/hn8d/tv5J8ab+pJ6ORTof/e/UGZBB2JutYgAP7//yrlvFr//2Y1ctyVHM18uYNn9WVhE8PrnsnGp3rb/8u6Q7xh1fdWC+icTny+rR4V4plMZVu0+PM2syuJ5esqQMPBxFTIvVVViVUtUL3NfaLUfOs+Xwh3wx9o4QDchI4WIGlIIAnYKLn/ziqNv5AzBauKpNb//obztmEBHB/6MiQFxvSbVf4fzDBdAp6ifHxcdp79t6aGZ/6CrVSi/k//6HIs54Qm5/qgyPMEUeqGnmBGfQ7kdm4ZelVOUt4FX/8hvpW7A5t/4+F+8ukR/9dW6b+8p8KQOD53WvXqHIrH/GjLjB2a5m4Hl2VH57/vDxi5P/I6LH/EBpbOZpxbefdeKa37mEWPhOFONog/u1+sY2BeKV3+Hn170VzlvaXky1eq4vflTSgcegL7f8gAaoZhFadUP40xn2gHjKAdncfLqJphzgAAAA==");
+    --Character-Munk-Icon: url("data:image/webp;base64,UklGRsQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSA4AAAABEBIQ/w+rqqZGRLpOAFZQOCCQAQAAEAsAnQEqEgAPAAAAACWcAnTKEcCHAf2D7AJcAyjmWO/iB+wGWCeufg7+MGklxlX8YNUA/m/4u67f+jfiBzFH909wP+LfxP+lfkJ/Rv/fygH6jGkD/KnbR91KLejsmjy50AD+//8rJBSKeX3z293L7fPQ0bvldcnvPydfDEP2mLj//iBfbkh36TL3QT3uYC4kF+BeGdM0PP/11HwX8PRdvn0n53o7jH7sv9O02u/5oDRjyjQxJGFbcfHBQTbWIFcBrNIcHKQpurjsDUKig7+U//DMm5/4Xzu7n6Pu1F+shvBtX/4Nf+lsH0KMf/z4O1M3Dqf/VPphPLC6mQUOOWLXPYxNvDVPWpi9uhOTaV38C9pRoE/bHnasTF/YOXcXg+BvTVEsdHuvEESv3WGOv0m+tYLN9g8gTRH/CArLS+VhItj13/OPp23ENAlBzHy+tMUW4ra/zIpsU5T8WzeNpr+IdD9SiJTVmqL1CAxrVRZ8NECLbf8QqXlbM/hAecmHHFbqo8FUWrdz+RbyuhWu7QQ4AA==");
+    --Character-Paula-Icon: url("data:image/webp;base64,UklGRvABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBYAAAABUNq2EbT/yn1hjx2NiAnorgP/JTsAVlA4ILQBAABQCwCdASoSAA8AAAAAJYwCdMoRwIcB/QPsAuQDdZuAA/YDrMv2O/WD2nqAgyVT0T8GP2Z/wGklw4DRgNZy/DP1ZvLR8uf4D3AP4z/Hv7N+RXGMfqaaSmTc8G3tnJa7aWZT8EgA/v//KE/WpfdUxw4qN7sfQ2uJNvJA2y2qUVJ/wOPb+Yj8P/ioZc+iWg02D7vgxvnwlJKo9f9rFmTTXxv5knpxW/6uvgh2Rcj+6ofs0mujb/SnNThUwM4txUIpFYrj0ZM/+F+fDKv/nnaBXbjdv+LOavYt2/3Xof/+3FIkGWaop/5lk6Y+485iFba5ArtWE7xL9BMG/BQyaIddzGeRKIJefMd8Awn1wko/3DMW7I5x5zQk4w949cvY3I3py8NSQ3ze/FdwCGTYZ+RtFf/vTCk34gZSAIKamkt3j//efBqn/Eci/85ytxR/jx2jwnfxABdchnyaP6t8xrwrd/EifB3aGnGVv/kzb/53aX/FEsZKZ5kfbcwH52gJPe+4nG65xHXu1vq7fWq3XPdoT0DWZeE2jHMxhGIX2NqcYzMOb5PCbz52cTvxqA9SQAnqWlH4DVAA");
+    --Character-Becky-Icon: url("data:image/webp;base64,UklGRtwBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBAAAAABINK28S96Gzw8jYi057gBVlA4IKYBAADQCwCdASoSAA8AAAAAJZQCdMoRwIcB/QLUA/UDfM+AA8of9gPhA/Un0c6UE2c/qTlp/qH4u55PGM9Fc/HLXk/5n8QPdnwcvxm+gP+Ifw7+n/kl/Xv/fyrv6AHXr7uDaBVzbCF8woQAAP7//yroWfkI/wyf2p0jMW7dLKf/96+nQV4pGgqydVa2f/oS3t0+cvJZu+4zGZTBi5sYGVl/8sR/C/7xGJPROsKS2T9kxXQH/YBP/3kAOdmFyqG/0Bgo3yf8ZgECgfW+z9p2G3D3/1v2APZv+eHkCi//9fAxzZr6eZMZY21pZzV9tv/9G354X3RvOD8nNL98ksMWDtzMcCTEvfVTSL5Je/jq33M9loiTIFOfwu26YCQubOD7trkPffd/NxC0ZKC5traSXwTvQ74lIrSh9cOR3N1sP734NZIUac5Rl9jV+q/DXqxT+HbvVYjRYsg9z+i/uGZ50PeL/I0JDNAX8Y+LsqOCLEWN/nVcDIsAQaiUMFtJIrHi6QGVqi8mS6lDOWZWnhx154+YATsY7cXuek/HShUSudF2h2BMqYC3ZsAAAA==");
+    --Character-Rosine-Icon: url("data:image/webp;base64,UklGRtwBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBUAAAABUNq2EbT/yH0PFh6NiAnIjtvzKAMAVlA4IKABAABQCgCdASoSAA8AAAAAJZQCdMoRwIVL9oEugacl7IH6gei1cpecG6ieo2TF+tfiNOKukAf1XUef538M/dwz76gH8W/kf9k/H3+cciB+jp2328rZ8F7Pg3vSvVkgAP7//yh7yGO4+RQxN/7vzf/HZbFqrqiD3VOLSn2NAUrbaoR/q8K6WU5R1zf4wGqXs27hJhReRXw9cvPuPrQxVsH1lzpv/FK/yJJA0nObWT/4G9O7+1hnH/xKUl2ESu9Wv9vU+r7oeoJpr/h5LL3CHEr9k89p4ZW8wo/YV2IS6aL8O7OjBSef+m3ASfnhaNtk7Blky4dkuO8uTFXL9QX75muEiJKZy0uZ/7A2+ThPNBKBzd87o2xkHbRh/cm/g5/D2hjN758h1gVSJPDL//zGfybc1/rKe/++Xbi6hp+0/jF3f/DfTftq/iE3oBgf4BV2x10fW+xybIe5ENMzNh/hff/Fl64773UIF/XP0+qs//1fYbn6q5xdBK+8Sj+HHiNdatYHtOzTOxw1A/GxmAGHd++i6NEzcLt0TkCeQBEd4CnacO9AAA==");
 
 
 }
@@ -34,6 +56,7 @@
 
 /* End Common */
 
+/* Begin VII 班 */
 /* 黎恩 */
 div[data-id="Rean"] div.setting-item-description::before,
 .data-link-icon[data-link-id="li-en"]::before {
@@ -110,3 +133,144 @@ div[data-id="Crow"] div.setting-item-description::before,
     content: var(--Character-Crow-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
+
+/* End VII 班 */
+
+/* Begin 1 年 I II 班 */
+/* 派崔克 */
+div[data-id="Patrick"] div.setting-item-description::before,
+.data-link-icon[data-link-id="pai-cui-ke"]::before {
+    content: var(--Character-Patrick-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 菲莉丝 */
+div[data-id="Ferris"] div.setting-item-description::before,
+.data-link-icon[data-link-id="fei-li-si"]::before {
+    content: var(--Character-Ferris-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 肯尼斯 */
+div[data-id="Kenneth"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ken-ni-si"]::before {
+    content: var(--Character-Kenneth-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 布莱希特 */
+div[data-id="Bridget"] div.setting-item-description::before,
+.data-link-icon[data-link-id="bu-lai-xi-te"]::before {
+    content: var(--Character-Bridget-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 玛格丽特 */
+div[data-id="Margarita"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ma-ge-li-te"]::before {
+    content: var(--Character-Margarita-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* End 1 年 I II 班 */
+
+/* Begin 1 年 III IV V 班 */
+/* 雨果 */
+div[data-id="Hugo"] div.setting-item-description::before,
+.data-link-icon[data-link-id="yu-guo"]::before {
+    content: var(--Character-Hugo-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 莫妮卡 Monica*/
+div[data-id="Monica"] div.setting-item-description::before,
+.data-link-icon[data-link-id="mo-ni-ka"]::before {
+    content: var(--Character-Monica-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 敏特 Mint */
+div[data-id="Mint"] div.setting-item-description::before,
+.data-link-icon[data-link-id="min-te"]::before {
+    content: var(--Character-Mint-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 贝莉尔 Beryl */
+div[data-id="Beryl"] div.setting-item-description::before,
+.data-link-icon[data-link-id="bei-li-er"]::before {
+    content: var(--Character-Beryl-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 贾斯伯 Casper */
+div[data-id="Casper"] div.setting-item-description::before,
+.data-link-icon[data-link-id="jia-si-bo"]::before {
+    content: var(--Character-Casper-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 艾伦 Alan */
+div[data-id="Alan"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ai-lun"]::before {
+    content: var(--Character-Alan-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 琳黛 Linde */
+div[data-id="Linde"] div.setting-item-description::before,
+.data-link-icon[data-link-id="lin-dai"]::before {
+    content: var(--Character-Linde-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 薇薇 Vivi */
+div[data-id="Vivi"] div.setting-item-description::before,
+.data-link-icon[data-link-id="wei-wei"]::before {
+    content: var(--Character-Vivi-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 科蕾特 Colette */
+div[data-id="Colette"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ke-lei-te"]::before {
+    content: var(--Character-Colette-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 雷克斯 Rex */
+div[data-id="Rex"] div.setting-item-description::before,
+.data-link-icon[data-link-id="lei-ke-si"]::before {
+    content: var(--Character-Rex-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 孟亨 Munk */
+div[data-id="Munk"] div.setting-item-description::before,
+.data-link-icon[data-link-id="meng-heng"]::before {
+    content: var(--Character-Munk-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 宝菈 Paula */
+div[data-id="Paula"] div.setting-item-description::before,
+.data-link-icon[data-link-id="bao-la"]::before {
+    content: var(--Character-Paula-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 贝琪 Becky */
+div[data-id="Becky"] div.setting-item-description::before,
+.data-link-icon[data-link-id="bei-qi"]::before {
+    content: var(--Character-Becky-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 萝茜努 Rosine */
+div[data-id="Rosine"] div.setting-item-description::before,
+.data-link-icon[data-link-id="luo-xi-nu"]::before {
+    content: var(--Character-Rosine-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* End 1 年 III IV V 班 */

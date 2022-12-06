@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "57b5bb4f072273d8",
+        "id": "b836d94d72420af3",
         "type": "tabs",
         "children": [
           {
-            "id": "885d93728539d7f6",
+            "id": "adc65e06c4c72c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Character/Crow Armbrust.md",
+                "file": "Database/Character/Becky.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "33796b2cf726904d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Character/Rosine.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Character/Crow Armbrust.md",
+                "file": "Database/Character/Rosine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Character/Crow Armbrust.md",
+                "file": "Database/Character/Rosine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Character/Crow Armbrust.md"
+                "file": "Database/Character/Rosine.md"
               }
             }
           }
@@ -137,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "885d93728539d7f6",
+  "active": "33796b2cf726904d",
   "lastOpenFiles": [
-    "Database/Character/Millium Orion.md",
-    "Database/Character/Crow Armbrust.md",
-    "Database/Character/Gaius Worzel.md",
-    "Database/Character/Fie Claussell.md",
-    "Database/Character/Jusis Albarea.md",
-    "Database/Character/Emma Millstein.md",
-    "Database/Character/Machias Regnitz.md",
-    "Database/Character/Alisa Reinford.md",
-    "Database/Character/Laura S Arseid.md",
-    "Database/Character/Rean Schwarzer.md"
+    "Database/Character/Becky.md",
+    "Database/Character/Rosine.md",
+    "Database/Character/Paula.md",
+    "Database/Character/Munk.md",
+    "Database/Character/Rex.md",
+    "Database/Character/Colette.md",
+    "Database/Character/Vivi.md",
+    "Database/Character/Linde.md",
+    "Database/Character/Alan.md",
+    "Database/Character/Casper.md"
   ]
 }
