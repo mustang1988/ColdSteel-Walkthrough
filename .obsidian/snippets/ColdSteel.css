@@ -1350,3 +1350,94 @@ div[data-id="Sharon"] div.setting-item-description::before,
 
 /* End 教官 */
 /* End Character */
+
+/* Begin Monster */
+/* Begin Common */
+.monster-view-table td {
+    border: none;
+}
+
+.monster-view-v-half {
+    width: 50%;
+}
+/* End Common */
+
+/* Begin Description Table */
+.property-table td {
+    border-bottom: solid;
+}
+
+.property-table {
+    width: 50%;
+}
+
+/* End Description Table */
+
+/* Begin Art Rate */
+.icon-element-earth {
+    content: var(--Earth-Art-Icon);
+}
+
+.icon-element-water {
+    content: var(--Water-Art-Icon);
+}
+
+.icon-element-fire {
+    content: var(--Fire-Art-Icon);
+}
+
+.icon-element-wind {
+    content: var(--Wind-Art-Icon);
+}
+
+.icon-element-time {
+    content: var(--Time-Art-Icon);
+}
+
+.icon-element-space {
+    content: var(--Space-Art-Icon);
+}
+
+.icon-element-mirage {
+    content: var(--Mirage-Art-Icon);
+}
+
+/* End Art Rate */
+/* Begin Sepith Loot */
+.icon-sepith-earth {
+    content: var(--Sepith-Earth-Icon);
+}
+
+.icon-sepith-water {
+    content: var(--Sepith-Water-Icon);
+}
+
+.icon-sepith-fire {
+    content: var(--Sepith-Fire-Icon);
+}
+
+.icon-sepith-wind {
+    content: var(--Sepith-Wind-Icon);
+}
+
+.icon-sepith-time {
+    content: var(--Sepith-Time-Icon);
+}
+
+.icon-sepith-space {
+    content: var(--Sepith-Space-Icon);
+}
+
+.icon-sepith-mirage {
+    content: var(--Sepith-Mirage-Icon);
+}
+
+.icon-sepith-mass {
+    content: var(--Sepith-Mass-Icon);
+}
+
+/* End Sepith Loot */
+/* Begin Status Rate */
+/* TODO */
+/* End Status Rate */
+/* End Monster */

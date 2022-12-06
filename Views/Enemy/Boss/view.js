@@ -10,45 +10,45 @@ const BuildPage = (boss) => {
     StatusRate,
   } = boss;
   return `
+<table class="monster-view-table">
+<tbody>
+<tr>
+<td class="monster-view-v-half">
 <table>
 <tbody>
 <tr>
 <td>
-<table>
-<tbody>
-<tr>
-<td>
-${PropertyTable(id, props, description)}
+${PropertyTable(id, props, description) /* 属性 */}
 </td>
 </tr>
 <tr>
 <td>
-${ArtRateTable(ArtRate)}
+${ArtRateTable(ArtRate) /* 魔法有效率 */}
 </td>
 </tr>
 </tbody>
 </table>
 </td>
-<td>
+<td class="monster-view-v-half">
 <table>
 <tr>
 <td>
-${SepithLootTable(Sepiths)}
+${SepithLootTable(Sepiths) /* 掉落晶片 */}
 </td>
 </tr>
 <tr>
 <td>
-${ItemLootTable(Items)}
+${ItemLootTable(Items) /* 掉落物品 */}
 </td>
 </tr>
 <tr>
 <td>
-${UnbalanceTable(unbalance)}
+${UnbalanceRateTable(unbalance /* 失衡有效率 */)}
 </td>
 </tr>
 <tr>
 <td>
-${StatusTable(StatusRate)}
+${StatusRateTable(StatusRate) /* 异常状态有效率 */}
 </td>
 </tr>
 </table>
@@ -133,36 +133,36 @@ const ArtRateTable = (rates) => {
     Mirage: mirageArtRate,
   } = rates;
   return `
-<table>
-<thead>
-<tr>
-<td colspan="4">魔法有效率</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img class="icon-element-earth"></td>
-<td>${earthArtRate}</td>
-<td><img class="icon-element-time"></td>
-<td>${timeArtRate}</td>
-</tr>
-<tr>
-<td><img class="icon-element-water"></td>
-<td>${waterArtRate}</td>
-<td><img class="icon-element-space"></td>
-<td>${spaceArtRate}</td>
-</tr>
-<tr>
-<td><img class="icon-element-fire"></td>
-<td>${fireArtRate}</td>
-<td><img class="icon-element-mirage"></td>
-<td>${mirageArtRate}</td>
-</tr>
-<tr>
-<td><img class="icon-element-wind"></td>
-<td>${windArtRate}</td>
-</tr>
-</tbody>
+<table class="art-rate-table">
+    <thead>
+        <tr>
+            <td colspan="4">魔法属性有效率</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img class="icon-element-earth"></td>
+            <td>${earthArtRate}</td>
+            <td><img class="icon-element-time"></td>
+            <td>${timeArtRate}</td>
+        </tr>
+        <tr>
+            <td><img class="icon-element-water"></td>
+            <td>${waterArtRate}</td>
+            <td><img class="icon-element-space"></td>
+            <td>${spaceArtRate}</td>
+        </tr>
+        <tr>
+            <td><img class="icon-element-fire"></td>
+            <td>${fireArtRate}</td>
+            <td><img class="icon-element-mirage"></td>
+            <td>${mirageArtRate}</td>
+        </tr>
+        <tr>
+            <td><img class="icon-element-wind"></td>
+            <td>${windArtRate}</td>
+        </tr>
+    </tbody>
 </table>
 `;
 };
@@ -179,34 +179,34 @@ const SepithLootTable = (loots) => {
     Mass: massSepithLoot,
   } = loots;
   return `
-<table>
-<thead>
-<tr>
-<td colspan="8">晶片</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>地</td>
-<td>${earthSepithLoot}</td>
-<td>水</td>
-<td>${waterSepithLoot}</td>
-<td>火</td>
-<td>${fireSepithLoot}</td>
-<td>风</td>
-<td>${windSepithLoot}</td>
-</tr>
-<tr>
-<td>时</td>
-<td>${timeSepithLoot}</td>
-<td>空</td>
-<td>${spaceSepithLoot}</td>
-<td>幻</td>
-<td>${mirageSepithLoot}</td>
-<td>块</td>
-<td>${massSepithLoot}</td>
-</tr>
-</tbody>
+<table class="sepith-loot-table">
+    <thead>
+        <tr>
+            <td colspan="8">取得耀晶石</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img class="icon-sepith-earth" /></td>
+            <td>${earthSepithLoot}</td>
+            <td><img class="icon-sepith-water" /></td>
+            <td>${waterSepithLoot}</td>
+            <td><img class="icon-sepith-fire" /></td>
+            <td>${fireSepithLoot}</td>
+            <td><img class="icon-sepith-wind" /></td>
+            <td>${windSepithLoot}</td>
+        </tr>
+        <tr>
+            <td><img class="icon-sepith-time" /></td>
+            <td>${timeSepithLoot}</td>
+            <td><img class="icon-sepith-space" /></td>
+            <td>${spaceSepithLoot}</td>
+            <td><img class="icon-sepith-mirage" /></td>
+            <td>${mirageSepithLoot}</td>
+            <td><img class="icon-sepith-mass" /></td>
+            <td>${massSepithLoot}</td>
+        </tr>
+    </tbody>
 </table>
   `;
 };
@@ -214,10 +214,10 @@ const SepithLootTable = (loots) => {
 const ItemLootTable = (loots) => {
   const [l1, l2, l3, l4] = loots;
   return `
-<table>
+<table class="item-loot-table">
 <thead>
 <tr>
-<td colspan="2">掉落</td>
+<td colspan="2">取得道具</td>
 </tr>
 </thead>
 <tbody>
@@ -233,7 +233,7 @@ const ItemLootTable = (loots) => {
 </table>`;
 };
 
-const UnbalanceTable = (rates) => {
+const UnbalanceRateTable = (rates) => {
   const {
     Slash: slashRate,
     Thrust: thrustRate,
@@ -241,10 +241,10 @@ const UnbalanceTable = (rates) => {
     Strike: strileRate,
   } = rates;
   return `
-<table border="1">
+<table class="unbalance-rate-table">
 <thead>
 <tr>
-<td colspan="4">有效率</td>
+<td colspan="4">失衡引发几率</td>
 </tr>
 </thead>
 <tbody>
@@ -276,7 +276,7 @@ const RenderUnballanceRate = (value) => {
   return html;
 };
 
-const StatusTable = (status) => {
+const StatusRateTable = (status) => {
   const {
     Poison: poisonRate,
     Burn: burnRate,
@@ -295,54 +295,54 @@ const StatusTable = (status) => {
     SDown: sDownRate,
   } = status;
   return `
-<table>
-<thead>
-<tr>
-<td colspan="6">状态</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>中毒</td>
-<td>${poisonRate}</td>
-<td>炎伤</td>
-<td>${burnRate}</td>
-<td>即死</td>
-<td>${deathRate}</td>
-</tr>
-<tr>
-<td>封技</td>
-<td>${sealRate}</td>
-<td>冻结</td>
-<td>${freezeRate}</td>
-<td>噩梦</td>
-<td>${nightmareRate}</td>
-</tr>
-<tr>
-<td>封魔</td>
-<td>${muteRate}</td>
-<td>石化</td>
-<td>${petrifyRate}</td>
-<td>延迟</td>
-<td>${delayRate}</td>
-</tr>
-<tr>
-<td>黑暗</td>
-<td>${blindRate}</td>
-<td>气绝</td>
-<td>${faintRate}</td>
-<td>消失</td>
-<td>${vanishRate}</td>
-</tr>
-<tr>
-<td>睡眠</td>
-<td>${sleepRate}</td>
-<td>混乱</td>
-<td>${confuseRate}</td>
-<td>能力降低</td>
-<td>${sDownRate}</td>
-</tr>
-</tbody>
+<table class="status-rate-table">
+    <thead>
+        <tr>
+            <td colspan="6">状态变化有效率</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>中毒</td>
+            <td>${poisonRate}</td>
+            <td>炎伤</td>
+            <td>${burnRate}</td>
+            <td>即死</td>
+            <td>${deathRate}</td>
+        </tr>
+        <tr>
+            <td>封技</td>
+            <td>${sealRate}</td>
+            <td>冻结</td>
+            <td>${freezeRate}</td>
+            <td>噩梦</td>
+            <td>${nightmareRate}</td>
+        </tr>
+        <tr>
+            <td>封魔</td>
+            <td>${muteRate}</td>
+            <td>石化</td>
+            <td>${petrifyRate}</td>
+            <td>延迟</td>
+            <td>${delayRate}</td>
+        </tr>
+        <tr>
+            <td>黑暗</td>
+            <td>${blindRate}</td>
+            <td>气绝</td>
+            <td>${faintRate}</td>
+            <td>消失</td>
+            <td>${vanishRate}</td>
+        </tr>
+        <tr>
+            <td>睡眠</td>
+            <td>${sleepRate}</td>
+            <td>混乱</td>
+            <td>${confuseRate}</td>
+            <td>能力降低</td>
+            <td>${sDownRate}</td>
+        </tr>
+    </tbody>
 </table>
 `;
 };
