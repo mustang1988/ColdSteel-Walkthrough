@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "213dfa2f16accaa2",
+        "id": "5674a1a1791636c6",
         "type": "tabs",
         "children": [
           {
-            "id": "ab23eb1500a968a5",
+            "id": "dc3194090ccb6aec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DEBUG.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Character/Sharon Kreuger.md",
+                "file": "DEBUG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Character/Sharon Kreuger.md",
+                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Character/Sharon Kreuger.md"
+                "file": "DEBUG.md"
               }
             }
           }
@@ -133,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "dc3194090ccb6aec",
   "lastOpenFiles": [
+    "Demo.md",
+    "Database/Enemy/Boss.md",
+    "Database/Enemy/Monster.md",
+    "Database/Character/Sharon Kreuger.md",
     "Database/Character/Lotte.md",
     "Database/Character/Sariffa.md",
     "Database/Character/Celestin.md",
     "Database/Character/Mary Altheim.md",
     "Database/Character/Beatrix.md",
-    "Database/Character/Makarov.md",
-    "Database/Character/Thomas Lysander.md",
-    "Database/Character/Heinrich.md",
-    "Database/Character/Neithardt.md",
-    "Database/Character/Vandyck.md"
+    "Database/Character/Makarov.md"
   ]
 }
