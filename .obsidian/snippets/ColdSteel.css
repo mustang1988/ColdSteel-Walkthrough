@@ -221,6 +221,9 @@
     --Character-Lotte-Icon: url("data:image/webp;base64,UklGRuABAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBEAAAABUNq2AfP/y52wsDQiUht9HgBWUDggqAEAALALAJ0BKhIADwAAAAAllAJ0ciX7M9wA3AD9AN9V4ADpEv2A/aP2maN39M2WCezfhzkmc+Z/jBxAHoA/1X4AepX+GfsJ+Wf7N7gH8T/k/9I/JL+of/XlGP0zPKwYpM/zGaHExj7wAAD+//8oT8axQ9//FsUuBoHIuPIrI63/8Sif/dPpLY93CYV40//7wqvgBncqoZDRFrjl0HMF/mRbbt9/i5O/df4kHaueKcE8vT8hxUT/9so7f932y7oRv6k/B1zO7/rhpTUoUvb+WZMLbv+rwcyclEUwmmlYGXSyEcoC9hB/mm8z/qhbhptyh2dOHZRWNbLqV/AvCrsxshB//nwTuZqzBwm/fxpwzPf2/4H9ocZNWASJ6SAYa5f/9MPfoyIQenD7mAc/DXDXvauP/l4PNs62uGKoUsq9JYwf/GHp1ri5yiPspj/tmlqvd/jYlhqZn9tsHKI3IKU9n7Zsh6v7p0wXilOBz/953x1nkoCSGef/44Tn7eB7br4NVVuf7kfGlTc0WvogLl3R5E16xqLZ8+gp0QEM4NPAchyQuEOzG8TCad0AAAA=");
     --Character-Sharon-Icon: url("data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAEQAADgAAQUxQSBgAAAABUNo2ErP/vN87PPg0IiaAAvY6/C8+cANWUDgglgEAANAKAJ0BKhIADwAAAAAllAJ0yhHAS7N1gHoAeVV7Fvkx3KD6QOmP9VclP8w/E/8ctKJjk/7tolH5Ga5D+ifiNywHuAfwn+Kf138pP63//+Vr/UksC0u0cqdpeKbmfwmgAP7//ysEpbH4eyAQCJbLOdo4xsJaHDzih/0dT8MjIX1BYDnsJlss7t7RmfZLtpoM7uKwD14e/xv6MGrKGIN5XXhtzd8rVSTDuMr/j6PdwlvWYmiBJS/7pVQaZ4y78lg8nhDcokxdiRd2P82GSXfRuLgp7vDltPd8//tWkr93//vhNzyvOFt+7Vsf4H6rWqYjIxdfhMZXu+X/89sWeHg3Mp++cOnvSD9ZxP+GXDZAiv8IClP1V54IEGQsVxwnhcDhrXmgKk8PD0wJA0jNbYxKPCXFyrtd6Ln+lNbhFJRgQIqTMOUznOXF8w7//4iX4pgC4+/8W/90PzBo/7/81/iHTX1xDXoT6vzXNpqP8ZNlY1sCnzzvD3dy2LJ2MxRg07RNWJSLdLQLyURy8GCXeALsQYD2rkQAAAA=");
     /* End Character Icons*/
+    /* Begin Monster Icon */
+    
+    /* End Monster Icon */
     /* End Icons */
 }
 
@@ -1353,23 +1356,6 @@ div[data-id="Sharon"] div.setting-item-description::before,
 
 /* Begin Monster */
 /* Begin Common */
-.monster-view-table td {
-    border: none;
-}
-
-.monster-view-v-half {
-    width: 50%;
-}
-/* End Common */
-
-/* Begin Description Table */
-.property-table td {
-    border-bottom: solid 1px;
-}
-
-.property-table {
-    width: 50%;
-}
 
 /* End Description Table */
 

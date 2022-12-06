@@ -5,3 +5,82 @@
 .c-image {
     content: var(--Monster-C-Icon);
 }
+
+
+.monster-view {
+    width: 100%;
+}
+
+.monster-v-half {
+    width: 50%;
+    float: left;
+}
+
+.description-v-half {
+    width: 50%;
+    float: left;
+}
+
+.monster-desc {
+    float: left;
+}
+
+ul {
+    list-style: none;
+}
+
+.monster-property ul li label {
+    display: block;
+    width: 40%;
+    text-align: left;
+    float: left;
+}
+
+.art-rate ul li label {
+    display: block;
+    width: 25%;
+    text-align: left;
+    float: left;
+}
+
+.loot-sepith ul li label {
+    display: block;
+    width: 12.5%;
+    text-align: left;
+    float: left;
+}
+
+.loot-item div {
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+.unballance-rate ul li {
+    display: block;
+    float: left;
+    width: 25%;
+}
+
+/* .status-rate ul li label {
+    display: block;
+    width: 16.66%;
+    float: left;
+}
+ */
+.status-img-lab {
+    width: 22.2%;
+    display: block;
+    float: left;
+}
+
+.status-val-lab {
+    width: 11.1%;
+    display: block;
+    float: left;
+}
+
+.monster-img {
+    text-align: center;
+    vertical-align: middle;
+}

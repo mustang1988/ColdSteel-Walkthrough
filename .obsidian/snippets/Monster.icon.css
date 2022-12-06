@@ -24,62 +24,77 @@
 
 .status-poison {
     content: var(--Status-Poison-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-burn {
     content: var(--Status-Burn-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-death {
     content: var(--Status-Death-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-seal {
     content: var(--Status-Seal-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-freeze {
     content: var(--Status-Freeze-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-nightmare {
     content: var(--Status-Nightmare-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-mute {
     content: var(--Status-Mute-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-petrify {
     content: var(--Status-Petrify-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-delay {
     content: var(--Status-Delay-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-blind {
     content: var(--Status-Blind-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-faint {
     content: var(--Status-Faint-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-vanish {
     content: var(--Status-Vanish-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-sleep {
     content: var(--Status-Sleep-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-confuse {
     content: var(--Status-Confuse-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .status-s-down {
     content: var(--Status-SDown-Icon);
+    padding-right: var(--Link-Icon-Padding);
 }
 
 .icon-unballance-start {
