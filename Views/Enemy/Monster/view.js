@@ -1,5 +1,5 @@
-const { boss } = input;
-const BuildPage = (boss) => {
+const { monster } = input;
+const BuildPage = (monster) => {
   const {
     ID: id,
     Description: description,
@@ -8,7 +8,7 @@ const BuildPage = (boss) => {
     Loots: { Sepiths, Items },
     Unbalance: unbalance,
     StatusRate,
-  } = boss;
+  } = monster;
   return `
 <table class="monster-view-table">
 <tbody>
@@ -213,7 +213,6 @@ const SepithLootTable = (loots) => {
 
 const ItemLootTable = (loots) => {
   const items = loots.map((i) => {
-    console.log(i);
     const file = dv.page(i.path);
     const link =
       i.type === "file"
@@ -384,8 +383,8 @@ const StatusRateTable = (status) => {
 
 const admonition = `
 \`\`\`ad-enemy-monster
-title: ${boss.Name}
+title: ${monster.Name}
 collapse: open
-${BuildPage(boss)}
+${BuildPage(monster)}
 \`\`\``;
 dv.paragraph(admonition);
