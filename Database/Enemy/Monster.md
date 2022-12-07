@@ -128,6 +128,67 @@ Monsters:
     Sleep: 20
     Confuse: 50
     SDown: 150
+
+- Name: "硬币甲壳虫"
+  ID: "ying-bi-jia-ke-chong"
+  Description: |
+    拥有像硬币一样的皮肤.  
+
+    黄金色的甲虫魔兽.   
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 4
+    HP: 609
+    EXP: 33
+    STR: 145
+    DEF: 294
+    ATS: 0
+    ADF: 66
+    SPD: 66
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 170
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 2
+      Fire: 3
+      Wind: 1
+      Time: 1
+      Space: 0
+      Mirage: 1
+      Mass: 3
+    Items:
+      - "[[Database/Item/Potion#^s-yao-pian|S-药片]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 3
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 100
+    Seal: 100
+    Freeze: 150
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
 ---
 ```dataviewjs
 const monster = dv.current().Monsters[0];
@@ -140,3 +201,9 @@ const monster = dv.current().Monsters[1];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^bo-li-ruan-ti-shou
+
+```dataviewjs
+const monster = dv.current().Monsters[2];
+await dv.view('Enemy/Monster', { monster });
+```
+^ying-bi-jia-ke-chong

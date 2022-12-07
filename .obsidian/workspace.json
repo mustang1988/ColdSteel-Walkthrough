@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "Database/Enemy/Boss.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "Database/Enemy/Boss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "Database/Enemy/Boss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Enemy/Monster.md"
+                "file": "Database/Enemy/Boss.md"
               }
             }
           }
@@ -139,11 +139,11 @@
   },
   "active": "ab3d69c5107a1317",
   "lastOpenFiles": [
+    "Database/Enemy/Monster.md",
     "DEBUG.md",
     "Demo.md",
     "Database/Item/Water Sepith.md",
     "Database/Enemy/Boss.md",
-    "Database/Enemy/Monster.md",
     "Database/Character/Sharon Kreuger.md",
     "Database/Character/Lotte.md",
     "Database/Character/Sariffa.md",
