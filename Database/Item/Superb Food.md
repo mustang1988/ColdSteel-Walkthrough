@@ -6,8 +6,8 @@ Foods:
     ID: "peng-song-nong-chou-dan-bao-fan"
     Range: "单体"
     Effects:
-      - "解除「战斗不能」"
       - "HP+100"
+      - "解除「战斗不能」"
 
   - Name: "黄金舒芙蕾"
     ID: "huang-jin-shu-fu-lei"

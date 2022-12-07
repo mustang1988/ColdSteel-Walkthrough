@@ -1558,3 +1558,68 @@ div[data-id="Sharon"] div.setting-item-description::before,
 
 /* End Status Rate */
 /* End Monster */
+
+/* Begin Recipe */
+
+.recipe-table tr td {
+    border: none;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.right-border {
+    border-right: solid 1px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.recipe-character-icon-li-en {
+    content: var(--Character-Rean-Icon);
+}
+
+.recipe-character-icon-ya-li-sha {
+    content: var(--Character-Alisa-Icon);
+}
+
+.recipe-character-icon-ai-lve-te {
+    content: var(--Character-Elliot-Icon);
+}
+
+.recipe-character-icon-lao-la {
+    content: var(--Character-Laura-Icon);
+}
+
+.recipe-character-icon-ma-qi-ya-si {
+    content: var(--Character-Machias-Icon);
+}
+
+.recipe-character-icon-ai-ma {
+    content: var(--Character-Emma-Icon);
+}
+
+.recipe-character-icon-you-xi-si {
+    content: var(--Character-Jusis-Icon);
+}
+
+.recipe-character-icon-fei {
+    content: var(--Character-Fie-Icon);
+}
+
+.recipe-character-icon-gai-wu-si {
+    content: var(--Character-Gaius-Icon);
+}
+
+.recipe-character-icon-mi-li-ya-mu {
+    content: var(--Character-Millium-Icon);
+}
+
+.recipe-character-icon-ke-luo {
+    content: var(--Character-Crow-Icon);
+}
+
+
+/* End Recipe */

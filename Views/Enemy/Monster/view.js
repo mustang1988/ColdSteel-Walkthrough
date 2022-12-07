@@ -384,7 +384,7 @@ const StatusRateTable = (status) => {
 const admonition = `
 \`\`\`ad-enemy-monster
 title: ${monster.Name}
-collapse: open
+collapse: close
 ${BuildPage(monster)}
 \`\`\``;
 dv.paragraph(admonition);

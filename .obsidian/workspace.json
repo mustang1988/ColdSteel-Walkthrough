@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be04aadc00ca118b",
+        "id": "eaaef96c3c411cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "ab3d69c5107a1317",
+            "id": "3ab87758e357706d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Boss.md",
+                "file": "Database/Recipe/Recipe.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Enemy/Boss.md",
+                "file": "Database/Recipe/Recipe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Enemy/Boss.md",
+                "file": "Database/Recipe/Recipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Enemy/Boss.md"
+                "file": "Database/Recipe/Recipe.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab3d69c5107a1317",
+  "active": "3ab87758e357706d",
   "lastOpenFiles": [
+    "Database/Character/Alan.md",
+    "Database/Recipe/Recipe.md",
+    "Database/Item/Superb Food.md",
+    "Database/Item/Unique Food.md",
+    "Database/Treasure Chest/Treasure Chest.md",
     "Database/Enemy/Monster.md",
+    "Database/Enemy/Boss.md",
     "DEBUG.md",
     "Demo.md",
-    "Database/Item/Water Sepith.md",
-    "Database/Enemy/Boss.md",
-    "Database/Character/Sharon Kreuger.md",
-    "Database/Character/Lotte.md",
-    "Database/Character/Sariffa.md",
-    "Database/Character/Celestin.md",
-    "Database/Character/Mary Altheim.md"
+    "Database/Item/Water Sepith.md"
   ]
 }
