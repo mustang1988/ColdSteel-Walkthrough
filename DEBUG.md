@@ -37,7 +37,10 @@ Loots:
     Mirage: 0
     Mass: 0
   Items:
-    - "[[Database/Item/Wind Sepith]]"
+    - "[[Database/Quartz/Earth SR#^feng-rao|丰饶]]"
+    - "[[Database/Item/Food Ingredient#^xin-xian-ji-dan|新鲜鸡蛋]]"
+    - "[[Database/Item/Potion#^hui-fu-yao|回复药]]"
+    - "[[Database/Item/U-Material|U物质]]"
 Unbalance:
   Slash: 1
   Thrust: 0
