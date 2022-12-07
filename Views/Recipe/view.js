@@ -1,6 +1,6 @@
 const { recipe } = input;
 const BuildRecipeTable = (recipe) => {
-  const { Ingredients, Superb, Regular, Peculiar, Attack, Unique } = recipe;
+  const { Ingredients, Superb, Regular, Peculiar, Attack, Unique, ID } = recipe;
   const ingredients = GetIngredients(Ingredients);
   const items = GetItems([Superb, Regular, Peculiar || Attack, Unique]);
   return `

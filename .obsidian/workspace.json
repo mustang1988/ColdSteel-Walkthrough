@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eaaef96c3c411cbc",
+        "id": "08d11c13467c46ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab87758e357706d",
+            "id": "fe046a012d99582f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ab87758e357706d",
+  "active": "fe046a012d99582f",
   "lastOpenFiles": [
-    "Database/Character/Alan.md",
-    "Database/Recipe/Recipe.md",
-    "Database/Item/Superb Food.md",
-    "Database/Item/Unique Food.md",
-    "Database/Treasure Chest/Treasure Chest.md",
-    "Database/Enemy/Monster.md",
-    "Database/Enemy/Boss.md",
     "DEBUG.md",
+    "Database/Recipe/Recipe.md",
+    "Database/Item/Attack Food.md",
+    "Database/Item/Superb Food.md",
+    "Database/Item/Peculiar Food.md",
+    "Database/Item/Unique Food.md",
+    "Database/Enemy/Boss.md",
+    "Index.md",
     "Demo.md",
-    "Database/Item/Water Sepith.md"
+    "Walkthrough/Chapter 7.md"
   ]
 }
