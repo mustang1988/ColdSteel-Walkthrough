@@ -822,6 +822,18 @@
       "title": "enemy-monster",
       "injectColor": true,
       "noTitle": true
+    },
+    "fish": {
+      "type": "fish",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAABKdJREFUSEu11WtMk1cYB/D/2/ftlb4tlFJaWqCUdqiM20Bw2bQijGKExZKlZopmHxzL4vA2YC4Th/csU+NENwbTbcZlbg4EdmEhy4KbkjFgCHVDwBtSKgWtdNha6W2pccnwUsRk5+t5zvmd55zznEPgf27E/fNvOFCtJUhyoUwsxp/9F5CUltzvHnM3lq7S2Z9kLVOAHwYG2EP9g70CQUiMKlKCS1dMePe9vdi9faO5q3ew+tqYvfLwxtXWmUBTgBWbduhDgvl1o5YRVKx/FaYhMyo/P45Dh7bhfN8QOoyXbnd2nN1Zu2/bzsdFpgCZK4u1XIrxhf5lfXj76WZqtWEZFNGxsI5PQMTnwun1oa2rAywe+5TZdLW42FBonA564AwgDH/72eycLZk6Hcf+twWF+gKwuFyIgnjoHriMFHUUaA4H3b3nJoQ8warEuLj6QMiDgD+apF8sWL+uVp2SiniFjBodM2N5TjZ+/qMHaoUcz8RGgoIHBAiMj5vKRCLV+49CHg4AEMbGf5mRk/+SYWk+pZSHQhYuRntPL0RcFyIilFDJ5KCZAEXcxsDFvrKn1BkPRR4JAIgNkmnqs/TLZiWmJsBis1H9rd/h4P4y9F50wOYEXkhPR6SQCcCFTqNxXXrS/AP3ZxIIAMCL4EsUp1Kyc5VSlZrqaqlFU8MHaGw6A5ONiZhIGQzaBQilWRh33HB3dHUYFs9fevK/yDTA3VAxXzrrx4QFWUkT9pvQKGlKIhai4adOvLZhLbgeAkVLFoEO4uLC5YFbRW+Vq349ceImALd/8OMA/rgonlRdl5yZl+RheCjLYB+Gr1tRUrEFTocTIoqBksKlIAkXdlZ+eHDr2jc3zBTwI8GcUEV9/PM67ey5mQjiMuBw2SEU0aAoD/IyUrFgjhol5VucB3bskgO4W/EBMyh6x7D2nPFKSGvj71vv7SuTL40+PjsjqyAsSg22kA+SRUKpCocQBMpW6FFavtkP6AD8EhDY98kmdYQiYuDTw7VobzVGWoetpnsIi0HLKjNyC4oEciUYbAqhIhqyUB6KC/Jw5EiVs6KkrBBAbUCgdPsruWnpqU2Tdgca6k/XfXP02+UA7gCgAHglT2vPJGbmz3NOOiEUkFDIw/G6Phd7dpU7j338WSHgeTRwpK5aax411QyPjGrYPiBGE4eW030nTlZVGZTz9VoOh9dya8KGsGgNhAIOdFo1xm64vPNS0ojdpWvMXW1teQDOPjQDgUAgSlmYdixEKlkcEi6BZcgC05ANcXMSMGS2toyM2blMEhkuBgMqjQoMjwVLsmaDFqf4TP0XfBVriprh8+UHvkUk8oRh4r3SyAiFcxIs+20mQUvkpEAsAclg+txeD/ihYYRIwMa1/t+QrZsLq5Vwn6yusV43D28GUPNvsQW6RTIwUAwvVoIkGeBwmGGSaC5PqgxKfm4RgsOCCQ4JXOnpRBCHieavj47eso2fgQ8FM61kfzzbX2wAmUyy2SskUWodHauhWC6vZ3Lkqnfw4vmbd5z27wG8AWDySYCpbxiX3hgbH79r8C+jze1wdAO+jwBMeYMeZ4um+6y+AtAOYM/MP5zppp5B/z/c0pUoJPZYKwAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": false,
+      "title": "fish",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,

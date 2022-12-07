@@ -1621,5 +1621,20 @@ div[data-id="Sharon"] div.setting-item-description::before,
     content: var(--Character-Crow-Icon);
 }
 
-
 /* End Recipe */
+
+/* Begin Fish */
+.fish-table tr td {
+    border: none;
+}
+
+.content-right-bottom {
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.content-super-big {
+    font-size: 40px;
+}
+
+/* End Fish */

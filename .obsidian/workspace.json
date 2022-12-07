@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08d11c13467c46ce",
+        "id": "fe389f5a0434520b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe046a012d99582f",
+            "id": "daa990a9a6cf6cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Recipe/Recipe.md",
+                "file": "DEBUG.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Recipe/Recipe.md",
+                "file": "DEBUG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Recipe/Recipe.md",
+                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Recipe/Recipe.md"
+                "file": "DEBUG.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe046a012d99582f",
+  "active": "daa990a9a6cf6cca",
   "lastOpenFiles": [
+    "Database/Fish/Anor Carp.md",
     "DEBUG.md",
-    "Database/Recipe/Recipe.md",
-    "Database/Item/Attack Food.md",
-    "Database/Item/Superb Food.md",
-    "Database/Item/Peculiar Food.md",
-    "Database/Item/Unique Food.md",
-    "Database/Enemy/Boss.md",
-    "Index.md",
     "Demo.md",
-    "Walkthrough/Chapter 7.md"
+    "Database/Fish/Invisible Crayfish.md",
+    "Database/Fish/Giant Swordtail.md",
+    "Database/Fish/Catfish.md",
+    "Database/Fish/Crayfish.md",
+    "Database/Fish/Pale Salamander.md",
+    "Database/Fish/Queen Crab.md",
+    "Database/Fish/Gold Salmon.md"
   ]
 }
