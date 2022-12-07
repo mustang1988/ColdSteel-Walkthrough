@@ -212,7 +212,27 @@ const SepithLootTable = (loots) => {
 };
 
 const ItemLootTable = (loots) => {
-  const [l1, l2, l3, l4] = loots;
+  const items = loots.map((i) => {
+    console.log(i);
+    const file = dv.page(i.path);
+    const link =
+      i.type === "file"
+        ? dv.fileLink(i.path, false, i.display)
+        : dv.blockLink(i.path, i.subpath, false, i.display);
+    const fileName = link.path.split("/");
+    return `<a aria-label-position="top" aria-label="${
+      fileName[fileName.length - 1]
+    } > ^${link.subpath}" data-href="${fileName[fileName.length - 1]}#^${
+      link.subpath
+    }" href="${fileName[fileName.length - 1]}#^${
+      link.subpath
+    }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
+      file.ID
+    }" data-link-tags="" data-link-path="${link.path}">${
+      link.display || ""
+    }</a>`;
+  });
+  const [l1, l2, l3, l4] = items;
   return `
 <table class="item-loot-table">
 <thead>
@@ -222,12 +242,12 @@ const ItemLootTable = (loots) => {
 </thead>
 <tbody>
 <tr>
-<td>${l1}</td>
-<td>${l3}</td>
+<td>${l1 ? l1 : ""}</td>
+<td>${l3 ? l3 : ""}</td>
 </tr>
 <tr>
-<td>${l2}</td>
-<td>${l4}</td>
+<td>${l2 ? l2 : ""}</td>
+<td>${l4 ? l4 : ""}</td>
 </tr>
 </tbody>
 </table>`;
@@ -365,6 +385,7 @@ const StatusRateTable = (status) => {
 const admonition = `
 \`\`\`ad-enemy-boss
 title: ${boss.Name}
+collapse: open
 ${BuildPage(boss)}
 \`\`\``;
 dv.paragraph(admonition);
