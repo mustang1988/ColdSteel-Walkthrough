@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2e27d53dfcb74a0",
+        "id": "d9cf9dbac78e2a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "96e95a82203eeaf0",
+            "id": "d51021b99ad01a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Fish/Rainbow Trout.md",
+                "file": "Database/Enemy/Boss.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Fish/Rainbow Trout.md",
+                "file": "Database/Enemy/Boss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Fish/Rainbow Trout.md",
+                "file": "Database/Enemy/Boss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Fish/Rainbow Trout.md"
+                "file": "Database/Enemy/Boss.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96e95a82203eeaf0",
+  "active": "d51021b99ad01a04",
   "lastOpenFiles": [
+    "Database/Enemy/Monster.md",
+    "Database/Enemy/Boss.md",
+    "Database/Fish/Gold Salmon.md",
+    "Database/Fish/Rainbow Trout.md",
     "Database/Fish/Arowana.md",
     "Demo.md",
     "Index.md",
     "DEBUG.md",
     "Database/Fish/Giant Swordtail.md",
-    "Database/Fish/Eel.md",
-    "Database/Fish/Crayfish.md",
-    "Database/Fish/Catfish.md",
-    "Database/Fish/Carp.md",
-    "Database/Fish/Anor Carp.md"
+    "Database/Fish/Eel.md"
   ]
 }
