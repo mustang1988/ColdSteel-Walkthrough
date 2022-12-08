@@ -623,6 +623,128 @@ Bosses:
     Confuse: 50
     SDown: 100
 
+- Name: "命运纺织者"
+  ID: "ming-yun-fang-zhi-zhe"
+  Description: |
+    双手拥有锐利爪子的可怕魔兽.  
+
+    会吐出引发幻觉·起火的残虐毒液.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 18
+    HP: 18890
+    EXP: 1228
+    STR: 632
+    DEF: 689
+    ATS: 0
+    ADF: 0
+    SPD: 85
+  ArtRate:
+    Earth: 100
+    Water: 130
+    Fire: 80
+    Wind: 110
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 19
+      Water: 9
+      Fire: 17
+      Wind: 13
+      Time: 16
+      Space: 14
+      Mirage: 15
+      Mass: 45
+    Items:
+      - "[[Database/Art/Time#^e-mo-zhi-lian|恶魔之镰]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 50
+    Freeze: 100
+    Nightmare: 50
+    Mute: 50
+    Petrify: 10
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "三头颠茄兽"
+  ID: "san-tou-dian-qie-shou"
+  Description: |
+    三个头的植物型魔兽.  
+
+    体内积蓄了大量的秽物,  
+
+    毫不留情的喷向与其敌对的东西.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 18
+    HP: 16453
+    EXP: 712
+    STR: 622
+    DEF: 682
+    ATS: 0
+    ADF: 328
+    SPD: 104
+  ArtRate:
+    Earth: 100
+    Water: 30
+    Fire: 125
+    Wind: 70
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 15
+      Water: 18
+      Fire: 14
+      Wind: 20
+      Time: 10
+      Space: 13
+      Mirage: 9
+      Mass: 40
+    Items:
+      - "[[Database/Quartz/Wind R#^tuo-tu|脱兔]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 1
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 150
+    Death: 0
+    Seal: 50
+    Freeze: 100
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 50
+    Blind: 50
+    Faint: 100
+    Vanish: 0
+    Sleep: 50
+    Confuse: 100
+    SDown: 100
+
 ---
 ```dataviewjs
 const boss = dv.current().Bosses[0];
@@ -683,3 +805,15 @@ const boss = dv.current().Bosses[9];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^zhan-shu-ke-beta
+
+```dataviewjs
+const boss = dv.current().Bosses[10];
+await dv.view('Enemy/Boss', { boss });
+```
+^ming-yun-fang-zhi-zhe
+
+```dataviewjs
+const boss = dv.current().Bosses[11];
+await dv.view('Enemy/Boss', { boss });
+```
+^san-tou-dian-qie-shou
