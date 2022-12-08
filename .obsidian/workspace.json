@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6826dbc1db421ef4",
+        "id": "c2e27d53dfcb74a0",
         "type": "tabs",
         "children": [
           {
-            "id": "49133d1e29db7de2",
+            "id": "96e95a82203eeaf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEBUG.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEBUG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DEBUG.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49133d1e29db7de2",
+  "active": "96e95a82203eeaf0",
   "lastOpenFiles": [
+    "Demo.md",
+    "Index.md",
+    "DEBUG.md",
     "Database/Fish/Giant Swordtail.md",
     "Database/Fish/Eel.md",
     "Database/Fish/Crayfish.md",
     "Database/Fish/Catfish.md",
     "Database/Fish/Carp.md",
     "Database/Fish/Arowana.md",
-    "Database/Fish/Anor Carp.md",
-    "Database/Fish/Swordtail.md",
-    "Database/Fish/Gold Salmon.md",
-    "Database/Fish/Invisible Crayfish.md"
+    "Database/Fish/Anor Carp.md"
   ]
 }
