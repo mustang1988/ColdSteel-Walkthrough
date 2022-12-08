@@ -31,6 +31,18 @@ const GetItems = (items) => {
     return html;
   });
 };
+const SplitGroup = (list) => {
+  if (list.length > 3) {
+    const groupSize = list.length / 3;
+    const group = [];
+    for (let i = 0; i < list.length; i += groupSize) {
+      group.push(list.slice(i, i + groupSize).join(""));
+    }
+    return group;
+  }
+  return list;
+};
+
 const admonition = `
 \`\`\`ad-fish
 title: ${names[0]}
@@ -56,7 +68,7 @@ title: ${names[0]}
 <td colspan="5"><h1>钓鱼点</h1></td>
 </tr>
 <tr>
-<td colspan="5">${GetItems(loots).join("</br>")}</td>
+<td colspan="5">${SplitGroup(GetItems(loots)).join("</br>")}</td>
 <td colspan="5">${GetItems(locations || []).join("</br>")}</td>
 </tr>
 </tbody>
