@@ -242,6 +242,28 @@
     --Unbalance-Rate-Start-Icon: url("data:image/webp;base64,UklGRsQBAABXRUJQVlA4WAoAAAAQAAAACgAADgAAQUxQSIsAAAANgGzbtulo39i2rVZ6Tr46I730bNtl2w/lql+IiAnA/wnef+HwwDLvAAhH5pW2HwEQIvVHL+vXFDgCndX8NAgebcBxxFQTSpMdVsCxJNh3lsorReAwU7f4pMFIORAKNQeSl+t3DoEgUiwJow9igLzOc1q+wcMD8FgQiQ63Yg7wzjB4p94Ivr8DwDsAAFZQOCASAQAA0AcAnQEqCwAPAAAAACWUAnQwRTybrkB9AFmB/TZk5/G78ANcg/G7XO/4DyQPIF8J/3b1IP61+N/758pL+lZ9s6KIRBgMsaAA/v//J7V5XRfuj7MmsmpRjamiOP/iPFqK0p8qL7jTCfnr7IDWURbhvv5JFhg0Pt/7Hp6taJ59vTx7dhIz5d/+2fK/8w/9zjk+It/zj/GTJ1llvw/71WCqv9yo/O78atdVJ2/qAc84ebQ3MKaPnXCROJyD/hfv+BwJLrcf+JLFhajicoP+Lo5dBqaPyf60h9bmvq8ox2B0URQET6VU/ZM4cBP2N/v9CxIYKP0vI/J/53sY9//S62g/+Zlq5oAN28yjFp4efv0TBsAAAA==");
     --Unbalance-Rate-Empty-Start-Icon: url("data:image/webp;base64,UklGRn4BAABXRUJQVlA4WAoAAAAQAAAACgAADgAAQUxQSIsAAAANgGzbtulo39i2rVZ6Tr46I730bNtl2w/lql+IiAnA/wnef+HwwDLvAAhH5pW2HwEQIvVHL+vXFDgCndX8NAgebcBxxFQTSpMdVsCxJNh3lsorReAwU7f4pMFIORAKNQeSl+t3DoEgUiwJow9igLzOc1q+wcMD8FgQiQ63Yg7wzjB4p94Ivr8DwDsAAFZQOCDMAAAAcAQAnQEqCwAPAAAAACWkAnQdoA8oDlm+uXuAfpB/l+AA/TMy/1EtNZ1NyAAA/v//mmuo2UW7J/mHAn/1lHtPCfHNj/yiH1cJML/dV4NaDBLWGLD1mccWhHZ/6ZDIwKfaueg7X5Hp/v22OifqVpIj3/7EHHn5cn67VLu9qMQUP1iXvvy556ag/T+T0m2OWafwzdtck/f/spj6j7ks+b8Jge5fm9pZyQ7E2eo0vLfc8Wui5mp+uICc1Zv2aa6VmEUwBtDZvF5HLikfGgAA");
     /* End Unbalance Rate */
+    /* Begin Fish */
+    --Fish-Swordtail-Icon: url("data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABQBQCdASoPAA0AAAAAJZwCdDiAN4Xp0CxZ5iBsAvmP/Yewd/Ov9fwEv6Vn3t65cXxIOwAA/v//hHBs7KIyFJCIYfXn6911d+LZIn+iNn9XDki2ylF1AexWSC+Ypic9MXh9vZ5aFPFh+lUYlP7m1571eQeXVPR4WxRPbr2YMSQylkJ77F4vmY/b8S+SGAuxx6+bkuZz6rWqh7MfhqphaH9e9b7+qW6GxwnG/QfrkQIeEV8/g2t+Ld8W37x/b6YvV+/lTGJvDptnEXotqg8XQAory/6l6aifHQ01HPFUJl4hNk+cnZHDKAAA");
+    --Fish-GrayCrab-Icon: url("data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAAAQBQCdASoPAA0AAAAAJZwCdDBK6wB+AH6qwYDHAf02nO7IB+kX+V/Mz4ADk3hQ7p0AAP7//4epszoobmGE2FHTOxV5pkT8hG91ce//g6OeprO/Wz3f0+bWuyxiYcQFb8L58KT/8ED9Df3FDn2JIFllZys49/7/7BN/9tn84Q5X9ylH/PB/of+NSA9/UafykyJ//dvmnQvdvKUneypg3bGO/p5+dPa+H/RuLl8g6isDff5LP/zE1BFzeVyrK/j/buovjHb/q9PzT9U//lWR/G316xhUF/53WKSjbfbZ/j6esw8/hJ/+//T/n39zq+LGqypMi9Xj7f4rVejjv9P+v/HufCyDjh+XLYSAAAAA");
+    --Fish-Kasagin-Icon: url("data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAwBgCdASoPAA4AAAAAJZwCdD3meoA3iypAP1mg1/4q5BnooGP05gnkf2AP0i/y3AgfpWeW2q9Z1jNAAP7//2/r/PkZXO8LcSRTf4kMXQwSkbzjDdasZ4+A6A18kvXarV/k1RSdj4orv//LyCtuHzh67VsY/y3IBjh8HPk6LpzfVAlf37lDxOwE/4Xbaqro9SLwFXKZT2fCK6tG1MAVs9KfmRMHeVZdv/qw1BGhKDaBFcWTMf2S3v7/xJhfHTxL0WPAf8Dozz4L/AVtqdlP13Ms8hyjqTkQc9UJP7dMA/OOXcf1zJf8/8eQR/9WHhVQ392iqgjy4VzNNXqafu2dmtg0jDGNv+mDQAA=");
+    --Fish-Crayfish-Icon: url("data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAACQBgCdASoPAA0AAAAAJYwCdDKRvYg/YD+q+qTcgKxz+JOegwzPUOcdQzSvIH9r9Sr/JcCr+qp99ExDJDiAAP7//39Q1NDcX1aRRXZ1X7YrbuyZ9mareViaP3tCZjyQH8+TYDY+7+y/jq1wYV2PUH3pBFf8VEFO4a/RtK1nJX/pW0/+/03yzqZ7Hnvotp9Z+d/usLkjIvVV2tzWyT/I3zBOmpUD5/+zT3AyE2J33H+QgHjWb5i8MS278E51r/qEfwfR8WDcrdOoF2ubjA+K8uYKZNMayfg0i9YiBh9fL/8X1y5p+92X4x1uP/ziY5B22yX5n/tTOcup/8TfeWD+tXL3zU9HCG6NRSV/75/1H/zGOWeTv6ansB/rw33//df3j7Mt/rXJ1oRYVt5NPC8f8Yi3ZiYDUFYS0AAAAA==");
+    --Fish-AnorCarp-Icon: url("data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAABwBQCdASoPAA0AAAAAJZwCdDiAN4yrAH4AfrNYxvwgmUCegeLXMy/0P5acIAfe2OafySGAAP7//4EFJZ1/7pc9xPFQ13/u9zvVsA0uU7yPjX/TqE+6A9k67y7rO4m8OZFoIt/2ogjNXt//pNLirJB5/za4en/4lTw7/5cQ5OF0pWPY8//5lc/HoC/eJ38mjtHFCPqqyUyiKnpOUF4zFbmQlO0KJ8mXg3lj+p+pTt9/mUh/607jfR8iuQXohNj/3c1+aJvgiITWEH6EuQ2/c49oD71uuIoN4bb72u+Lq7LzJ/m9eW0wyTO2cNTSKpyhDX9SnQFPP+BrEyjkcPp8dn+RgtLoYMgAAAA=");
+    --Fish-Rockeater-Icon: url("data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABwBwCdASoPAA4AAAAAJZwCdH8EwV7w7WJfwA/YDpAvSXHAfirmFf4zZY7+QGok3SL2O9wD+J/yD+7/mJwsx3TbFPEYwAD+//953BxWB2+8qDhM9w/HNmwM0BV4Ne6TyY751+EmDtxgY3EshYhv+W6SE+z4LCv6WHZrbN2RS+XBE+vf+B/9/wiXzM/doJY55sov/72t0/Gy8+laf0Xco37nVS3328Ddw3Cm1LDHzhOdkNsdiqIsJ/hnmDsQ+g1pjR+A/p95m3Nff/80X/+d5mODN/InkwLGivlFSoaqnRm29tvf/+5B+3rCZ/A+nsxHJwcs+0Dh5jaURGl/9cSg9/ts1c2z/p/zfNsHoOBehB9NWsAA");
+    --Fish-Carp-Icon: url("data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAwBwCdASoPAA0AAAAAJZwCdH8D2GP0z9CW5AfRnZgfzP8YM9n+EGQq/irqIF029lfcA/iH8q/u35k8IAfcePIqNQAA/v//jAGn0O+iZJqpHTwNJHy8e/dwgPvr+XQ5uJhWpfdi8lNMYG1c2I92Mfai5ffnMeF06+Z2WF3VYOqgDOp7DT0xvgdO7X5Esuz3YiD+Wv/+qV0xpx/91VaXsH9Pqifhpqmk/gYF2zNk66CE91Odr8dvw0g3/RxAeGtWPHcD6ysvFS2CP2d/Z5pTWsSoR0vzoHPPsnCo2Jxf0uf3jlc1yZBBaNf3ic/fhUFCLDbbiEBQ7w8fz//xmOHWpZj/YdkPj/etpZ6wADwAAAA=");
+    --Fish-RainbowTrout-Icon: url("data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAAAwBwCdASoPAA4AAAAAJZwCdH8GYAZYBvD/kzWiB0gNk78gGYA0En8Zr1t7O+4B/Ef45/ivyq4x39gD7eL18bny8QAA/v//hHG2t1amECbCNo/vQexOy8aFrPX7eK255K7BQogGQrn8ntLnlp/+iCP9TP/iK/bz2Gy+xvuKB3qN0/fAuHAzZMoT/oIz/w0sgDlXECPwT/UcX/V8P/zwADnQPLILK9G+f78I/uFN/4eJTgN+mDwyzw06uiVQ9H7x++Yq+fgZ9zq3RGIl/CS0HZg6o1EZSI/eFO9EnmDaRfo3AdaaT/wKqyrhe+RL3LKSpUZ/+UF3TvDxxeq5XJABLOlz9XOO3vwr+tVghy/d2h+zH3JjyeCwBuegAAA=");
+    --Fish-Salamander-Icon: url("data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAADQBQCdASoPAA0AAAAAJZQCdDKqvYj8ju5AfTNYoPxJzwE0c6cBxN34gfA9/ZPzCN3fxma03eOIAP7//4eNmo3/1ArXlcN627vN7cPE7WU85q2f6/uQoYybXPSpRaa5H+nbyzvSF7Gm3vlbCw0v/v5AKumNVXyOvv//q7+J6/U74EWae/RgN/+yD/vCfBPGZ4MYI7fHb0/Hq+/++T//swf/yrCf3aXo6Nq84b8XL9oR9KBDaHAgiuLU5//OhtqSp4dzDfGh/X8gddTZlbeQHxzKLcTblOZ+unbP5eOf+Pf94QaXlqDD19H+n8aAdAue4zM+IvSx7GtjYv835DWc12bh/iFIB+v59F/ilo0xmvWrCwWwTLX6acgAAAA=");
+    --Fish-GluttonousBass-Icon: url("data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQCACdASoPAA0AAAAAJaQCdH8D2Iv2ArgH4AfrNyIGTN/En8ZtI1+HP63ZQ7os2oA4W73AP4b/G/7H+WX9E5ED9ADt8z1LfewAAP7//4RcHPl/9+ldX3zWLXX2DSW/lxoiy+Rcv1Sz//Q2Ycuf6SyVb/5D49SV0T8cHk1IXN5Drgo3QPn4//ly65/56+zA+1RZIVPoDi+7UUa6LIAIg1+P/hU/XbjDUDD4Kfc3T//oOErH4CTXUdVybOstsBtMAviFSJz+wwm97UuNGcPvXu7CPepfzpue/+l00OcXLnFOZ+ix/8sfbm95Vm9ZtR4Yl98Rrm37mUXddOcma6zzISLv5jWelMpMWAk+vThV2L3JY2xJ/LAAAA==");
+    --Fish-Trout-Icon: url("data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAACQBQCdASoPAAwAAAAAJZwCdDBMW+CeZ/QBor/pmygD8QNRNx1CgA/R/+w/kqbsed0bWLui4AD+//+JLr0n5exmdnziY+xw9rT91D8HE/+//d7dv/MLLtquqvvbt2iRsbsTU6szraW3iHWIlx3nDTww8tfqxHv+O/smAHzmP4rf3nmlyLxvvh9apX2rKQKFVPvdxz2d7G29aaqyu28gXuHar0mW7/+YuqbJSiD/weP3qJkR3ZfDzvqem37/TL6mtK7a+qv7OZluv315AtwfVurxrnkn/x2/98T/p/LaVf5f7Ooj9yi6Dzv1B5TbiFhUSRgn+V7xLO3XwK1YUQmHwAAA");
+    --Fish-Arowana-Icon: url("data:image/webp;base64,UklGRjABAABXRUJQVlA4ICQBAABQBgCdASoPAA0AAAAAJZACdHIz1gDeAN6AyQD9hv2M9oy5AfgB+qvMAHi+9lfcA/Tj++/lcbs6Lm9GAAD+//+QSrYp65pMGS5AfbcTkIdtl/iv6dVLX/+hx2WuwL95CTYc5ZlAI/+8MXJNP7Mzf/t7ItsvM/7p9//9wOxePmX5ysn/23Y6t5+6h4sr9PfFeZh//8wen4xm/+d+x2RBD27fT6G1/4sNsc3/vlsSzifv6q8D/7WG5NM9GHPG9vE9ZjR0h//14vEcg21zjPxK2MPZ01oXhfkr//KvToY+0M4CM4OPe//aff/Ox349r4gPBeAszqpmxTE24yv/+h57Xd9vCq6/7aZKIT/h//zV9AEs9eEHf5mZsG/N0yY/ekEAOQlcCAAA");
+    --Fish-Salmon-Icon: url("data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAABwCACdASoPAA8AAAAAJZwCdDBUawB+AH7AcwBkgngH4q54D8Gv2O/x2WAZzNrmP8ztAH8D/hv9K/JH+2f//lOf0lPNvgiwcuyyQuoAAP7//2/rWvSPqtbyI+u/Pj6zlxYb6aw+tjcwCnhojhR/lNVY7B+mRr35yf1i+BEHTrP8QovKilY44jVmFivOBP/YOB5oRya/6qxG+gsG/9l5on/Q8nhg18gAT/PJfEn//8S44RZv/fLrfP694Cp3f2+LD/vqsf/ZpeKZOONhVks9X/vZj9Tsdfla5b/9GsUGjasQj0XZy/evdSzCu3fw/qkkZmYFrf6oDLuezqAcPBy9mL/tfqaj+6f8/ztE/BUPzVfUDyfndPphfr/1/+9s4qJ+/aShIy6Req6Y6p2R+H8m0HxnAAA=");
+    --Fish-Eel-Icon: url("data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAABQBgCdASoPAA0AAAAAJZwCdDBQKxL+AH7AWLP8QM8B+AH45ZgD+Z/hBDgH8N/jH9k/Jg0j8yveo7gQAAD+//9kk6ojBA1AggX9o0DK2BHsn07zXa//XJTHP8auKUb1PtQXdELaOTW/tjCKNl/23tzVgQfWf8GoMp1/dBDOwR57rJv8//vXJF3xWlL83UyZn8/8/78hahoFf0sP+QotVopmDEju+XDoZQ49zJzZk/+HmpH5KBH6sKijo2YLfT//++lC/b+ddk4GjgEZmPk988/0c0fXZ1j5skq+f/zfQReoYJX1rYtRhJ/JmLxWnkO8aRT+5/pkRPkX+HnrH/tptZPGG2JfwKI8An1SDk4AEkAAAA==");
+    --Fish-GoldSalmon-Icon: url("data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAACQBwCdASoPAA0AAAAAJaACdEyAboBwAHSY/sR6JdsAP0l/FXMAf0b8gKo1/jtoA/hv8k/w35Zf1nkJf0rPuPLILVXjHgAA/v//jvUEPsw1OD/men8YhhCFL19Kf8znLbMjEya+Yuf9L+EkX/s/hSf16O//R3TPPwR/1Gk5ITzfv/6Y11eXL6BaJ+4/IZ/T65cANK/8qmKdxwA3ewOH//DVH1Zzk0w3Uyd+Lz9+cKpV+qxHXclQQ7+HKTcn/5i0R0jPeT/U8o//zEv9DKqqLjMXU73/+oJxFjA7vb/+GutmJR96Ouv9KHO0//r8f+LSvgjECnnww849Z///uU//f/gOj80NNLGXaL/5MABr8HELAf5xenXMqf+OY/cmnTa9Oq0f+Td6Xr2+cFQU9rE2RaNznyf3tHk/3QAAAA==");
+    --Fish-QueenCrab-Icon: url("data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAAAwCACdASoPAAwAAAAAJQBOj+DOM8kA3hr9T/RZtECxX/ir+QGkzxwH9G0Wb8gNc1/cuVZqAfw/+Uf3X8r/7HyAH6qn3qoIBTzwAAD+//+KqlgUOXQX41tTFnQieJWAWYs+K/3tI5/t4OI/q5BAdCc/2ielIn8zIUHsdzFn7rYe7JFfAdF89PO96urJUiiv6/2HxP/9HdalF7qSBeP1ro5n/rh0DIJD//v6e6/yf7JSJf/j5v5FiXDgitFk6J76q9QWXKXyzfCak7l/+/MD/9zUgQav/iTTzHyapn4bDMap+fMgPDgBbQ88IvubUw6vPcW2g7+XFBBz28Z8azuZvFXZABVW5qgAFVe//7Mb/w1/5uPfFh3X/zw6Dlwm1gob/7f/+Jj/jFYHz/+eKH5Ryp+6/jva+wvMj/uMBLWbcWeXz64jbTOhAAAA");
+    --Fish-PaleSalamander-Icon: url("data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAwCACdASoPAA0AAAAAJYwCdHMBfYNoA/oG2S/pnwSXoAbqB7EHkyWwB+s1jGzGeMgfkBqIGoA4lD2AP4J/Lv75+Upuu0s8R29b1AD+//+SmLpwuwQQNsJUNk8fwpR+uz25sL9b7c/w1/vxWGGfh/azG2mgu2dR1ow7zR3ymap//0aurn/+ri5B1K4PvB+2Zv35OR/n53/xcDdTqq4D5Y/9JkF16v351Cg7Z+P5OTgV8/EJNLKOrBn+/WP7Hj7ack6sgCkdovY0RCHnnjt/8hUCT8VOKk/f//17kDTbV9x1S/fK94SDlU/+DI7X3+cl5SbbYP+7XFnRr/n2ONjMD/y/bf5lBREByNIKnLGXwib/MzfaZZeW69wMgWbulAU/07I5evj79ZsRj0H5RskxSFwjc95/+3NgYAAAAA==");
+    --Fish-Catfish-Icon: url("data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAABQCACdASoPAAwAAAAAJYwCdHIA+0CXQOsA3hP9jf8d6qtyArF/4q55j8M8VmqTP7AOkF8Nf3L3AP4r/Iv7n+WXGAfpWfbyEOaiJQAA/v//jY9TtffCYSNZrfOjyDjdB0A9NjqiP744ebxlBQSHy2BO5O3+f//YsnA93j7JkaC4Qd0sw0aL/2W7OZvJPNf/+7BdlOuInwv4HWlkgU57Gv+n86n9/Wj+HLJXwCKgfnM41/e6/YK9EWwqttvcvKt/12bI63J3+5LzKQLbvfz/8/F7oVv6YzDfydx39lXFQN//iW0Xj7Hhyh04oq2Fov9f+4D/iYMlbnweit2AAIO2dysk0fT4pfJWuUKxVdr//Jt9/8q71rf4xH3YRhiT+HnPkn++bvbSubXSeGsPHAEXVAAA");
+    --Fish-InvisibleCrayfish-Icon: url("data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAwCACdASoPAAsAAAAAJQBOjkAWpXfAH6gdYf+yv6Z+zdcgH8A/DnJAfZnqJumq8qn45/yXuAfxb+Uf3n81OMA/Y44oyh6EjGkYAAD+//+JOLr820aUsofwd//rnqwb59S4lGnyanx8yHy7OVryBM6kvRp3q7H78rd3juk/921vjW2nzvPW/+8csJH/d1BXk+WZFDOZ8t/rbYaP2Hfb/3nFjXilrexs8kPvK/5d4pep35M6Pe2gwOLLxEw1tnQRFScZ+Paon5TQUFuMkaX/SG+OqC7YJ3YLz8d+yl/8m31HqO8CdaqAKP+CH/mrxb//dCP36g0QugJYUGJAWmwoqRC//O//Br7g60t6T26HDP5BT/tjtY+8hf3WqSp+tMXaaVqZ2obAAAA=");
+    --Fish-GiantSwordtail-Icon: url("data:image/webp;base64,UklGRnABAABXRUJQVlA4IGQBAAAwCACdASoPAA4AAAAAJYwCdHIzcwp7Bn65eiq8QT1XMd44D+q/jNqOmov/uXLB+Wv877gf8U/jP9l/Kf9/+UY/RpDmKjMAhujTEAD+//+JItqcHodIcn3pHX+joeanK8YOsqaiy/pchfz5ovqhWMmEtslgn/9zhzsP8TBf7KXufoUa313/xq35GMkjULY1OYNIjKSIEv8W28L0gRYuZp8roFM1lxD5ZZIGn5riw3133OOIfm+z310CJEmgjyEOxKe9qLeZ+wo20uHQNw0E1X3sf/4/Isn/a+g7NL9fJX/9+of0ACXnOxZ5vtazDhDCd6b75AZALW1BwAzq258/RFZPJdVf0tv8Yv/SkKosyL0oxtjj1//6uP//vOD7R/3q3iNRZzNKL+o4d1P42yXvHLAu1slDb6J4uvDeE1gWLp+zoUiLvLDwnPE79nkky7t/nkDziMup1L6MwybsIgZ/yELMQWAAAA==");
+    /* End Fish */
     /* End Icons */
 }
 
@@ -1635,6 +1657,169 @@ div[data-id="Sharon"] div.setting-item-description::before,
 
 .content-super-big {
     font-size: 40px;
+    font-weight: bold;
 }
 
+.rank-color-D {
+    color: #b3beb6;
+}
+
+.rank-color-C {
+    color: #daa874;
+}
+
+.rank-color-B {
+    color: #c2d1e0;
+}
+
+.rank-color-A {
+    color: #e5ddc7;
+}
+
+.rank-color-S {
+    color: #fcc5c0;
+}
+
+/* Begin Fish Icon */
+/* 刃鱼 Swordtail */
+div[data-id="Swordtail"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ren-yu"]::before {
+    content: var(--Fish-Swordtail-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 花蟹 GrayCrab */
+div[data-id="GrayCrab"] div.setting-item-description::before,
+.data-link-icon[data-link-id="hua-xie"]::before {
+    content: var(--Fish-GrayCrab-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 银伞鱼 Kasagin */
+div[data-id="Kasagin"] div.setting-item-description::before,
+.data-link-icon[data-link-id="yin-san-yu"]::before {
+    content: var(--Fish-Kasagin-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 鳌虾 Crayfish */
+div[data-id="Crayfish"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ao-xia"]::before {
+    content: var(--Fish-Crayfish-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 亚诺鲁鲫鱼 AnorCarp */
+div[data-id="AnorCarp"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ya-nuo-lu-ji-yu"]::before {
+    content: var(--Fish-AnorCarp-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 岩穴鱼 Rockeater */
+div[data-id="Rockeater"] div.setting-item-description::before,
+.data-link-icon[data-link-id="yan-xue-yu"]::before {
+    content: var(--Fish-Rockeater-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 鲤鱼 Carp */
+div[data-id="Carp"] div.setting-item-description::before,
+.data-link-icon[data-link-id="li-yu"]::before {
+    content: var(--Fish-Carp-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 虹鳟鱼 RainbowTrout */
+div[data-id="RainbowTrout"] div.setting-item-description::before,
+.data-link-icon[data-link-id="hong-zun-yu"]::before {
+    content: var(--Fish-RainbowTrout-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 山椒鱼 Salamander */
+div[data-id="Salamander"] div.setting-item-description::before,
+.data-link-icon[data-link-id="shan-jiao-yu"]::before {
+    content: var(--Fish-Salamander-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 大口鲈鱼 GluttonousBass */
+div[data-id="GluttonousBass"] div.setting-item-description::before,
+.data-link-icon[data-link-id="da-kou-lu-yu"]::before {
+    content: var(--Fish-GluttonousBass-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 黑鲑 Trout */
+div[data-id="Trout"] div.setting-item-description::before,
+.data-link-icon[data-link-id="hei-gui"]::before {
+    content: var(--Fish-Trout-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 金龙鱼 Arowana */
+div[data-id="Arowana"] div.setting-item-description::before,
+.data-link-icon[data-link-id="jin-long-yu"]::before {
+    content: var(--Fish-Arowana-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 鲑鱼 Salmon */
+div[data-id="Salmon"] div.setting-item-description::before,
+.data-link-icon[data-link-id="gui-yu"]::before {
+    content: var(--Fish-Salmon-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 鳗鱼 Eel */
+div[data-id="Eel"] div.setting-item-description::before,
+.data-link-icon[data-link-id="man-yu"]::before {
+    content: var(--Fish-Eel-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 金鲑 GoldSalmon */
+div[data-id="GoldSalmon"] div.setting-item-description::before,
+.data-link-icon[data-link-id="jin-gui"]::before {
+    content: var(--Fish-GoldSalmon-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 巨血蟹 QueenCrab */
+div[data-id="QueenCrab"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ju-xue-xie"]::before {
+    content: var(--Fish-QueenCrab-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 大山椒鱼 PaleSalamander */
+div[data-id="PaleSalamander"] div.setting-item-description::before,
+.data-link-icon[data-link-id="da-shan-jiao-yu"]::before {
+    content: var(--Fish-PaleSalamander-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 巨鲶 Catfish */
+div[data-id="Catfish"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ju-nian"]::before {
+    content: var(--Fish-Catfish-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 冰霜鳌虾 InvisibleCrayfish */
+div[data-id="InvisibleCrayfish"] div.setting-item-description::before,
+.data-link-icon[data-link-id="bing-shuang-ao-xia"]::before {
+    content: var(--Fish-InvisibleCrayfish-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* 巨刃鱼 GiantSwordtail */
+div[data-id="GiantSwordtail"] div.setting-item-description::before,
+.data-link-icon[data-link-id="ju-ren-yu"]::before {
+    content: var(--Fish-GiantSwordtail-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* End Fish Icon */
 /* End Fish */
