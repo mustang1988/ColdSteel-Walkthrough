@@ -2886,6 +2886,695 @@ Bosses:
     Confuse: 20
     SDown: 20
 
+- Name: "方阵兵J9"
+  ID: "fang-zhen-bing-j-9"
+  Description: |
+    使用机器制作的魔兽.  
+
+    拥有强大火力,  
+
+    其真实身份完全不明.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 46
+    HP: 24235
+    EXP: 1440
+    STR: 1120
+    DEF: 1032
+    ATS: 0
+    ADF: 786
+    SPD: 98
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 22
+      Water: 22
+      Fire: 22
+      Wind: 22
+      Time: 20
+      Space: 20
+      Mirage: 20
+      Mass: 65
+    Items:
+      - "[[Database/Quartz/Space N#^po-xie-zhi-yin|破邪之印]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 2
+    Strike: 3
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 0
+    Seal: 100
+    Freeze: 100
+    Nightmare: 0
+    Mute: 100
+    Petrify: 0
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 0
+    Confuse: 100
+    SDown: 100
+
+- Name: "鲨鳄"
+  ID: "sha-e"
+  Description: |
+    栖息在水边的两栖魔兽.  
+
+    用连铜铁都能咬碎的下颚,  
+
+    满足激烈的食欲.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 46
+    HP: 32461
+    EXP: 1780
+    STR: 1540
+    DEF: 928
+    ATS: 0
+    ADF: 643
+    SPD: 96
+  ArtRate:
+    Earth: 100
+    Water: 150
+    Fire: 100
+    Wind: 145
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 22
+      Water: 26
+      Fire: 30
+      Wind: 16
+      Time: 22
+      Space: 14
+      Mirage: 19
+      Mass: 65
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Time R#^shi-jian-jian-su-r|时间减速R]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 20
+    Freeze: 150
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 100
+    Vanish: 20
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "莎拉教官"
+  ID: "sha-la-jiao-guan"
+  Description: |
+    负责VII班的教官.  
+
+    以手枪和剑的凶恶组合,  
+
+    发出无与伦比的猛攻.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 49
+    HP: 25138
+    EXP: 0
+    STR: 982
+    DEF: 805
+    ATS: 786
+    ADF: 779
+    SPD: 65
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 0
+    Pierce: 0
+    Strike: 0
+  StatusRate:
+    Poison: 0
+    Burn: 0
+    Death: 0
+    Seal: 0
+    Freeze: 0
+    Nightmare: 0
+    Mute: 0
+    Petrify: 0
+    Delay: 0
+    Blind: 0
+    Faint: 0
+    Vanish: 0
+    Sleep: 0
+    Confuse: 0
+    SDown: 0
+
+- Name: "诺斯菲尔杜"
+  ID: "nuo-si-fei-er-du"
+  Description: |
+    帝国的古老传言也有提及,  
+
+    主宰魂魄的《不死之王》.  
+
+    囚禁活人的身体,  
+
+    吃尽无罪的灵魂.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 49
+    HP: 64831
+    EXP: 3400
+    STR: 1199
+    DEF: 1158
+    ATS: 0
+    ADF: 860
+    SPD: 107
+  ArtRate:
+    Earth: 135
+    Water: 100
+    Fire: 80
+    Wind: 50
+    Time: 105
+    Space: 150
+    Mirage: 125
+  Loots:
+    Sepiths:
+      Earth: 39
+      Water: 36
+      Fire: 30
+      Wind: 30
+      Time: 42
+      Space: 30
+      Mirage: 33
+      Mass: 120
+    Items:
+      - "[[Database/Item/Potion#^huan-hun-jiao-nang|还魂胶囊]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 0
+    Burn: 20
+    Death: 0
+    Seal: 20
+    Freeze: 20
+    Nightmare: 0
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 0
+    Faint: 20
+    Vanish: 0
+    Sleep: 0
+    Confuse: 20
+    SDown: 50
+
+- Name: "管家克劳斯"
+  ID: "guan-jia-ke-lao-si"
+  Description: |
+    在子爵宅服务的老管家.  
+
+    作为亚而赛德流的老师,  
+
+    展现出凌驾年龄的剑术.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 50
+    HP: 65369
+    EXP: 1300
+    STR: 1406
+    DEF: 1265
+    ATS: 568
+    ADF: 657
+    SPD: 102
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 25
+      Water: 25
+      Fire: 25
+      Wind: 25
+      Time: 22
+      Space: 22
+      Mirage: 22
+      Mass: 75
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 0
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 0
+    Seal: 0
+    Freeze: 50
+    Nightmare: 50
+    Mute: 0
+    Petrify: 0
+    Delay: 0
+    Blind: 50
+    Faint: 0
+    Vanish: 0
+    Sleep: 0
+    Confuse: 0
+    SDown: 50
+
+- Name: "帝国解放战线·剑"
+  ID: "di-guo-jie-fang-zhan-xian-jian"
+  Description: |
+    帝国解放战线的成员.  
+
+    以对《铁血宰相》的强烈憎恨为动力挥舞着剑.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 50
+    HP: 20960
+    EXP: 226
+    STR: 1120
+    DEF: 941
+    ATS: 478
+    ADF: 537
+    SPD: 90
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 10
+      Water: 10
+      Fire: 10
+      Wind: 10
+      Time: 7
+      Space: 7
+      Mirage: 7
+      Mass: 32
+    Items:
+      - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 20
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 20
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "帝国解放战线·步枪"
+  ID: "di-guo-jie-fang-zhan-xian-bu-qiang"
+  Description: |
+    装备着自动步枪的帝国解放战线的成员.  
+
+    为了达成目的,  
+
+    愿做出任何牺牲.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 50
+    HP: 20960
+    EXP: 226
+    STR: 1080
+    DEF: 941
+    ATS: 478
+    ADF: 537
+    SPD: 90
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 9
+      Water: 9
+      Fire: 9
+      Wind: 9
+      Time: 8
+      Space: 8
+      Mirage: 8
+      Mass: 32
+    Items:
+      - "[[Database/Item/Potion#^sheng-ling-yao|圣灵药]]"
+      - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 20
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 20
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "R·玉帘"
+  ID: "r-yu-lian"
+  Description: |
+    鲜红的大型傀儡兵器.  
+
+    改良为护卫干部用,  
+
+    具备更加高性能、高火力的机器.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 51
+    HP: 58295
+    EXP: 1024
+    STR: 1473
+    DEF: 1794
+    ATS: 530
+    ADF: 766
+    SPD: 86
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 32
+      Water: 32
+      Fire: 32
+      Wind: 32
+      Time: 32
+      Space: 32
+      Mirage: 32
+      Mass: 80
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-3|EP填充剂III]]"
+  Unbalance:
+    Slash: 0
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 0
+    Mute: 50
+    Petrify: 0
+    Delay: 100
+    Blind: 100
+    Faint: 20
+    Vanish: 0
+    Sleep: 0
+    Confuse: 50
+    SDown: 100
+
+- Name: "玉帘"
+  ID: "yu-lian"
+  Description: |
+    防御据点用的大型傀儡兵器.  
+
+    以特殊的镭射削弱敌方战力,  
+
+    再用装备的强大火力进行攻击.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 51
+    HP: 55675
+    EXP: 980
+    STR: 1414
+    DEF: 1742
+    ATS: 510
+    ADF: 727
+    SPD: 83
+  ArtRate:
+    Earth: 150
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 30
+      Water: 30
+      Fire: 30
+      Wind: 30
+      Time: 30
+      Space: 30
+      Mirage: 30
+      Mass: 75
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-3|EP填充剂III]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 0
+    Mute: 50
+    Petrify: 0
+    Delay: 100
+    Blind: 100
+    Faint: 20
+    Vanish: 0
+    Sleep: 0
+    Confuse: 50
+    SDown: 100
+
+- Name: "S-斯卡蕾特"
+  ID: "s-si-ka-lei-te"
+  Description: |
+    递归解放战线的美女干部.  
+
+    自由自在的操纵《法剑》,  
+
+    玩弄敌人、进行血祭.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 52
+    HP: 110040
+    EXP: 1680
+    STR: 1185
+    DEF: 1177
+    ATS: 563
+    ADF: 668
+    SPD: 98
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 50
+      Water: 50
+      Fire: 50
+      Wind: 50
+      Time: 40
+      Space: 40
+      Mirage: 40
+      Mass: 130
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-3|EP填充剂III]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 0
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 0
+    SDown: 50
+
+- Name: "艾尔维利亚"
+  ID: "ai-er-wei-li-ya"
+  Description: |
+    装备着许多强力兵器,  
+
+    像是中世纪产物傀儡兵器.  
+
+    能用光束照射全部的战斗区域,  
+
+    让所有敌人麻痹.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 53
+    HP: 48077
+    EXP: 1920
+    STR: 1254
+    DEF: 1228
+    ATS: 0
+    ADF: 851
+    SPD: 95
+  ArtRate:
+    Earth: 150
+    Water: 100
+    Fire: 100
+    Wind: 0
+    Time: 130
+    Space: 75
+    Mirage: 130
+  Loots:
+    Sepiths:
+      Earth: 30
+      Water: 32
+      Fire: 33
+      Wind: 35
+      Time: 35
+      Space: 30
+      Mirage: 32
+      Mass: 95
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Wind N#^shen-pan-zhi-jian|审判之箭]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 50
+    Mute: 20
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 50
+    Confuse: 100
+    SDown: 50
+
 
 ---
 ```dataviewjs
@@ -3169,3 +3858,69 @@ const boss = dv.current().Bosses[46];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^an-si-er-te
+
+```dataviewjs
+const boss = dv.current().Bosses[47];
+await dv.view('Enemy/Boss', { boss });
+```
+^fang-zhen-bing-j-9
+
+```dataviewjs
+const boss = dv.current().Bosses[48];
+await dv.view('Enemy/Boss', { boss });
+```
+^sha-e
+
+```dataviewjs
+const boss = dv.current().Bosses[49];
+await dv.view('Enemy/Boss', { boss });
+```
+^sha-la-jiao-guan
+
+```dataviewjs
+const boss = dv.current().Bosses[50];
+await dv.view('Enemy/Boss', { boss });
+```
+^nuo-si-fei-er-du
+
+```dataviewjs
+const boss = dv.current().Bosses[51];
+await dv.view('Enemy/Boss', { boss });
+```
+^guan-jia-ke-lao-si
+
+```dataviewjs
+const boss = dv.current().Bosses[52];
+await dv.view('Enemy/Boss', { boss });
+```
+^di-guo-jie-fang-zhan-xian-jian
+
+```dataviewjs
+const boss = dv.current().Bosses[53];
+await dv.view('Enemy/Boss', { boss });
+```
+^di-guo-jie-fang-zhan-xian-bu-qiang
+
+```dataviewjs
+const boss = dv.current().Bosses[54];
+await dv.view('Enemy/Boss', { boss });
+```
+^r-yu-lian
+
+```dataviewjs
+const boss = dv.current().Bosses[55];
+await dv.view('Enemy/Boss', { boss });
+```
+^yu-lian
+
+```dataviewjs
+const boss = dv.current().Bosses[56];
+await dv.view('Enemy/Boss', { boss });
+```
+^s-si-ka-lei-te
+
+```dataviewjs
+const boss = dv.current().Bosses[57];
+await dv.view('Enemy/Boss', { boss });
+```
+^ai-er-wei-li-ya
