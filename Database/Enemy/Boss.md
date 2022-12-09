@@ -745,6 +745,498 @@ Bosses:
     Confuse: 100
     SDown: 100
 
+- Name: "领邦军士兵"
+  ID: "ling-bang-jun-shi-bing"
+  Description: |
+    克鲁琴州领邦军的士兵.  
+
+    驻扎点的精兵, 十分熟悉战斗,  
+
+    充满自信的击退入侵者.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 20
+    HP: 6288
+    EXP: 88
+    STR: 569
+    DEF: 622
+    ATS: 0
+    ADF: 286
+    SPD: 76
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 4
+      Water: 4
+      Fire: 4
+      Wind: 4
+      Time: 3
+      Space: 3
+      Mirage: 3
+      Mass: 8
+    Items:
+      - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "警备猎犬B"
+  ID: "jing-bei-lie-quan-b"
+  Description: |
+    领邦军训练出的军用魔兽.  
+
+    使出训练有素的合作攻击,  
+
+    绝不会让猎物逃走.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 21
+    HP: 23580
+    EXP: 720
+    STR: 618
+    DEF: 605
+    ATS: 0
+    ADF: 530
+    SPD: 78
+  ArtRate:
+    Earth: 80
+    Water: 80
+    Fire: 80
+    Wind: 80
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 24
+      Water: 10
+      Fire: 10
+      Wind: 24
+      Time: 0
+      Space: 0
+      Mirage: 30
+      Mass: 50
+    Items:
+      - "[[Database/Quartz/Water N#^hp-2|HP2]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 50
+
+- Name: "警备猎犬R"
+  ID: "jing-bei-lie-quan-r"
+  Description: |
+    领邦军训练出的军用魔兽.  
+
+    会用长嚎来激励伙伴,  
+
+    使出厉害的合作攻击.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 21
+    HP: 23580
+    EXP: 720
+    STR: 618
+    DEF: 605
+    ATS: 0
+    ADF: 530
+    SPD: 78
+  ArtRate:
+    Earth: 80
+    Water: 80
+    Fire: 80
+    Wind: 80
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 6
+      Water: 20
+      Fire: 20
+      Wind: 6
+      Time: 30
+      Space: 30
+      Mirage: 0
+      Mass: 50
+    Items:
+      - "[[Database/Quartz/Space N#^ming-zhong-2|命中2]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 50
+
+- Name: "贵族学生"
+  ID: "gui-zu-xue-sheng-1"
+  Description: |
+    与派崔克一起行动的I班贵族学生.  
+
+    那把剑表示着贵族的气质.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 22
+    HP: 14410
+    EXP: 80
+    STR: 567
+    DEF: 538
+    ATS: 205
+    ADF: 323
+    SPD: 76
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 8
+      Water: 8
+      Fire: 8
+      Wind: 8
+      Time: 5
+      Space: 5
+      Mirage: 5
+      Mass: 20
+    Items:
+      - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "贵族学生"
+  ID: "gui-zu-xue-sheng-2"
+  Description: |
+    与派崔克一起行动的I班贵族学生.  
+
+    那把剑表示着贵族的气质.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 22
+    HP: 14410
+    EXP: 80
+    STR: 567
+    DEF: 538
+    ATS: 205
+    ADF: 323
+    SPD: 76
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 8
+      Water: 8
+      Fire: 8
+      Wind: 8
+      Time: 5
+      Space: 5
+      Mirage: 5
+      Mass: 20
+    Items:
+      - "[[Database/Item/Potion#^sheng-ling-yao|圣灵药]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "贵族学生"
+  ID: "gui-zu-xue-sheng-3"
+  Description: |
+    与派崔克一起行动的I班贵族学生.  
+
+    那把剑表示着贵族的气质.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 22
+    HP: 14410
+    EXP: 80
+    STR: 567
+    DEF: 538
+    ATS: 205
+    ADF: 323
+    SPD: 76
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 8
+      Water: 8
+      Fire: 8
+      Wind: 8
+      Time: 5
+      Space: 5
+      Mirage: 5
+      Mass: 20
+    Items:
+      - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "深渊恶魔"
+  ID: "shen-yuan-e-mo"
+  Description: |
+    圣书上也有记载的恶魔手下.  
+
+    用危险的波动魅惑人类,  
+
+    将其引诱至再也不会醒来的沉眠深渊当中.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 23
+    HP: 16768
+    EXP: 555
+    STR: 567
+    DEF: 513
+    ATS: 0
+    ADF: 244
+    SPD: 80
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 40
+    Wind: 80
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 16
+      Water: 12
+      Fire: 16
+      Wind: 18
+      Time: 13
+      Space: 12
+      Mirage: 13
+      Mass: 45
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Time N#^xing-dong-li-2|行动力2]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 3
+    Strike: 4
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 20
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 100
+
+- Name: "派崔克"
+  ID: "pai-cui-ke"
+  Description: |
+    四大名门海恩斯家的三男.  
+
+    从幼时就接受英才教育,  
+
+    因此拥有不可小看的剑术实力.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 23
+    HP: 18995
+    EXP: 320
+    STR: 610
+    DEF: 573
+    ATS: 294
+    ADF: 366
+    SPD: 83
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 9
+      Water: 9
+      Fire: 9
+      Wind: 9
+      Time: 7
+      Space: 7
+      Mirage: 7
+      Mass: 30
+    Items:
+    - "[[Database/Item/Potion#^ep-tian-chong-ji-3|EP填充剂III]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 20
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 20
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
 ---
 ```dataviewjs
 const boss = dv.current().Bosses[0];
@@ -817,3 +1309,51 @@ const boss = dv.current().Bosses[11];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^san-tou-dian-qie-shou
+
+```dataviewjs
+const boss = dv.current().Bosses[12];
+await dv.view('Enemy/Boss', { boss });
+```
+^ling-bang-jun-shi-bing
+
+```dataviewjs
+const boss = dv.current().Bosses[13];
+await dv.view('Enemy/Boss', { boss });
+```
+^jing-bei-lie-quan-b
+
+```dataviewjs
+const boss = dv.current().Bosses[14];
+await dv.view('Enemy/Boss', { boss });
+```
+^jing-bei-lie-quan-r
+
+```dataviewjs
+const boss = dv.current().Bosses[15];
+await dv.view('Enemy/Boss', { boss });
+```
+^gui-zu-xue-sheng-1
+
+```dataviewjs
+const boss = dv.current().Bosses[16];
+await dv.view('Enemy/Boss', { boss });
+```
+^gui-zu-xue-sheng-2
+
+```dataviewjs
+const boss = dv.current().Bosses[17];
+await dv.view('Enemy/Boss', { boss });
+```
+^gui-zu-xue-sheng-3
+
+```dataviewjs
+const boss = dv.current().Bosses[18];
+await dv.view('Enemy/Boss', { boss });
+```
+^shen-yuan-e-mo
+
+```dataviewjs
+const boss = dv.current().Bosses[19];
+await dv.view('Enemy/Boss', { boss });
+```
+^pai-cui-ke

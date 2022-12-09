@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0beebfdec325ed87",
+        "id": "fe9195378b865f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f73257941c9e2c0",
+            "id": "a4c166452fd3262c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,9 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f73257941c9e2c0",
+  "active": "a4c166452fd3262c",
   "lastOpenFiles": [
     "Database/Enemy/Boss.md",
+    "Database/Character/Patrick T Hyarms.md",
     "Database/Enemy/Monster.md",
     "Callout.md",
     "Demo.md",
@@ -147,7 +148,6 @@
     "Database/Character/Alan.md",
     "Database/Fish/Gold Salmon.md",
     "Database/Fish/Rainbow Trout.md",
-    "Database/Fish/Arowana.md",
-    "Index.md"
+    "Database/Fish/Arowana.md"
   ]
 }

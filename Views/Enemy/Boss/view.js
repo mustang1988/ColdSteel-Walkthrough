@@ -74,7 +74,7 @@ const PropertyTable = (id, properties, desc) => {
 <table class="description-table">
 <tbody>
 <tr>
-<td><img class="${id}-image"></td>
+<td><img class="enemy-${id}-image"></td>
 <td>
 <table class="property-table">
 <tbody>
