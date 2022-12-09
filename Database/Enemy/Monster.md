@@ -192,7 +192,6 @@ Monsters:
 
 - Name: "卑劣软黏兽"
   ID: "bei-lie-ruan-nian-shou"
-  # 描述
   Description: |
     将崩碎的石头包覆在身上,  
 
@@ -2500,6 +2499,816 @@ Monsters:
     Confuse: 150
     SDown: 150
 
+- Name: "闪电鳅"
+  ID: "shan-dian-qiu"
+  Description: |
+    虽然是带电鱼型魔兽的幼儿,  
+
+    但用触角使出的点击不可忽视.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 24
+    HP: 1848
+    EXP: 98
+    STR: 560
+    DEF: 492
+    ATS: 192
+    ADF: 522
+    SPD: 74
+  ArtRate:
+    Earth: 160
+    Water: 100
+    Fire: 100
+    Wind: 0
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 1
+      Water: 4
+      Fire: 2
+      Wind: 6
+      Time: 2
+      Space: 4
+      Mirage: 2
+      Mass: 7
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-bai-rou|魔兽白肉]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 100
+    Seal: 50
+    Freeze: 100
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 150
+    SDown: 100
+
+- Name: "花冠鸟"
+  ID: "hua-guan-niao"
+  Description: |
+    在没有开拓道路的草原上横行无阻的怪鸟.
+
+    它的吐息能将猎物石化.
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 25
+    HP: 5251
+    EXP: 128
+    STR: 723
+    DEF: 723
+    ATS: 0
+    ADF: 696
+    SPD: 69
+  ArtRate:
+    Earth: 25
+    Water: 100
+    Fire: 100
+    Wind: 60
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 5
+      Fire: 5
+      Wind: 0
+      Time: 2
+      Space: 5
+      Mirage: 2
+      Mass: 8
+    Items:
+      - "[[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 2
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 150
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 100
+    Blind: 200
+    Faint: 150
+    Vanish: 100
+    Sleep: 150
+    Confuse: 150
+    SDown: 100
+
+- Name: "蛮牛兽"
+  ID: "man-niu-shou"
+  Description: | 
+    在广大的草原上时常迁徙, 
+    
+    常改变住处的牛型魔兽. 
+    
+    虽然很温和但地域性很强. 
+ 
+  Locations: 
+    - ""
+  Properties:
+    LV: 0
+    HP: 0
+    EXP: 0
+    STR: 0
+    DEF: 0
+    ATS: 0
+    ADF: 0
+    SPD: 0
+  ArtRate:
+    Earth: 100
+    Water: 115
+    Fire: 110
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 4
+      Water: 2
+      Fire: 2
+      Wind: 2
+      Time: 5
+      Space: 5
+      Mirage: 5
+      Mass: 9
+    Items:
+      - "[[Database/Item/Food Ingredient#^cheng-shu-ru-lao|成熟乳酪]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 100
+    Seal: 100
+    Freeze: 50
+    Nightmare: 150
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 150
+    Faint: 100
+    Vanish: 100
+    Sleep: 150
+    Confuse: 100
+    SDown: 100
+
+- Name: "硬壳犀兽"
+  ID: "ying-ke-xi-shou"
+  Description: |
+    全身覆盖着硬质化皮肤的魔兽.  
+
+    强烈且坚韧的冲刺攻击连导力车都能翻覆.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 26
+    HP: 7860
+    EXP: 215
+    STR: 962
+    DEF: 876
+    ATS: 0
+    ADF: 732
+    SPD: 75
+  ArtRate:
+    Earth: 90
+    Water: 110
+    Fire: 100
+    Wind: 120
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 6
+      Water: 5
+      Fire: 4
+      Wind: 6
+      Time: 4
+      Space: 4
+      Mirage: 4
+      Mass: 16
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Earth N#^fang-yu-1|防御1]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 2
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 50
+    Seal: 100
+    Freeze: 50
+    Nightmare: 150
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 150
+    Faint: 150
+    Vanish: 100
+    Sleep: 150
+    Confuse: 100
+    SDown: 100
+
+- Name: "高原恶龟"
+  ID: "gao-yuan-e-gui"
+  Description: |
+    拥有坚硬甲壳的龟型魔兽.  
+
+    即使笨重, 也在高原上猎捕猎物而活下来的熊猫魔兽之一.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 27
+    HP: 2908
+    EXP: 107
+    STR: 584
+    DEF: 894
+    ATS: 0
+    ADF: 0
+    SPD: 59
+  ArtRate:
+    Earth: 100
+    Water: 145
+    Fire: 100
+    Wind: 125
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 4
+      Fire: 3
+      Wind: 2
+      Time: 4
+      Space: 4
+      Mirage: 3
+      Mass: 8
+    Items:
+      - "[[Database/Item/Food Ingredient#^mo-shou-bai-rou|魔兽白肉]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 4
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 150
+    Seal: 100
+    Freeze: 200
+    Nightmare: 50
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 150
+    Faint: 100
+    Vanish: 100
+    Sleep: 150
+    Confuse: 150
+    SDown: 150
+
+- Name: "幼拟龙"
+  ID: "you-ni-long"
+  Description: |
+    与传说的『龙』十分相似的魔兽.  
+
+    身上有微弱的火星,  
+
+    藏有能将周遭烧成荒原的潜力.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 0
+    HP: 0
+    EXP: 0
+    STR: 0
+    DEF: 0
+    ATS: 0
+    ADF: 0
+    SPD: 0
+  ArtRate:
+    Earth: 165
+    Water: 180
+    Fire: 125
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 2
+      Fire: 6
+      Wind: 2
+      Time: 2
+      Space: 4
+      Mirage: 2
+      Mass: 7
+    Items:
+      - "[[Database/Item/Potion#^leng-que-pen-wu|冷却喷雾]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+
+- Name: "石蛙"
+  ID: "shi-wa"
+  Description: |
+    拥有如石头般坚硬皮肤的巨大蛙型魔兽.  
+
+    用长长的舌头把远方猎物卷过来,  
+
+    吐出粘液夺去其自由.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 27
+    HP: 4163
+    EXP: 114
+    STR: 577
+    DEF: 730
+    ATS: 0
+    ADF: 0
+    SPD: 61
+  ArtRate:
+    Earth: 80
+    Water: 185
+    Fire: 75
+    Wind: 120
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 6
+      Water: 5
+      Fire: 2
+      Wind: 2
+      Time: 3
+      Space: 3
+      Mirage: 1
+      Mass: 8
+    Items:
+      - "[[Database/Item/Food Ingredient#^mo-shou-bai-rou|魔兽白肉]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 3
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "猿羊"
+  ID: "yuan-yang"
+  Description: |
+    好动的羊型魔兽.  
+
+    拥有能让对手睡着的能力,  
+
+    使用独有的拳法.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 27
+    HP: 1853
+    EXP: 108
+    STR: 581
+    DEF: 544
+    ATS: 0
+    ADF: 0
+    SPD: 71
+  ArtRate:
+    Earth: 80
+    Water: 30
+    Fire: 200
+    Wind: 70
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 3
+      Fire: 2
+      Wind: 3
+      Time: 3
+      Space: 3
+      Mirage: 3
+      Mass: 7
+    Items:
+      - "[[Database/Item/Potion#^ti-shen-bo-he|提神薄荷]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "雪白獠牙"
+  ID: "xue-bai-liao-ya"
+  Description: |
+    在诺而德高原有几个集群的白色体毛狼型魔兽.  
+
+    拥有群体一起追捕猎物的习性.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 27
+    HP: 2903
+    EXP: 117
+    STR: 640
+    DEF: 617
+    ATS: 0
+    ADF: 0
+    SPD: 85
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 135
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 6
+      Fire: 5
+      Wind: 6
+      Time: 1
+      Space: 1
+      Mirage: 1
+      Mass: 8
+    Items:
+      - "[[Database/Item/Potion#^hui-fu-yao|回复药]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 4
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 150
+    Death: 100
+    Seal: 50
+    Freeze: 50
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 150
+    Faint: 50
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "赛斯菲"
+  ID: "sai-si-fei"
+  Description: |
+    栖息在远古的蜘蛛型魔兽.  
+
+    是各种疾病的发生源,  
+
+    受人们恐惧.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 29
+    HP: 1959
+    EXP: 97
+    STR: 538
+    DEF: 589
+    ATS: 0
+    ADF: 317
+    SPD: 85
+  ArtRate:
+    Earth: 95
+    Water: 95
+    Fire: 135
+    Wind: 50
+    Time: 110
+    Space: 50
+    Mirage: 125
+  Loots:
+    Sepiths:
+      Earth: 3
+      Water: 3
+      Fire: 3
+      Wind: 3
+      Time: 2
+      Space: 2
+      Mirage: 3
+      Mass: 8
+    Items:
+      - "[[Database/Item/Potion#^hui-fu-yao|回复药]]"
+      - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 4
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 0
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "迪格雷姆"
+  ID: "di-ge-lei-mu"
+  Description: |
+    因为不可思议的『场』影响,  
+
+    而活动起来的远古石像.  
+
+    从宝玉中会放出降低身体能力的诡异光线.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 29
+    HP: 4388
+    EXP: 135
+    STR: 618
+    DEF: 792
+    ATS: 386
+    ADF: 0
+    SPD: 59
+  ArtRate:
+    Earth: 0
+    Water: 100
+    Fire: 100
+    Wind: 120
+    Time: 200
+    Space: 100
+    Mirage: 80
+  Loots:
+    Sepiths:
+      Earth: 3
+      Water: 1
+      Fire: 2
+      Wind: 2
+      Time: 5
+      Space: 5
+      Mirage: 4
+      Mass: 9
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-1|EP填充剂I]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 3
+  StatusRate:
+    Poison: 100
+    Burn: 0
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 0
+    Confuse: 100
+    SDown: 100
+
+- Name: "吸血草"
+  ID: "xi-xue-cao"
+  Description: |
+    外形怪异的植物型魔兽.  
+
+    平常潜伏在土地中.  
+
+    将捕捉到的猎物的血一滴不剩的吸干.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 29
+    HP: 2606
+    EXP: 120
+    STR: 588
+    DEF: 455
+    ATS: 0
+    ADF: 0
+    SPD: 64
+  ArtRate:
+    Earth: 100
+    Water: 150
+    Fire: 120
+    Wind: 190
+    Time: 110
+    Space: 125
+    Mirage: 200
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 4
+      Fire: 4
+      Wind: 4
+      Time: 2
+      Space: 3
+      Mirage: 2
+      Mass: 8
+    Items:
+      - "[[Database/Item/Food Ingredient#^xing-xing-mei-guo|星形莓果]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 20
+    Mute: 100
+    Petrify: 150
+    Delay: 50
+    Blind: 0
+    Faint: 100
+    Vanish: 100
+    Sleep: 0
+    Confuse: 100
+    SDown: 50
+
+- Name: "骏鹰"
+  ID: "jun-ying"
+  Description: |
+    以高原的猎物为目标的巨大怪鸟.  
+
+    沾满尸肉的爪子带有剧毒,  
+
+    还会吐出猛烈燃烧的火焰气息  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 30
+    HP: 11645
+    EXP: 238
+    STR: 1024
+    DEF: 927
+    ATS: 0
+    ADF: 601
+    SPD: 80
+  ArtRate:
+    Earth: 150
+    Water: 100
+    Fire: 120
+    Wind: 30
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 4
+      Fire: 8
+      Wind: 10
+      Time: 6
+      Space: 5
+      Mirage: 6
+      Mass: 22
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Fire N#^gong-ji-1|攻击1]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 3
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 100
+    Freeze: 50
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
 
 ---
 ```dataviewjs
@@ -2741,3 +3550,81 @@ const monster = dv.current().Monsters[39];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^xiao-niu-shou
+
+```dataviewjs
+const monster = dv.current().Monsters[40];
+await dv.view('Enemy/Monster', { monster });
+```
+^shan-dian-qiu
+
+```dataviewjs
+const monster = dv.current().Monsters[41];
+await dv.view('Enemy/Monster', { monster });
+```
+^hua-guan-niao
+
+```dataviewjs
+const monster = dv.current().Monsters[42];
+await dv.view('Enemy/Monster', { monster });
+```
+^man-niu-shou
+
+```dataviewjs
+const monster = dv.current().Monsters[43];
+await dv.view('Enemy/Monster', { monster });
+```
+^ying-ke-xi-shou
+
+```dataviewjs
+const monster = dv.current().Monsters[44];
+await dv.view('Enemy/Monster', { monster });
+```
+^gao-yuan-e-gui
+
+```dataviewjs
+const monster = dv.current().Monsters[45];
+await dv.view('Enemy/Monster', { monster });
+```
+^you-ni-long
+
+```dataviewjs
+const monster = dv.current().Monsters[46];
+await dv.view('Enemy/Monster', { monster });
+```
+^shi-wa
+
+```dataviewjs
+const monster = dv.current().Monsters[47];
+await dv.view('Enemy/Monster', { monster });
+```
+^yuan-yang
+
+```dataviewjs
+const monster = dv.current().Monsters[48];
+await dv.view('Enemy/Monster', { monster });
+```
+^xue-bai-liao-ya
+
+```dataviewjs
+const monster = dv.current().Monsters[49];
+await dv.view('Enemy/Monster', { monster });
+```
+^sai-si-fei
+
+```dataviewjs
+const monster = dv.current().Monsters[50];
+await dv.view('Enemy/Monster', { monster });
+```
+^di-ge-lei-mu
+
+```dataviewjs
+const monster = dv.current().Monsters[51];
+await dv.view('Enemy/Monster', { monster });
+```
+^xi-xue-cao
+
+```dataviewjs
+const monster = dv.current().Monsters[52];
+await dv.view('Enemy/Monster', { monster });
+```
+^jun-ying

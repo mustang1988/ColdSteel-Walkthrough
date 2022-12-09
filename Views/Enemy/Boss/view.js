@@ -38,7 +38,7 @@ ${SepithLootTable(Sepiths) /* 掉落晶片 */}
 </tr>
 <tr>
 <td>
-${ItemLootTable(Items) /* 掉落物品 */}
+${ItemLootTable(Items||[]) /* 掉落物品 */}
 </td>
 </tr>
 <tr>
@@ -384,7 +384,6 @@ const StatusRateTable = (status) => {
 const admonition = `
 \`\`\`ad-enemy-boss
 title: ${boss.Name}
-collapse: close
 ${BuildPage(boss)}
 \`\`\``;
 dv.paragraph(admonition);

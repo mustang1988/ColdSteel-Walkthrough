@@ -1237,6 +1237,252 @@ Bosses:
     Confuse: 100
     SDown: 100
 
+- Name: "雷电震波鱼"
+  ID: "lei-dian-zhen-bo-yu"
+  Description: |
+    拥有带点身体的古代鱼.  
+
+    能够在广大范围激烈放电,  
+
+    让一切化为焦炭.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 26
+    HP: 24890
+    EXP: 910
+    STR: 766
+    DEF: 691
+    ATS: 458
+    ADF: 0
+    SPD: 76
+  ArtRate:
+    Earth: 160
+    Water: 100
+    Fire: 100
+    Wind: 0
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 12
+      Water: 19
+      Fire: 15
+      Wind: 25
+      Time: 19
+      Space: 20
+      Mirage: 16
+      Mass: 55
+    Items:
+    - "[[Database/Quartz/Space R#^po-yan-zhi-ya|破言之牙]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "落魄猎兵"
+  ID: "luo-po-lie-bing"
+  Description: |
+    被基迪恩雇佣的武装集团.  
+
+    为了米拉可以赌上性命的佣兵为职业努力生活着.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 29
+    HP: 16768
+    EXP: 116
+    STR: 686
+    DEF: 568
+    ATS: 248
+    ADF: 334
+    SPD: 79
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 8
+      Water: 8
+      Fire: 8
+      Wind: 8
+      Time: 6
+      Space: 6
+      Mirage: 6
+      Mass: 20
+    Items:
+      - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 50
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 50
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+
+- Name: "G-基迪恩"
+  ID: "g-gi-di-en"
+  Description: |
+    委身在某些组织中,  
+
+    落魄猎兵们的雇主.  
+
+    使用手枪和高等魔法,  
+
+    从后方进行支援攻击.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 30
+    HP: 26986
+    EXP: 800
+    STR: 734
+    DEF: 627
+    ATS: 297
+    ADF: 370
+    SPD: 91
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 18
+      Water: 18
+      Fire: 18
+      Wind: 18
+      Time: 15
+      Space: 15
+      Mirage: 15
+      Mass: 60
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 0
+    Seal: 100
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 0
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "米莉亚姆"
+  ID: "mi-li-ya-mu"
+  Description: |
+    充满谜团的少女.  
+
+    命令银色的战斗傀儡给予敌人猛烈的一击.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 30
+    HP: 24235
+    EXP: 499
+    STR: 826
+    DEF: 831
+    ATS: 353
+    ADF: 399
+    SPD: 98
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 20
+    Burn: 20
+    Death: 0
+    Seal: 20
+    Freeze: 20
+    Nightmare: 20
+    Mute: 20
+    Petrify: 0
+    Delay: 20
+    Blind: 20
+    Faint: 20
+    Vanish: 0
+    Sleep: 20
+    Confuse: 20
+    SDown: 20
+
 ---
 ```dataviewjs
 const boss = dv.current().Bosses[0];
@@ -1357,3 +1603,27 @@ const boss = dv.current().Bosses[19];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^pai-cui-ke
+
+```dataviewjs
+const boss = dv.current().Bosses[20];
+await dv.view('Enemy/Boss', { boss });
+```
+^lei-dian-zhen-bo-yu
+
+```dataviewjs
+const boss = dv.current().Bosses[21];
+await dv.view('Enemy/Boss', { boss });
+```
+^luo-po-lie-bing
+
+```dataviewjs
+const boss = dv.current().Bosses[22];
+await dv.view('Enemy/Boss', { boss });
+```
+^g-gi-di-en
+
+```dataviewjs
+const boss = dv.current().Bosses[23];
+await dv.view('Enemy/Boss', { boss });
+```
+^mi-li-ya-mu
