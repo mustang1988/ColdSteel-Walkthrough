@@ -3309,6 +3309,193 @@ Monsters:
     Confuse: 100
     SDown: 100
 
+- Name: "深渊三头犬"
+  ID: "shen-yuan-san-tou-quan"
+  Description: |
+    徘徊在黑暗中的植物型魔兽.  
+
+    散发出能瞬间夺走猎物视野的凶恶瘴气.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 5095
+    EXP: 140
+    STR: 762
+    DEF: 666
+    ATS: 0
+    ADF: 406
+    SPD: 80
+  ArtRate:
+    Earth: 100
+    Water: 30
+    Fire: 125
+    Wind: 70
+    Time: 100
+    Space: 100
+    Mirage: 175
+  Loots:
+    Sepiths:
+      Earth: 4
+      Water: 6
+      Fire: 4
+      Wind: 5
+      Time: 3
+      Space: 2
+      Mirage: 2
+      Mass: 9
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 1
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 150
+    Death: 0
+    Seal: 50
+    Freeze: 100
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 100
+    Blind: 50
+    Faint: 100
+    Vanish: 100
+    Sleep: 50
+    Confuse: 100
+    SDown: 100
+
+- Name: "火焰之尊"
+  ID: "huo-yan-zhi-zun"
+  Description: |
+    据说体内流着灼热的血液,  
+
+    有时也被视为神圣动物的野兽.  
+
+    会以熊熊燃烧的角进行冲刺攻击,  
+
+    甚至会使用火的魔法.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 5410
+    EXP: 132
+    STR: 753
+    DEF: 685
+    ATS: 366
+    ADF: 395
+    SPD: 79
+  ArtRate:
+    Earth: 100
+    Water: 0
+    Fire: 0
+    Wind: 100
+    Time: 100
+    Space: 80
+    Mirage: 120
+  Loots:
+    Sepiths:
+      Earth: 2
+      Water: 2
+      Fire: 5
+      Wind: 3
+      Time: 3
+      Space: 5
+      Mirage: 3
+      Mass: 9
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 3
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 0
+    Death: 100
+    Seal: 100
+    Freeze: 0
+    Nightmare: 100
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "疯狂野草"
+  ID: "feng-kuang-ye-cao"
+  Description: |
+    在深渊绽放, 难以辨识的植物.  
+
+    无止境的散发出能确实降低生命力的污秽瘴气.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 3296
+    EXP: 127
+    STR: 724
+    DEF: 626
+    ATS: 0
+    ADF: 378
+    SPD: 75
+  ArtRate:
+    Earth: 100
+    Water: 40
+    Fire: 135
+    Wind: 80
+    Time: 100
+    Space: 100
+    Mirage: 175
+  Loots:
+    Sepiths:
+      Earth: 3
+      Water: 4
+      Fire: 3
+      Wind: 3
+      Time: 2
+      Space: 1
+      Mirage: 3
+      Mass: 8
+    Items:
+      - "[[Database/Item/Food Ingredient#^shuang-kou-yang-cong|爽口洋葱]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 0
+    Burn: 200
+    Death: 100
+    Seal: 100
+    Freeze: 100
+    Nightmare: 0
+    Mute: 100
+    Petrify: 100
+    Delay: 100
+    Blind: 50
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
 
 ---
 ```dataviewjs
@@ -3628,3 +3815,21 @@ const monster = dv.current().Monsters[52];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jun-ying
+
+```dataviewjs
+const monster = dv.current().Monsters[53];
+await dv.view('Enemy/Monster', { monster });
+```
+^shen-yuan-san-tou-quan
+
+```dataviewjs
+const monster = dv.current().Monsters[54];
+await dv.view('Enemy/Monster', { monster });
+```
+^huo-yan-zhi-zun
+
+```dataviewjs
+const monster = dv.current().Monsters[55];
+await dv.view('Enemy/Monster', { monster });
+```
+^feng-kuang-ye-cao

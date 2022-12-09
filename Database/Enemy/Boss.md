@@ -1483,6 +1483,438 @@ Bosses:
     Confuse: 20
     SDown: 20
 
+- Name: "岩石魔像"
+  ID: "yan-shi-mo-xiang"
+  Description: |
+    帝国的传说也有提到,  
+
+    从岩石中诞生的魔像.  
+
+    能够踩踏大地而引发巨大的地震.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 30
+    HP: 41631
+    EXP: 1680
+    STR: 1049
+    DEF: 1190
+    ATS: 0
+    ADF: 872
+    SPD: 87
+  ArtRate:
+    Earth: 50
+    Water: 90
+    Fire: 65
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 24
+      Water: 16
+      Fire: 19
+      Wind: 15
+      Time: 26
+      Space: 20
+      Mirage: 20
+      Mass: 65
+    Items:
+    - "[[Database/Art/Earth#^da-di-beng-lie|大地崩裂]]"
+  Unbalance:
+    Slash: 0
+    Thrust: 0
+    Pierce: 0
+    Strike: 3
+  StatusRate:
+    Poison: 0
+    Burn: 0
+    Death: 0
+    Seal: 0
+    Freeze: 50
+    Nightmare: 20
+    Mute: 0
+    Petrify: 0
+    Delay: 20
+    Blind: 20
+    Faint: 0
+    Vanish: 0
+    Sleep: 0
+    Confuse: 20
+    SDown: 50
+
+- Name: "菲"
+  ID: "fei"
+  Description: |
+    矮小的原少女猎兵.  
+
+    虽然擅长灵敏的行动,  
+
+    但和劳拉搭档时有点不大协调.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 8051
+    EXP: 380
+    STR: 662
+    DEF: 606
+    ATS: 282
+    ADF: 273
+    SPD: 83
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "劳拉"
+  ID: "lao-la"
+  Description: |
+    亚而赛德流的勇猛女剑士.  
+
+    虽然豪迈的挥舞着双手剑,  
+
+    和菲搭档时却有些施展不开.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 10555
+    EXP: 380
+    STR: 686
+    DEF: 648
+    ATS: 279
+    ADF: 279
+    SPD: 74
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "基诺夏·赛纳克"
+  ID: "ji-nuo-xia-sai-na-ke"
+  Description: |
+    被当作《邪恶精灵》,  
+
+    在很久以前就被封印的巨大蜘蛛.  
+
+    用和钢一样的丝绑住生物,  
+
+    当作自己孩子的饵食.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 31
+    HP: 46505
+    EXP: 1990
+    STR: 922
+    DEF: 865
+    ATS: 0
+    ADF: 448
+    SPD: 78
+  ArtRate:
+    Earth: 95
+    Water: 95
+    Fire: 135
+    Wind: 50
+    Time: 110
+    Space: 50
+    Mirage: 125
+  Loots:
+    Sepiths:
+      Earth: 28
+      Water: 30
+      Fire: 27
+      Wind: 31
+      Time: 22
+      Space: 22
+      Mirage: 22
+      Mass: 90
+    Items:
+      - "[[Database/Quartz/Mirage N#^xin-yue-zhi-jing|新月之镜]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 2
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 0
+    Seal: 50
+    Freeze: 100
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 0
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 50
+
+- Name: "无头守卫"
+  ID: "wu-tou-shou-wei"
+  Description: |
+    从红色的门深处出现的无头骑士人偶.  
+
+    作为某种试炼而阻挡在前方.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 33
+    HP: 47160
+    EXP: 2000
+    STR: 923
+    DEF: 1015
+    ATS: 0
+    ADF: 491
+    SPD: 74
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 175
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 22
+      Water: 21
+      Fire: 22
+      Wind: 21
+      Time: 30
+      Space: 30
+      Mirage: 30
+      Mass: 85
+    Items:
+      - "[[Database/Quartz/Earth N#^jian-ren-shou-hu|坚韧守护]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 2
+  StatusRate:
+    Poison: 0
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 0
+    Faint: 50
+    Vanish: 0
+    Sleep: 0
+    Confuse: 100
+    SDown: 100
+
+- Name: "炽天使之门"
+  ID: "chi-tian-shi-zhi-men"
+  Description: |
+    光辉闪耀的楼层守护者.  
+
+    除了会放出怪异光线之外,  
+
+    还会放出让行动迟缓的诅咒吼叫声.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 33
+    HP: 16396
+    EXP: 666
+    STR: 784
+    DEF: 2618
+    ATS: 0
+    ADF: 436
+    SPD: 79
+  ArtRate:
+    Earth: 145
+    Water: 100
+    Fire: 90
+    Wind: 100
+    Time: 150
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 16
+      Water: 19
+      Fire: 18
+      Wind: 20
+      Time: 10
+      Space: 10
+      Mirage: 10
+      Mass: 50
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Mirage N#^ep-2|EP2]]"
+  Unbalance:
+    Slash: 0
+    Thrust: 0
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 10
+    Mute: 100
+    Petrify: 0
+    Delay: 100
+    Blind: 100
+    Faint: 50
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 50
+
+- Name: "战术壳γ"
+  ID: "zhan-shu-ke-gamma"
+  Description: |
+    不可思议的金属制的战斗傀儡.  
+
+    以能进行实战等级的战斗为前提,  
+
+    拥有高度防御与攻击力的形态.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 33
+    HP: 21615
+    EXP: 300
+    STR: 915
+    DEF: 569
+    ATS: 458
+    ADF: 0
+    SPD: 93
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 3
+    Thrust: 3
+    Pierce: 3
+    Strike: 3
+  StatusRate:
+    Poison: 0
+    Burn: 50
+    Death: 0
+    Seal: 50
+    Freeze: 50
+    Nightmare: 0
+    Mute: 50
+    Petrify: 0
+    Delay: 20
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 100
+
 ---
 ```dataviewjs
 const boss = dv.current().Bosses[0];
@@ -1627,3 +2059,45 @@ const boss = dv.current().Bosses[23];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^mi-li-ya-mu
+
+```dataviewjs
+const boss = dv.current().Bosses[24];
+await dv.view('Enemy/Boss', { boss });
+```
+^yan-shi-mo-xiang
+
+```dataviewjs
+const boss = dv.current().Bosses[25];
+await dv.view('Enemy/Boss', { boss });
+```
+^fei
+
+```dataviewjs
+const boss = dv.current().Bosses[26];
+await dv.view('Enemy/Boss', { boss });
+```
+^lao-la
+
+```dataviewjs
+const boss = dv.current().Bosses[27];
+await dv.view('Enemy/Boss', { boss });
+```
+^ji-nuo-xia-sai-na-ke
+
+```dataviewjs
+const boss = dv.current().Bosses[28];
+await dv.view('Enemy/Boss', { boss });
+```
+^wu-tou-shou-wei
+
+```dataviewjs
+const boss = dv.current().Bosses[29];
+await dv.view('Enemy/Boss', { boss });
+```
+^chi-tian-shi-zhi-men
+
+```dataviewjs
+const boss = dv.current().Bosses[30];
+await dv.view('Enemy/Boss', { boss });
+```
+^zhan-shu-ke-gamma

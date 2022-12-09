@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "295257fb454fb362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Boss.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
