@@ -1915,6 +1915,978 @@ Bosses:
     Confuse: 50
     SDown: 100
 
+- Name: "巨型软体兽"
+  ID: "ju-xing-ruan-ti-shou"
+  Description: |
+    栖息在帝都地下的巨大软体魔兽.  
+
+    会震动空间,  
+
+    攻击周遭的所有事物.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 36
+    HP: 58884
+    EXP: 1600
+    STR: 1050
+    DEF: 1147
+    ATS: 554
+    ADF: 282
+    SPD: 89
+  ArtRate:
+    Earth: 110
+    Water: 100
+    Fire: 155
+    Wind: 65
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 21
+      Water: 25
+      Fire: 24
+      Wind: 22
+      Time: 19
+      Space: 22
+      Mirage: 21
+      Mass: 65
+    Items:
+      - "[[Database/Quartz/Wind N#^yi-dong-3|移动3]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 0
+    Pierce: 0
+    Strike: 0
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 50
+    Freeze: 20
+    Nightmare: 20
+    Mute: 50
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 50
+    Vanish: 0
+    Sleep: 20
+    Confuse: 50
+    SDown: 100
+
+- Name: "无限深渊蛇"
+  ID: "wu-xian-shen-yuan-she"
+  Description: |
+    拥有剧毒的蛇型魔兽.  
+
+    用像蝙蝠一样的翅膀飞行,  
+
+    从空中刺出利牙.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 39
+    HP: 4978
+    EXP: 163
+    STR: 1046
+    DEF: 958
+    ATS: 0
+    ADF: 670
+    SPD: 79
+  ArtRate:
+    Earth: 100
+    Water: 190
+    Fire: 150
+    Wind: 75
+    Time: 100
+    Space: 160
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 4
+      Water: 2
+      Fire: 2
+      Wind: 6
+      Time: 4
+      Space: 3
+      Mirage: 3
+      Mass: 11
+    Items:
+      - "[[Database/Item/Potion#^jie-du-yao|解毒药]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 4
+    Strike: 1
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 150
+    Seal: 100
+    Freeze: 200
+    Nightmare: 50
+    Mute: 100
+    Petrify: 50
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 100
+    Sleep: 100
+    Confuse: 50
+    SDown: 100
+
+- Name: "鳄头鱼王"
+  ID: "e-tou-yu-wang"
+  Description: |
+    帝都的地下水道中数一数二的大型水栖魔兽.  
+
+    拥有十分强韧的下颚,  
+
+    会将猎物连骨头完全咬碎.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 39
+    HP: 49125
+    EXP: 1680
+    STR: 1611
+    DEF: 1176
+    ATS: 0
+    ADF: 512
+    SPD: 87
+  ArtRate:
+    Earth: 125
+    Water: 80
+    Fire: 115
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 22
+      Water: 28
+      Fire: 22
+      Wind: 25
+      Time: 23
+      Space: 22
+      Mirage: 20
+      Mass: 65
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Water R#^shui-liu-hong-ji-r|水流轰击R]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 3
+    Pierce: 1
+    Strike: 3
+  StatusRate:
+    Poison: 100
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 50
+    Nightmare: 100
+    Mute: 100
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 100
+    SDown: 100
+
+- Name: "马奇亚斯"
+  ID: "ma-qi-ya-si"
+  Description: |
+    VII班副班长.  
+
+    使用装填在霰弹枪中的各种特殊子弹打开战线.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 39
+    HP: 12279
+    EXP: 380
+    STR: 702
+    DEF: 682
+    ATS: 382
+    ADF: 425
+    SPD: 80
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "黎恩"
+  ID: "li-en"
+  Description: |
+    向剑仙云·卡法伊学习《八叶一刀流》并获得初传,  
+
+    成为VII班重心的青年剑士.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 39
+    HP: 14069
+    EXP: 380
+    STR: 733
+    DEF: 687
+    ATS: 370
+    ADF: 370
+    SPD: 91
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 2
+    Pierce: 2
+    Strike: 2
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "恶魔雕塑"
+  ID: "e-mo-diao-su"
+  Description: |
+    据说存在于黑暗时代的恶魔.  
+
+    展开翅膀的相貌是恐怖的象征.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 40
+    HP: 11567
+    EXP: 1280
+    STR: 1096
+    DEF: 996
+    ATS: 0
+    ADF: 529
+    SPD: 92
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 40
+    Wind: 80
+    Time: 100
+    Space: 145
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 4
+      Water: 5
+      Fire: 4
+      Wind: 4
+      Time: 7
+      Space: 6
+      Mirage: 7
+      Mass: 22
+    Items:
+      - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药]]"
+      - "[[Database/Item/Potion#^sheng-ling-yao-gai|圣灵药·改]]"
+  Unbalance:
+    Slash: 2
+    Thrust: 2
+    Pierce: 3
+    Strike: 3
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 100
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 20
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 100
+
+- Name: "劳拉"
+  ID: "lao-la-2"
+  Description: |
+    亚而赛德流的勇猛女剑士.  
+
+    挥舞着巨大的双手剑,  
+
+    豪迈地击破敌阵.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 8418
+    EXP: 400
+    STR: 894
+    DEF: 911
+    ATS: 269
+    ADF: 531
+    SPD: 81
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "盖乌斯"
+  ID: "gai-wu-si"
+  Description: |
+    从诺而德高原来的留学生.  
+
+    以高挑的身高使用十字枪一举穿刺猎物.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 9297
+    EXP: 400
+    STR: 888
+    DEF: 890
+    ATS: 525
+    ADF: 520
+    SPD: 82
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 0
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "马奇亚斯"
+  ID: "ma-qi-ya-si-2"
+  Description: |
+    VII班的副班长.  
+
+    使用装填在霰弹枪中的各种特殊子弹打开战线.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 7989
+    EXP: 400
+    STR: 846
+    DEF: 826
+    ATS: 584
+    ADF: 569
+    SPD: 79
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "零之阔步者"
+  ID: "ling-zhi-kuo-bu-zhe"
+  Description: |
+    以无数的骨头构成龙的外形,  
+
+    黑暗时代传说的魔兽.  
+
+    吐出黑暗的气息, 拥有能动摇空间的巨大力量.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 65498
+    EXP: 3300
+    STR: 1644
+    DEF: 1197
+    ATS: 436
+    ADF: 529
+    SPD: 86
+  ArtRate:
+    Earth: 100
+    Water: 135
+    Fire: 145
+    Wind: 100
+    Time: 100
+    Space: 135
+    Mirage: 120
+  Loots:
+    Sepiths:
+      Earth: 32
+      Water: 24
+      Fire: 24
+      Wind: 27
+      Time: 34
+      Space: 26
+      Mirage: 32
+      Mass: 100
+    Items:
+      - "[[Database/Quartz/Time N#^e-yun-zhi-die|厄运之蝶]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 0
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 100
+    Death: 0
+    Seal: 20
+    Freeze: 50
+    Nightmare: 0
+    Mute: 50
+    Petrify: 0
+    Delay: 20
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 0
+    Confuse: 50
+    SDown: 50
+
+- Name: "亚莉莎"
+  ID: "ya-li-sha"
+  Description: |
+    莱恩福尔特家的大小姐.  
+
+    用导力弓从后方援护,  
+
+    带给伙伴们强力的支援.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 7041
+    EXP: 400
+    STR: 843
+    DEF: 847
+    ATS: 370
+    ADF: 748
+    SPD: 86
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "菲"
+  ID: "fei-2"
+  Description: |
+    矮小的原少女猎兵.  
+
+    以灵敏的动作操作双枪剑,  
+
+    快速的袭向敌人.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 6781
+    EXP: 400
+    STR: 865
+    DEF: 793
+    ATS: 275
+    ADF: 656
+    SPD: 97
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "艾玛"
+  ID: "ai-ma"
+  Description: |
+    拥有学年第一头脑的班长.  
+
+    边以魔导杖进行援护,   
+
+    边发动强力魔法  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 6817
+    EXP: 400
+    STR: 761
+    DEF: 787
+    ATS: 387
+    ADF: 890
+    SPD: 80
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 2
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "艾略特"
+  ID: "ai-lve-te"
+  Description: |
+    热爱音乐的红发少年.  
+
+    魔导杖奏出的旋律可以治愈我方, 扰乱敌方.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 7298
+    EXP: 400
+    STR: 799
+    DEF: 838
+    ATS: 768
+    ADF: 763
+    SPD: 83
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 2
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "尤西斯"
+  ID: "you-xi-si"
+  Description: |
+    四大名门艾而巴雷亚家的儿子.  
+
+    以擅长的传统骑士剑术引领伙伴获得胜利.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 41
+    HP: 7848
+    EXP: 400
+    STR: 868
+    DEF: 799
+    ATS: 757
+    ADF: 757
+    SPD: 87
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 50
+    Death: 50
+    Seal: 50
+    Freeze: 50
+    Nightmare: 50
+    Mute: 50
+    Petrify: 50
+    Delay: 50
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 50
+    SDown: 50
+
+- Name: "安斯尔特"
+  ID: "an-si-er-te"
+  Description: |
+    全身被冰包覆的巨大野兽.  
+
+    会引发暴风雪,  
+
+    将所有事物冰冻.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 43
+    HP: 59212
+    EXP: 3150
+    STR: 1701
+    DEF: 1650
+    ATS: 609
+    ADF: 901
+    SPD: 139
+  ArtRate:
+    Earth: 100
+    Water: 0
+    Fire: 0
+    Wind: 100
+    Time: 100
+    Space: 120
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 19
+      Water: 37
+      Fire: 16
+      Wind: 20
+      Time: 26
+      Space: 26
+      Mirage: 26
+      Mass: 90
+    Items:
+      - "[[Database/Quartz/Fire N#^gong-ji-3|攻击3]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 1
+    Strike: 1
+  StatusRate:
+    Poison: 50
+    Burn: 0
+    Death: 0
+    Seal: 20
+    Freeze: 0
+    Nightmare: 100
+    Mute: 20
+    Petrify: 0
+    Delay: 20
+    Blind: 100
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 20
+    SDown: 20
+
+
 ---
 ```dataviewjs
 const boss = dv.current().Bosses[0];
@@ -2101,3 +3073,99 @@ const boss = dv.current().Bosses[30];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^zhan-shu-ke-gamma
+
+```dataviewjs
+const boss = dv.current().Bosses[31];
+await dv.view('Enemy/Boss', { boss });
+```
+^ju-xing-ruan-ti-shou
+
+```dataviewjs
+const boss = dv.current().Bosses[32];
+await dv.view('Enemy/Boss', { boss });
+```
+^wu-xian-shen-yuan-she
+
+```dataviewjs
+const boss = dv.current().Bosses[33];
+await dv.view('Enemy/Boss', { boss });
+```
+^e-tou-yu-wang
+
+```dataviewjs
+const boss = dv.current().Bosses[34];
+await dv.view('Enemy/Boss', { boss });
+```
+^ma-qi-ya-si
+
+```dataviewjs
+const boss = dv.current().Bosses[35];
+await dv.view('Enemy/Boss', { boss });
+```
+^li-en
+
+```dataviewjs
+const boss = dv.current().Bosses[36];
+await dv.view('Enemy/Boss', { boss });
+```
+^e-mo-diao-su
+
+```dataviewjs
+const boss = dv.current().Bosses[37];
+await dv.view('Enemy/Boss', { boss });
+```
+^lao-la-2
+
+```dataviewjs
+const boss = dv.current().Bosses[38];
+await dv.view('Enemy/Boss', { boss });
+```
+^gai-wu-si
+
+```dataviewjs
+const boss = dv.current().Bosses[39];
+await dv.view('Enemy/Boss', { boss });
+```
+^ma-qi-ya-si-2
+
+```dataviewjs
+const boss = dv.current().Bosses[40];
+await dv.view('Enemy/Boss', { boss });
+```
+^ling-zhi-kuo-bu-zhe
+
+```dataviewjs
+const boss = dv.current().Bosses[41];
+await dv.view('Enemy/Boss', { boss });
+```
+^ya-li-sha
+
+```dataviewjs
+const boss = dv.current().Bosses[42];
+await dv.view('Enemy/Boss', { boss });
+```
+^fei-2
+
+```dataviewjs
+const boss = dv.current().Bosses[43];
+await dv.view('Enemy/Boss', { boss });
+```
+^ai-ma
+
+```dataviewjs
+const boss = dv.current().Bosses[44];
+await dv.view('Enemy/Boss', { boss });
+```
+^ai-lve-te
+
+```dataviewjs
+const boss = dv.current().Bosses[45];
+await dv.view('Enemy/Boss', { boss });
+```
+^you-xi-si
+
+```dataviewjs
+const boss = dv.current().Bosses[46];
+await dv.view('Enemy/Boss', { boss });
+```
+^an-si-er-te
