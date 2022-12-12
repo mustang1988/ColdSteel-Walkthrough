@@ -3575,6 +3575,192 @@ Bosses:
     Confuse: 100
     SDown: 50
 
+- Name: "莎拉教官"
+  ID: "sha-la-jiao-guan-2"
+  Description: |
+    负责VII班的教官,  
+
+    被称为《紫电》的前游击士.  
+
+    以手枪和剑的凶恶组合,  
+
+    发出无与伦比的猛攻.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 55
+    HP: 38369
+    EXP: 2110
+    STR: 1230
+    DEF: 1079
+    ATS: 786
+    ADF: 779
+    SPD: 92
+  ArtRate:
+    Earth: 100
+    Water: 100
+    Fire: 100
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 0
+      Water: 0
+      Fire: 0
+      Wind: 0
+      Time: 0
+      Space: 0
+      Mirage: 0
+      Mass: 0
+    Items:
+  Unbalance:
+    Slash: 1
+    Thrust: 0
+    Pierce: 0
+    Strike: 0
+  StatusRate:
+    Poison: 20
+    Burn: 20
+    Death: 0
+    Seal: 20
+    Freeze: 20
+    Nightmare: 20
+    Mute: 20
+    Petrify: 0
+    Delay: 20
+    Blind: 50
+    Faint: 50
+    Vanish: 0
+    Sleep: 50
+    Confuse: 20
+
+- Name: "黄金真菌"
+  ID: "huang-jin-zhen-jun"
+  Description: |
+    持续食用品质良好的矿物而成长为超巨大体型的孢子魔兽.  
+
+    制造了封锁一个坑道的契机.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 56
+    HP: 30130
+    EXP: 2400
+    STR: 1421
+    DEF: 1465
+    ATS: 0
+    ADF: 1033
+    SPD: 98
+  ArtRate:
+    Earth: 90
+    Water: 80
+    Fire: 120
+    Wind: 100
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 25
+      Water: 18
+      Fire: 27
+      Wind: 21
+      Time: 18
+      Space: 18
+      Mirage: 18
+      Mass: 85
+    Items:
+      - "[[Database/Item/Potion#^huan-hun-fen|还魂粉]]"
+  Unbalance:
+    Slash: 3
+    Thrust: 1
+    Pierce: 1
+    Strike: 0
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 50
+    Freeze: 100
+    Nightmare: 20
+    Mute: 50
+    Petrify: 0
+    Delay: 50
+    Blind: 0
+    Faint: 20
+    Vanish: 0
+    Sleep: 20
+    Confuse: 20
+    SDown: 50
+
+- Name: "巨石蛙"
+  ID: "ju-shi-wa"
+  Description: |
+    巨大的蛙型魔兽.  
+
+    可能因为平常都以长舌吞食石块,  
+
+    皮肤像铁甲一样坚硬.  
+
+  Locations: 
+    - ""
+  Properties:
+    LV: 56
+    HP: 70412
+    EXP: 1850
+    STR: 1573
+    DEF: 2086
+    ATS: 0
+    ADF: 1032
+    SPD: 101
+  ArtRate:
+    Earth: 80
+    Water: 160
+    Fire: 100
+    Wind: 110
+    Time: 100
+    Space: 100
+    Mirage: 100
+  Loots:
+    Sepiths:
+      Earth: 40
+      Water: 25
+      Fire: 40
+      Wind: 25
+      Time: 33
+      Space: 33
+      Mirage: 33
+      Mass: 90
+    Items:
+      - "[[Database/Item/U-Material|U物质]]"
+      - "[[Database/Quartz/Earth R#^po-dun-zhi-ya|破盾之牙]]"
+  Unbalance:
+    Slash: 1
+    Thrust: 1
+    Pierce: 0
+    Strike: 3
+  StatusRate:
+    Poison: 100
+    Burn: 50
+    Death: 0
+    Seal: 20
+    Freeze: 100
+    Nightmare: 100
+    Mute: 20
+    Petrify: 0
+    Delay: 50
+    Blind: 100
+    Faint: 100
+    Vanish: 0
+    Sleep: 100
+    Confuse: 50
+    SDown: 50
+
+
 
 ---
 ```dataviewjs
@@ -3924,3 +4110,21 @@ const boss = dv.current().Bosses[57];
 await dv.view('Enemy/Boss', { boss });
 ```
 ^ai-er-wei-li-ya
+
+```dataviewjs
+const boss = dv.current().Bosses[58];
+await dv.view('Enemy/Boss', { boss });
+```
+^sha-la-jiao-guan-2
+
+```dataviewjs
+const boss = dv.current().Bosses[59];
+await dv.view('Enemy/Boss', { boss });
+```
+^huang-jin-zhen-jun
+
+```dataviewjs
+const boss = dv.current().Bosses[60];
+await dv.view('Enemy/Boss', { boss });
+```
+^ju-shi-wa
