@@ -11,7 +11,9 @@ Monsters:
     并从空中使出连环踢击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-1|旧校舍‧地下区块1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-2|旧校舍‧地下区块2]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]"
   Properties:
     LV: 4
     HP: 669
@@ -76,7 +78,9 @@ Monsters:
     发动风属性魔法.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-1|旧校舍‧地下区块1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-2|旧校舍‧地下区块2]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]"
   Properties:
     LV: 4
     HP: 408
@@ -137,7 +141,9 @@ Monsters:
     黄金色的甲虫魔兽.   
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-1|旧校舍‧地下区块1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-2|旧校舍‧地下区块2]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]"
   Properties:
     LV: 4
     HP: 609

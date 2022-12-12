@@ -13,7 +13,7 @@ Bosses:
     能够反弹物理攻击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]"
   Properties:
     LV: 5
     HP: 10833
@@ -77,7 +77,7 @@ Bosses:
     将入侵者吹飞.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]"
   Properties:
     LV: 5
     HP: 10833

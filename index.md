@@ -52,6 +52,41 @@ dv.table(
 ```ad-quote
 title: 攻略
 collapse: open
+~~~ad-quote
+title: 攻略图例
+collapse: close
+- 获得奖杯
+  - [[Database/Trophy/Bronze|铜奖杯]]
+  - [[Database/Trophy/Silver|银奖杯]]
+  - [[Database/Trophy/Gold|金奖杯]]
+  - [[Database/Trophy/Platinum|白金奖杯]]
+- 任务/委托
+  - [[Database/Quest/Main Quest|主线任务/委托]]
+  - [[Database/Quest/Side Quest|支线任务/委托]]
+- 笔记类
+  - [[Database/Fish/Swordtail|钓鱼笔记]]
+  - [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|烹饪笔记]]
+  - [[Database/Item/Book#^di-guo-shi-bao-1|书记笔记]]
+  - [[Database/Character/Rean Schwarzer|人物笔记]]
+  - [[Database/Quartz/Iron|核心回路]]
+  - [[Database/Enemy/Monster|]][[Database/Enemy/Boss|战斗笔记]]
+  - [[Database/Treasure Chest/Treasure Chest|]][[Database/Treasure Chest/Monster Treasure Chest|宝箱]]
+- 物品道具
+  - [[Database/Quartz/Earth N|]][[Database/Quartz/Water N|]][[Database/Quartz/Fire N|]][[Database/Quartz/Wind N|]][[Database/Quartz/Time N|]][[Database/Quartz/Space N|]][[Database/Quartz/Mirage N|普通回路]]
+  - [[Database/Item/Accessory|饰品]]
+  - [[Database/Item/Armour|护具]]
+  - [[Database/Item/Boot|护腿]]
+  - [[Database/Item/Fish Rod|鱼竿]]
+  - [[Database/Item/Key|关键道具]]
+  - [[Database/Item/Food Ingredient|食材]]
+  - [[Database/Item/U-Material|U物质]]
+  - [[Database/Item/Regular Food|]][[Database/Item/Superb Food|]][[Database/Item/Attack Food|]][[Database/Item/Peculiar Food|]][[Database/Item/Unique Food|食物]]
+  - [[Database/Item/Earth Sepith|]][[Database/Item/Water Sepith|]][[Database/Item/Fire Sepith|]][[Database/Item/Wind Sepith|]][[Database/Item/Time Sepith|]][[Database/Item/Space Sepith|]][[Database/Item/Mirage Sepith|]][[Database/Item/Mass Sepith|耀晶片/块]]
+  - [[Database/Item/Potion|消耗品]]
+- 其他
+  - [[Database/Art/Earth|]][[Database/Art/Water|]][[Database/Art/Fire|]][[Database/Art/Wind|]][[Database/Art/Time|]][[Database/Art/Space|]][[Database/Art/Mirage|导力魔法]]
+  - [[Database/Location/Location|地区/迷宫]]
+~~~
 ~~~dataviewjs
 const notes = dv.pages('"Walkthrough"')
                 .sort(note => note.No, 'asc');

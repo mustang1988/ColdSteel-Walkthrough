@@ -1,0 +1,70 @@
+{
+  "mapMarkers": [],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Treasure-Chest.Treasure-Chest",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAm5JREFUOE+Fkl1IU2EYx//POWfOfZwtnR/k1nKyDD+yskwLp0RFF914kxlFBKFCXVYQkmDZVVdRN00Cb4KQsBshCKOojUwl+9RmLQ2bS9A5t6NubjvnjUWKc1TP1fv1e56H9/kRAFgsFk1NgWEvEctM7v8dcmRgevmNz+eLULktL/9WS8NLs3lzMRG3xkWiEUiSBFEUocnUrJ0rTMFPn9/Teruvjq4ed1w+13jsJhGlFJQohPKDJfj0/DNEZky5Y4yh++HjS3T+6O72ffaCazzHpdA5uVrodCosLcUxN7ucAsuKwgYnZjqSgNBxovaZzWRwrL5QqXjk5esQi8lYCEaRbCq5Xo3JQNjV1+M+9Lta50nHK2uWuF8QOBSYRezZZISgFcC2aiEnFPCLMjz+Bfh9YczPRzAVlAbaH7gOUM02S/WZ+hJXcZlVVV5tgylHB/YtBM4oAlu0YP4wEt3vwV2ogEIcxj0BDDx5G7/vHq2jG6frnIWmrOainYUwmPTgeY5kWWFZ2WrS69VYXFxBwC8xylABf75lzO3B15m5e/So7dTdysqK1o2zjYtR2KuK4B2egEpKH//IyAcn9V5pctrttpaNsCLK2HVkB971fwQn8WneeL2TXdTb1uQsKy1Ng2OxGKIry9CotVBlZKTBo2NjXeS+09yv4sXDpmwTBEH4n5tIJBIIzAcQl6WnFBzqHDLYrFWuntdQK5nYaNr6bEmzYnwUtY01CE9ODVNw8PqQsdBcFZ6V8OXFDxiMqSquh8OhEIrrrTDk6hH6Pj1MF886GgTi7YwUNjU+65MVJfS33nmOM1q351qIcZRgsvcXjWHuNNicguoAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Treasure-Chest.Monster-Treasure-Chest",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAPCAYAAAAGRPQsAAAAAXNSR0IArs4c6QAAAfRJREFUOE+l0j9oE2EYx/Hv28v/uzY1zREabW1rBAfFzUlBHEQEbUGHDkJGySIKXRwqiIbiJhR1kKogQgYRoY2DKKggIoqDiIPa2Epj40FibHJJLol3kmqi8ZRgfaf3fX/v84H3eV8BsB157yjBySDOzfvOLwpZrXF3YpDCsgsNjRo1HDgIEcIbqLN/egFjRWIuNkyO2nyS3NQzCrOiAZ1gwx1AasAHZ1IooRpzR4dZSbtYJtPCwvTjC9YZuzZPJS9x60ikUdIY5kU+HhKnGHo0gntXc3eNGGmMF2KaSKYbKfS/mIFZFDP9A1pPl6Q2sd2nl/D11Xl4Zj36JydbxjMYKnjzJq+vh/H01tlzdgmjIHH/5ECzDMOydPH0HFpfNy2slf6YSLKTyMQOXk09x1k1fo9b63IVXTyOowUU1EpeYJnCdjiy1SSe3MjkgUXevOyy5UJYeNZZrGJvL6MFe1CTsUHKOYftcHjnZ3pHKnz54Cb9IGDLnbLJ6JUFSga6SN9AU/2oN6NDlLKrv+OfhksxGU+8R6/8gl2Ieilk7dfsJHsUi+OJcjt2KSpTzNp70glzKxbHEsV27HZ0E6WsvWedMJfylcOJd+3YbGzojw/QEfOZjF1N/cTcAjWf71T299zvB4cbXdyL8yQks23t1PfKQpXUNy/o4DJS9emsAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.1.1",
+  "version": {
+    "major": 5,
+    "minor": 1,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

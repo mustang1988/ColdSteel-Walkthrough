@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6d42b5ad4fde961f",
+        "id": "6b60a7d9058fe080",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e71345fb429aed",
+            "id": "936ca429c6f1dbdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEBUG.md",
+                "file": "Walkthrough/Chapter 0.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "091d50407f096dbc",
+            "id": "06cb8a8f145705a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Monster.md",
-                "mode": "source",
+                "file": "Database/Trophy/Bronze.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEBUG.md",
+                "file": "Walkthrough/Chapter 0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEBUG.md",
+                "file": "Walkthrough/Chapter 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEBUG.md"
+                "file": "Walkthrough/Chapter 0.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3e71345fb429aed",
+  "active": "936ca429c6f1dbdd",
   "lastOpenFiles": [
+    "Database/Trophy/Bronze.md",
+    "Walkthrough/Chapter 0.md",
+    "Index.md",
+    "Database/Item/Book.md",
+    "Database/Recipe/Recipe.md",
     "Database/Enemy/Monster.md",
-    "Database/Item/Key.md",
-    "DEBUG.md",
-    "Demo.md",
     "Database/Enemy/Boss.md",
-    "Database/Item/Fish Rod.md",
-    "Database/Character/Patrick T Hyarms.md",
-    "Callout.md",
-    "Database/Art/Earth.md",
-    "Database/Character/Alan.md"
+    "Database/Location/Location.md",
+    "Database/Treasure Chest/Treasure Chest.md",
+    "Demo.md"
   ]
 }
