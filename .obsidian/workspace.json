@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "DEBUG.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "大口鲈鱼",
+                "query": "you-er",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "DEBUG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Enemy/Monster.md"
+                "file": "DEBUG.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "d3e71345fb429aed",
   "lastOpenFiles": [
-    "DEBUG.md",
     "Database/Enemy/Monster.md",
+    "Database/Item/Key.md",
+    "DEBUG.md",
     "Demo.md",
     "Database/Enemy/Boss.md",
-    "Database/Item/Key.md",
     "Database/Item/Fish Rod.md",
     "Database/Character/Patrick T Hyarms.md",
     "Callout.md",

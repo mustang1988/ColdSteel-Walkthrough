@@ -4408,7 +4408,7 @@ Monsters:
       Mass: 14
     Items:
       - "[[Database/Item/U-Material|U物质]]"
-      - "[[Database/Item/Key^you-er|诱饵]]"
+      - "[[Database/Item/Key#^you-er|诱饵]]"
   Unbalance:
     Slash: 1
     Thrust: 1
