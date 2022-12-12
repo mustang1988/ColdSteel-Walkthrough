@@ -213,7 +213,6 @@ const SepithLootTable = (loots) => {
 
 const ItemLootTable = (loots) => {
   const items = loots.map((i) => {
-    const file = dv.page(i.path);
     const link =
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
@@ -226,7 +225,7 @@ const ItemLootTable = (loots) => {
     }" href="${fileName[fileName.length - 1]}#^${
       link.subpath
     }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
-      file.ID
+      file.ID || ""
     }" data-link-tags="" data-link-path="${link.path}">${
       link.display || ""
     }</a>`;
