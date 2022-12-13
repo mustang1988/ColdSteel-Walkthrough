@@ -135,11 +135,15 @@ await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^jiao-yue-zhi-guang
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^yin-ye-zhi-ji
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -147,11 +151,15 @@ await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^mei-ying-zhi-ju
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^xing-guang-zhi-jian
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
@@ -159,11 +167,15 @@ await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^qing-bao-jie-xi
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[5];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^shen-sheng-zhi-li
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[6];
@@ -171,11 +183,15 @@ await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^xin-yue-zhi-jing
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[7];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^ep-1
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[8];
@@ -183,17 +199,23 @@ await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^ep-2
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[9];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^jing-shen-1
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[10];
 await dv.view('Quartz/Mirage/N', { quartz });
 ```
 ^jing-shen-2
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[11];

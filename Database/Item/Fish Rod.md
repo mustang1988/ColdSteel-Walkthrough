@@ -15,11 +15,15 @@ await dv.view('Item/Rod', { rod });
 ```
 ^xiao-qiao-she-shou
 
+---
+
 ```dataviewjs
 const rod = dv.current().Rods[1];
 await dv.view('Item/Rod', { rod });
 ```
 ^dx-she-shou
+
+---
 
 ```dataviewjs
 const rod = dv.current().Rods[2];

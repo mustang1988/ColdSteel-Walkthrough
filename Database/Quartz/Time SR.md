@@ -50,11 +50,15 @@ await dv.view('Quartz/Time/SR', { quartz });
 ```
 ^si-shen
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Time/SR', { quartz });
 ```
 ^luo-cha-ya
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -62,8 +66,12 @@ await dv.view('Quartz/Time/SR', { quartz });
 ```
 ^shen-xing-zhu
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Quartz/Time/SR', { quartz });
 ```
 ^mo-wang-zhu
+
+---

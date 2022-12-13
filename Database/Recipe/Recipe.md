@@ -331,11 +331,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^jian-dan-dan-bao-fan
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[1];
 await dv.view('Recipe', { recipe });
 ```
 ^tian-mi-bing-gan
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[2];
@@ -343,11 +347,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^xian-zha-guo-zhi
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[3];
 await dv.view('Recipe', { recipe });
 ```
 ^fan-qie-san-ming-zhi
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[4];
@@ -355,11 +363,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^feng-wei-yao-cao-cha
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[5];
 await dv.view('Recipe', { recipe });
 ```
 ^xiang-nong-qiao-da-tang
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[6];
@@ -367,11 +379,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^mei-guo-ta
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[7];
 await dv.view('Recipe', { recipe });
 ```
 ^xian-nai-zhou
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[8];
@@ -379,11 +395,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^su-cui-pi-sa
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[9];
 await dv.view('Recipe', { recipe });
 ```
 ^hong-bei-ka-fei
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[10];
@@ -391,11 +411,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^fan-qie-ju-kao
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[11];
 await dv.view('Recipe', { recipe });
 ```
 ^zha-yu
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[12];
@@ -403,11 +427,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^ka-shi-da-bu-ding
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[13];
 await dv.view('Recipe', { recipe });
 ```
 ^liang-feng-tong-xin-fen
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[14];
@@ -415,11 +443,15 @@ await dv.view('Recipe', { recipe });
 ```
 ^jun-shi-hui-fan
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[15];
 await dv.view('Recipe', { recipe });
 ```
 ^ti-li-niu-pai
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[16];
@@ -427,17 +459,23 @@ await dv.view('Recipe', { recipe });
 ```
 ^fan-qie-ji-wei-jiu
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[17];
 await dv.view('Recipe', { recipe });
 ```
 ^hun-he-bing-qi-lin
 
+---
+
 ```dataviewjs
 const recipe = dv.current().Recipes[18];
 await dv.view('Recipe', { recipe });
 ```
 ^man-fu-shi-jin-huo-guo
+
+---
 
 ```dataviewjs
 const recipe = dv.current().Recipes[19];

@@ -169,11 +169,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^gao-ya-shui-kuai
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^han-shuang-zhi-ren
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -181,11 +185,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^shui-liu-hong-ji
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^shui-jing-hong-liu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
@@ -193,11 +201,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^luo-xuan-ju-wo
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[5];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^hui-fu-shu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[6];
@@ -205,11 +217,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^zhong-hui-fu-shu
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[7];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^da-hui-fu-shu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[8];
@@ -217,11 +233,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^fu-huo-shu
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[9];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^sheng-ling-shu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[10];
@@ -229,11 +249,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^hp-1
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[11];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^hp-2
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[12];
@@ -241,11 +265,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^mo-fang-1
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[13];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^mo-fang-2
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[14];
@@ -253,11 +281,15 @@ await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^mo-fang-3
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[15];
 await dv.view('Views/Quartz/Water/N', { quartz });
 ```
 ^feng-mo-zhi-ren
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[16];

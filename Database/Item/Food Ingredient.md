@@ -45,11 +45,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^xin-xian-ji-dan
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[1];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^xian-nai
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[2];
@@ -57,11 +61,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^cheng-shu-ru-lao
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[3];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^shuang-kou-yang-cong
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[4];
@@ -69,11 +77,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^ruan-mian-mian-ma-ling-shu
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[5];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^xing-xing-mei-guo
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[6];
@@ -81,11 +93,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^ku-xi-hong-shi
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[7];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^feng-mi-tang-jiang
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[8];
@@ -93,11 +109,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^cu-sui-yan-yan
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[9];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^qian-wan-wu-gu
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[10];
@@ -105,11 +125,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^bai-yao-jing-jiu
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[11];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-zhi-ke
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[12];
@@ -117,11 +141,15 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-hong-rou
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[13];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-bai-rou
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[14];
@@ -129,17 +157,23 @@ await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-you-zhi
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[15];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-fen-mo
 
+---
+
 ```dataviewjs
 const ingredient = dv.current().Ingredients[16];
 await dv.view('Item/Food/Ingredient', { ingredient });
 ```
 ^mo-shou-ming-jiao
+
+---
 
 ```dataviewjs
 const ingredient = dv.current().Ingredients[17];

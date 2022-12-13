@@ -160,11 +160,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^huo-yan-jian
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^zhuo-re-zhi-bo
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -172,11 +176,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^huo-yan-zhi-she
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^huo-shan-dan-yu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
@@ -184,11 +192,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^ran-dian-bao-lie
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[5];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^qian-yang-xin-xing
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[6];
@@ -196,11 +208,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^zhen-fen-zhi-ji
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[7];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^zhan-yi-zai-qi
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[8];
@@ -208,11 +224,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^qiang-yin-zhi-li
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[9];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^qiang-yin-zhi-li-fu
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[10];
@@ -220,11 +240,15 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^gong-ji-1
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[11];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^gong-ji-2
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[12];
@@ -232,14 +256,20 @@ await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^gong-ji-3
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[13];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^feng-ji-zhi-ren
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[14];
 await dv.view('Quartz/Fire/N', { quartz });
 ```
 ^yan-shang-zhi-ren
+
+---

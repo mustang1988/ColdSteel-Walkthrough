@@ -582,11 +582,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-1
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[1];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-2
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[2];
@@ -594,11 +598,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-3
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[3];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-4
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[4];
@@ -606,11 +614,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-5
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[5];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-6
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[6];
@@ -618,11 +630,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-7
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[7];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-8
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[8];
@@ -630,11 +646,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-9
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[9];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-10
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[10];
@@ -642,11 +662,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-shi-bao-11
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[11];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-1
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[12];
@@ -654,11 +678,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-2
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[13];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-3
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[14];
@@ -666,11 +694,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-4
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[15];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-5
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[16];
@@ -678,11 +710,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-6
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[17];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-7
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[18];
@@ -690,11 +726,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-8
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[19];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-9
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[20];
@@ -702,11 +742,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-10
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[21];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yao-shi-wen-ku-ban-11
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[22];
@@ -714,11 +758,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-1
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[23];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-2
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[24];
@@ -726,11 +774,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-3
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[25];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-4
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[26];
@@ -738,11 +790,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-5
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[27];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-6
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[28];
@@ -750,11 +806,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-7
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[29];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-8
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[30];
@@ -762,11 +822,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-9
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[31];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-10
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[32];
@@ -774,11 +838,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-11
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[33];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-12
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[34];
@@ -786,11 +854,15 @@ await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-13
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[35];
 await dv.view('Item/Book', { book });
 ```
 ^hong-yue-de-luo-sai-14
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[36];
@@ -798,11 +870,15 @@ await dv.view('Item/Book', { book });
 ```
 ^di-guo-tie-lu-shi
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[37];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-de-chuan-shuo-shang
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[38];
@@ -810,11 +886,15 @@ await dv.view('Item/Book', { book });
 ```
 ^jin-dai-yun-dong
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[39];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-de-chuan-shuo-zhong
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[40];
@@ -822,11 +902,15 @@ await dv.view('Item/Book', { book });
 ```
 ^bao-zhi-yu-guang-bo
 
+---
+
 ```dataviewjs
 const book = dv.current().Books[41];
 await dv.view('Item/Book', { book });
 ```
 ^di-guo-de-chuan-shuo-xia
+
+---
 
 ```dataviewjs
 const book = dv.current().Books[42];

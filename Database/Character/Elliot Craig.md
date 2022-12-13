@@ -21,7 +21,7 @@ Notes:
       从小喜欢音乐,
 
       本来想朝与音乐有关的方向发展.
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^character-ai-lve-te-1|第一章 4/18]]"
     How: "艾略特羁绊事件"
   - Title: "克雷格中将"
     ID: "ai-lve-te-2"

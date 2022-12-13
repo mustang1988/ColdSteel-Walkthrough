@@ -153,11 +153,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^peng-song-nong-chou-dan-bao-fan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[1];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^huang-jin-shu-fu-lei
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[2];
@@ -165,11 +169,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^huang-jin-te-tiao
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[3];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^you-ya-san-ming-zhi
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[4];
@@ -177,11 +185,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^fang-chun-xiang-fen-cha
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[5];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^bao-shi-nong-tang
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[6];
@@ -189,11 +201,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^she-chi-zong-hui-ta
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[7];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^nuo-er-de-yang-sheng-zhou
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[8];
@@ -201,11 +217,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^te-zhi-pi-sa
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[9];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^te-ji-ka-fei
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[10];
@@ -213,11 +233,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^ru-kou-ji-hua-ju-kao
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[11];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^gui-zu-zha-wu
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[12];
@@ -225,11 +249,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^nong-mi-bu-ding
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[13];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^cang-tian-mian-rui-yu
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[14];
@@ -237,11 +265,15 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^gao-gui-hui-fan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[15];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^shuang-jiang-niu-pai
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[16];
@@ -249,17 +281,23 @@ await dv.view('Item/Food/Superb', { food });
 ```
 ^ling-shui-fei-ying
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[17];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^bing-guo-hua-yuan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[18];
 await dv.view('Item/Food/Superb', { food });
 ```
 ^zhi-miao-guo-lan-man
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[19];

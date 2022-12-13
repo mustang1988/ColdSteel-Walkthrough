@@ -151,11 +151,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^jian-dan-dan-bao-fan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[1];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^tian-mi-bing-gan
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[2];
@@ -163,11 +167,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^xian-zha-guo-zhi
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[3];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^fan-qie-san-ming-zhi
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[4];
@@ -175,11 +183,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^feng-wei-yao-cao-cha
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[5];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^xiang-nong-qiao-da-tang
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[6];
@@ -187,11 +199,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^mei-guo-ta
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[7];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^xian-nai-zhou
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[8];
@@ -199,11 +215,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^su-cui-pi-sa
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[9];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^hong-bei-ka-fei
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[10];
@@ -211,11 +231,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^fan-qie-ju-kao
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[11];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^zha-yu
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[12];
@@ -223,11 +247,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^ka-shi-da-bu-ding
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[13];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^liang-feng-tong-xin-fen
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[14];
@@ -235,11 +263,15 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^jun-shi-hui-fan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[15];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^ti-li-niu-pai
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[16];
@@ -247,17 +279,23 @@ await dv.view('Item/Food/Regular', { food });
 ```
 ^fan-qie-ji-wei-jiu
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[17];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^hun-he-bing-qi-lin
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[18];
 await dv.view('Item/Food/Regular', { food });
 ```
 ^man-fu-shi-jin-huo-guo
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[19];

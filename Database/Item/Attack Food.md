@@ -43,11 +43,15 @@ await dv.view('Item/Food/Attack', { food });
 ```
 ^du-du-bing-gan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[1];
 await dv.view('Item/Food/Attack', { food });
 ```
 ^leng-dong-nong-tang
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[2];
@@ -55,11 +59,15 @@ await dv.view('Item/Food/Attack', { food });
 ```
 ^ran-shao-zha-wu
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[3];
 await dv.view('Item/Food/Attack', { food });
 ```
 ^nian-chou-hui-fan
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[4];

@@ -10,7 +10,6 @@ const {
 const admonition = `
 \`\`\`ad-book
 title: ${name}
-collapse: close
 ${content}
 \`\`\`
 `;

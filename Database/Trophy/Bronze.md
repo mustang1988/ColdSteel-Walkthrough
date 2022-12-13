@@ -184,13 +184,13 @@ Trophies:
   - ID: "jun-guan-xue-yuan-ru-xue"
     Title: "軍官學院入學"
     Comment: "到達了托利斯塔市街"
-    Chapter: ""
+    Chapter: "[[Walkthrough/Chapter 0#^trophy-jun-guan-xue-yuan-ru-xue|序章 3/31]]"
     Tips: |
 
   - ID: "tuo-er-zi-jun-guan-xue-yuan"
     Title: "托爾茲軍官學院"
     Comment: "完成序章「托爾茲軍官學院」"
-    Chapter: ""
+    Chapter: "[[Walkthrough/Chapter 0#^trophy-tuo-er-zi-jun-guan-xue-yuan|序章 3/31]]"
     Tips: |
 
   - ID: "xin-xue-qi-shou-ci-shi-xi"
@@ -236,11 +236,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^gang-yi-zhi-rong-guan
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[1];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^bai-wan-fu-weng
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[2];
@@ -248,11 +252,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^yan-xu-zhi-ya-shi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[3];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^zhi-jing-zhi-zhu
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[4];
@@ -260,11 +268,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^zhi-gao-zhi-jian
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[5];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^li-zhan-zhi-yong-shi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[6];
@@ -272,11 +284,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^fen-zhan-zhi-meng-zhe
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[7];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^li-zhan-zhi-sheng-zhe
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[8];
@@ -284,11 +300,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^lei-guang-yi-shan
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[9];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^chao-jue-mi-ji
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[10];
@@ -296,11 +316,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^bai-hua-ying-ji
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[11];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^xuan-lan-gong-shou
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[12];
@@ -308,11 +332,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^ba-tou-ji-mie
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[13];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^lian-jie-da-shi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[14];
@@ -320,11 +348,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^zhui-ji-da-shi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[15];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^lian-xu-meng-gong-da-shi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[16];
@@ -332,11 +364,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^bao-lie-meng-gong-da-shi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[17];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^te-you-sheng
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[18];
@@ -344,11 +380,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-ya-li-sha-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[19];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-ai-lue-te-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[20];
@@ -356,11 +396,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-lao-la-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[21];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-ma-qi-ya-si-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[22];
@@ -368,11 +412,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-ai-ma-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[23];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-you-xi-si-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[24];
@@ -380,11 +428,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-fei-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[25];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-gai-wu-si-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[26];
@@ -392,11 +444,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-mi-li-ya-mu-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[27];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-ke-luo-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[28];
@@ -404,11 +460,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-sha-la-de-ji-ban
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[29];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^he-tuo-wa-de-ji-ban
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[30];
@@ -416,11 +476,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^jun-guan-xue-yuan-ru-xue
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[31];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^tuo-er-zi-jun-guan-xue-yuan
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[32];
@@ -428,11 +492,15 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^xin-xue-qi-shou-ci-shi-xi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[33];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^mei-li-de-fei-cui-zhi-du
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[34];
@@ -440,17 +508,23 @@ await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^heng-kua-tie-lu-cang-qiong-de-da-di
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[35];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^fei-hong-di-du-zhong-xia-jie
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[36];
 await dv.view('Views/Trophy/Bronze', { trophy });
 ```
 ^kai-shi-xing-dong-de-yi-zhi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[37];

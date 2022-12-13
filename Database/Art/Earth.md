@@ -80,11 +80,15 @@ await dv.view('Views/Art/Earth', { art });
 ```
 ^yan-shi-zhi-ci
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[1];
 await dv.view('Views/Art/Earth', { art });
 ```
 ^da-di-zhi-qiang
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[2];
@@ -92,11 +96,15 @@ await dv.view('Views/Art/Earth', { art });
 ```
 ^da-di-beng-lie
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[3];
 await dv.view('Views/Art/Earth', { art });
 ```
 ^shi-jie-zhi-shu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[4];
@@ -104,11 +112,15 @@ await dv.view('Views/Art/Earth', { art });
 ```
 ^yuan-gu-ju-yan
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[5];
 await dv.view('Views/Art/Earth', { art });
 ```
 ^da-di-zhi-yu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[6];
@@ -116,11 +128,15 @@ await dv.view('Views/Art/Earth', { art });
 ```
 ^jie-jing-fang-hu
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[7];
 await dv.view('Views/Art/Earth', { art });
 ```
 ^jie-jing-fang-hu-fu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[8];

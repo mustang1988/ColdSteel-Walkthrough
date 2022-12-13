@@ -141,11 +141,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^nuan-hu-hu-dan-hua-tang
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[1];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^bai-se-mao-she-bing
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[2];
@@ -153,11 +157,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^kuang-ye-te-tiao
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[3];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^bi-sheng-zhu-pai-san-ming-zhi
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[4];
@@ -165,11 +173,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^nuo-er-de-cha
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[5];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^te-zhi-xiang-cao-qiao-da-tang
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[6];
@@ -177,11 +189,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^ruan-mian-mian-sheng-qiao-ke-li-ta
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[7];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^zhen-xin-ru-lao-dun-fan
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[8];
@@ -189,11 +205,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^zhao-shao-ji-pi-sa
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[9];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^shuang-bei-nong-suo-ka-fei
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[10];
@@ -201,11 +221,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^nan-gua-zhong-ju-kao
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[11];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^yi-kou-chi-zha-wu
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[12];
@@ -213,11 +237,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^si-chong-zou-bu-ding
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[13];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^te-zhi-xiang-cao-tong-xin-fen
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[14];
@@ -225,11 +253,15 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^jiang-zhi-tu-an-dan-bao-fan
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[15];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^duo-zhi-kao-rou-chuan
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[16];
@@ -237,17 +269,23 @@ await dv.view('Item/Food/Unique', { food });
 ```
 ^qiang-hong-su-da
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[17];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^cang-shui-yan-bing-qi-lin
 
+---
+
 ```dataviewjs
 const food = dv.current().Foods[18];
 await dv.view('Item/Food/Unique', { food });
 ```
 ^ji-feng-guo
+
+---
 
 ```dataviewjs
 const food = dv.current().Foods[19];

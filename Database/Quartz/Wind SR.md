@@ -59,11 +59,15 @@ await dv.view('Quartz/Wind/SR', { quartz });
 ```
 ^xun-feng
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Wind/SR', { quartz });
 ```
 ^bai-hu-ren
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -71,14 +75,20 @@ await dv.view('Quartz/Wind/SR', { quartz });
 ```
 ^ni-lin
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Quartz/Wind/SR', { quartz });
 ```
 ^lei-shen-zhu
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
 await dv.view('Quartz/Wind/SR', { quartz });
 ```
 ^feng-shen-zhu
+
+---

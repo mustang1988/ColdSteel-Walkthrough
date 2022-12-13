@@ -19,6 +19,8 @@ await dv.view('Views/Trophy/Gold', { trophy });
 ```
 ^jia-ling-ji-xue-sheng
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[1];
 await dv.view('Views/Trophy/Gold', { trophy });

@@ -22,11 +22,15 @@ await dv.view('Location', { location });
 ```
 ^jiu-xiao-she-di-xia-qu-kuai-1
 
+---
+
 ```dataviewjs
 const location = dv.current().Locations[1];
 await dv.view('Location', { location });
 ```
 ^jiu-xiao-she-di-xia-qu-kuai-2
+
+---
 
 ```dataviewjs
 const location = dv.current().Locations[2];

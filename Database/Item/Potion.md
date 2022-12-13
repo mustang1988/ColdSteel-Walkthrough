@@ -210,11 +210,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^hui-fu-yao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[1];
 await dv.view('Item/Potion', { potion });
 ```
 ^zhong-hui-fu-yao
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[2];
@@ -222,11 +226,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^da-hui-fu-yao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[3];
 await dv.view('Item/Potion', { potion });
 ```
 ^ep-tian-chong-ji-1
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[4];
@@ -234,11 +242,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^ep-tian-chong-ji-2
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[5];
 await dv.view('Item/Potion', { potion });
 ```
 ^ep-tian-chong-ji-3
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[6];
@@ -246,11 +258,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^fu-huo-yao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[7];
 await dv.view('Item/Potion', { potion });
 ```
 ^sheng-ling-yao
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[8];
@@ -258,11 +274,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^sheng-ling-yao-gai
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[9];
 await dv.view('Item/Potion', { potion });
 ```
 ^huan-hun-fen
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[10];
@@ -270,11 +290,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^huan-hun-jiao-nang
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[11];
 await dv.view('Item/Potion', { potion });
 ```
 ^jie-du-yao
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[12];
@@ -282,11 +306,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^song-chi-ning-jiao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[13];
 await dv.view('Item/Potion', { potion });
 ```
 ^jue-yuan-jiao-dai
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[14];
@@ -294,11 +322,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^yan-yao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[15];
 await dv.view('Item/Potion', { potion });
 ```
 ^ti-shen-bo-he
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[16];
@@ -306,11 +338,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^leng-que-pen-wu
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[17];
 await dv.view('Item/Potion', { potion });
 ```
 ^jie-dong-nuan-nuan-bao
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[18];
@@ -318,11 +354,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^ruan-hua-gao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[19];
 await dv.view('Item/Potion', { potion });
 ```
 ^su-xing-yao
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[20];
@@ -330,11 +370,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^zhen-jing-ji
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[21];
 await dv.view('Item/Potion', { potion });
 ```
 ^s-yao-pian
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[22];
@@ -342,11 +386,15 @@ await dv.view('Item/Potion', { potion });
 ```
 ^quan-yu-zhi-yao
 
+---
+
 ```dataviewjs
 const potion = dv.current().Potions[23];
 await dv.view('Item/Potion', { potion });
 ```
 ^yan-wu-dan
+
+---
 
 ```dataviewjs
 const potion = dv.current().Potions[24];

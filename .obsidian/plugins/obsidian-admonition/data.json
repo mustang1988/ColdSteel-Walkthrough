@@ -859,6 +859,18 @@
       "title": "location",
       "injectColor": true,
       "noTitle": true
+    },
+    "link-book": {
+      "type": "link-book",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAftJREFUSEtjZIAChwIFhf9Mf+v/MTK4Mf5nkIKJk0wzMjxhYGBYeaj3cQlILyOIsC2STWBkYJjPysz+X0vWnFFKRIWBg5WTQZhXmoGdlZNoO95+fslw9eERhssPj4D0rD7U9ziM0aFAQeAf01+QrdyVYfMZZETUiDYQXeGv378Z/v9nYNh5bgEY/2dk1GZ0LJH2/vuPaQtIcWv8CgY5cQ2yLfj37x/Dh89fGV5/eMrQsjKC4f+/f6GMFbNTlhy7vjMaZioHBweDmLgYyZZws/MxmCi5MdipRzB8/vqNoWiOAwMjA2MYY+287FUHr2wKhZnIw8vDoKKhQpIF//79Zfj26TvDr1+/GHwNsxiURSxwW8AnwMegbaBFkgUgxf///Wd48eQFg5akNYOLZhr1LQBZ8vbVOwYlAUMGN63MUQuwR9FoEBFMuqNBRF4Q1czPWXHo8sZwmG5yiwqsOfn//yDGjpXV3dtOLgLXPiBANQtmO/z9w/xLirF/bXPD+qOz6qltQeEc+5DDfU/W0sqChyZaygrgOjm40cj99cfXO6jhg3cv3zEoChgxuGplNJpqKzeALQDVyQwsDK/+/fvLSkkc/GdgYHjx8AWDsojx1PrICTkwB4NbFQ4F0gZsXFxHfvz4wU1OJP/+/Zvh8/vPn799/TFlaf7RKuT0DAAkuTMIvC8C4wAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": true,
+      "title": "link-book",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,

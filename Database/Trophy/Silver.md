@@ -67,11 +67,15 @@ await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^shi-zi-xin-ying-xiong-zhang
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[1];
 await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^wei-tuo-da-shi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[2];
@@ -79,11 +83,15 @@ await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^zhan-dou-da-shi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[3];
 await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^yan-zhi-liao-li-ren
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[4];
@@ -91,11 +99,15 @@ await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^bao-diao-wang
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[5];
 await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^ren-wu-da-shi
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[6];
@@ -103,17 +115,23 @@ await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^ai-shu-cheng-chi
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[7];
 await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^bao-zang-lie-ren
 
+---
+
 ```dataviewjs
 const trophy = dv.current().Trophies[8];
 await dv.view('Views/Trophy/Silver', { trophy });
 ```
 ^he-xin-hui-lu-shou-cang-jia
+
+---
 
 ```dataviewjs
 const trophy = dv.current().Trophies[9];

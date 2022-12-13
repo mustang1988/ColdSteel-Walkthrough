@@ -385,5 +385,6 @@ const admonition = `
 \`\`\`ad-enemy-monster
 title: ${monster.Name}
 ${BuildPage(monster)}
-\`\`\``;
+\`\`\`
+`;
 dv.paragraph(admonition);

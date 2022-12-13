@@ -50,11 +50,15 @@ await dv.view('Treasure Chest/Treasure Chest', { chest });
 ```
 ^001
 
+---
+
 ```dataviewjs
 const chest = dv.current().TreasureChests[1];
 await dv.view('Treasure Chest/Treasure Chest', { chest });
 ```
 ^002
+
+---
 
 ```dataviewjs
 const chest = dv.current().TreasureChests[2];
@@ -62,11 +66,15 @@ await dv.view('Treasure Chest/Treasure Chest', { chest });
 ```
 ^003
 
+---
+
 ```dataviewjs
 const chest = dv.current().TreasureChests[3];
 await dv.view('Treasure Chest/Treasure Chest', { chest });
 ```
 ^004
+
+---
 
 ```dataviewjs
 const chest = dv.current().TreasureChests[4];

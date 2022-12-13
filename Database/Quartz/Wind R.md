@@ -173,11 +173,15 @@ await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^feng-zhi-lun-r
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^dian-liu-zhi-shi-r
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
@@ -185,11 +189,15 @@ await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^feng-zhi-ling-yu-r
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^shen-pan-zhi-jian-r
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
@@ -197,11 +205,15 @@ await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^mo-ri-long-juan-r
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[5];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^sheng-ming-zhi-xi-r
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[6];
@@ -209,11 +221,15 @@ await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^sheng-ling-zhi-xi-r
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[7];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^da-zhi-yu-shu-r
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[8];
@@ -221,17 +237,23 @@ await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^tuo-tu
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[9];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^yi-xiang
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[10];
 await dv.view('Quartz/Wind/R', { quartz });
 ```
 ^po-zu-zhi-ya
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[11];

@@ -49,17 +49,23 @@ await dv.view('Views/Quartz/Earth/SR', { quartz });
 ```
 ^feng-rao
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Views/Quartz/Earth/SR', { quartz });
 ```
 ^xuan-wu-ren
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
 await dv.view('Views/Quartz/Earth/SR', { quartz });
 ```
 ^jin-gang-dun
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];

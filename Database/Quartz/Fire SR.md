@@ -35,14 +35,20 @@ await dv.view('Quartz/Fire/SR', { quartz });
 ```
 ^ye-huo
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Fire/SR', { quartz });
 ```
 ^zhu-que-ren
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
 await dv.view('Quartz/Fire/SR', { quartz });
 ```
 ^wu-shen-zhu
+
+---

@@ -37,11 +37,15 @@ await dv.view('Quartz/Mirage/SR', { quartz });
 ```
 ^huan-yao-ya
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Mirage/SR', { quartz });
 ```
 ^fan-tian-zhu
+
+---
 
 
 ```dataviewjs
@@ -49,4 +53,6 @@ const quartz = dv.current().Quartzs[2];
 await dv.view('Quartz/Mirage/SR', { quartz });
 ```
 ^sheng-wang-zhu
+
+---
 

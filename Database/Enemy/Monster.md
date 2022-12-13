@@ -7377,11 +7377,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^tiao-tiao-mao
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[1];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^bo-li-ruan-ti-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[2];
@@ -7389,11 +7393,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ying-bi-jia-ke-chong
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[3];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^bei-lie-ruan-nian-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[4];
@@ -7401,11 +7409,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^bo-mu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[5];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^rong-jie-hai-kuo-yu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[6];
@@ -7413,11 +7425,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ken-yao-lang
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[7];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^tian-di-po-huai-zhe
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[8];
@@ -7425,11 +7441,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ju-hui-wu-ya
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[9];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ren-wei-song-shu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[10];
@@ -7437,11 +7457,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^da-wang-qing-ting
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[11];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ku-fan-qie-ren
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[12];
@@ -7449,11 +7473,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^si-wang-wo-niu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[13];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jian-ying-hai-chong
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[14];
@@ -7461,11 +7489,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shui-mu-gu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[15];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^dao-ren-jiao-chong
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[16];
@@ -7473,11 +7505,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ji-feng-zhu-ye-mao
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[17];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^gu-ren-ou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[18];
@@ -7485,11 +7521,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^fang-shi-xiang
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[19];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jie-deng-zhi-zhu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[20];
@@ -7497,11 +7537,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^qiang-zhuang-ju-gu-xing
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[21];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^you-sheng-shuang-jiao-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[22];
@@ -7509,11 +7553,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^gong-ji-ye-quan
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[23];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^dian-qie-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[24];
@@ -7521,11 +7569,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^dan-she
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[25];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^xiao-e-gui
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[26];
@@ -7533,11 +7585,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shuang-jiao-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[27];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ju-da-tang-lang
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[28];
@@ -7545,11 +7601,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^dian-xiong
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[29];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ren-mian-niao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[30];
@@ -7557,11 +7617,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^bing-jing-ruan-ti-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[31];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^bai-jin-chong
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[32];
@@ -7569,11 +7633,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^cao-di-tiao-yue-zhe
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[33];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^yi-she
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[34];
@@ -7581,11 +7649,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^bai-yi-mao
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[35];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^bao-shi-lao-shu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[36];
@@ -7593,11 +7665,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shen-suo-wo-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[37];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^di-yu-tu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[38];
@@ -7605,11 +7681,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^kuang-nu-fang-jian-bei
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[39];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^xiao-niu-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[40];
@@ -7617,11 +7697,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shan-dian-qiu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[41];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^hua-guan-niao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[42];
@@ -7629,11 +7713,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^man-niu-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[43];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ying-ke-xi-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[44];
@@ -7641,11 +7729,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^gao-yuan-e-gui
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[45];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^you-ni-long
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[46];
@@ -7653,11 +7745,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shi-wa
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[47];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^yuan-yang
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[48];
@@ -7665,11 +7761,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^xue-bai-liao-ya
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[49];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^sai-si-fei
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[50];
@@ -7677,11 +7777,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^di-ge-lei-mu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[51];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^xi-xue-cao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[52];
@@ -7689,11 +7793,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^jun-ying
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[53];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^shen-yuan-san-tou-quan
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[54];
@@ -7701,11 +7809,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^huo-yan-zhi-zun
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[55];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^feng-kuang-ye-cao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[56];
@@ -7713,11 +7825,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^qi-hei-ruan-ti-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[57];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ju-qiu-bian-fu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[58];
@@ -7725,11 +7841,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shi-shi-gui-tuan
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[59];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ang-zang-lao-shu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[60];
@@ -7737,11 +7857,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^di-di-wu-ya
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[61];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^e-tou-yu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[62];
@@ -7749,11 +7873,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shan-guang-ruan-ti-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[63];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ming-yun-fang-zhi-zhe
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[64];
@@ -7761,11 +7889,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^qi-man-bing-shuang-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[65];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ying-hua-ju-gui
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[66];
@@ -7773,11 +7905,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^pang-da-ju-he-ti
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[67];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^tan-lan-shou-ge-zhe
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[68];
@@ -7785,11 +7921,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^nen-ya-bo-mu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[69];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^guo-dong-gu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[70];
@@ -7797,11 +7937,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ye-zi-zhu-ye-mao
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[71];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^huang-jin-xi-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[72];
@@ -7809,11 +7953,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^qiang-zhuang-da-zui-xing
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[73];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^qi-ji-jia-zhou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[74];
@@ -7821,11 +7969,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^an-ye-ye-quan
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[75];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^an-ying-ling-ti
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[76];
@@ -7833,11 +7985,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^qi-ji-chang-jian
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[77];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^si-wang-zhong-ji-zhe
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[78];
@@ -7845,11 +8001,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-hg
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[79];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-r2
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[80];
@@ -7857,11 +8017,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^fang-zhen-bing-j-9-2
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[81];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^you-yuan-zhi-hun
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[82];
@@ -7869,11 +8033,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^si-ta-la-mu-da
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[83];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^zi-ni
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[84];
@@ -7881,11 +8049,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^zhan-lan-fu-yin
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[85];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^chi-gui-qing-ting
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[86];
@@ -7893,11 +8065,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^ji-jing-piao-chong
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[87];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^yan-she
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[88];
@@ -7905,11 +8081,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^feng-kuang-qi-e
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[89];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^tan-lan-lang
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[90];
@@ -7917,11 +8097,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^gui-chong
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[91];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jin-shu-bian-fu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[92];
@@ -7929,11 +8113,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^you-xiao-luo-hai-die
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[93];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^zha-dan-zhi-zhu
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[94];
@@ -7941,11 +8129,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^tiao-wu-mao-tou-ying
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[94];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ju-lei-niao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[95];
@@ -7953,11 +8145,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^si-wang-lian-dao-shou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[96];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^da-peng-niao
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[97];
@@ -7965,11 +8161,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^la-ku-fan-qie-ren
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[98];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jing-bei-lie-quan-g
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[99];
@@ -7977,11 +8177,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-r2-2
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[100];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^yan-jiang-ruan-ti-shou
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[101];
@@ -7989,11 +8193,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-hg-2
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[102];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^jin-shu-jia-ke-chong
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[103];
@@ -8001,11 +8209,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^yue-lun-yan-shu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[104];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^fang-zhen-bing-j-9-3
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[105];
@@ -8013,11 +8225,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^jing-bei-lie-quan-g-2
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[106];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^shi-er-te-er
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[107];
@@ -8025,11 +8241,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^yue-feng
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[108];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^qi-hei-men-quan
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[109];
@@ -8037,11 +8257,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^mi-nuo-si-e-mo-2
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[110];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ji-han-shen-wei
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[111];
@@ -8049,11 +8273,15 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^lian-yu-tu
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[112];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^gang-tie-mo-xiang
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[113];
@@ -8061,17 +8289,23 @@ await dv.view('Enemy/Monster', { monster });
 ```
 ^shan-dian-duo-tou-long
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[114];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^ao-gu-ji-ou
 
+---
+
 ```dataviewjs
 const monster = dv.current().Monsters[115];
 await dv.view('Enemy/Monster', { monster });
 ```
 ^du-er-ge-nie-sa
+
+---
 
 ```dataviewjs
 const monster = dv.current().Monsters[116];

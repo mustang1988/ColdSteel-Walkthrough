@@ -89,11 +89,15 @@ await dv.view('Views/Art/Water', { art });
 ```
 ^gao-ya-shui-kuai
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[1];
 await dv.view('Views/Art/Water', { art });
 ```
 ^han-shuang-zhi-ren
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[2];
@@ -101,11 +105,15 @@ await dv.view('Views/Art/Water', { art });
 ```
 ^shui-liu-hong-ji
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[3];
 await dv.view('Views/Art/Water', { art });
 ```
 ^shui-jing-hong-liu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[4];
@@ -113,11 +121,15 @@ await dv.view('Views/Art/Water', { art });
 ```
 ^luo-xuan-ju-wo
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[5];
 await dv.view('Views/Art/Water', { art });
 ```
 ^hui-fu-shu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[6];
@@ -125,17 +137,23 @@ await dv.view('Views/Art/Water', { art });
 ```
 ^zhong-hui-fu-shu
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[7];
 await dv.view('Views/Art/Water', { art });
 ```
 ^da-hui-fu-shu
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[8];
 await dv.view('Views/Art/Water', { art });
 ```
 ^fu-huo-shu
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[9];

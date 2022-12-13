@@ -66,11 +66,15 @@ await dv.view('Views/Art/Time', { art });
 ```
 ^xin-ling-zhi-xia
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[1];
 await dv.view('Views/Art/Time', { art });
 ```
 ^e-mo-zhi-lian
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[2];
@@ -78,11 +82,15 @@ await dv.view('Views/Art/Time', { art });
 ```
 ^e-yun-zhi-die
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[3];
 await dv.view('Views/Art/Time', { art });
 ```
 ^an-ying-wei-dian
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[4];
@@ -90,11 +98,15 @@ await dv.view('Views/Art/Time', { art });
 ```
 ^shi-jian-qu-dong
 
+---
+
 ```dataviewjs
 const art = dv.current().Arts[5];
 await dv.view('Views/Art/Time', { art });
 ```
 ^shi-jian-jian-su
+
+---
 
 ```dataviewjs
 const art = dv.current().Arts[6];

@@ -7,7 +7,6 @@ const MONSTER_DB = "Database/Enemy/Monster.md";
 const BOSS_DB = "Database/Enemy/Boss.md";
 
 const GetLinks = (items) => {
-  console.log("items => ", items);
   return items.map((i) => {
     const file = dv.page(i.path);
     const link =
@@ -66,7 +65,7 @@ const BuildChests = (id) => {
       .MonsterTreasureChests?.filter((tc) => tc.Location.subpath === id) || []
   ).map((m) =>
     m ? dv.blockLink(MONSTER_CHEST_DB, m.ID, false, m.Name || m.ID) : undefined
-  );
+  );  
   return dv.markdownList(GetLinks([...chests, ...monster_chests]));
 };
 
@@ -96,5 +95,6 @@ ${BuildMap(id, maps)}
 ${BuildChests(id)}
 ## 战斗笔记
 ${BuildMonster(id)}
-\`\`\`\``;
+\`\`\`\`
+`;
 dv.paragraph(admonition);

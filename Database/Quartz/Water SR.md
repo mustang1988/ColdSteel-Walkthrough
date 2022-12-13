@@ -38,11 +38,15 @@ await dv.view('Quartz/Water/SR', { quartz });
 ```
 ^fan-lan
 
+---
+
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
 await dv.view('Quartz/Water/SR', { quartz });
 ```
 ^qing-long-dao
+
+---
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
