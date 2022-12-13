@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "萝德"
-ID: "luo-de"
+ID: "Character.luo-de"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 11

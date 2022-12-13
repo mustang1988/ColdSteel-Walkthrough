@@ -2,7 +2,7 @@
 Aliases:
   - "劳拉"
   - "劳拉·S·亚而赛德"
-ID: "lao-la"
+ID: "Character.lao-la"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 4

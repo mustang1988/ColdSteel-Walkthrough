@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "艾德尔"
-ID: "ai-de-er"
+ID: "Character.ai-de-er"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 7

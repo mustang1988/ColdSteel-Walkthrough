@@ -2,7 +2,7 @@
 Aliases:
   - "黎恩"
   - "黎恩·舒华泽"
-ID: "li-en"
+ID: "Character.li-en"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 1

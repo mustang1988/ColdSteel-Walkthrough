@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "贾斯柏"
-ID: "jia-si-bo"
+ID: "Character.jia-si-bo"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 5

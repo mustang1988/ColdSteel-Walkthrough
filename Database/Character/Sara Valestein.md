@@ -2,7 +2,7 @@
 Aliases:
   - "莎拉教官"
   - "莎拉·巴雷斯坦教官"
-ID: "sha-la"
+ID: "Character.sha-la"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 1

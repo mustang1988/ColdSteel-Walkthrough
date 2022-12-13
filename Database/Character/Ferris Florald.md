@@ -2,7 +2,7 @@
 Aliases:
   - "菲莉丝"
   - "菲莉丝·弗罗拉尔德"
-ID: "fei-li-si"
+ID: "Character.fei-li-si"
 Category: "1年级(I II班)"
 CategoryNo: 2
 Order: 2

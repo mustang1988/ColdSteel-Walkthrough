@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "金鲑"
-ID: "jin-gui"
+ID: "Fish.jin-gui"
 Description: |
   以黄金般闪烁的体色为傲的鲑鱼亚种.
   

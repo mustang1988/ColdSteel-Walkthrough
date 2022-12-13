@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "桃乐丝"
-ID: "tao-le-si"
+ID: "Character.tao-le-si"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 10

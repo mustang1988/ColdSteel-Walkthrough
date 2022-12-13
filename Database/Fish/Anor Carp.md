@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "亚诺鲁鲫鱼"
-ID: "ya-nuo-lu-ji-yu"
+ID: "Fish.ya-nuo-lu-ji-yu"
 Description: |
     据说时亚诺鲁河原产的小鱼.
     

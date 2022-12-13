@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "尼可拉斯"
-ID: "ni-ke-la-si"
+ID: "Character.ni-ke-la-si"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 9

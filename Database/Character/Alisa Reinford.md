@@ -2,7 +2,7 @@
 Aliases:
   - "亚莉莎"
   - "亚莉莎·莱恩福而特"
-ID: "ya-li-sha"
+ID: "Character.ya-li-sha"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 2

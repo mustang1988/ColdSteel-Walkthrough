@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "科蕾特"
-ID: "ke-lei-te"
+ID: "Character.ke-lei-te"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 9

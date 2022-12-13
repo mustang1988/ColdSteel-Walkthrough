@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "虹鳟鱼"
-ID: "hong-zun-yu"
+ID: "Fish.hong-zun-yu"
 Description: |
     依光照射的角度, 身体表面会像彩虹一般发亮的中型鱼.
     

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "黑鲑"
-ID: "hei-gui"
+ID: "Fish.hei-gui"
 Description: |
     被钢色的鳞片覆盖的中型鱼.
     

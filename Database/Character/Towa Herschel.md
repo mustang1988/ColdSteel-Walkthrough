@@ -2,7 +2,7 @@
 Aliases:
   - "托娃"
   - "托娃·赫歇尔"
-ID: "tuo-wa"
+ID: "Character.tuo-wa"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 2

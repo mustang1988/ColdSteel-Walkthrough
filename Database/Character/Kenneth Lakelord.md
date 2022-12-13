@@ -2,7 +2,7 @@
 Aliases:
   - "肯尼斯"
   - "肯尼斯·雷克罗德"
-ID: "ken-ni-si"
+ID: "Character.ken-ni-si"
 Category: "1年级(I II班)"
 CategoryNo: 2
 Order: 3

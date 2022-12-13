@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "罗金斯"
-ID: "luo-jin-si"
+ID: "Character.luo-jin-si"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 6

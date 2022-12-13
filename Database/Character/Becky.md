@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "贝琪"
-ID: "bei-qi"
+ID: "Character.bei-qi"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 13

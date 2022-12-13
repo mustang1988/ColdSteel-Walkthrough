@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "莫妮卡"
-ID: "mo-ni-ka"
+ID: "Character.mo-ni-ka"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 2

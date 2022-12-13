@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "玛格丽特"
-ID: "ma-ge-li-te"
+ID: "Character.ma-ge-li-te"
 Category: "1年级(I II班)"
 CategoryNo: 2
 Order: 5

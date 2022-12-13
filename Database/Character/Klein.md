@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "克连"
-ID: "ke-lian"
+ID: "Character.ke-lian"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 8

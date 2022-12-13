@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "大山椒鱼"
-ID: "da-shan-jiao-yu"
+ID: "Fish.da-shan-jiao-yu"
 Description: |
   拥有青白色闪亮巨大身躯的大型两生类.
   

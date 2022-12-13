@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "金龙鱼"
-ID: "jin-long-yu"
+ID: "Fish.jin-long-yu"
 Description: |
     拥有绯红与黄金色彩的美丽中型鱼.
     

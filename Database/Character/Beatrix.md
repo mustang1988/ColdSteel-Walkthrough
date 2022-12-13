@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "碧翠丝教官"
-ID: "bi-cui-si"
+ID: "Character.bi-cui-si"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 7

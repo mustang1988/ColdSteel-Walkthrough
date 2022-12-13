@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "海贝尔"
-ID: "hai-bei-er"
+ID: "Character.hai-bei-er"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 5

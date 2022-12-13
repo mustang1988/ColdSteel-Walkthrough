@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "雷克斯"
-ID: "lei-ke-si"
+ID: "Character.lei-ke-si"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 10

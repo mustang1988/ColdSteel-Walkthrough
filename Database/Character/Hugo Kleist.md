@@ -2,7 +2,7 @@
 Aliases:
   - "雨果"
   - "雨果·克莱斯特"
-ID: "yu-guo"
+ID: "Character.yu-guo"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 1

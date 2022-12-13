@@ -2,7 +2,7 @@
 Aliases:
   - "米莉亚姆"
   - "米莉亚姆·奥莱恩"
-ID: "mi-li-ya-mu"
+ID: "Character.mi-li-ya-mu"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 10

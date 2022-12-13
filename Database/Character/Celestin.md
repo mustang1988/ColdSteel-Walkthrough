@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "管家瑟雷斯坦"
-ID: "se-lei-si-tan"
+ID: "Character.se-lei-si-tan"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 9

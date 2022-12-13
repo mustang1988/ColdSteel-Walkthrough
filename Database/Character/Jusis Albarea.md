@@ -2,7 +2,7 @@
 Aliases:
   - "尤西斯"
   - "尤西斯·艾尔巴雷亚"
-ID: "you-xi-si"
+ID: "Character.you-xi-si"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 7

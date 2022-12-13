@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "大口鲈鱼"
-ID: "da-kou-lu-yu"
+ID: "Fish.da-kou-lu-yu"
 Description: |
     依体型比例来看拥有巨大嘴巴, 能当作鱼饵的鱼.
     

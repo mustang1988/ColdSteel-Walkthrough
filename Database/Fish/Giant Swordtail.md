@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "巨刃鱼"
-ID: "ju-ren-yu"
+ID: "Fish.ju-ren-yu"
 Description: |
   经过无以计数的战斗之后巨大化的刃鱼变种.
   

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "敏特"
-ID: "min-te"
+ID: "Character.min-te"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 3

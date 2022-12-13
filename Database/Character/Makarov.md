@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "马卡洛夫教官"
-ID: "ma-ka-luo-fu"
+ID: "Character.ma-ka-luo-fu"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 6

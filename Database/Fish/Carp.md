@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "鲤鱼"
-ID: "li-yu"
+ID: "Fish.li-yu"
 Description: |
   因长寿而为人知的淡水鱼.
   

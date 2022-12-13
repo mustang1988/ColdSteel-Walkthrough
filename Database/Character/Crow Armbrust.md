@@ -2,7 +2,7 @@
 Aliases:
   - "克洛"
   - "克洛·安布斯特"
-ID: "ke-luo"
+ID: "Character.ke-luo"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 11

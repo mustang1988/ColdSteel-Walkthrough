@@ -2,7 +2,7 @@
 Aliases:
   - "安洁莉卡"
   - "安洁莉卡·罗格纳"
-ID: "an-jie-li-ka"
+ID: "Character.an-jie-li-ka"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 1

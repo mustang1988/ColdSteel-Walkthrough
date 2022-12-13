@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "克莱菈"
-ID: "ke-lai-la"
+ID: "Character.ke-lai-la"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 4

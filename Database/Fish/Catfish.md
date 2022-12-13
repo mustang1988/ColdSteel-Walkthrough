@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "巨鲶"
-ID: "ju-nian"
+ID: "Fish.ju-nian"
 Description: |
   以静水区为领域范围的凶猛大型鱼.
   

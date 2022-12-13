@@ -2,7 +2,7 @@
 Aliases:
   - "雪伦"
   - "雪伦·克鲁格"
-ID: "xue-lun"
+ID: "Character.xue-lun"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 12

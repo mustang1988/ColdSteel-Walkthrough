@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "鲑鱼"
-ID: "gui-yu"
+ID: "Fish.gui-yu"
 Description: |
   拥有在河川出生, 在海洋生长习性的洄游性鱼类.
   

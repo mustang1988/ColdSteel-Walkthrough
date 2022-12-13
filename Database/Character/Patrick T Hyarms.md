@@ -2,7 +2,7 @@
 Aliases:
   - "派崔克"
   - "派崔克·T·海恩斯"
-ID: "pai-cui-ke"
+ID: "Character.pai-cui-ke"
 Category: "1年级(I II班)"
 CategoryNo: 2
 Order: 1

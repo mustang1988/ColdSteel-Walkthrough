@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "莎莉法"
-ID: "sha-li-fa"
+ID: "Character.sha-li-fa"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 10

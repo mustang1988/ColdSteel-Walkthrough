@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "爱蜜莉"
-ID: "ai-mi-li"
+ID: "Character.ai-mi-li"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 7

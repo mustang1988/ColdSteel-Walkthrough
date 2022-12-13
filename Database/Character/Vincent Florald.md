@@ -2,7 +2,7 @@
 Aliases:
   - "文森"
   - "文森·弗罗拉尔德"
-ID: "wen-sen"
+ID: "Character.wen-sen"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 2

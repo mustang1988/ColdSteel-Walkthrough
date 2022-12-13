@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "鳌虾"
-ID: "ao-xia"
+ID: "Fish.ao-xia"
 Description: |
     特征为鲜红甲壳的甲壳类.
     

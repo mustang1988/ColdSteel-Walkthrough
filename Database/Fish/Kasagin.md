@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "银伞鱼"
-ID: "yin-san-yu"
+ID: "Fish.yin-san-yu"
 Description: |
     拥有闪烁鳞片为特征的美丽小鱼.
 

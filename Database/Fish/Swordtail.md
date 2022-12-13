@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "刃鱼"
-ID: "ren-yu"
+ID: "Fish.ren-yu"
 Description: |
     锐利细长的尾鳍为其特征的小鱼.
     

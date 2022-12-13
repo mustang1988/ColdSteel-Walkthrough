@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "琳黛"
-ID: "lin-dai"
+ID: "Character.lin-dai"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 7

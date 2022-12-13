@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "奈特哈尔教官"
-ID: "nai-te-ha-er"
+ID: "Character.nai-te-ha-er"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 3

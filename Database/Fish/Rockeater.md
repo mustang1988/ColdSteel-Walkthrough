@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "岩穴鱼"
-ID: "yan-xue-yu"
+ID: "Fish.yan-xue-yu"
 Description: |
     警戒心很强, 钓的时候需要诀窍的鱼.
     

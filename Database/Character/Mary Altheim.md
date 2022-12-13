@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "玛丽教官"
-ID: "ma-li"
+ID: "Character.ma-li"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 8

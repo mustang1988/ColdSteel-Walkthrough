@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "亨利主任"
-ID: "heng-li"
+ID: "Character.heng-li"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 4

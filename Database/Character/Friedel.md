@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "弗列妲"
-ID: "fu-lie-da"
+ID: "Character.fu-lie-da"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 3

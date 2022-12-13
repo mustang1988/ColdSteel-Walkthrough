@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "兰伯特"
-ID: "lan-bo-te"
+ID: "Character.lan-bo-te"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 4

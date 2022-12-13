@@ -48,6 +48,10 @@
     /* 书籍颜色 */
     --Link-Book-Color: #77b255;
     /* Link书籍颜色 */
+    --Location-Color: #efefef;
+    /* 地点链接颜色 */
+    --Character-Color: #FFDEAD;
+    /* 人物信息链接颜色 */
     /* End Colors */
     /* Begin Icons */
     /* Art Icons */
@@ -268,9 +272,11 @@
     --Fish-Catfish-Icon: url("data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAABQCACdASoPAAwAAAAAJYwCdHIA+0CXQOsA3hP9jf8d6qtyArF/4q55j8M8VmqTP7AOkF8Nf3L3AP4r/Iv7n+WXGAfpWfbyEOaiJQAA/v//jY9TtffCYSNZrfOjyDjdB0A9NjqiP744ebxlBQSHy2BO5O3+f//YsnA93j7JkaC4Qd0sw0aL/2W7OZvJPNf/+7BdlOuInwv4HWlkgU57Gv+n86n9/Wj+HLJXwCKgfnM41/e6/YK9EWwqttvcvKt/12bI63J3+5LzKQLbvfz/8/F7oVv6YzDfydx39lXFQN//iW0Xj7Hhyh04oq2Fov9f+4D/iYMlbnweit2AAIO2dysk0fT4pfJWuUKxVdr//Jt9/8q71rf4xH3YRhiT+HnPkn++bvbSubXSeGsPHAEXVAAA");
     --Fish-InvisibleCrayfish-Icon: url("data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAwCACdASoPAAsAAAAAJQBOjkAWpXfAH6gdYf+yv6Z+zdcgH8A/DnJAfZnqJumq8qn45/yXuAfxb+Uf3n81OMA/Y44oyh6EjGkYAAD+//+JOLr820aUsofwd//rnqwb59S4lGnyanx8yHy7OVryBM6kvRp3q7H78rd3juk/921vjW2nzvPW/+8csJH/d1BXk+WZFDOZ8t/rbYaP2Hfb/3nFjXilrexs8kPvK/5d4pep35M6Pe2gwOLLxEw1tnQRFScZ+Paon5TQUFuMkaX/SG+OqC7YJ3YLz8d+yl/8m31HqO8CdaqAKP+CH/mrxb//dCP36g0QugJYUGJAWmwoqRC//O//Br7g60t6T26HDP5BT/tjtY+8hf3WqSp+tMXaaVqZ2obAAAA=");
     --Fish-GiantSwordtail-Icon: url("data:image/webp;base64,UklGRnABAABXRUJQVlA4IGQBAAAwCACdASoPAA4AAAAAJYwCdHIzcwp7Bn65eiq8QT1XMd44D+q/jNqOmov/uXLB+Wv877gf8U/jP9l/Kf9/+UY/RpDmKjMAhujTEAD+//+JItqcHodIcn3pHX+joeanK8YOsqaiy/pchfz5ovqhWMmEtslgn/9zhzsP8TBf7KXufoUa313/xq35GMkjULY1OYNIjKSIEv8W28L0gRYuZp8roFM1lxD5ZZIGn5riw3133OOIfm+z310CJEmgjyEOxKe9qLeZ+wo20uHQNw0E1X3sf/4/Isn/a+g7NL9fJX/9+of0ACXnOxZ5vtazDhDCd6b75AZALW1BwAzq258/RFZPJdVf0tv8Yv/SkKosyL0oxtjj1//6uP//vOD7R/3q3iNRZzNKL+o4d1P42yXvHLAu1slDb6J4uvDeE1gWLp+zoUiLvLDwnPE79nkky7t/nkDziMup1L6MwybsIgZ/yELMQWAAAA==");
+    --Fish-Common-Large-Icon: url("data:image/webp;base64,UklGRkoCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSJ4AAAABgFtt2/Lkjad0HSAnlQ6hlbu7lUmlZQJMwAouQ9gAtA6Vu8P3IF/+GSJiAogkKpWShNaBg55BwBoDcB4Xz3DvMwBfi0oeOZ/wf0PJo84bA4AlOY+arwwA64t5ovITAFxYOPG0OHgH4NPD2T3UiAKfwGeEiKSTL+x6HgB2ayciyl9+fIMBH1vSfyJbd2H74+tjz0qzFcOzsZ6EKhz0H1ZQOCCGAQAAsAgAnQEqDwAPAAAAACUAToZTl7C37D/sB7RFyA+kDmK7UA20nJAf278gNQz1AH9j+2bmVfcA/hf8Q/qv5U/1TkAP07QhnXo2S5bK1TQAAP6Rv/bWwF9wNFx04/LFM19dizz6Mda3f4Jq7R6p//mrvnROaDvEvsNKnNGYZ5e6fdJSYBFGDEwhX6+OP3RKa8P6YC7fbfE7sgh/8Th/4bzhycqct1ES6Hk2jH/zwCj+nq9O/hpI50yzVM74C1QXlz6C+Kk+NcfdHJqYZ027pHvda8WV1wX++yIr8OKdrnxfz/AtW/xUP09+46hDb63Z5nnwmfT95c//fjU29aYY4o703V543w+1H/wlScV9au4/8B0zySQAbwPQnC29Jstfb/aHQIgZNCZ3/4q9/GHz/h7CV8XLsp/9EN/wyX8ONmEz8X/kpf2/13Ouz4H/FytHE7HpQ4Nt//5/+1+F7P8QPisB9/+J1K/575b/5gM6BwqTuf6XX8bnyFpsnu//qP4lWPp2ifZ4oAAA");
     /* End Fish */
     /* End Icons */
     --Location-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAACb0lEQVQoU32Ry09TURjE53zncLGlj1tuH5SKNS2lLYkESKCEh0HqgkT/AaML40YXLsT/w62JIS40blgbEk0E0g0mrjQ+g4AasCCNpaFSaO/t+VzUaHThbGd+mWRG4D+Ke9zodrvAAD5XD7F7dPzbE39if+tCTxTnY5GRtOm9qZntd/sHd55s775fLu4BANQ/eQCAS0pMRKyei9nUs9DV6z5dq+H0g3uzQuBMYae032RugcFgELncKHw+n7AsyxCOYyQPSvmO3ITXNzUDAeDHi9XuE5XD0elz00+Xllda4NzcLXc+n58Ph0N9lmWdrNfr3vqnjUbt0X1h7xaha4c43voirtydf6gfLw4uLa/sKNM00d/fP5bJpC8BEMyMZlNrETvVQWOT2Lx9A0JJ+C5fAwKdob6+1NlYLLagUqleEFGOmUFE0FqDmVkpBTkzC/66hbbOIFy5CQAQHo9ncmhocEElk0kkk8kxKaVoNGxISQyAmRmObUOOjMNlWSApobVGPB6fSiQSpFKplNHVFRlmBqSUkFKCiITjOOD97zC2N8HlXdh+E21mAKYZSGez2YjKZjMJpVRU6yYAAWbWRCSkVBBWCM7AKJTbBfL6oLWGlNTu9/uHlWVZ48xMAEAk0Gw6zUaj0SYEQSoF1RWF0d4OIoHWcI4Ih8NTyradqdbtYABMJL8RUQBAh+M4ACCICEpJAGAhCEKIsCqVSouFQuE1M78pFnferq4+34tGu9rS6XRvMBgcNAxjIBAIxGq12oejo9qrYrH4cn19Y0tEIhEYhoFKpYJqtfqrHDAMA6ZpIpNJo9GwATDW1j6iXC4DAH4CLDzoODnrHK0AAAAASUVORK5CYII=");
+    
 }
 
 /* Common */
@@ -402,10 +408,20 @@ div[data-id="Food-Ingredient"] div.setting-item-description::before,
     padding-right: var(--Link-Icon-Padding);
 }
 
+div[data-id="Sepith-Earth"] div.setting-item-description,
+[data-link-id="Item.Sepith.Earth" i] {
+    color: var(--Element-Earth-Color) !important;
+}
+
 div[data-id="Sepith-Earth"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Earth"]::before {
     content: var(--Sepith-Earth-Icon);
     padding-right: var(--Link-Icon-Padding);
+}
+
+div[data-id="Sepith-Water"] div.setting-item-description,
+[data-link-id="Item.Sepith.Water" i] {
+    color: var(--Element-Water-Color) !important;
 }
 
 div[data-id="Sepith-Water"] div.setting-item-description::before,
@@ -414,10 +430,20 @@ div[data-id="Sepith-Water"] div.setting-item-description::before,
     padding-right: var(--Link-Icon-Padding);
 }
 
+div[data-id="Sepith-Fire"] div.setting-item-description,
+[data-link-id="Item.Sepith.Fire" i] {
+    color: var(--Element-Fire-Color) !important;
+}
+
 div[data-id="Sepith-Fire"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Fire"]::before {
     content: var(--Sepith-Fire-Icon);
     padding-right: var(--Link-Icon-Padding);
+}
+
+div[data-id="Sepith-Wind"] div.setting-item-description,
+[data-link-id="Item.Sepith.Wind" i] {
+    color: var(--Element-Wind-Color) !important;
 }
 
 div[data-id="Sepith-Wind"] div.setting-item-description::before,
@@ -426,16 +452,31 @@ div[data-id="Sepith-Wind"] div.setting-item-description::before,
     padding-right: var(--Link-Icon-Padding);
 }
 
+div[data-id="Sepith-Time"] div.setting-item-description,
+[data-link-id="Item.Sepith.Time" i] {
+    color: var(--Element-Time-Color) !important;
+}
+
 div[data-id="Sepith-Time"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Time"]::before {
     content: var(--Sepith-Time-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
+div[data-id="Sepith-Space"] div.setting-item-description,
+[data-link-id="Item.Sepith.Space" i] {
+    color: var(--Element-Space-Color) !important;
+}
+
 div[data-id="Sepith-Space"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.Sepith.Space"]::before {
     content: var(--Sepith-Space-Icon);
     padding-right: var(--Link-Icon-Padding);
+}
+
+div[data-id="Sepith-Mirage"] div.setting-item-description,
+[data-link-id="Item.Sepith.Mirage" i] {
+    color: var(--Element-Mirage-Color) !important;
 }
 
 div[data-id="Sepith-Mirage"] div.setting-item-description::before,
@@ -985,79 +1026,83 @@ div[data-id="Chapter"] div.setting-item-description::before,
 /* End Common */
 
 /* Begin VII 班 */
+div[data-id="Character"] div.setting-item-description,
+[data-link-id^="Character."] {
+    color: var(--Character-Color) !important;
+}
 /* 黎恩 */
 div[data-id="Rean"] div.setting-item-description::before,
-.data-link-icon[data-link-id="li-en"]::before {
+.data-link-icon[data-link-id="Character.li-en"]::before {
     content: var(--Character-Rean-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 亚莉莎 */
 div[data-id="Alisa"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ya-li-sha"]::before {
+.data-link-icon[data-link-id="Character.ya-li-sha"]::before {
     content: var(--Character-Alisa-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 艾略特 */
 div[data-id="Elliot"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ai-lve-te"]::before {
+.data-link-icon[data-link-id="Character.ai-lve-te"]::before {
     content: var(--Character-Elliot-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 劳拉 */
 div[data-id="Laura"] div.setting-item-description::before,
-.data-link-icon[data-link-id="lao-la"]::before {
+.data-link-icon[data-link-id="Character.lao-la"]::before {
     content: var(--Character-Laura-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 马奇亚斯 */
 div[data-id="Machias"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ma-qi-ya-si"]::before {
+.data-link-icon[data-link-id="Character.ma-qi-ya-si"]::before {
     content: var(--Character-Machias-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 艾玛 */
 div[data-id="Emma"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ai-ma"]::before {
+.data-link-icon[data-link-id="Character.ai-ma"]::before {
     content: var(--Character-Emma-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 尤西斯 */
 div[data-id="Jusis"] div.setting-item-description::before,
-.data-link-icon[data-link-id="you-xi-si"]::before {
+.data-link-icon[data-link-id="Character.you-xi-si"]::before {
     content: var(--Character-Jusis-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 菲 */
 div[data-id="Fie"] div.setting-item-description::before,
-.data-link-icon[data-link-id="fei"]::before {
+.data-link-icon[data-link-id="Character.fei"]::before {
     content: var(--Character-Fie-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 盖乌斯 */
 div[data-id="Gaius"] div.setting-item-description::before,
-.data-link-icon[data-link-id="gai-wu-si"]::before {
+.data-link-icon[data-link-id="Character.gai-wu-si"]::before {
     content: var(--Character-Gaius-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 米利亚姆 */
 div[data-id="Millium"] div.setting-item-description::before,
-.data-link-icon[data-link-id="mi-li-ya-mu"]::before {
+.data-link-icon[data-link-id="Character.mi-li-ya-mu"]::before {
     content: var(--Character-Millium-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 克洛 */
 div[data-id="Crow"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ke-luo"]::before {
+.data-link-icon[data-link-id="Character.ke-luo"]::before {
     content: var(--Character-Crow-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1067,35 +1112,35 @@ div[data-id="Crow"] div.setting-item-description::before,
 /* Begin 1 年 I II 班 */
 /* 派崔克 */
 div[data-id="Patrick"] div.setting-item-description::before,
-.data-link-icon[data-link-id="pai-cui-ke"]::before {
+.data-link-icon[data-link-id="Character.pai-cui-ke"]::before {
     content: var(--Character-Patrick-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 菲莉丝 */
 div[data-id="Ferris"] div.setting-item-description::before,
-.data-link-icon[data-link-id="fei-li-si"]::before {
+.data-link-icon[data-link-id="Character.fei-li-si"]::before {
     content: var(--Character-Ferris-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 肯尼斯 */
 div[data-id="Kenneth"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ken-ni-si"]::before {
+.data-link-icon[data-link-id="Character.ken-ni-si"]::before {
     content: var(--Character-Kenneth-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 布莱希特 */
 div[data-id="Bridget"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bu-lai-xi-te"]::before {
+.data-link-icon[data-link-id="Character.bu-lai-xi-te"]::before {
     content: var(--Character-Bridget-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 玛格丽特 */
 div[data-id="Margarita"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ma-ge-li-te"]::before {
+.data-link-icon[data-link-id="Character.ma-ge-li-te"]::before {
     content: var(--Character-Margarita-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1105,98 +1150,98 @@ div[data-id="Margarita"] div.setting-item-description::before,
 /* Begin 1 年 III IV V 班 */
 /* 雨果 */
 div[data-id="Hugo"] div.setting-item-description::before,
-.data-link-icon[data-link-id="yu-guo"]::before {
+.data-link-icon[data-link-id="Character.yu-guo"]::before {
     content: var(--Character-Hugo-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 莫妮卡 Monica*/
 div[data-id="Monica"] div.setting-item-description::before,
-.data-link-icon[data-link-id="mo-ni-ka"]::before {
+.data-link-icon[data-link-id="Character.mo-ni-ka"]::before {
     content: var(--Character-Monica-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 敏特 Mint */
 div[data-id="Mint"] div.setting-item-description::before,
-.data-link-icon[data-link-id="min-te"]::before {
+.data-link-icon[data-link-id="Character.min-te"]::before {
     content: var(--Character-Mint-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 贝莉尔 Beryl */
 div[data-id="Beryl"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bei-li-er"]::before {
+.data-link-icon[data-link-id="Character.bei-li-er"]::before {
     content: var(--Character-Beryl-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 贾斯伯 Casper */
 div[data-id="Casper"] div.setting-item-description::before,
-.data-link-icon[data-link-id="jia-si-bo"]::before {
+.data-link-icon[data-link-id="Character.jia-si-bo"]::before {
     content: var(--Character-Casper-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 艾伦 Alan */
 div[data-id="Alan"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ai-lun"]::before {
+.data-link-icon[data-link-id="Character.ai-lun"]::before {
     content: var(--Character-Alan-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 琳黛 Linde */
 div[data-id="Linde"] div.setting-item-description::before,
-.data-link-icon[data-link-id="lin-dai"]::before {
+.data-link-icon[data-link-id="Character.lin-dai"]::before {
     content: var(--Character-Linde-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 薇薇 Vivi */
 div[data-id="Vivi"] div.setting-item-description::before,
-.data-link-icon[data-link-id="wei-wei"]::before {
+.data-link-icon[data-link-id="Character.wei-wei"]::before {
     content: var(--Character-Vivi-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 科蕾特 Colette */
 div[data-id="Colette"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ke-lei-te"]::before {
+.data-link-icon[data-link-id="Character.ke-lei-te"]::before {
     content: var(--Character-Colette-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 雷克斯 Rex */
 div[data-id="Rex"] div.setting-item-description::before,
-.data-link-icon[data-link-id="lei-ke-si"]::before {
+.data-link-icon[data-link-id="Character.lei-ke-si"]::before {
     content: var(--Character-Rex-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 孟亨 Munk */
 div[data-id="Munk"] div.setting-item-description::before,
-.data-link-icon[data-link-id="meng-heng"]::before {
+.data-link-icon[data-link-id="Character.meng-heng"]::before {
     content: var(--Character-Munk-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 宝菈 Paula */
 div[data-id="Paula"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bao-la"]::before {
+.data-link-icon[data-link-id="Character.bao-la"]::before {
     content: var(--Character-Paula-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 贝琪 Becky */
 div[data-id="Becky"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bei-qi"]::before {
+.data-link-icon[data-link-id="Character.bei-qi"]::before {
     content: var(--Character-Becky-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 萝茜努 Rosine */
 div[data-id="Rosine"] div.setting-item-description::before,
-.data-link-icon[data-link-id="luo-xi-nu"]::before {
+.data-link-icon[data-link-id="Character.luo-xi-nu"]::before {
     content: var(--Character-Rosine-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1206,49 +1251,49 @@ div[data-id="Rosine"] div.setting-item-description::before,
 /* Begin 2 年 I II 班 */
 /* 安洁莉卡 Angelica */
 div[data-id="Angelica"] div.setting-item-description::before,
-.data-link-icon[data-link-id="an-jie-li-ka"]::before {
+.data-link-icon[data-link-id="Character.an-jie-li-ka"]::before {
     content: var(--Character-Angelica-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 文森 Vincent */
 div[data-id="Vincent"] div.setting-item-description::before,
-.data-link-icon[data-link-id="wen-sen"]::before {
+.data-link-icon[data-link-id="Character.wen-sen"]::before {
     content: var(--Character-Vincent-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 弗列妲 Friedel */
 div[data-id="Friedel"] div.setting-item-description::before,
-.data-link-icon[data-link-id="fu-lie-da"]::before {
+.data-link-icon[data-link-id="Character.fu-lie-da"]::before {
     content: var(--Character-Friedel-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 兰伯特 Lambert */
 div[data-id="Lambert"] div.setting-item-description::before,
-.data-link-icon[data-link-id="lan-bo-te"]::before {
+.data-link-icon[data-link-id="Character.lan-bo-te"]::before {
     content: var(--Character-Lambert-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 裴德烈 Fidelio */
 div[data-id="Fidelio"] div.setting-item-description::before,
-.data-link-icon[data-link-id="pei-de-lie"]::before {
+.data-link-icon[data-link-id="Character.pei-de-lie"]::before {
     content: var(--Character-Fidelio-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 泰蕾莎 Theresia */
 div[data-id="Theresia"] div.setting-item-description::before,
-.data-link-icon[data-link-id="tai-lei-sha"]::before {
+.data-link-icon[data-link-id="Character.tai-lei-sha"]::before {
     content: var(--Character-Theresia-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 艾德尔 Edel */
 div[data-id="Edel"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ai-de-er"]::before {
+.data-link-icon[data-link-id="Character.ai-de-er"]::before {
     content: var(--Character-Edel-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1258,70 +1303,70 @@ div[data-id="Edel"] div.setting-item-description::before,
 /* Begin 2 年 III IV V 班 */
 /* 乔治 George */
 div[data-id="George"] div.setting-item-description::before,
-.data-link-icon[data-link-id="qiao-zhi"]::before {
+.data-link-icon[data-link-id="Character.qiao-zhi"]::before {
     content: var(--Character-George-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 托娃 Towa */
 div[data-id="Towa"] div.setting-item-description::before,
-.data-link-icon[data-link-id="tuo-wa"]::before {
+.data-link-icon[data-link-id="Character.tuo-wa"]::before {
     content: var(--Character-Towa-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 史提芬 Stefan */
 div[data-id="Stefan"] div.setting-item-description::before,
-.data-link-icon[data-link-id="shi-ti-fen"]::before {
+.data-link-icon[data-link-id="Character.shi-ti-fen"]::before {
     content: var(--Character-Stefan-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 克莱菈 Clara */
 div[data-id="Clara"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ke-lai-la"]::before {
+.data-link-icon[data-link-id="Character.ke-lai-la"]::before {
     content: var(--Character-Clara-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 海贝尔 Hibelle */
 div[data-id="Hibelle"] div.setting-item-description::before,
-.data-link-icon[data-link-id="hai-bei-er"]::before {
+.data-link-icon[data-link-id="Character.hai-bei-er"]::before {
     content: var(--Character-Hibelle-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 罗金斯 Loggins */
 div[data-id="Loggins"] div.setting-item-description::before,
-.data-link-icon[data-link-id="luo-jin-si"]::before {
+.data-link-icon[data-link-id="Character.luo-jin-si"]::before {
     content: var(--Character-Loggins-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 爱蜜莉 Emily */
 div[data-id="Emily"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ai-mi-li"]::before {
+.data-link-icon[data-link-id="Character.ai-mi-li"]::before {
     content: var(--Character-Emily-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 克连 Klein */
 div[data-id="Klein"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ke-lian"]::before {
+.data-link-icon[data-link-id="Character.ke-lian"]::before {
     content: var(--Character-Klein-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 尼可拉斯 Nicholas */
 div[data-id="Nicholas"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ni-ke-la-si"]::before {
+.data-link-icon[data-link-id="Character.ni-ke-la-si"]::before {
     content: var(--Character-Nicholas-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 桃乐丝 Dorothee */
 div[data-id="Dorothee"] div.setting-item-description::before,
-.data-link-icon[data-link-id="tao-le-si"]::before {
+.data-link-icon[data-link-id="Character.tao-le-si"]::before {
     content: var(--Character-Dorothee-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1331,84 +1376,84 @@ div[data-id="Dorothee"] div.setting-item-description::before,
 /* Begin 教官 */
 /* 莎拉 Sara */
 div[data-id="Sara"] div.setting-item-description::before,
-.data-link-icon[data-link-id="sha-la"]::before {
+.data-link-icon[data-link-id="Character.sha-la"]::before {
     content: var(--Character-Sara-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 梵戴克 Vandyck */
 div[data-id="Vandyck"] div.setting-item-description::before,
-.data-link-icon[data-link-id="fan-dai-ke"]::before {
+.data-link-icon[data-link-id="Character.fan-dai-ke"]::before {
     content: var(--Character-Vandyck-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 奈特哈尔 Neithardt */
 div[data-id="Neithardt"] div.setting-item-description::before,
-.data-link-icon[data-link-id="nai-te-ha-er"]::before {
+.data-link-icon[data-link-id="Character.nai-te-ha-er"]::before {
     content: var(--Character-Neithardt-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 亨利 Heinrich */
 div[data-id="Heinrich"] div.setting-item-description::before,
-.data-link-icon[data-link-id="heng-li"]::before {
+.data-link-icon[data-link-id="Character.heng-li"]::before {
     content: var(--Character-Heinrich-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 汤玛斯 Thomas */
 div[data-id="Thomas"] div.setting-item-description::before,
-.data-link-icon[data-link-id="tang-ma-si"]::before {
+.data-link-icon[data-link-id="Character.tang-ma-si"]::before {
     content: var(--Character-Thomas-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 马卡洛夫 Makarov */
 div[data-id="Makarov"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ma-ka-luo-fu"]::before {
+.data-link-icon[data-link-id="Character.ma-ka-luo-fu"]::before {
     content: var(--Character-Makarov-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 碧翠丝 Beatrix */
 div[data-id="Beatrix"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bi-cui-si"]::before {
+.data-link-icon[data-link-id="Character.bi-cui-si"]::before {
     content: var(--Character-Beatrix-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 玛莉 Mary */
 div[data-id="Mary"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ma-li"]::before {
+.data-link-icon[data-link-id="Character.ma-li"]::before {
     content: var(--Character-Mary-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 瑟雷斯坦 Celestin */
 div[data-id="Celestin"] div.setting-item-description::before,
-.data-link-icon[data-link-id="se-lei-si-tan"]::before {
+.data-link-icon[data-link-id="Character.se-lei-si-tan"]::before {
     content: var(--Character-Celestin-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 莎莉法 Sariffa */
 div[data-id="Sariffa"] div.setting-item-description::before,
-.data-link-icon[data-link-id="sha-li-fa"]::before {
+.data-link-icon[data-link-id="Character.sha-li-fa"]::before {
     content: var(--Character-Sariffa-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 萝德 Lotte */
 div[data-id="Lotte"] div.setting-item-description::before,
-.data-link-icon[data-link-id="luo-de"]::before {
+.data-link-icon[data-link-id="Character.luo-de"]::before {
     content: var(--Character-Lotte-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 雪伦 Sharon */
 div[data-id="Sharon"] div.setting-item-description::before,
-.data-link-icon[data-link-id="xue-lun"]::before {
+.data-link-icon[data-link-id="Character.xue-lun"]::before {
     content: var(--Character-Sharon-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1703,142 +1748,147 @@ div[data-id="Sharon"] div.setting-item-description::before,
 }
 
 /* Begin Fish Icon */
+div[data-id="Fish"] div.setting-item-description,
+[data-link-id^="Fish."] {
+    color: var(--Element-Water-Color) !important;
+}
+
 /* 刃鱼 Swordtail */
 div[data-id="Swordtail"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ren-yu"]::before {
+.data-link-icon[data-link-id="Fish.ren-yu"]::before {
     content: var(--Fish-Swordtail-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 花蟹 GrayCrab */
 div[data-id="GrayCrab"] div.setting-item-description::before,
-.data-link-icon[data-link-id="hua-xie"]::before {
+.data-link-icon[data-link-id="Fish.hua-xie"]::before {
     content: var(--Fish-GrayCrab-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 银伞鱼 Kasagin */
 div[data-id="Kasagin"] div.setting-item-description::before,
-.data-link-icon[data-link-id="yin-san-yu"]::before {
+.data-link-icon[data-link-id="Fish.yin-san-yu"]::before {
     content: var(--Fish-Kasagin-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 鳌虾 Crayfish */
 div[data-id="Crayfish"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ao-xia"]::before {
+.data-link-icon[data-link-id="Fish.ao-xia"]::before {
     content: var(--Fish-Crayfish-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 亚诺鲁鲫鱼 AnorCarp */
 div[data-id="AnorCarp"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ya-nuo-lu-ji-yu"]::before {
+.data-link-icon[data-link-id="Fish.ya-nuo-lu-ji-yu"]::before {
     content: var(--Fish-AnorCarp-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 岩穴鱼 Rockeater */
 div[data-id="Rockeater"] div.setting-item-description::before,
-.data-link-icon[data-link-id="yan-xue-yu"]::before {
+.data-link-icon[data-link-id="Fish.yan-xue-yu"]::before {
     content: var(--Fish-Rockeater-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 鲤鱼 Carp */
 div[data-id="Carp"] div.setting-item-description::before,
-.data-link-icon[data-link-id="li-yu"]::before {
+.data-link-icon[data-link-id="Fish.li-yu"]::before {
     content: var(--Fish-Carp-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 虹鳟鱼 RainbowTrout */
 div[data-id="RainbowTrout"] div.setting-item-description::before,
-.data-link-icon[data-link-id="hong-zun-yu"]::before {
+.data-link-icon[data-link-id="Fish.hong-zun-yu"]::before {
     content: var(--Fish-RainbowTrout-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 山椒鱼 Salamander */
 div[data-id="Salamander"] div.setting-item-description::before,
-.data-link-icon[data-link-id="shan-jiao-yu"]::before {
+.data-link-icon[data-link-id="Fish.shan-jiao-yu"]::before {
     content: var(--Fish-Salamander-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 大口鲈鱼 GluttonousBass */
 div[data-id="GluttonousBass"] div.setting-item-description::before,
-.data-link-icon[data-link-id="da-kou-lu-yu"]::before {
+.data-link-icon[data-link-id="Fish.da-kou-lu-yu"]::before {
     content: var(--Fish-GluttonousBass-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 黑鲑 Trout */
 div[data-id="Trout"] div.setting-item-description::before,
-.data-link-icon[data-link-id="hei-gui"]::before {
+.data-link-icon[data-link-id="Fish.hei-gui"]::before {
     content: var(--Fish-Trout-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 金龙鱼 Arowana */
 div[data-id="Arowana"] div.setting-item-description::before,
-.data-link-icon[data-link-id="jin-long-yu"]::before {
+.data-link-icon[data-link-id="Fish.jin-long-yu"]::before {
     content: var(--Fish-Arowana-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 鲑鱼 Salmon */
 div[data-id="Salmon"] div.setting-item-description::before,
-.data-link-icon[data-link-id="gui-yu"]::before {
+.data-link-icon[data-link-id="Fish.gui-yu"]::before {
     content: var(--Fish-Salmon-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 鳗鱼 Eel */
 div[data-id="Eel"] div.setting-item-description::before,
-.data-link-icon[data-link-id="man-yu"]::before {
+.data-link-icon[data-link-id="Fish.man-yu"]::before {
     content: var(--Fish-Eel-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 金鲑 GoldSalmon */
 div[data-id="GoldSalmon"] div.setting-item-description::before,
-.data-link-icon[data-link-id="jin-gui"]::before {
+.data-link-icon[data-link-id="Fish.jin-gui"]::before {
     content: var(--Fish-GoldSalmon-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 巨血蟹 QueenCrab */
 div[data-id="QueenCrab"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ju-xue-xie"]::before {
+.data-link-icon[data-link-id="Fish.ju-xue-xie"]::before {
     content: var(--Fish-QueenCrab-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 大山椒鱼 PaleSalamander */
 div[data-id="PaleSalamander"] div.setting-item-description::before,
-.data-link-icon[data-link-id="da-shan-jiao-yu"]::before {
+.data-link-icon[data-link-id="Fish.da-shan-jiao-yu"]::before {
     content: var(--Fish-PaleSalamander-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 巨鲶 Catfish */
 div[data-id="Catfish"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ju-nian"]::before {
+.data-link-icon[data-link-id="Fish.ju-nian"]::before {
     content: var(--Fish-Catfish-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 冰霜鳌虾 InvisibleCrayfish */
 div[data-id="InvisibleCrayfish"] div.setting-item-description::before,
-.data-link-icon[data-link-id="bing-shuang-ao-xia"]::before {
+.data-link-icon[data-link-id="Fish.bing-shuang-ao-xia"]::before {
     content: var(--Fish-InvisibleCrayfish-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 /* 巨刃鱼 GiantSwordtail */
 div[data-id="GiantSwordtail"] div.setting-item-description::before,
-.data-link-icon[data-link-id="ju-ren-yu"]::before {
+.data-link-icon[data-link-id="Fish.ju-ren-yu"]::before {
     content: var(--Fish-GiantSwordtail-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -1847,9 +1897,29 @@ div[data-id="GiantSwordtail"] div.setting-item-description::before,
 /* End Fish */
 
 /* Begin Location */
+div[data-id="Location"] div.setting-item-description,
+[data-link-id="Location.Location"] {
+    color: var(--Location-Color) !important;
+}
+
 div[data-id="Location"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Location.Location"]::before {
     content: var(--Location-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+.treasure-chest-header::before {
+    content: var(--Treasure-Chest-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+.monster-header::before {
+    content: var(--Enemy-Monster-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+.fish-header::before {
+    content: var(--Fish-Common-Large-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 /* End Location */

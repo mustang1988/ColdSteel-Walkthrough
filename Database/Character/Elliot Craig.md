@@ -2,7 +2,7 @@
 Aliases:
   - "艾略特"
   - "艾略特·克雷格"
-ID: "ai-lve-te"
+ID: "Character.ai-lve-te"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 3

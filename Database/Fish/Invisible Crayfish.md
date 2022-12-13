@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "冰霜鳌虾"
-ID: "bing-shuang-ao-xia"
+ID: "Fish.bing-shuang-ao-xia"
 Description: |
   外表就像冰块的大型甲壳类.
   

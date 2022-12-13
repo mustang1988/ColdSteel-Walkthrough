@@ -2,7 +2,7 @@
 Aliases:
   - "马奇亚斯"
   - "马奇亚斯·雷格尼兹"
-ID: "ma-qi-ya-si"
+ID: "Character.ma-qi-ya-si"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 5

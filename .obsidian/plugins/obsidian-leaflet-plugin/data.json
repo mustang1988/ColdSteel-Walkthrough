@@ -42,6 +42,22 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "fish-point",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAnJJREFUOE9jZICC0NBVzFZRrLwg7scPH340JCb+gMnhohlhEhNXbUpj52SdycXFzXDm7Jl7UvKy0x9cf7BoRkPpK4Kawwur1qqrKQVaWlgw/vn7m0FaWprh5LFjT9+9elX0++WzNQ0NDf/QDYHbrGfrbiStILtI38hQy9vLi1FAgI/h07u3DHKSYn/fv3kxh5eZvUBRURHFK3DNIFNdQ6MM+ITEjwSEBHGrqyozPHpwh8FQV4tBQkiQ4e2bpxvufrkb6ajoCDcARTPYWYJS2T5Bgb3SUpJscnLSjMpKCgwi/DwMFsZ6DHce3F/VunBF7OqGhl8gpZiaGRgYZLWMM6SVlfuFxEXZufl4GQX5eRn8vTwYLE2M/s+aPr2mIiurg4GB4R9WzSBDRbX0EyXlFCbxi4hzKykrM8hJSTJ4uDgwvHv68HVidJTBm8ePn2Fo7p7SELZ67TaWU/tPrRDTNPCTVNBcoK6jzy8kLMCgo6HMoCzB9yc+MsT71f3HuzA0z1s1+fiZs1fEDx66ZHL1+PH3Eiaunipq2hsFhflYtNTkGIzU5P/UFBVE3L56dS2yZpbo1IgmSQW5sg+ffzJ//sJ04urNx/Xffv9fw8vHx6uro8hgaqD9/8LRwx/nT59mz/Dr1yUUm8XkxOKExMV6f/5l4mflEGEWEpVi+sXA+l9GVpzx34+PDMpyUr/nT5m6/dOrF8EMDAx/0J0N4qszMDF5M7Cwi7Pxi1qb2dqaSkqIMz28ff3f5bMnz31/9zWOgeHnLZxRhZQM2TnEpUsZ/zGkf3//ejbDn1/TGRgYXsPkcUUVcjJmFxAQ0/jw4dVF9LQNAM21zxCmeFeBAAAAAElFTkSuQmCC",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "裴德烈"
-ID: "pei-de-lie"
+ID: "Character.pei-de-lie"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 5

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "孟亨"
-ID: "meng-heng"
+ID: "Character.meng-heng"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 11

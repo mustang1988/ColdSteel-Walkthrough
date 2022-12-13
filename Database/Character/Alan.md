@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "艾伦"
-ID: "ai-lun"
+ID: "Character.ai-lun"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 6

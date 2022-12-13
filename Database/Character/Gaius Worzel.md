@@ -2,7 +2,7 @@
 Aliases:
   - "盖乌斯"
   - "盖乌斯·沃泽尔"
-ID: "gai-wu-si"
+ID: "Character.gai-wu-si"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 9

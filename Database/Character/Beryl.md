@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "贝莉尔"
-ID: "bei-li-er"
+ID: "Character.bei-li-er"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 4

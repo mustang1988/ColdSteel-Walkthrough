@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "泰蕾莎"
-ID: "tai-lei-sha"
+ID: "Character.tai-lei-sha"
 Category: "2年级(I II班)"
 CategoryNo: 4
 Order: 6

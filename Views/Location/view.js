@@ -33,10 +33,12 @@ const BuildMap = (id, maps) => {
   let md = ``;
   for (let i = 0; i < maps.length; i++) {
     const map = maps[i];
-    md += `
+    const map_path = map.path;
+    md += map_path
+      ? `
 \`\`\`leaflet
 id: ${id}-${i}
-image: [[${map.path}]]
+image: [[${map_path}]]
 height: 400px
 lat: 0
 long: 0
@@ -46,7 +48,8 @@ defaultZoom: 8
 unit: meters
 darkMode: false
 \`\`\`
-    `;
+`
+      : "";
   }
   return md;
 };
@@ -66,7 +69,11 @@ const BuildChests = (id) => {
   ).map((m) =>
     m ? dv.blockLink(MONSTER_CHEST_DB, m.ID, false, m.Name || m.ID) : undefined
   );
-  return dv.markdownList(GetLinks([...chests, ...monster_chests]));
+  return `
+<h1 class="treasure-chest-header">宝箱</span>
+
+${dv.markdownList(GetLinks([...chests, ...monster_chests]))}
+  `;
 };
 
 const BuildMonster = (id) => {
@@ -83,25 +90,34 @@ const BuildMonster = (id) => {
       .Bosses?.filter((m) => m.Locations.map((l) => l.subpath).includes(id)) ||
     []
   ).map((m) => (m ? dv.blockLink(BOSS_DB, m.ID, false, m.Name) : undefined));
-  return dv.markdownList(GetLinks([...monsters, ...bosses]));
+  return `
+<h1 class="monster-header">战斗笔记</h1>
+
+${dv.markdownList(GetLinks([...monsters, ...bosses]))}
+  `;
 };
 
 const BuildFish = (fishes) => {
   return fishes.length > 0
-    ? dv.markdownList(GetLinks(fishes))
-    : dv.markdownList(["无"]);
+    ? `
+<h1 class="fish-header">钓鱼笔记</h1>
+
+${dv.markdownList(GetLinks(fishes))}
+`
+    : "";
 };
 
 const admonition = `
 \`\`\`\`ad-location
 title: ${name}
 collapse: open
+
 ${BuildMap(id, maps)}
-## 宝箱
+
 ${BuildChests(id)}
-## 战斗笔记
+
 ${BuildMonster(id)}
-## 钓鱼笔记
+
 ${BuildFish(fishes || [])}
 \`\`\`\`
 `;

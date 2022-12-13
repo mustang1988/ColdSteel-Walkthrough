@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "山椒鱼"
-ID: "shan-jiao-yu"
+ID: "Fish.shan-jiao-yu"
 Description: |
     喜欢静水区的中型两生类.
     

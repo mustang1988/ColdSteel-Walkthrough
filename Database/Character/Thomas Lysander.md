@@ -2,7 +2,7 @@
 Aliases:
   - "汤玛斯教官"
   - "汤玛斯·雷山德教官"
-ID: "tang-ma-si"
+ID: "Character.tang-ma-si"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 5

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "梵戴克学院长"
-ID: "fan-dai-ke"
+ID: "Character.fan-dai-ke"
 Category: "教官·其他"
 CategoryNo: 6
 Order: 2

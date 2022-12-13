@@ -2,7 +2,7 @@
 Aliases:
   - "艾玛"
   - "艾玛·米而斯汀"
-ID: "ai-ma"
+ID: "Character.ai-ma"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 6

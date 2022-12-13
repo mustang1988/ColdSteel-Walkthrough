@@ -2,7 +2,7 @@
 Aliases:
   - "菲"
   - "菲·克劳赛尔"
-ID: "fei"
+ID: "Character.fei"
 Category: "VII班成员"
 CategoryNo: 1
 Order: 8

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "史提芬"
-ID: "shi-ti-fen"
+ID: "Character.shi-ti-fen"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 3

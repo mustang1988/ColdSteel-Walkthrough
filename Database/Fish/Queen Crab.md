@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "巨血蟹"
-ID: "ju-xue-xie"
+ID: "Fish.ju-xue-xie"
 Description: |
   拥有浅红色甲壳的大型螃蟹.
   

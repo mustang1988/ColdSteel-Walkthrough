@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "萝西努"
-ID: "luo-xi-nu"
+ID: "Character.luo-xi-nu"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 14

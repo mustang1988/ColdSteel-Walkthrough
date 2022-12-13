@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "鳗鱼"
-ID: "man-yu"
+ID: "Fish.man-yu"
 Description: |
   拥有像蛇一般奇怪外表的稀有鱼类.
   

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "薇薇"
-ID: "wei-wei"
+ID: "Character.wei-wei"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 8

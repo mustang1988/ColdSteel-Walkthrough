@@ -2,7 +2,7 @@
 Aliases:
   - "乔治"
   - "乔治·诺姆"
-ID: "qiao-zhi"
+ID: "Character.qiao-zhi"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
 Order: 1

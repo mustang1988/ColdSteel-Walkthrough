@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "花蟹"
-ID: "hua-xie"
+ID: "Fish.hua-xie"
 Description: |
     有灰白色甲壳的小螃蟹.
     

@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "宝菈"
-ID: "bao-la"
+ID: "Character.bao-la"
 Category: "1年级(III IV V班)"
 CategoryNo: 3
 Order: 12

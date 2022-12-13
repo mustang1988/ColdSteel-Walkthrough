@@ -1,7 +1,7 @@
 ---
 Aliases:
   - "布莱希特"
-ID: "bu-lai-xi-te"
+ID: "Character.bu-lai-xi-te"
 Category: "1年级(I II班)"
 CategoryNo: 2
 Order: 4
