@@ -1,5 +1,5 @@
 const {
-  location: { ID: id, Maps: maps, Name: name },
+  location: { ID: id, Maps: maps, Name: name, Fishes: fishes },
 } = input;
 const CHEST_DB = "Database/Treasure Chest/Treasure Chest.md";
 const MONSTER_CHEST_DB = "Database/Treasure Chest/Monster Treasure Chest.md";
@@ -65,7 +65,7 @@ const BuildChests = (id) => {
       .MonsterTreasureChests?.filter((tc) => tc.Location.subpath === id) || []
   ).map((m) =>
     m ? dv.blockLink(MONSTER_CHEST_DB, m.ID, false, m.Name || m.ID) : undefined
-  );  
+  );
   return dv.markdownList(GetLinks([...chests, ...monster_chests]));
 };
 
@@ -86,6 +86,12 @@ const BuildMonster = (id) => {
   return dv.markdownList(GetLinks([...monsters, ...bosses]));
 };
 
+const BuildFish = (fishes) => {
+  return fishes.length > 0
+    ? dv.markdownList(GetLinks(fishes))
+    : dv.markdownList(["无"]);
+};
+
 const admonition = `
 \`\`\`\`ad-location
 title: ${name}
@@ -95,6 +101,8 @@ ${BuildMap(id, maps)}
 ${BuildChests(id)}
 ## 战斗笔记
 ${BuildMonster(id)}
+## 钓鱼笔记
+${BuildFish(fishes || [])}
 \`\`\`\`
 `;
 dv.paragraph(admonition);

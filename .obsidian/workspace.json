@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d87267fc97d6f83f",
+        "id": "6f4a6101b33a45bf",
         "type": "tabs",
         "children": [
           {
-            "id": "38787f6abd654352",
+            "id": "2f978591d3da0d82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Walkthrough/Chapter 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "522c5c840dad2d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Item/Link Book.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "you-er",
+                "query": "酥脆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "38787f6abd654352",
+  "active": "2f978591d3da0d82",
   "lastOpenFiles": [
-    "Database/Item/Link Book.md",
-    "Walkthrough/Chapter 1.md",
     "Database/Item/Book.md",
-    "Database/Item/Boot.md",
-    "Database/Item/Earth Sepith.md",
-    "Database/Item/Fire Sepith.md",
-    "Database/Item/Fish Rod.md",
-    "Database/Item/Key.md",
-    "Database/Character/Elliot Craig.md",
-    "Index.md"
+    "Walkthrough/Chapter 1.md",
+    "Database/Enemy/Boss.md",
+    "Database/Character/Nicholas.md",
+    "Database/Quest/Side Quest.md",
+    "Database/Item/Regular Food.md",
+    "Walkthrough/Chapter 0.md",
+    "Database/Location/Location.md",
+    "Database/Enemy/Monster.md",
+    "Database/Treasure Chest/Treasure Chest.md"
   ]
 }

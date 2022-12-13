@@ -64,7 +64,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 50
-
 - Name: "远古门犬"
   ID: "yuan-gu-men-quan-2"
   Description: |
@@ -201,7 +200,7 @@ Bosses:
     再击碎因恐惧而害怕的猎物.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
   Properties:
     LV: 7
     HP: 10821

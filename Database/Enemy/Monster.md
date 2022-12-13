@@ -65,7 +65,6 @@ Monsters:
     Sleep: 200
     Confuse: 100
     SDown: 100
-
 - Name: "玻璃软体兽"
   ID: "bo-li-ruan-ti-shou"
   Description: |
@@ -132,7 +131,6 @@ Monsters:
     Sleep: 20
     Confuse: 50
     SDown: 150
-
 - Name: "硬币甲壳虫"
   ID: "ying-bi-jia-ke-chong"
   Description: |
@@ -195,7 +193,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "卑劣软黏兽"
   ID: "bei-lie-ruan-nian-shou"
   Description: |
@@ -204,7 +201,7 @@ Monsters:
     因而得到高度防御力的软体魔兽.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
   Properties:
     LV: 6
     HP: 1114
@@ -256,7 +253,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "波姆"
   ID: "bo-mu"
   Description: |
@@ -265,7 +261,7 @@ Monsters:
     会吸收接触者的EP和CP.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
   Properties:
     LV: 6
     HP: 952
@@ -317,7 +313,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 150
-
 - Name: "溶解海蛞蝓"
   ID: "rong-jie-hai-kuo-yu"
   Description: |
@@ -328,7 +323,7 @@ Monsters:
     把猎物捕获慢慢溶解之后吃掉.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
   Properties:
     LV: 6
     HP: 1543

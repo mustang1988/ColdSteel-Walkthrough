@@ -22,8 +22,8 @@ Notes:
 
       料理中的材料和分量.
 
-    When: ""
-    How: "支线任务: [[用完的调味料调货]] 获得"
+    When: "[[Walkthrough/Chapter 1#^character-ni-ke-la-si-1|第一章 4/18晚]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^yong-wan-de-tiao-wei-liao-diao-huo|用完的调味料调货]] 期间获得"
 ---
 ```dataviewjs
 const character = dv.current();

@@ -20,7 +20,7 @@ Notes:
 
       正在日夜练习烹饪.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^character-luo-de-1|第一章 4/18]]"
     How: "第一学生宿舍与萝德对话"
 ---
 ```dataviewjs
