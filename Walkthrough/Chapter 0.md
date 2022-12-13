@@ -33,11 +33,11 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯。
 
 > [!warning] 目前S技和LINK均不可用
 
-[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-1|旧校舍‧地下区块1]]
+[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-1|旧校舍‧地下区块1]] ^location-jiu-xiao-she-di-xia-qu-kuai-1
 
-[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-2|旧校舍‧地下区块2]]
+[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-2|旧校舍‧地下区块2]] ^location-jiu-xiao-she-di-xia-qu-kuai-2
 
-[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]]
+[[Database/Location/Location#^jiu-xiao-she-di-xia-qu-kuai-3|旧校舍‧地下区块3]] ^location-jiu-xiao-she-di-xia-qu-kuai-3
 
 第二章地图时会遇到尤西斯，这时会出现两个分支
 
@@ -51,10 +51,16 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯。
 战斗结束后剧情，序章结束， 获得奖杯：[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]^trophy-tuo-er-zi-jun-guan-xue-yuan
 
 > [!example] 序章 章节结算
-> - 战斗笔记进度: 5/196 [^1]
-> - 打开宝箱进度: 5/199 [^2]
+> - 战斗笔记进度: 5/196 (+5) [^1]
+> - 打开宝箱进度: 5/199 (+5) [^2]
 > - 烹饪笔记进度: 0/20
 > - 书籍笔记进度: 0/43
+> - 人物笔记进度: 0/95
+> - 钓鱼笔记进度: 0/20
+> - 核心回路收集进度: 3/28 (+3) [^3]
+> - 奖杯进度: 2/51 (+2) [^4]
 
-[^1]: 新增战斗笔记分别为: [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
-[^2]: 新增宝箱分别为: [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
+[^1]: 新获得战斗笔记为: [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
+[^2]: 新获得宝箱为: [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
+[^3]: 新获得核心回路为: [[Database/Quartz/Force|力量]],[[Database/Quartz/Canon|法则]],[[Database/Quartz/Falco|迅隼]]
+[^4]: 新获得奖杯为: [[Database/Trophy/Bronze#^jun-guan-xue-yuan-ru-xue|軍官學院入學]],[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]
