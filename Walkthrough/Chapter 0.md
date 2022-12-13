@@ -48,7 +48,7 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯。
 
 能力方面两人各有优点，尤西斯物魔都不错，马奇亚斯第一个战技减防也很出色。
 
-战斗结束后剧情，序章结束， 获得奖杯：[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]^tuo-er-zi-jun-guan-xue-yuan
+战斗结束后剧情，序章结束， 获得奖杯：[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]^trophy-tuo-er-zi-jun-guan-xue-yuan
 
 > [!example] 序章 章节结算
 > - 战斗笔记进度: 5/196 [^1]
