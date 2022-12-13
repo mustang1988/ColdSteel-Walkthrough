@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3e610d2db0f953",
+        "id": "e9b23aee8675d81c",
         "type": "tabs",
         "children": [
           {
-            "id": "63028a1a250c2f5a",
+            "id": "604e2140d9a4dd4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Walkthrough/Chapter 1.md"
               }
             }
           }
@@ -137,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63028a1a250c2f5a",
+  "active": "e9a920dda4cc7f1e",
   "lastOpenFiles": [
-    "Database/Item/Earth Sepith.md",
-    "Database/Quartz/Aegis.md",
-    "Database/Item/Fire Sepith.md",
-    "Database/Item/Unique Food.md",
-    "Index.md",
-    "Database/Character/Beryl.md",
-    "Database/Character/Alan.md",
+    "Database/Enemy/Boss.md",
+    "Walkthrough/Chapter 1.md",
+    "Database/Enemy/Monster.md",
     "Database/Location/Location.md",
-    "Demo.md",
-    "Database/Fish/Anor Carp.md"
+    "Database/Treasure Chest/Treasure Chest.md",
+    "Database/Quest/Side Quest.md",
+    "Database/Recipe/Recipe.md",
+    "Walkthrough/Chapter 0.md",
+    "Database/Quest/Main Quest.md",
+    "DEBUG.md"
   ]
 }

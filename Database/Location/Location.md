@@ -27,25 +27,25 @@ Locations:
 - Name: "西凯尔迪克街道1"
   ID: "xi-kai-er-di-ke-jie-dao-1"
   Maps:
-    - ""
+    - "![[images/Maps/西凯尔迪克街道1.webp]]"
   Fishes:
 
 - Name: "西凯尔迪克街道2"
   ID: "xi-kai-er-di-ke-jie-dao-2"
   Maps:
-    - ""
+    - "![[images/Maps/西凯尔迪克街道2.webp]]"
   Fishes:
 
 - Name: "东凯尔迪克街道1"
   ID: "dong-kai-er-di-ke-jie-dao-1"
   Maps:
-    - ""
+    - "![[images/Maps/东凯尔迪克街道1.jpg]]"
   Fishes:
 
 - Name: "东凯尔迪克街道2"
   ID: "dong-kai-er-di-ke-jie-dao-2"
   Maps:
-    - ""
+    - "![[images/Maps/东凯尔迪克街道2.jpg]]"
   Fishes:
 ##################################
 - Name: ""

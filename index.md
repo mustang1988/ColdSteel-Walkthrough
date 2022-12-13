@@ -6,45 +6,26 @@ banner_y: 0.33268
 
 ```ad-quote
 title: 奖杯
-collapse: close
+collapse: open
 ~~~dataviewjs
-// Read trophy DB file
-const platinum_page = dv.page('Database/Trophy/Platinum');
-const gold_page = dv.page('Database/Trophy/Gold');
-const silver_page = dv.page('Database/Trophy/Silver');
-const bronze_page = dv.page('Database/Trophy/Bronze');
-
-// Get all trophy data
-const platinum_trophies = platinum_page.Trophies ? platinum_page.Trophies.map(t => {
-    t.path = platinum_page.file.path;
+// Read trophy DB files
+const trophies = []
+const dbs = dv.pages('"Database/Trophy/Platinum" or "Database/Trophy/Gold" or "Database/Trophy/Silver" or "Database/Trophy/Bronze"');
+dbs.forEach(db => {
+  trophies.push(...db.Trophies ? db.Trophies.map(t => {
+    t.path = db.file.path;
     return t;
-}):[];
+  }):[]);
+})
 
-const gold_trophies = gold_page.Trophies ? gold_page.Trophies.map(t => {
-    t.path = gold_page.file.path;
-    return t;
-}):[];
-
-const silver_trophies = silver_page.Trophies ? silver_page.Trophies.map(t => {
-    t.path = silver_page.file.path;
-    return t;
-}):[];
-
-const bronze_trophies = bronze_page.Trophies ? bronze_page.Trophies.map(t => {
-    t.path = bronze_page.file.path;
-    return t;
-}):[];
-
-const trophies = [...platinum_trophies, ...gold_trophies, ...silver_trophies, ...bronze_trophies];
-
-// Render a table
+// Render a table display all trophy data
 dv.table(
-    ["标题", "说明", "获取章节"],
-    trophies.map(trophy => [
-        dv.blockLink(trophy.path, trophy.ID, false, trophy.Title),
-        trophy.Comment,
-        trophy.Chapter,
-    ])
+  ["标题", "奖杯说明", "获取章节"],
+  trophies.map(trophy => [
+      dv.blockLink(trophy.path, trophy.ID, false, trophy.Title),
+      trophy.Comment,
+      trophy.Chapter,
+  ])
 );
 ~~~
 ```
@@ -54,7 +35,7 @@ title: 攻略
 collapse: open
 ~~~ad-quote
 title: 攻略图例一览
-collapse: open
+collapse: close
 - 获得奖杯
   - [[Database/Trophy/Bronze|铜奖杯]]
   - [[Database/Trophy/Silver|银奖杯]]
@@ -88,13 +69,12 @@ collapse: open
   - [[Database/Location/Location|地区/迷宫]]
 ~~~
 ~~~dataviewjs
-const notes = dv.pages('"Walkthrough"')
-                .sort(note => note.No, 'asc');
+const notes = dv.pages('"Walkthrough"').sort(note => note.No, 'asc');
 dv.table(
-    [],
-    notes.map(note => [
-        dv.fileLink(note.file.path, false, note.Aliases[0])
-    ])
+  [],
+  notes.map(note => [
+      dv.fileLink(note.file.path, false, note.Aliases[0])
+  ])
 );
 ~~~
 ```

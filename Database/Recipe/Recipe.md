@@ -3,7 +3,7 @@ ID: "Recipe.Recipe"
 Recipes:
   - Name: "简单蛋包饭"
     ID: "jian-dan-dan-bao-fan"
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^recipe-jian-dan-dan-bao-fan|第一章 4/18]]"
     How: "与料理手册一起获得"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xin-xian-ji-dan|新鲜鸡蛋x1]]"
@@ -16,7 +16,7 @@ Recipes:
 
   - Name: "甜蜜饼干"
     ID: "tian-mi-bing-gan"
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^recipe-tian-mi-bing-gan|第四章 4/24]]"
     How: "与观风亭老板娘对话获得"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xin-xian-ji-dan|新鲜鸡蛋x1]]"
@@ -30,7 +30,7 @@ Recipes:
 
   - Name: "鲜榨果汁"
     ID: "xian-zha-guo-zhi"
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^recipe-xian-zha-guo-zhi|第一章 4/24]]"
     How: "东凯尔迪克街道农家, 齐赛尔对话"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xing-xing-mei-guo|星形莓果x1]]"

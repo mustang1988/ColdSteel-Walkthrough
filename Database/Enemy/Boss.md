@@ -127,7 +127,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 50
-
 - Name: "战术壳α"
   ID: "zhan-shu-ke-alpha"
   Description: |
@@ -189,7 +188,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 100
-
 - Name: "米诺斯恶魔"
   ID: "mi-nuo-si-e-mo"
   Description: |
@@ -251,7 +249,6 @@ Bosses:
     Sleep: 100
     Confuse: 50
     SDown: 100
-
 - Name: "恐怖蜥龙"
   ID: "kong-bu-xi-long"
   Description: |
@@ -262,7 +259,7 @@ Bosses:
     然后咬碎因音波而边脆弱的猎物.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-2|东凯尔迪克街道2]]"
   Properties:
     LV: 10
     HP: 12667

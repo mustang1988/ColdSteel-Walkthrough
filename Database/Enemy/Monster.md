@@ -375,7 +375,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 - Name: "啃咬狼"
   ID: "ken-yao-lang"
   Description: |
@@ -384,7 +383,8 @@ Monsters:
     用强韧的利齿袭向猎物的狼型魔兽.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
   Properties:
     LV: 8
     HP: 1236
@@ -436,7 +436,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "田地破坏者"
   ID: "tian-di-po-huai-zhe"
   Description: |
@@ -445,7 +444,8 @@ Monsters:
     会使用沙来造成失明, 要小心.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
   Properties:
     LV: 8
     HP: 1058
@@ -497,7 +497,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 - Name: "巨喙乌鸦"
   ID: "ju-hui-wu-ya"
   Description: |
@@ -508,7 +507,8 @@ Monsters:
     若是小型魔物可以一口吞下.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
   Properties:
     LV: 8
     HP: 1024
@@ -560,7 +560,6 @@ Monsters:
     Sleep: 50
     Confuse: 150
     SDown: 100
-
 - Name: "刃尾松鼠"
   ID: "ren-wei-song-shu"
   Description: |
@@ -571,7 +570,8 @@ Monsters:
     它的回转攻击是强烈的威胁.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-1|东凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-2|东凯尔迪克街道2]]"
   Properties:
     LV: 8
     HP: 1070
@@ -623,7 +623,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 - Name: "大王蜻蜓"
   ID: "da-wang-qing-ting"
   Description: |
@@ -632,7 +631,8 @@ Monsters:
     从体内的毒囊喷出液体.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
   Properties:
     LV: 8
     HP: 1041
@@ -684,7 +684,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "苦番茄人"
   ID: "ku-fan-qie-ren"
   Description: |  
@@ -695,7 +694,8 @@ Monsters:
     令人几乎失去意识.
   
   Locations: 
-    - ""  
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]" 
   Properties:
     LV: 9
     HP: 296
@@ -747,7 +747,6 @@ Monsters:
     Sleep: 100
     Confuse: 0
   SDown: 50
-
 - Name: "死亡蜗牛"
   ID: "si-wang-wo-niu"
   Description: |
@@ -758,7 +757,8 @@ Monsters:
     并以水的魔法造成致命一击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
   Properties:
     LV: 9
     HP: 1034
