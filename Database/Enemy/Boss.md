@@ -310,7 +310,6 @@ Bosses:
     Sleep: 50
     Confuse: 100
     SDown: 100
-
 - Name: "人面鸟"
   ID: "ren-mian-niao"
   Description: |
@@ -321,7 +320,7 @@ Bosses:
     再用锐利的爪子胡乱捉住猎物.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]]"
   Properties:
     LV: 10
     HP: 13000

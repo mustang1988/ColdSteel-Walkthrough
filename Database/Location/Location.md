@@ -47,6 +47,22 @@ Locations:
   Maps:
     - "![[images/Maps/东凯尔迪克街道2.jpg]]"
   Fishes:
+- Name: "露纳利亚自然公园1"
+  ID: "lu-na-li-ya-zi-ran-gong-yuan-1"
+  Maps:
+    - "![[images/Maps/露纳利亚自然公园1.jpg]]"
+  Fishes:
+- Name: "露纳利亚自然公园2"
+  ID: "lu-na-li-ya-zi-ran-gong-yuan-2"
+  Maps:
+    - "![[images/Maps/露纳利亚自然公园2.jpg]]"
+  Fishes:
+- Name: "露纳利亚自然公园3"
+  ID: "lu-na-li-ya-zi-ran-gong-yuan-3"
+  Maps:
+    - "![[images/Maps/露纳利亚自然公园3.jpg]]"
+  Fishes:
+
 ##################################
 - Name: ""
   ID: ""
@@ -116,5 +132,29 @@ const location = dv.current().Locations[7];
 await dv.view('Location', { location });
 ```
 ^dong-kai-er-di-ke-jie-dao-2
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[8];
+await dv.view('Location', { location });
+```
+^lu-na-li-ya-zi-ran-gong-yuan-1
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[9];
+await dv.view('Location', { location });
+```
+^lu-na-li-ya-zi-ran-gong-yuan-2
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[10];
+await dv.view('Location', { location });
+```
+^lu-na-li-ya-zi-ran-gong-yuan-3
 
 ---

@@ -103,7 +103,6 @@ TreasureChests:
     - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
   Chapter: "[[Walkthrough/Chapter 1#^location-xi-kai-er-di-ke-jie-dao-2|第一章 4/24]]"
   Remark:
-
 - ID: "014"
   Location: "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-1|东凯尔迪克街道1]]"
   Items:  
@@ -122,9 +121,6 @@ TreasureChests:
     - "[[Database/Item/Accessory#^ti-shen-kui-lei|替身傀儡]]"
   Chapter: "[[Walkthrough/Chapter 1#^location-dong-kai-er-di-ke-jie-dao-1|第一章 4/24]]"
   Remark:
-
-
-
 - ID: "017"
   Location: "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-2|东凯尔迪克街道2]]"
   Items:  
@@ -145,12 +141,72 @@ TreasureChests:
     - "[[Database/Item/Potion#^fu-huo-yao|复活药]]"
   Chapter: "[[Walkthrough/Chapter 1#^location-dong-kai-er-di-ke-jie-dao-2|第一章 4/24]]"
   Remark:
-
 - ID: "020"
   Location: "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-2|东凯尔迪克街道2]]"
   Items:  
     - "[[Database/Quartz/Earth N#^da-di-zhi-qiang|大地之枪]]"
   Chapter: "[[Walkthrough/Chapter 1#^location-dong-kai-er-di-ke-jie-dao-2|第一章 4/24]]"
+  Remark:
+- ID: "021"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x100]]"
+    - "[[Database/Item/Water Sepith|x100]]"
+    - "[[Database/Item/Fire Sepith|x100]]"
+    - "[[Database/Item/Wind Sepith|x100]]"
+    - "[[Database/Item/Time Sepith|x100]]"
+    - "[[Database/Item/Space Sepith|x100]]"
+    - "[[Database/Item/Mirage Sepith|x100]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-1|第一章 4/15]]"
+  Remark:
+- ID: "022"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+  Items:  
+    - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-1|第一章 4/15]]"
+  Remark:
+- ID: "023"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+  Items:  
+    - "[[Database/Item/Accessory#^gan-ju-zhi-ping|柑橘之瓶]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-1|第一章 4/15]]"
+  Remark:
+- ID: "024"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+  Items:  
+    - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-2|第一章 4/15]]"
+  Remark:
+- ID: "025"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+  Items:  
+    - "[[Database/Quartz/Wind N#^feng-zhi-lun|风之轮]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-2|第一章 4/15]]"
+  Remark:
+- ID: "026"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+  Items:  
+    - "[[Database/Item/Accessory#^shan-hu-shou-huan|珊瑚手环]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-2|第一章 4/15]]"
+  Remark:
+- ID: "027"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+  Items:  
+    - "[[Database/Item/Potion#^sheng-ling-yao|圣灵药]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-2|第一章 4/15]]"
+  Remark:
+
+- ID: "029"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
+  Items:  
+    - "[[Database/Item/Potion#^zhong-hui-fu-yao|中回复药]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-3|第一章 4/15]]"
+  Remark:
+- ID: "030"
+  Location: "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
+  Items:  
+    - "[[Database/Quartz/Space N#^huang-jin-qiu|黄金球]]"
+  Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-3|第一章 4/15]]"
   Remark:
 
 ####################

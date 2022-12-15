@@ -57,6 +57,31 @@ Quests:
     Bonus:
       - "[[Database/Item/Accessory#^shan-hu-shou-huan|珊瑚手环]]"
     When: "[[Walkthrough/Chapter 1#^quest-da-shi-ji-shang-ren-ti-yan|第一章 4/24]]"
+  - Name: "遗失的钱包"
+    ID: "yi-shi-de-qian-bao"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps:
+      - "到大市集右侧的陶器店找商人莉琪领取"
+      - "到凯尔迪克车站找店员询问"
+      - "到我们住的观风亭找老板娘询问"
+      - "再到大市集的休息处找达布罗询问"
+      - "最后在教堂上找到失主旅行者安娜贝尔"
+    Bonus:
+      - "[[Database/Item/Accessory#^pi-ka-de-wan-ou|皮卡德玩偶]]"
+    When: "[[Walkthrough/Chapter 1#^quest-yi-shi-de-qian-bao|第一章 4/25]]"
+
+  - Name: "西凯尔迪克街道的通缉魔兽"
+    ID: "xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps:
+      - "凯尔迪克·总馆房间内奥图总管处领取"
+      - "前往 [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]] 去解 [[Database/Enemy/Boss#^ren-mian-niao|人面鸟]]"
+      - "回去报告获得奖励"
+    Bonus:
+      - "[[Database/Item/U-Material|U物质]]"
+    When: "[[Walkthrough/Chapter 1#^quest-xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|第一章 4/25]]"
 ###################################
   - Name: ""
     ID: ""
@@ -99,5 +124,21 @@ const quest = dv.current().Quests[3];
 await dv.view('Quest/Side Quest', { quest });
 ```
 ^da-shi-ji-shang-ren-ti-yan
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[4];
+await dv.view('Quest/Side Quest', { quest });
+```
+^yi-shi-de-qian-bao
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[5];
+await dv.view('Quest/Side Quest', { quest });
+```
+^xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
 
 ---

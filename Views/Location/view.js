@@ -69,10 +69,15 @@ const BuildChests = (id) => {
   ).map((m) =>
     m ? dv.blockLink(MONSTER_CHEST_DB, m.ID, false, m.Name || m.ID) : undefined
   );
+
+  const chest_list = [...chests, ...monster_chests].sort(
+    (c1, c2) => parseInt(c1.subpath) - parseInt(c2.subpath)
+  );
+  console.log(chest_list);
   return `
 <h1 class="treasure-chest-header">宝箱</span>
 
-${dv.markdownList(GetLinks([...chests, ...monster_chests]))}
+${dv.markdownList(GetLinks(chest_list))}
   `;
 };
 

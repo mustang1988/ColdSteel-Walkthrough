@@ -49,9 +49,11 @@ ${dv.markdownList(
       Item: { path, subpath, display },
       Count,
     } = ex;
-            return (subpath
-          ? dv.blockLink(path, subpath, false, display)
-          : dv.fileLink(path, false, display)) + `\tx\t${Count}`;
+    return (
+      (subpath
+        ? dv.blockLink(path, subpath, false, display)
+        : dv.fileLink(path, false, display)) + `\tx\t${Count}`
+    );
   })
 )}
 \`\`\``;
@@ -61,8 +63,11 @@ ${dv.markdownList(
 const admonition = `\`\`\`\`ad-quartz-fire-r
 title: ${name}
 ${buildEffects(effects)}
+
 ${buildArts(arts)}
+
 ${buildComposition(compositions)}
+
 ${buildExchange(exchanges)}
 \`\`\`\``;
 dv.paragraph(admonition);

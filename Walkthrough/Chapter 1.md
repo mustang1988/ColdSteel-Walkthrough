@@ -176,21 +176,49 @@ Boss战:[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 - 和西凯尔迪克街道出口附近的醉鬼强森对话
 
 ## 支线任务
-- 
+- [[Database/Quest/Side Quest#^yi-shi-de-qian-bao|遗失的钱包]] ^quest-yi-shi-de-qian-bao
+- [[Database/Quest/Side Quest#^xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|西凯尔迪克街道的通缉魔兽]] ^quest-xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
+
+> [!example] 第一章 4/25 小结
+> - 战斗笔记进度: 19/196 (+1) [^16]
+
+在 [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]] 的农家与罗宾对话可获得: [[Database/Item/Book#^hong-yue-de-luo-sai-3|《红月的罗赛·第3卷》]]
+
+前往自然公园门前触发剧情, 剧情后进入
+
+[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]] ^location-lu-na-li-ya-zi-ran-gong-yuan-1
+
+[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]] ^location-lu-na-li-ya-zi-ran-gong-yuan-2
+
+[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]] ^location-lu-na-li-ya-zi-ran-gong-yuan-3
+
+回复点再往前到达最深处，BOSS二连战
+
+[[Database/Enemy/Boss#^jia-guan-li-yuan|假管理员x4]]
+
+> [!tip] 攻略
+> 实力很弱，用劳拉的地裂斩和黎恩的红叶切配合一下可轻松解决。
+
+[[Database/Enemy/Boss#^gu-er-nuo-jia|古尔诺加]], [[Database/Enemy/Monster#^qiang-zhuang-ju-gu-xing|强壮巨骨猩x2]]
+
+> [!tip] 攻略
+> BOSS攻击力较高，攻击会附带气绝效果，建议携带防气绝的饰品。
+> 黎恩的S技「焰之太刀」解锁，带有炎伤效果，对BOSS有特效。
 
 
-[^1]: 新获得战斗笔记为: [[Database/Enemy/Monster#^bei-lie-ruan-nian-shou|卑劣软黏兽]], [[Database/Enemy/Monster#^bo-mu|波姆]], [[Database/Enemy/Monster#^rong-jie-hai-kuo-yu|溶解海蛞蝓]], [[Database/Enemy/Boss#^mi-nuo-si-e-mo|米诺斯恶魔]]
-[^2]: 新获得宝箱为: [[Database/Treasure Chest/Treasure Chest#^006|006]], [[Database/Treasure Chest/Treasure Chest#^007|007]], [[Database/Treasure Chest/Treasure Chest#^008|008]]
-[^3]: 新获得烹饪笔记为: [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]]
-[^4]: 新获得书籍笔记为: [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]], [[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]], [[Database/Item/Book#^di-guo-shi-bao-1|《帝国时报·第1号》]]
-[^5]: 新获得人物笔记为: [[Database/Character/Lotte#^luo-de-1|学习做菜]]
-[^6]: 新获得钓鱼笔记为: [[Database/Fish/Swordtail|刃鱼]], [[Database/Fish/Gray Crab|花蟹]]
-[^7]: 新获得核心回路为: [[Database/Quartz/Scepter|权杖]] 
-[^8]: 新获得战斗笔记为: [[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
-[^9]: 新获得人物笔记为: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]]
-[^10]: 新获得战斗笔记为: [[Database/Enemy/Monster#^tian-di-po-huai-zhe|田地破坏者]], [[Database/Enemy/Monster#^si-wang-wo-niu|死亡蜗牛]], [[Database/Enemy/Monster#^ju-hui-wu-ya|巨喙乌鸦]], [[Database/Enemy/Monster#^da-wang-qing-ting|大王蜻蜓]], [[Database/Enemy/Monster#^ken-yao-lang|啃咬狼]], [[Database/Enemy/Monster#^ku-fan-qie-ren|苦番茄人]]
-[^11]:新获得宝箱为: [[Database/Treasure Chest/Treasure Chest#^009|009]], [[Database/Treasure Chest/Treasure Chest#^010|010]], [[Database/Treasure Chest/Treasure Chest#^011|011]], [[Database/Treasure Chest/Treasure Chest#^012|012]], [[Database/Treasure Chest/Treasure Chest#^013|013]]
-[^12]: 新获得烹饪笔记为: [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]]
-[^13]: 新获得战斗笔记为: [[Database/Enemy/Monster#^ren-wei-song-shu|刃尾松鼠]], [[Database/Enemy/Boss#^kong-bu-xi-long|恐怖蜥龙]]
-[^14]:新获得宝箱为: [[Database/Treasure Chest/Treasure Chest#^014|014]], [[Database/Treasure Chest/Treasure Chest#^015|015]], [[Database/Treasure Chest/Treasure Chest#^016|016]], [[Database/Treasure Chest/Treasure Chest#^017|017]], [[Database/Treasure Chest/Treasure Chest#^018|018]], [[Database/Treasure Chest/Treasure Chest#^019|019]], [[Database/Treasure Chest/Treasure Chest#^020|020]]
-[^15]: 新获得烹饪笔记为: [[Database/Recipe/Recipe#^xian-zha-guo-zhi|鲜榨果汁]]
+[^1]: (+4)战斗笔记为: [[Database/Enemy/Monster#^bei-lie-ruan-nian-shou|卑劣软黏兽]], [[Database/Enemy/Monster#^bo-mu|波姆]], [[Database/Enemy/Monster#^rong-jie-hai-kuo-yu|溶解海蛞蝓]], [[Database/Enemy/Boss#^mi-nuo-si-e-mo|米诺斯恶魔]]
+[^2]: (+3)宝箱为: [[Database/Treasure Chest/Treasure Chest#^006|006]], [[Database/Treasure Chest/Treasure Chest#^007|007]], [[Database/Treasure Chest/Treasure Chest#^008|008]]
+[^3]: (+1)烹饪笔记为: [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]]
+[^4]: (+3)书籍笔记为: [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]], [[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]], [[Database/Item/Book#^di-guo-shi-bao-1|《帝国时报·第1号》]]
+[^5]: (+1)人物笔记为: [[Database/Character/Lotte#^luo-de-1|学习做菜]]
+[^6]: (+2)钓鱼笔记为: [[Database/Fish/Swordtail|刃鱼]], [[Database/Fish/Gray Crab|花蟹]]
+[^7]: (+1)核心回路为: [[Database/Quartz/Scepter|权杖]] 
+[^8]: (+1)战斗笔记为: [[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
+[^9]: (+1)人物笔记为: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]]
+[^10]: (+6)战斗笔记为: [[Database/Enemy/Monster#^tian-di-po-huai-zhe|田地破坏者]], [[Database/Enemy/Monster#^si-wang-wo-niu|死亡蜗牛]], [[Database/Enemy/Monster#^ju-hui-wu-ya|巨喙乌鸦]], [[Database/Enemy/Monster#^da-wang-qing-ting|大王蜻蜓]], [[Database/Enemy/Monster#^ken-yao-lang|啃咬狼]], [[Database/Enemy/Monster#^ku-fan-qie-ren|苦番茄人]]
+[^11]:(+5)宝箱为: [[Database/Treasure Chest/Treasure Chest#^009|009]], [[Database/Treasure Chest/Treasure Chest#^010|010]], [[Database/Treasure Chest/Treasure Chest#^011|011]], [[Database/Treasure Chest/Treasure Chest#^012|012]], [[Database/Treasure Chest/Treasure Chest#^013|013]]
+[^12]: (+1)烹饪笔记为: [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]]
+[^13]: (+2)战斗笔记为: [[Database/Enemy/Monster#^ren-wei-song-shu|刃尾松鼠]], [[Database/Enemy/Boss#^kong-bu-xi-long|恐怖蜥龙]]
+[^14]: (+7)宝箱为: [[Database/Treasure Chest/Treasure Chest#^014|014]], [[Database/Treasure Chest/Treasure Chest#^015|015]], [[Database/Treasure Chest/Treasure Chest#^016|016]], [[Database/Treasure Chest/Treasure Chest#^017|017]], [[Database/Treasure Chest/Treasure Chest#^018|018]], [[Database/Treasure Chest/Treasure Chest#^019|019]], [[Database/Treasure Chest/Treasure Chest#^020|020]]
+[^15]: (+1)烹饪笔记为: [[Database/Recipe/Recipe#^xian-zha-guo-zhi|鲜榨果汁]]
+[^16]: (+1)战斗笔记为: [[Database/Enemy/Boss#^ren-mian-niao|人面鸟]]
