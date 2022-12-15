@@ -247,6 +247,9 @@
     --Status-Confuse-Icon: url("data:image/webp;base64,UklGRtIBAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSCUAAAABUBJJkmP8goZ/t5fR37LHETEB5L0sU599NNC/UFAAfr36XX4AAFZQOCCGAQAAMAoAnQEqDwAPAAAAACWwAnS6AfgB+ICYAOkT+zP2gJ4AywTxD8ZvyO0kv4gfsdlgP5v+LuoUflHrt/67+JPKO+4L/C/4r/RPxk/qv/U5R39IDuBbiqsh/BHcAP7//rhzQn1fziE5kwgZVeEYpGz5MTKG2hHGtI/Ed/T/62wuDH4WqPmgtwOV//oUHmjTr5OH4hMsvsco/sm1eEThY9N3EpvMRilZwi5P6NSYIK7Ttji6XNB1WEl9Xw2fvlKlWdmQ9QNg/xte5Lpr5//vG0q3e1gyJW/teFsCbA/n8uloSqhUk2po2wG7/3s7Y/Zd2sZ/ja5i8bD1dPYwoZ+SG/+9RKB3dpT7prjbXCOpUOFe4wKvp/9Bfj1CizNGj9M8bSonGh+v/Kqj1360Cy3v8an0zS0SdDfCxIG+LQX+4bJdVlZZqf/vjY/EObmWa1a/5WESpLc87alzTT7mXG/7gN1MquHf+/wbX7USJu3/7h6N7ouNC8HZdvF9k36vm0Ud6P3rgbQ81gAA");
     --Status-SDown-Icon: url("data:image/webp;base64,UklGRuoBAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSCAAAAABUNJIEqP88xqa2s7u2eOImACOQYNy8ZjDfKUO6TFoCVZQOCCkAQAAEAwAnQEqDwAPAAAAACWwAnS6AUQD+AfkB/QN4A/gG2AfpLvoHAAdJd+1/7AezNcgK5D+RfgB+O2kT/BT8gMwB/Ivx21Cj8L9cp/K/wz5gD/Ae4H/A/4f/Z/xc/ePlJf1APRyueLX06fsAP7//nDZ0V0qolnBnTgc4THti5/7yh9yfQX5iQtt2Et9F/wD/mvTOceHTEQjsCbX8PWPIvfLY5zFy6IPkifXRmf80XqtyhRL/68VylvnLr4/o/KK///bpGJM43agAHbnNSFxv4qp6XNVBsHWnf5Oe9wKK4asyvi+9jTu57yvkM3SspCSseKRqMPn/+7dPH3M8/H+ql+Z3XimLbs3bfuwpeChAahUFYu+3H+o8pdqA+UMiphLH/8e5MvOr0jKIcnrKI+Z/ues2iRPWrzj36yRrsMxL2f817S8f+ht4hvqdgBR8M7vv/dasJ//56/XV4fyd1yYWVWASDmqvxCckO7otFvyRguHWyZcLoEzCYf/SyFbpRZv/03wqYVZ/9okg17X1oSL/Mr99z+ySEPBYqT1dhMIRxdYB/gQAAAA");
     /* End Debuff */
+    /* Begin Buff */
+    --Status-Insight-Icon: url("data:image/webp;base64,UklGRuwBAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSCIAAAABUBvJSlU5QwugNss/e2TGETEB5I06++DRi/6VWKRYovYAVlA4IKQBAABwCwCdASoPAA8AAAAAJbACdLoB+ADXAP0AywDnlfYp8k2jO/hB+pOWs+k/ib+pOil/AD9gP8rmEf5v+Rn8A1Tf8RtcB/d/xg5gD+Afir9AH8A/if8x/ErjFP1ARH/pyIs0ICyYAP7//bRbd6f19XJF1YMceyDk0/3kLf/+3138tKZvDtJgXagmun93C/OXmcVHwxhpEmtUHtUf+Tv/+NmTZV7p/+f0lE1IEdIXrh6l7+IuF2GjV92kqQWws2d8wqpb99xjLWBdQIeWDr7ZLgsnECXkmgCrICBTuWGUEGJoP8Ddu044tjo8wGBrr//7ALXFjB+GpoA+gKgiCIVeYYwyh0NEWGMwO9jt8MIH5L01wcUjS7yTXbUbu1yr+NftTy1l3cjnaOE8tAihQHpUHYKdLQo2gGc5dT+7iKUfmOSavnluLUx129keEsKojTvGVaCHeXlOi8P6DFvH+j8txtlyo3/87rrNy71d3zP/HH/6cyDwQ38h/OA/HH/7Hhd+s5KMbYl//Wfb+qlQc0+4h/KP/+JBg3qG3jtyGDh0pSteZ7dgAAA=");
+    /* End Buff */
     /* Begin Unbalance Rate */
     --Unbalance-Rate-Start-Icon: url("data:image/webp;base64,UklGRsQBAABXRUJQVlA4WAoAAAAQAAAACgAADgAAQUxQSIsAAAANgGzbtulo39i2rVZ6Tr46I730bNtl2w/lql+IiAnA/wnef+HwwDLvAAhH5pW2HwEQIvVHL+vXFDgCndX8NAgebcBxxFQTSpMdVsCxJNh3lsorReAwU7f4pMFIORAKNQeSl+t3DoEgUiwJow9igLzOc1q+wcMD8FgQiQ63Yg7wzjB4p94Ivr8DwDsAAFZQOCASAQAA0AcAnQEqCwAPAAAAACWUAnQwRTybrkB9AFmB/TZk5/G78ANcg/G7XO/4DyQPIF8J/3b1IP61+N/758pL+lZ9s6KIRBgMsaAA/v//J7V5XRfuj7MmsmpRjamiOP/iPFqK0p8qL7jTCfnr7IDWURbhvv5JFhg0Pt/7Hp6taJ59vTx7dhIz5d/+2fK/8w/9zjk+It/zj/GTJ1llvw/71WCqv9yo/O78atdVJ2/qAc84ebQ3MKaPnXCROJyD/hfv+BwJLrcf+JLFhajicoP+Lo5dBqaPyf60h9bmvq8ox2B0URQET6VU/ZM4cBP2N/v9CxIYKP0vI/J/53sY9//S62g/+Zlq5oAN28yjFp4efv0TBsAAAA==");
     --Unbalance-Rate-Empty-Start-Icon: url("data:image/webp;base64,UklGRn4BAABXRUJQVlA4WAoAAAAQAAAACgAADgAAQUxQSIsAAAANgGzbtulo39i2rVZ6Tr46I730bNtl2w/lql+IiAnA/wnef+HwwDLvAAhH5pW2HwEQIvVHL+vXFDgCndX8NAgebcBxxFQTSpMdVsCxJNh3lsorReAwU7f4pMFIORAKNQeSl+t3DoEgUiwJow9igLzOc1q+wcMD8FgQiQ63Yg7wzjB4p94Ivr8DwDsAAFZQOCDMAAAAcAQAnQEqCwAPAAAAACWkAnQdoA8oDlm+uXuAfpB/l+AA/TMy/1EtNZ1NyAAA/v//mmuo2UW7J/mHAn/1lHtPCfHNj/yiH1cJML/dV4NaDBLWGLD1mccWhHZ/6ZDIwKfaueg7X5Hp/v22OifqVpIj3/7EHHn5cn67VLu9qMQUP1iXvvy556ag/T+T0m2OWafwzdtck/f/spj6j7ks+b8Jge5fm9pZyQ7E2eo0vLfc8Wui5mp+uICc1Zv2aa6VmEUwBtDZvF5HLikfGgAA");
@@ -276,7 +279,10 @@
     /* End Fish */
     /* End Icons */
     --Location-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAACb0lEQVQoU32Ry09TURjE53zncLGlj1tuH5SKNS2lLYkESKCEh0HqgkT/AaML40YXLsT/w62JIS40blgbEk0E0g0mrjQ+g4AasCCNpaFSaO/t+VzUaHThbGd+mWRG4D+Ke9zodrvAAD5XD7F7dPzbE39if+tCTxTnY5GRtOm9qZntd/sHd55s775fLu4BANQ/eQCAS0pMRKyei9nUs9DV6z5dq+H0g3uzQuBMYae032RugcFgELncKHw+n7AsyxCOYyQPSvmO3ITXNzUDAeDHi9XuE5XD0elz00+Xllda4NzcLXc+n58Ph0N9lmWdrNfr3vqnjUbt0X1h7xaha4c43voirtydf6gfLw4uLa/sKNM00d/fP5bJpC8BEMyMZlNrETvVQWOT2Lx9A0JJ+C5fAwKdob6+1NlYLLagUqleEFGOmUFE0FqDmVkpBTkzC/66hbbOIFy5CQAQHo9ncmhocEElk0kkk8kxKaVoNGxISQyAmRmObUOOjMNlWSApobVGPB6fSiQSpFKplNHVFRlmBqSUkFKCiITjOOD97zC2N8HlXdh+E21mAKYZSGez2YjKZjMJpVRU6yYAAWbWRCSkVBBWCM7AKJTbBfL6oLWGlNTu9/uHlWVZ48xMAEAk0Gw6zUaj0SYEQSoF1RWF0d4OIoHWcI4Ih8NTyradqdbtYABMJL8RUQBAh+M4ACCICEpJAGAhCEKIsCqVSouFQuE1M78pFnferq4+34tGu9rS6XRvMBgcNAxjIBAIxGq12oejo9qrYrH4cn19Y0tEIhEYhoFKpYJqtfqrHDAMA6ZpIpNJo9GwATDW1j6iXC4DAH4CLDzoODnrHK0AAAAASUVORK5CYII=");
-    
+    /* Begin Craft */
+    --Craft-Icon: url("data:image/webp;base64,UklGRjoCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHwAAAABcFtbe9p8ZthCTmscIThH1kub0jtwGYYxDF9A0gwRMQGQpkcB3fQ1NpGhit/k1C1DQ5I8SHKe9pL4QXkjAKRvKqdOIH1Sc24X5aQ1HIqLVrtGflZN3daBlZwVzcoxADO/zCTnaufj38gu5NStXMjN7DT2G9tQwCrKrYN/VlA4IJgBAAAQCwCdASoPAA8AAAAAJQBOjkZv4BzwH7AfAv9oHsU0YD8AP2OywTzv8Tf1u/t2k7/DP9gMsB/O9IA/tf4k67v/AeQB3pP4zfQB/Df4d/RvxS/qXIAfoAfVJc7h8cKv2uagAP76gTbYfdZCgCAlN/D//wFhxazjqsrYIGDNwaMb971BY7/ACfj3R7mHRg1uTeFEH/4HXwy/FfYwzXTlTNp75XEC8FDNgjxyo/PHR9eL2y696RfXyVZ9t6EpOUafMVXf+NJYiXnlorf8LBci2RAvAe/3vzVlSdq/2fxBQvr/vkguZAz/7k9m/SF+/AqtK1VUWh99Cwxbh8w1V+OpwFB/5t/OVnTEWaYLr14tVe6wf0obJKv6VkLT+9mhzlNbugRBb//7cXyp1JhzhTHID5NWln1CqWWGKhj1cYf7tP4YpYDvzzX/3cilkQtTRsqtJf/xiL+wfOz0//NrMKFhW0q/LDlDbnGMnYXyDV8vXuJ50ueok78H9r+m4zDdwUYFmR/NgUpLLO2Qjb9nf6rPm+AtDfRpT2o1oAA=");
+    --S-Craft-Icon: url("data:image/webp;base64,UklGRjICAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSIQAAAABcBvbtqqc77+Oj7tlTnX0QUhKSAnu7lAD2Xv3fq8hIiYAoeVxAnHLX7FOKVHFH7N8DuwQpfZmZqZ/M6CWXhRgsXUA1D4cKXdp1L4cd5edUCwalS9xaNlD4RwlF30DavZKIWLaNBRAbdyJmWnW0hBUshdmOW1qCFdyJzlrq4hWssO2jiBWUDggiAEAAJAKAJ0BKg8ADwAAAAAlsAJ0ugH4AUaVuhX68fsd7LNGA/Dn9bssE83/C/PAfjX+pOUzfkBqgH9r/G7XLf0b8gOYa/nP43fQB/Bf4Z/P/xq/dTlAP0AKBeqCvXLXuAD4Fn9KD7j6mEuladlK1hpZ37s3y1up3jsmdJlhrYpEKoZ89a0kgmpsVGWfn2vvV1BC0lkj4Eto4RVCLBBcxurz7MZGvzV9JE+uZ9bXuF5Rp/ZT4xHHSHk4Y9wEop7daKkwL8S6rPXL3Tf//cLnb1Ckfs/6rKMFk8zLPIAc/nhbptP+wQDkX15RWoeYNGM5eHCsoHcOQ9Iyupx7/tyaD//YcjmLnmfieQ2bR4dJb/+ETTkfXDvY5bEWz0mObOlC6YScp84lM+jAqPzoP5Rof9pMp/s1D/++H5kqrenNKxbXMfPy/17/oBx/SazrqPe3taUniMqlUf/40//z+Mbtf+1WB6XwLfV8Pd//E/NVHvxOHw1/stvj/837DoqlP+2X0A7bjn4TJ3G/jAAA");
+    /* End Craft */
 }
 
 /* Common */
@@ -1923,3 +1929,101 @@ div[data-id="Location"] div.setting-item-description::before,
     padding-right: var(--Link-Icon-Padding);
 }
 /* End Location */
+
+/* Begin Craft */
+div[data-id="Craft"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Craft.Craft"]::before {
+    content: var(--Craft-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+div[data-id="SCraft"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Craft.SCraft"]::before {
+    content: var(--S-Craft-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+/* End Craft */
+
+/* Begin Status */
+div[data-id="Poison"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Poison"]::before {
+    content: var(--Status-Poison-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Burn"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Burn"]::before {
+    content: var(--Status-Burn-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Death"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Death"]::before {
+    content: var(--Status-Death-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Seal"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Seal"]::before {
+    content: var(--Status-Seal-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Freeze"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Freeze"]::before {
+    content: var(--Status-Freeze-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Nightmare"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Nightmare"]::before {
+    content: var(--Status-Nightmare-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Mute"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Mute"]::before {
+    content: var(--Status-Mute-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Petrify"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Petrify"]::before {
+    content: var(--Status-Petrify-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Delay"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Delay"]::before {
+    content: var(--Status-Delay-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Blind"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Blind"]::before {
+    content: var(--Status-Blind-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Faint"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Faint"]::before {
+    content: var(--Status-Faint-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Vanish"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Vanish"]::before {
+    content: var(--Status-Vanish-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Sleep"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Sleep"]::before {
+    content: var(--Status-Sleep-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Confuse"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Confuse"]::before {
+    content: var(--Status-Confuse-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="SDown"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.SDown"]::before {
+    content: var(--Status-SDown-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+div[data-id="Insight"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Status.Insight"]::before {
+    content: var(--Status-Insight-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+/* End Status */

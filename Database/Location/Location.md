@@ -35,12 +35,16 @@ Locations:
   Maps:
     - "![[images/Maps/西凯尔迪克街道2.webp]]"
   Fishes:
+    - "[[Database/Fish/Crayfish|鳌虾]]"
+    - "[[Database/Fish/Gluttonous Bass|大口鲈鱼(二周目)]]"
+    - "[[Database/Fish/Eel|鳗鱼(二周目)]]"
 
 - Name: "东凯尔迪克街道1"
   ID: "dong-kai-er-di-ke-jie-dao-1"
   Maps:
     - "![[images/Maps/东凯尔迪克街道1.jpg]]"
   Fishes:
+    - "[[Database/Fish/Kasagin|银伞鱼]]"
 
 - Name: "东凯尔迪克街道2"
   ID: "dong-kai-er-di-ke-jie-dao-2"

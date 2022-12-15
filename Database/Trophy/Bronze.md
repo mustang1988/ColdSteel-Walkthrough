@@ -4,229 +4,229 @@ Trophies:
   - ID: "gang-yi-zhi-rong-guan"
     Title: "剛毅之榮冠"
     Comment: "以困難以上的難度成功破關"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "bai-wan-fu-weng"
     Title: "百萬富翁"
     Comment: "持有金錢達到100萬米拉以上"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "yan-xu-zhi-ya-shi"
     Title: "延續之雅士"
     Comment: "遊玩時間達到100小時以上"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "zhi-jing-zhi-zhu"
     Title: "至境之珠"
     Comment: "將任何一個核心迴路的等級提昇至LV5"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "zhi-gao-zhi-jian"
     Title: "至高之劍"
     Comment: "製作最強武器"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "li-zhan-zhi-yong-shi"
     Title: "力戰之勇士"
     Comment: "戰鬥勝利次數達到100次"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "fen-zhan-zhi-meng-zhe"
     Title: "奮戰之猛者"
     Comment: "戰鬥勝利次數達到500次"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "li-zhan-zhi-sheng-zhe"
     Title: "歷戰之勝者"
     Comment: "戰鬥勝利次數達到1000次"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "lei-guang-yi-shan"
     Title: "雷光一閃"
     Comment: "發動先制／優勢／奇襲攻擊的次數總計達到300次"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "chao-jue-mi-ji"
     Title: "超絕秘技"
     Comment: "發動100次S-Break"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "bai-hua-ying-ji"
     Title: "百花迎擊"
     Comment: "阻止敵人驅動技巧‧魔法的次數達到100次"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "xuan-lan-gong-shou"
     Title: "絢爛攻守"
     Comment: "戰術獎勵達到x2.0以上"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "ba-tou-ji-mie"
     Title: "八頭擊滅"
     Comment: "同時打倒８個敵人"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "lian-jie-da-shi"
     Title: "連結大師"
     Comment: "任兩位角色間的連結等級達到５"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "zhui-ji-da-shi"
     Title: "追擊大師"
     Comment: "追擊成功500次以上"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "lian-xu-meng-gong-da-shi"
     Title: "連續猛攻大師"
     Comment: "成功發動100次以上的連續猛攻"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "bao-lie-meng-gong-da-shi"
     Title: "爆裂猛攻大師"
     Comment: "成功發動50次以上的爆裂猛攻"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "te-you-sheng"
     Title: "特優生"
     Comment: "在任何一章中獲得Ｓ級評價"
-    Chapter: ""
+    When: "[[Walkthrough/Chapter 1#^trophy-te-you-sheng|第一章 4.25]]"
     Tips: |
 
   - ID: "he-ya-li-sha-de-ji-ban"
     Title: "和亞莉莎的羈絆"
     Comment: "和亞莉莎培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-ai-lue-te-de-ji-ban"
     Title: "和艾略特的羈絆"
     Comment: "和艾略特培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-lao-la-de-ji-ban"
     Title: "和勞拉的羈絆"
     Comment: "和勞拉培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-ma-qi-ya-si-de-ji-ban"
     Title: "和馬奇亞斯的羈絆"
     Comment: "和馬奇亞斯培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-ai-ma-de-ji-ban"
     Title: "和艾瑪的羈絆"
     Comment: "和艾瑪培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-you-xi-si-de-ji-ban"
     Title: "和尤西斯的羈絆"
     Comment: "和尤西斯培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-fei-de-ji-ban"
     Title: "和菲的羈絆"
     Comment: "和菲培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-gai-wu-si-de-ji-ban"
     Title: "和蓋烏斯的羈絆"
     Comment: "和蓋烏斯培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-mi-li-ya-mu-de-ji-ban"
     Title: "和米莉亞姆的羈絆"
     Comment: "和米莉亞姆培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-ke-luo-de-ji-ban"
     Title: "和克洛的羈絆"
     Comment: "和克洛培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-sha-la-de-ji-ban"
     Title: "和莎拉的羈絆"
     Comment: "和莎拉培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "he-tuo-wa-de-ji-ban"
     Title: "和托娃的羈絆"
     Comment: "和托娃培養出深厚的羈絆"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "jun-guan-xue-yuan-ru-xue"
     Title: "軍官學院入學"
     Comment: "到達了托利斯塔市街"
-    Chapter: "[[Walkthrough/Chapter 0#^trophy-jun-guan-xue-yuan-ru-xue|序章 3/31]]"
+    When: "[[Walkthrough/Chapter 0#^trophy-jun-guan-xue-yuan-ru-xue|序章 3/31]]"
     Tips: |
 
   - ID: "tuo-er-zi-jun-guan-xue-yuan"
     Title: "托爾茲軍官學院"
     Comment: "完成序章「托爾茲軍官學院」"
-    Chapter: "[[Walkthrough/Chapter 0#^trophy-tuo-er-zi-jun-guan-xue-yuan|序章 3/31]]"
+    When: "[[Walkthrough/Chapter 0#^trophy-tuo-er-zi-jun-guan-xue-yuan|序章 3/31]]"
     Tips: |
 
   - ID: "xin-xue-qi-shou-ci-shi-xi"
     Title: "新學期～首次實習～"
     Comment: "完成第一章「新學期～首次實習～」"
-    Chapter: ""
+    When: "[[Walkthrough/Chapter 1#^trophy-xin-xue-qi-shou-ci-shi-xi|第一章 4/25]]"
     Tips: |
 
   - ID: "mei-li-de-fei-cui-zhi-du"
     Title: "美麗的翡翠之都"
     Comment: "完成第二章「美麗的翡翠之都」"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "heng-kua-tie-lu-cang-qiong-de-da-di"
     Title: "橫跨鐵路～蒼穹的大地～"
     Comment: "完成第三章「橫跨鐵路～蒼穹的大地～」"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "fei-hong-di-du-zhong-xia-jie"
     Title: "緋紅帝都～仲夏節～"
     Comment: "完成第四章「緋紅帝都～仲夏節～」"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "kai-shi-xing-dong-de-yi-zhi"
     Title: "開始行動的意志"
     Comment: "完成第五章「開始行動的意志」"
-    Chapter: ""
+    When: ""
     Tips: |
 
   - ID: "hei-yu-yin-gang-du-dong-luan"
     Title: "黑與銀～鋼都動亂～"
     Comment: "完成第六章「黑與銀～鋼都動亂～」"
-    Chapter: ""
+    When: ""
     Tips: |
     
 ---

@@ -9,7 +9,7 @@ Arts:
     Range: "圆S(指定地点)"
     Effects:
       - "黑暗(30%)"
-    Comment: "用金色的魔法球玩弄敌人并进行攻击.有30%机率造成「黑暗」."
+    Comment: "用金色的魔法球玩弄敌人并进行攻击.有30%机率造成 [[Database/Status/Blind|黑暗]]."
   - Name: "暗物质"
     ID: "an-wu-zhi"
     Element: "Space"
@@ -49,7 +49,7 @@ Arts:
     Range: "单体"
     Effects:
       - "心眼"
-    Comment: "赐予闪耀的天启. 赋予1名伙伴「心眼」效果, 持续4回合."
+    Comment: "赐予闪耀的天启. 赋予1名伙伴 [[Database/Status/Insight|心眼]] 效果, 持续4回合."
   - Name: "炽天使之环"
     ID: "chi-tian-shi-zhi-huan"
     Element: "Space"

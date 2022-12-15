@@ -371,7 +371,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "假管理员"
   ID: "jia-guan-li-yuan"
   Description: |
@@ -380,7 +379,7 @@ Bosses:
     以来福枪武装自己.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 12
     HP: 2178
@@ -432,7 +431,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "古尔诺加"
   ID: "gu-er-nuo-jia"
   Description: |
@@ -445,7 +443,7 @@ Bosses:
     能让敌人化为粉尘.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 13
     HP: 28558

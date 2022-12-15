@@ -16,7 +16,7 @@ Arts:
     Range: "直线S(指定地点)"
     Effects:
       - "封技(20%)"
-    Comment: "释放直线状的电击. 有20%机率造成「封技」."
+    Comment: "释放直线状的电击. 有20%机率造成 [[Database/Status/Seal|封技]]."
   - Name: "风之领域"
     ID: "feng-zhi-ling-yu"
     Element: "Wind"
@@ -31,7 +31,7 @@ Arts:
     Range: "直线M(指定地点)"
     Effects:
       - "封技(50%)"
-    Comment: "使审判之雷四处流窜. 有50%机率造成「封技」."
+    Comment: "使审判之雷四处流窜. 有50%机率造成 [[Database/Status/Seal|封技]]."
   - Name: "末日龙卷"
     ID: "mo-ri-long-juan"
     Element: "Wind"
@@ -39,7 +39,7 @@ Arts:
     Range: "全体"
     Effects:
       - "封技(30%)"
-    Comment: "以蕴含雷击的巨大龙卷吞噬敌人. 有30%机率造成「封技」."
+    Comment: "以蕴含雷击的巨大龙卷吞噬敌人. 有30%机率造成 [[Database/Status/Seal|封技]]."
   - Name: "生命之息"
     ID: "sheng-ming-zhi-xi"
     Element: "Wind"

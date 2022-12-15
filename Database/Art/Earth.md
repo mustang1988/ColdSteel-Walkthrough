@@ -8,7 +8,7 @@ Arts:
     Range: "单体"
     Effects:
       - "石化(20%)"
-    Comment: "射出尖锐的岩石. 有20%几率造成「石化」"
+    Comment: "射出尖锐的岩石. 有20%几率造成 [[Database/Status/Petrify|石化]]"
 
   - Name: "大地之枪"
     ID: "da-di-zhi-qiang"
@@ -16,7 +16,7 @@ Arts:
     Range: "圆S(指定地点)"
     Effects:
       - "石化(20%)"
-    Comment: "从地面刺出尖锐的石之枪. 有20%几率造成「石化」."
+    Comment: "从地面刺出尖锐的石之枪. 有20%几率造成 [[Database/Status/Petrify|石化]]."
     
   - Name: "大地崩裂"
     ID: "da-di-beng-lie"
@@ -32,7 +32,7 @@ Arts:
     Range: "圆L(指定地点)"
     Effects:
       - "石化(30%)"
-    Comment: "以拥有意志的大树穿刺敌人, 有30%几率造成「石化」."
+    Comment: "以拥有意志的大树穿刺敌人, 有30%几率造成 [[Database/Status/Petrify|石化]]."
     
   - Name: "远古巨岩"
     ID: "yuan-gu-ju-yan"
@@ -40,7 +40,7 @@ Arts:
     Range: "圆LL(指定地点)"
     Effects:
       - "石化(20%)"
-    Comment: "在上空召唤出巨石, 使其坠落至交战区域. 有20%几率造成「石化」."
+    Comment: "在上空召唤出巨石, 使其坠落至交战区域. 有20%几率造成 [[Database/Status/Petrify|石化]]."
     
   - Name: "大地之愈"
     ID: "da-di-zhi-yu"

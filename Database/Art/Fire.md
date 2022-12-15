@@ -9,7 +9,7 @@ Arts:
     Range: "单体"
     Effects:
       - "炎伤(20%)"
-    Comment: "射出熊熊燃烧的火球. 有20%机率造成「炎伤」."
+    Comment: "射出熊熊燃烧的火球. 有20%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "灼热之波"
     ID: "zhuo-re-zhi-bo"
     Element: "Fire"
@@ -17,7 +17,7 @@ Arts:
     Range: "圆S"
     Effects:
       - "炎伤(30%)"
-    Comment: "以高热笼罩地表, 将敌人焚烧殆尽. 有30%机率造成「炎伤」."
+    Comment: "以高热笼罩地表, 将敌人焚烧殆尽. 有30%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "火焰之舌"
     ID: "huo-yan-zhi-she"
     Element: "Fire"
@@ -25,7 +25,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "炎伤(20%)"
-    Comment: "从地面喷出烈焰贯穿敌人. 有20%机率造成「炎伤」."
+    Comment: "从地面喷出烈焰贯穿敌人. 有20%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "火山弹雨"
     ID: "huo-shan-dan-yu"
     Element: "Fire"
@@ -33,7 +33,7 @@ Arts:
     Range: "圆L"
     Effects:
       - "炎伤(30%)"
-    Comment: "如雨般降下灼热的火山弹. 有30%机率造成「炎伤」."
+    Comment: "如雨般降下灼热的火山弹. 有30%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "燃点爆裂"
     ID: "ran-dian-bao-lie"
     Element: "Fire"
@@ -41,7 +41,7 @@ Arts:
     Range: "圆LL"
     Effects:
       - "炎伤(20%)"
-    Comment: "令两柱烈焰互相碰撞引发大爆炸. 有20%机率造成「炎伤」."
+    Comment: "令两柱烈焰互相碰撞引发大爆炸. 有20%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "千阳新星"
     ID: "qian-yang-xin-xing"
     Element: "Fire"
@@ -49,7 +49,7 @@ Arts:
     Range: "圆S"
     Effects:
       - "炎伤(50%)"
-    Comment: "召唤炼狱的业火, 使敌人化为灰烬. 有50%机率造成「炎伤」."
+    Comment: "召唤炼狱的业火, 使敌人化为灰烬. 有50%机率造成 [[Database/Status/Burn|炎伤]]."
   - Name: "振奋之激"
     ID: "zhen-fen-zhi-ji"
     Element: "Fire"

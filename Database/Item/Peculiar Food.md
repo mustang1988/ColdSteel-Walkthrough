@@ -67,7 +67,7 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+600"
-      - "「心眼」持续5回合"
+      - "[[Database/Status/Insight|心眼]] 持续5回合"
 
   - Name: "清淡面"
     ID: "qing-dan-mian"

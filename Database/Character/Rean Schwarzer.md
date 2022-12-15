@@ -23,7 +23,7 @@ Notes:
           同时也因被治理帝国北部的《悠米而》的
           
           《舒华泽男爵家》拾获而成为该家的养子.
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^character-li-en-1|第一章 4/25]]"
     How: "剧情自动获得"
   - Title: "兄妹情深"
     ID: "li-en-2"

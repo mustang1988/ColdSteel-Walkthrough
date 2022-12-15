@@ -60,7 +60,7 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯。
 > - 核心回路收集进度: 3/28 (+3) [^3]
 > - 奖杯进度: 2/51 (+2) [^4]
 
-[^1]: 新获得战斗笔记为: [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
-[^2]: 新获得宝箱为: [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
-[^3]: 新获得核心回路为: [[Database/Quartz/Force|力量]],[[Database/Quartz/Canon|法则]],[[Database/Quartz/Falco|迅隼]]
-[^4]: 新获得奖杯为: [[Database/Trophy/Bronze#^jun-guan-xue-yuan-ru-xue|軍官學院入學]],[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]
+[^1]: (+5)战斗笔记为: [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
+[^2]: (+5)宝箱为: [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
+[^3]: (+3)核心回路为: [[Database/Quartz/Force|力量(黎恩初始核心)]],[[Database/Quartz/Canon|法则(艾略特初始核心)]],[[Database/Quartz/Falco|迅隼(盖乌斯初始核心)]]
+[^4]: (+2)奖杯为: [[Database/Trophy/Bronze#^jun-guan-xue-yuan-ru-xue|軍官學院入學]],[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]

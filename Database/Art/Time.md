@@ -9,7 +9,7 @@ Arts:
     Range: "单体"
     Effects:
       - "昏厥(30%)"
-    Comment: "释放摇撼时空的震波. 有30%机率造成「昏厥」."
+    Comment: "释放摇撼时空的震波. 有30%机率造成 [[Database/Status/Faint|气绝]]."
   - Name: "恶魔之镰"
     ID: "e-mo-zhi-lian"
     Element: "Time"
@@ -17,7 +17,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "即死(30%)"
-    Comment: "以死神的大镰收割生命. 有30%机率造成「即死」."
+    Comment: "以死神的大镰收割生命. 有30%机率造成 [[Database/Status/Death|即死]]."
   - Name: "厄运之蝶"
     ID: "e-yun-zhi-die"
     Element: "Time"
@@ -25,7 +25,7 @@ Arts:
     Range: "圆LL"
     Effects:
       - "噩梦(50%)"
-    Comment: "召唤出漆黑之蝶, 使目标陷入绝望. 有50%机率造成「噩梦」."
+    Comment: "召唤出漆黑之蝶, 使目标陷入绝望. 有50%机率造成 [[Database/Status/Nightmare|恶梦]]."
   - Name: "暗影伪典"
     ID: "an-ying-wei-dian"
     Element: "Time"

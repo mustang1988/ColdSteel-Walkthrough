@@ -809,8 +809,7 @@ Monsters:
     Vanish: 100
     Sleep: 50
     Confuse: 100
-    SDown: 100
-
+    SDown: 10
 - Name: "坚硬害虫"
   ID: "jian-ying-hai-chong"
   Description: |
@@ -819,7 +818,9 @@ Monsters:
     因为会把田中的谷物吃得乱七八糟而受人们厌恶.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 11
     HP: 1581
@@ -871,7 +872,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 - Name: "水母菇"
   ID: "shui-mu-gu"
   Description: |
@@ -882,7 +882,9 @@ Monsters:
     再慢慢吸收养分.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 11
     HP: 1451
@@ -934,7 +936,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 - Name: "刀刃角虫"
   ID: "dao-ren-jiao-chong"
   Description: |
@@ -943,7 +944,9 @@ Monsters:
     会顺势割裂敌人.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 11
     HP: 1608
@@ -995,7 +998,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 - Name: "疾风竹叶猫"
   ID: "ji-feng-zhu-ye-mao"
   Description: |
@@ -1006,7 +1008,9 @@ Monsters:
     击退外敌.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 12
     HP: 1697
@@ -1254,7 +1258,9 @@ Monsters:
     强烈到令对方无法保持意识清醒.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-1|露纳利亚自然公园1]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-2|露纳利亚自然公园2]]"
+    - "[[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]]"
   Properties:
     LV: 13
     HP: 3269

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b23aee8675d81c",
+        "id": "ff0467ef2f05c0f7",
         "type": "tabs",
         "children": [
           {
-            "id": "604e2140d9a4dd4c",
+            "id": "59fa3bcd752e9070",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Item/Accessory.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "酥脆",
+                "query": "「",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
+                "file": "Database/Item/Accessory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
+                "file": "Database/Item/Accessory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Chapter 1.md"
+                "file": "Database/Item/Accessory.md"
               }
             }
           }
@@ -135,15 +139,15 @@
   },
   "active": "e9a920dda4cc7f1e",
   "lastOpenFiles": [
-    "Database/Enemy/Boss.md",
-    "Walkthrough/Chapter 1.md",
-    "Database/Enemy/Monster.md",
-    "Database/Location/Location.md",
-    "Database/Treasure Chest/Treasure Chest.md",
-    "Database/Quest/Side Quest.md",
-    "Database/Recipe/Recipe.md",
-    "Walkthrough/Chapter 0.md",
-    "Database/Quest/Main Quest.md",
-    "DEBUG.md"
+    "Database/Item/Peculiar Food.md",
+    "Database/Art/Space.md",
+    "Database/Status/Insight.md",
+    "Database/Status/Death.md",
+    "Database/Art/Wind.md",
+    "Database/Art/Water.md",
+    "Database/Art/Time.md",
+    "Database/Art/Mirage.md",
+    "Database/Art/Fire.md",
+    "Database/Art/Earth.md"
   ]
 }

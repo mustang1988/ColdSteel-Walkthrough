@@ -16,7 +16,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "混乱(40%)"
-    Comment: "降下带有疯狂气息的银色刀刃. 有40$机率造成「混乱」."
+    Comment: "降下带有疯狂气息的银色刀刃. 有40$机率造成 [[Database/Status/Confuse|混乱]]."
   - Name: "星光之剑"
     ID: "xing-guang-zhi-jian"
     Element: "Mirage"
@@ -39,7 +39,7 @@ Arts:
     Range: "圆LL"
     Effects:
       - "随机能力降低"
-    Comment: "以死亡的幻觉使目标坠入恐惧的深渊. 随机造成「能力降低」."
+    Comment: "以死亡的幻觉使目标坠入恐惧的深渊. 随机造成 [[Database/Status/SDown|能力降低]]."
   - Name: "神圣之力"
     ID: "shen-sheng-zhi-li"
     Element: "Mirage"
@@ -47,8 +47,8 @@ Arts:
     Range: "单体"
     Effects:
       - "4回合STR·DEF+25%"
-      - "解除「能力降低」"
-    Comment: "以洁净的光辉使STR·DEF+25%, 并解除「能力降低」状态."
+      - "解除 [[Database/Status/SDown|能力降低]]"
+    Comment: "以洁净的光辉使STR·DEF+25%, 并解除 [[Database/Status/SDown|能力降低]] 状态."
   - Name: "新月之镜"
     ID: "xin-yue-zhi-jing"
     Element: "Mirage"

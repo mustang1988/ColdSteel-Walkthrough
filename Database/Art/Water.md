@@ -17,7 +17,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "冻结(20%)"
-    Comment: "以结晶化的冰之刃攻击.有20%几率造成「冻结」."
+    Comment: "以结晶化的冰之刃攻击.有20%几率造成 [[Database/Status/Freeze|冻结]]."
   - Name: "水流轰击"
     ID: "shui-liu-hong-ji"
     Element: "Water"
@@ -32,7 +32,7 @@ Arts:
     Range: "直线L(指定地点)"
     Effects:
       - "冻结(30%)"
-    Comment: "创造出闪耀着白光的超低温大河. 有30%机率造成「冻结」."
+    Comment: "创造出闪耀着白光的超低温大河. 有30%机率造成 [[Database/Status/Freeze|冻结]]."
   - Name: "螺旋巨涡"
     ID: "luo-xuan-ju-wo"
     Element: "Water"
