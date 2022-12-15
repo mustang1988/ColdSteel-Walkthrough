@@ -19,7 +19,7 @@ Quartzs:
     ID: "qing-long-dao"
     Arts:
     Effects:
-      - "普通攻击·战技附加「封魔(10%)」、「冻结(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Mute|封魔(10%)]] 、[[Database/Status/Freeze|冻结(10%)]]"
     Compositions:
     Exchanges:
 

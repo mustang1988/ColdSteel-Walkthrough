@@ -142,7 +142,7 @@ Quartzs:
     Arts:
     Effects:
       - "STR+10"
-      - "普通攻击·战技附加「消灭(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Vanish|消失(10%)]]"
     Compositions:
     Exchanges:
       - Item: "[[Database/Quartz/Space R#^po-yan-zhi-ya|破言之牙]]"

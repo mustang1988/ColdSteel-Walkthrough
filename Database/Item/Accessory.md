@@ -146,26 +146,26 @@ Accessories:
     ID: "lv-se-zhui-shi"
     Description: "使用了风之耀晶石的钟摆型装饰品。"
     Effects:
-      - "「睡眠・恶梦・气绝・混乱」无效化"
+      - "[[Database/Status/Sleep|睡眠]] ・ [[Database/Status/Nightmare|恶梦]] ・ [[Database/Status/Faint|气绝]] ・ [[Database/Status/Confuse|混乱]] 无效化"
   - Name: "深邃之黄"
     ID: "shen-sui-zhi-huang"
     Description: "用高纯度的琥曜石进行加工, 拥有深邃的琥珀光泽的宝石。"
     Effects:
       - "DEF・ADF+50"
       - "SPD+5"
-      - "「封技・封魔」无效化"
+      - "[[Database/Status/Seal|封技]] ・ [[Database/Status/Mute|封魔]] 无效化"
   - Name: "寂静之蓝"
     ID: "ji-jing-zhi-lan"
     Description: "用高纯度的苍曜石进行加工, 散发出静谧的蓝色光辉之宝石。"
     Effects:
       - "ATS+50"
-      - "「毒・黑暗・炎伤」无效化"
+      - "[[Database/Status/Poison|中毒]] ・ [[Database/Status/Blind|黑暗]] ・ [[Database/Status/Burn|炎伤]] 无效化"
   - Name: "激情之红"
     ID: "ji-qing-zhi-hong"
     Description: "用高纯度的红曜石进行加工, 散发出鲜艳的红色光辉之宝石。"
     Effects:
       - "STR+50"
-      - "「冻结・石化・能力低下」无效化"
+      - "[[Database/Status/Freeze|冻结]] ・ [[Database/Status/Petrify|石化]] ・ [[Database/Status/SDown|能力降低]] 无效化"
   - Name: "常青之绿"
     ID: "chang-qing-zhi-lv"
     Description: "用高纯度的翠曜石进行加工, 散发出长青的翠绿光辉之宝石。"
@@ -173,13 +173,13 @@ Accessories:
       - "命中率+50%"
       - "回避率+10%"
       - "SPD+5"
-      - "「睡眠・气绝・恶梦・混乱」无效化"
+      - "[[Database/Status/Sleep|睡眠]] ・ [[Database/Status/Faint|气绝]] ・ [[Database/Status/Nightmare|恶梦]] ・ [[Database/Status/Confuse|混乱]] 无效化"
   - Name: "深渊之影"
     ID: "shen-yuan-zhi-ying"
     Description: "用高纯度的黑曜石进行加工, 散发出如深渊般黑色光辉之宝石。"
     Effects:
       - "SPD+15"
-      - "「即死・延迟・消失」无效化"
+      - "[[Database/Status/Death|即死]] ・ [[Database/Status/Delay|延迟]] ・ [[Database/Status/Vanish|消失]] 无效化"
   - Name: "替身傀儡"
     ID: "ti-shen-kui-lei"
     Description: "于陷入无法战斗前回复HP10%。使用一次后便会损坏。"
@@ -228,7 +228,7 @@ Accessories:
     Description: "蔡斯中央工房制作的装饰用手电筒。"
     Effects:
       - "命中率+25%"
-      - "「黑暗」无效化"
+      - "[[Database/Status/Blind|黑暗]] 无效化"
   - Name: "呱呱吊饰"
     ID: "gua-gua-diao-shi"
     Description: "以系列商品形式推出的吊饰。附有一只不知该如何形容的青蛙玩偶。"
@@ -276,13 +276,13 @@ Accessories:
     Effects:
       - "ATS・ADF+10"
       - "SPD+2"
-      - "「混乱」无效化"
+      - "[[Database/Status/Confuse|混乱]] 无效化"
   - Name: "技师护目镜"
     ID: "ji-shi-hu-mu-jing"
     Description: "提升集中力, 让人全心投入工作的技师用护目镜。"
     Effects:
       - "EP+100"
-      - "「黑暗」无效化"
+      - "[[Database/Status/Blind|黑暗]] 无效化"
   - Name: "莱恩福尔特奖牌"
     ID: "lai-en-fu-er-te-jiang-pai"
     Description: "刻有RF公司标志的纪念用奖牌。"
@@ -321,25 +321,25 @@ Accessories:
     Description: "用来赞扬学生之功绩的徽章。佩戴后将使人涌现干劲。"
     Effects:
       - "STR+5"
-      - "「气绝」无效化"
+      - "[[Database/Status/Faint|气绝]] 无效化"
   - Name: "纪律徽章"
     ID: "ji-lv-hui-zhang"
     Description: "用来赞扬学生之功绩的徽章。佩戴后将使人提振精神。"
     Effects:
       - "SPD+3"
-      - "「延迟」无效化"
+      - "[[Database/Status/Delay|延迟]] 无效化"
   - Name: "英气徽章"
     ID: "ying-qi-hui-zhang"
     Description: "用来赞扬学生之功绩的徽章. 佩戴后将使人士气大振."
     Effects:
       - "STR·ATS +10"
-      - "「能力降低」无效化"
+      - "[[Database/Status/SDown|能力降低]] 无效化"
   - Name: "炽煌徽章"
     ID: "chi-huang-hui-zhang"
     Description: "赠送给获得了甲零级的优秀学生之名誉奖章."
     Effects:
       - "STR·ATS·DEF·ADF+75"
-      - "「所有异常状态·能力降低·延迟」无效"
+      - "「所有异常状态」· [[Database/Status/SDown|能力降低]] · [[Database/Status/Delay|延迟]] 无效"
 ---
 ```dataviewjs
 const accessory = dv.current().Accessories[0];

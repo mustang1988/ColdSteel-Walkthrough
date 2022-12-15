@@ -97,7 +97,7 @@ Quartzs:
     Arts:
     Effects:
       - "STR+10"
-      - "普通攻击·战技附加「噩梦(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Nightmare|恶梦(10%)]]"
     Compositions:
     Exchanges:
       - Item: "[[Database/Quartz/Time R#^po-xun-zhi-ya|破迅之牙]]"

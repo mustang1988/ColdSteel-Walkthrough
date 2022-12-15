@@ -47,7 +47,7 @@ Foods:
     Range: "单体"
     Effects:
       - "EP+50"
-      - "「魔法反弹」1次"
+      - "[[Database/Status/Art Reflect|魔法反弹]] 1次"
 
   - Name: "黑色液体"
     ID: "hei-se-ye-ti"
@@ -81,7 +81,7 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+1000"
-      - "「完全防御物理攻击」1次"
+      - "[[Database/Status/Craft Guard|物理防御]] 1次"
 
   - Name: "红色液体"
     ID: "hong-se-ye-ti"

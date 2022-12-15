@@ -143,7 +143,7 @@ Quartzs:
     Arts:
       - "[[Database/Art/Water#^zhong-hui-fu-shu|中回复术]]"
     Effects:
-      - "有70%机率做出「极品料理」"
+      - "有70%机率做出 [[Database/Item/Superb Food|]] 极品料理"
     Compositions:
     Exchanges:
   - Name: "破灵之牙"

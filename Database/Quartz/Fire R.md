@@ -143,7 +143,7 @@ Quartzs:
     Arts:
       - "[[Database/Art/Fire#^huo-yan-zhi-she|火焰之舌]]"
     Effects:
-      - "有70%机率做「古怪料理」"
+      - "有70%机率做 [[Database/Item/Peculiar Food|]]、[[Database/Item/Attack Food| ]] 古怪料理"
     Compositions:
     Exchanges:
       - Item: "[[Database/Item/Peculiar Food#^ying-bang-bang-dan-bao-fan|硬梆梆蛋包饭]]"

@@ -13,14 +13,14 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+700"
-      - "解除「中毒」"
+      - "解除 [[Database/Status/Poison|中毒]]"
 
   - Name: "鲜榨果汁"
     ID: "xian-zha-guo-zhi"
     Range: "单体"
     Effects:
       - "HP+1000"
-      - "解除「昏厥」"
+      - "解除 [[Database/Status/Faint|气绝]]"
 
   - Name: "番茄三明治"
     ID: "fan-qie-san-ming-zhi"
@@ -34,21 +34,21 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+1200"
-      - "解除「封技」"
+      - "解除 [[Database/Status/Seal|封技]]"
 
   - Name: "香浓巧达汤"
     ID: "xiang-nong-qiao-da-tang"
     Range: "单体"
     Effects:
       - "HP+1400"
-      - "解除「冻结」"
+      - "解除 [[Database/Status/Freeze|冻结]]"
 
   - Name: "莓果塔"
     ID: "mei-guo-ta"
     Range: "单体"
     Effects:
       - "HP+1800"
-      - "解除「石化」"
+      - "解除 [[Database/Status/Petrify|石化]]"
 
   - Name: "鲜奶粥"
     ID: "xian-nai-zhou"
@@ -69,7 +69,7 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+1600"
-      - "解除「睡眠·噩梦」"
+      - "解除 [[Database/Status/Sleep|睡眠]] · [[Database/Status/Nightmare|恶梦]]"
 
   - Name: "番茄焗烤"
     ID: "fan-qie-ju-kao"
@@ -98,7 +98,7 @@ Foods:
     Effects:
       - "HP+2600"
       - "EP+50"
-      - "解除「炎伤」"
+      - "解除 [[Database/Status/Burn|炎伤]]"
 
   - Name: "军式烩饭"
     ID: "jun-shi-hui-fan"

@@ -111,7 +111,7 @@ Quartzs:
     ID: "du-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「中毒(10%)」."
+      - "普通攻击·战技附加 [[Database/Status/Poison|中毒(10%)]]."
     Compositions:
       - "[[Earth Sepith|x150]]"
     Exchanges:
@@ -123,7 +123,7 @@ Quartzs:
     ID: "du-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「石化(10%)」."
+      - "普通攻击·战技附加 [[Database/Status/Petrify|石化(10%)]]."
     Compositions:
       - "[[Earth Sepith|x250]]"
     Exchanges:

@@ -14,7 +14,7 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+1000"
-      - "解除「中毒」"
+      - "解除 [[Database/Status/Poison|中毒]]"
 
   - Name: "黄金特调"
     ID: "huang-jin-te-tiao"
@@ -35,21 +35,21 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+2000"
-      - "解除「封魔·封技」"
+      - "解除 [[Database/Status/Mute|封魔]] · [[Database/Status/Seal|封技]]"
 
   - Name: "宝石浓汤"
     ID: "bao-shi-nong-tang"
     Range: "单体"
     Effects:
       - "HP+2400"
-      - "解除「冻结」"
+      - "解除 [[Database/Status/Freeze|冻结]]"
 
   - Name: "奢侈总汇塔"
     ID: "she-chi-zong-hui-ta"
     Range: "单体"
     Effects:
       - "HP+2800"
-      - "解除「石化」"
+      - "解除 [[Database/Status/Petrify|石化]]"
 
   - Name: "诺尔德养生粥"
     ID: "nuo-er-de-yang-sheng-zhou"
@@ -64,14 +64,14 @@ Foods:
     Effects:
       - "HP+2000"
       - "CP+25"
-      - "解除「能力低下」"
+      - "解除 [[Database/Status/SDown|能力降低]]"
 
   - Name: "特级咖啡"
     ID: "te-ji-ka-fei"
     Range: "单体"
     Effects:
       - "HP+3000"
-      - "解除「睡眠·噩梦」"
+      - "解除 [[Database/Status/Sleep|睡眠]] · [[Database/Status/Nightmare|恶梦]]"
 
   - Name: "入口即化焗烤"
     ID: "ru-kou-ji-hua-ju-kao"
@@ -100,7 +100,7 @@ Foods:
     Effects:
       - "HP+3000"
       - "EP+150"
-      - "解除「炎伤」"
+      - "解除 [[Database/Status/Burn|炎伤]]"
 
   - Name: "高贵烩饭"
     ID: "gao-gui-hui-fan"

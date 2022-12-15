@@ -107,7 +107,7 @@ Quartzs:
     ID: "fang-ai-1"
     Arts:
     Effects:
-      - "普通攻击·战技附加「延迟+3」、「解除驱动(30%)」"
+      - "普通攻击·战技附加 [[Database/Status/Delay|延迟+3]]、「解除驱动(30%)」"
     Compositions:
       - "[[Database/Item/Time Sepith|x160]]"
       - "[[Database/Item/Earth Sepith|x20]]"
@@ -120,7 +120,7 @@ Quartzs:
     ID: "fang-ai-2"
     Arts:
     Effects:
-      - "普通攻击·战技附加「延迟+5」、「解除驱动(60%)」"
+      - "普通攻击·战技附加 [[Database/Status/Delay|延迟+5]]、「解除驱动(60%)」"
     Compositions:
       - "[[Database/Item/Time Sepith|x400]]"
       - "[[Database/Item/Earth Sepith|x50]]"

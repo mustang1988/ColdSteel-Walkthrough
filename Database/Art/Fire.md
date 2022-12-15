@@ -64,9 +64,9 @@ Arts:
     Type: "回复"
     Range: "圆L"
     Effects:
-      - "解除「能力降低」状态"
+      - "解除 [[Database/Status/SDown|能力降低]] 状态"
       - "CP+5"
-    Comment: "解除范围内伙伴的「能力降低」状态, 且CP+5."
+    Comment: "解除范围内伙伴的 [[Database/Status/SDown|能力降低]] 状态, 且CP+5."
   - Name: "强音之力"
     ID: "qiang-yin-zhi-li"
     Element: "Fire"

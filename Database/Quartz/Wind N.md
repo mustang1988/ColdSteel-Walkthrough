@@ -139,7 +139,7 @@ Quartzs:
     ID: "hei-an-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「黑暗(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Blind|黑暗(10%)]]"
     Compositions:
       - "[[Database/Item/Wind Sepith|x150]]"
     Exchanges:
@@ -152,7 +152,7 @@ Quartzs:
     ID: "shui-mian-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「睡眠(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Sleep|睡眠(10%)]]"
     Compositions:
       - "[[Database/Item/Wind Sepith|x250]]"
     Exchanges:

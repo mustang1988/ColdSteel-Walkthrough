@@ -17,7 +17,7 @@ Quartzs:
     ID: "zhu-que-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「封技(10%)」、「炎伤(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Seal|封技(10%)]]、[[Database/Status/Burn|炎伤(10%)]]"
     Compositions:
     Exchanges:
   - Name: "武神珠"

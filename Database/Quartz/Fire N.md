@@ -133,7 +133,7 @@ Quartzs:
     ID: "feng-ji-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「封技(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Seal|封技(10%)]]"
     Compositions:
       - "[[Database/Item/Fire Sepith|x150]]"
     Exchanges:
@@ -145,7 +145,7 @@ Quartzs:
     ID: "yan-shang-zhi-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「炎伤(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Burn|炎伤(10%)]]"
     Compositions:
       - "[[Database/Item/Fire Sepith|x250]]"
     Exchanges:

@@ -7,21 +7,21 @@ Foods:
     Range: "圆S(指定地点)"
     Effects:
       - "攻击(威力D)"
-      - "50%概率附加「中毒」"
+      - "50%概率附加 [[Database/Status/Poison|中毒]]"
 
   - Name: "冷冻浓汤"
     ID: "leng-dong-nong-tang"
     Range: "圆S(指定地点)"
     Effects:
       - "魔法攻击(威力C)"
-      - "50%几率附加「冻结」"
+      - "50%几率附加 [[Database/Status/Freeze|冻结]]"
 
   - Name: "燃烧炸物"
     ID: "ran-shao-zha-wu"
     Range: "圆S(指定地点)"
     Effects:
       - "攻击(威力C)"
-      - "50%几率附加「炎伤」"
+      - "50%几率附加 [[Database/Status/Burn|炎伤]]"
 
   - Name: "粘稠烩饭"
     ID: "nian-chou-hui-fan"
@@ -35,7 +35,7 @@ Foods:
     Range: "圆M(指定地点)"
     Effects:
       - "攻击(威力A)"
-      - "50%附加「昏厥」"
+      - "50%附加 [[Database/Status/Faint|气绝]]"
 ---
 ```dataviewjs
 const food = dv.current().Foods[0];

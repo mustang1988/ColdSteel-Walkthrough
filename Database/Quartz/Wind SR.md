@@ -18,7 +18,7 @@ Quartzs:
     ID: "bai-hu-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「黑暗(10%)」、「睡眠(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Blind|黑暗(10%)]]、[[Database/Status/Sleep|睡眠(10%)]]"
     Compositions:
     Exchanges:
 
@@ -36,7 +36,7 @@ Quartzs:
         - "[[Database/Art/Wind#^mo-ri-long-juan|末日龙卷]]"
     Effects:
       - "STR+10"
-      - "使用普通攻击·战技「延迟+7」"
+      - "使用普通攻击·战技 [[Database/Status/Delay|延迟+7]]"
       - "「解除驱动(90%)」"
     Compositions:
     Exchanges:

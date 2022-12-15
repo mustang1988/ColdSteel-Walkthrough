@@ -8,20 +8,20 @@ Foods:
     Effects:
       - "HP+600"
       - "STR+25%, 持续3回合"
-      - "解除「冻结」"
+      - "解除 [[Database/Status/Freeze|冻结]]"
   - Name: "白色猫舌饼"
     ID: "bai-se-mao-she-bing"
     Range: "单体"
     Effects:
       - "HP+800"
-      - "解除「中毒·炎伤」"
+      - "解除 [[Database/Status/Poison|中毒]] · [[Database/Status/Burn|炎伤]]"
   - Name: "狂野特调"
     ID: "kuang-ye-te-tiao"
     Range: "单体"
     Effects:
       - "HP+1000"
       - "EP+50"
-      - "解除「昏厥·混乱」"
+      - "解除 [[Database/Status/Faint|气绝]] · [[Database/Status/Confuse|混乱]]"
   - Name: "必胜猪排三明治"
     ID: "bi-sheng-zhu-pai-san-ming-zhi"
     Range: "单体"
@@ -40,13 +40,13 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+2000"
-      - "解除「中毒·黑暗·炎伤·冻结」"
+      - "解除 [[Database/Status/Poison|中毒]] · [[Database/Status/Blind|黑暗]] · [[Database/Status/Burn|炎伤]] · [[Database/Status/Freeze|冻结]]"
   - Name: "软绵绵生巧克力塔"
     ID: "ruan-mian-mian-sheng-qiao-ke-li-ta"
     Range: "单体"
     Effects:
       - "HP+2400"
-      - "解除「冻结·石化」"
+      - "解除 [[Database/Status/Freeze|冻结]] · [[Database/Status/Petrify|石化]]"
   - Name: "真心乳酪燉饭"
     ID: "zhen-xin-ru-lao-dun-fan"
     Range: "单体"
@@ -65,7 +65,7 @@ Foods:
     Range: "单体"
     Effects:
       - "HP+2400"
-      - "解除「睡眠·噩梦·昏厥·混乱」"
+      - "解除 [[Database/Status/Sleep|睡眠]] · [[Database/Status/Nightmare|恶梦]] · [[Database/Status/Faint|气绝]] · [[Database/Status/Confuse|混乱]]"
   - Name: "南瓜盅焗烤"
     ID: "nan-gua-zhong-ju-kao"
     Range: "单体"

@@ -140,7 +140,7 @@ Quartzs:
     Arts:
     Effects:
       - "STR+10"
-      - "普通攻击·战技附加「混乱(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Confuse|混乱(10%)]]"
     Compositions:
     Exchanges:
       - Item: "[[Database/Quartz/Earth N#^shi-hua-zhi-ren|石化之刃]]"

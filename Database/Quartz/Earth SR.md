@@ -19,7 +19,7 @@ Quartzs:
     ID: "xuan-wu-ren"
     Arts:
     Effects:
-      - "普通攻击·战技附加「中毒(10%)」、「石化(10%)」"
+      - "普通攻击·战技附加 [[Database/Status/Poison|中毒(10%)]]、[[Database/Status/Petrify|石化(10%)]]"
     Compositions:
     Exchanges:
 
