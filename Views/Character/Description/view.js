@@ -1,19 +1,15 @@
 const {
-    character: {
-        Aliases: aliases,
-        Description: description,
-        ID: id
-    }
+  character: { Aliases: aliases, Description: description, ID: id },
 } = input;
 const html = `
-<h1>${aliases[1]||aliases[0]}</h1>
+<h1>${aliases[1] || aliases[0]}</h1>
 <table class="character-table">
 <theader>
 </theader>
 <tbody>
 <tr>
 <td class="character-image">
-<img class="${id}-image">
+<img class="${id.replace("Character.", "")}-image">
 </td>
 <td class="character-desc">
 ${description}

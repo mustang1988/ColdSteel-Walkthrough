@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
+                "file": "Database/Character/Alisa Reinford.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
+                "file": "Database/Character/Alisa Reinford.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
+                "file": "Database/Character/Alisa Reinford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Chapter 1.md"
+                "file": "Database/Character/Alisa Reinford.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "5e4b748897bf44c4",
   "lastOpenFiles": [
-    "Walkthrough/Chapter 0.md",
+    "Database/Character/Alan.md",
     "Walkthrough/Chapter 1.md",
+    "Walkthrough/Chapter 0.md",
     "Database/Character/Elliot Craig.md",
     "Database/Recipe/Recipe.md",
     "Database/Craft/SCraft.md",
     "Database/Craft/Craft.md",
     "Database/Character/Nicholas.md",
     "Database/Quest/Side Quest.md",
-    "Database/Character/Rean Schwarzer.md",
-    "Database/Item/Potion.md"
+    "Database/Character/Rean Schwarzer.md"
   ]
 }
