@@ -1495,6 +1495,18 @@ div[data-id="Sharon"] div.setting-item-description::before,
 /* End Description Table */
 
 /* Begin Art Rate */
+.icon-min-size {
+    min-width: 15px;
+}
+
+.icon-min-size-sepith {
+    min-width: 8px;
+}
+
+.icon-min-size-monster {
+    min-width: 200px;
+}
+
 .icon-element-earth {
     content: var(--Earth-Art-Icon);
 }
@@ -2055,3 +2067,54 @@ div[data-id="Stealth"] div.setting-item-description::before,
 }
 
 /* End Status */
+
+.element-rate-bar {
+    float: left;
+    height: 8px; 
+    border-radius: 4px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+
+.element-rate-bar-earth {
+    background-color:var(--Element-Earth-Color);
+    border: solid 1px var(--Element-Earth-Color);
+}
+
+.element-rate-bar-water {
+    background-color:var(--Element-Water-Color);
+    border: solid 1px var(--Element-Water-Color);
+}
+
+.element-rate-bar-fire {
+    background-color:var(--Element-Fire-Color);
+    border: solid 1px var(--Element-Fire-Color);
+}
+
+.element-rate-bar-wind {
+    background-color:var(--Element-Wind-Color);
+    border: solid 1px var(--Element-Wind-Color);
+}
+
+.element-rate-bar-time {
+    background-color:var(--Element-Time-Color);
+    border: solid 1px var(--Element-Time-Color);
+}
+
+.element-rate-bar-space {
+    background-color:var(--Element-Space-Color);
+    border: solid 1px var(--Element-Space-Color);
+}
+
+.element-rate-bar-mirage {
+    background-color:var(--Element-Mirage-Color);
+    border: solid 1px var(--Element-Mirage-Color);
+}
+
+.icon-td {
+    width: 15px;
+    max-width: 20px;
+    min-width: 15px;
+}
