@@ -130,15 +130,38 @@ const GetIngredients = (ingredients) => {
     }</a>`;
   });
 };
-const GetItems = (items) => {
+const GetItems = (items, with_effects = true) => {
   return items.map((i) => {
     const file = dv.page(i.path);
     const link =
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    const data = file.Foods.filter((f) => f.ID === link.subpath)[0];
-    const effects = data.Effects.join(" ");
+    let effects = [];
+    if (with_effects) {
+      const data = file.Foods.filter((f) => f.ID === link.subpath)[0];
+      effects = data.Effects.map((eff) => {
+        if (eff.includes("[[")) {
+          const stat_page = eff.substring(
+            eff.indexOf("[[") + 2,
+            eff.indexOf("|")
+          );
+          const stat_dis = eff.substring(
+            eff.indexOf("|") + 1,
+            eff.indexOf("]]")
+          );
+          const stat_link = GetItems(
+            [dv.fileLink(stat_page, false, stat_dis)],
+            false
+          )[0];
+          const replaced_link = eff.replace(/\[\[.+\|.+\]\]/g, stat_link);
+          return replaced_link;
+        } else {
+          return eff;
+        }
+      }).join(" ");
+    }
+
     const fileName = link.path.split("/");
     const html = `<a aria-label-position="top" aria-label="${
       fileName[fileName.length - 1]
@@ -151,7 +174,8 @@ const GetItems = (items) => {
     }" data-link-tags="" data-link-path="${link.path}">${
       link.display || ""
     }</a>`;
-    return { html, effects };
+
+    return with_effects ? { html, effects: effects } : html;
   });
 };
 const admonition = `

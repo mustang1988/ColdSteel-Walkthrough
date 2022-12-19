@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efee5ca62306c0c7",
+        "id": "989cc1fa24fc2680",
         "type": "tabs",
         "children": [
           {
-            "id": "029208df47d1841f",
+            "id": "5e4b748897bf44c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Quartz/Wind SR.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "「",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Wind SR.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Wind SR.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,29 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Quartz/Wind SR.md"
+                "file": "Walkthrough/Chapter 1.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e9a920dda4cc7f1e",
+  "active": "5e4b748897bf44c4",
   "lastOpenFiles": [
-    "Database/Quartz/Wind N.md",
-    "Database/Quartz/Water SR.md",
-    "Database/Quartz/Water R.md",
-    "Database/Quartz/Water N.md",
-    "Database/Art/Water.md",
-    "Database/Item/Unique Food.md",
-    "Database/Quartz/Time SR.md",
-    "Database/Quartz/Time R.md",
-    "Database/Quartz/Time N.md",
-    "Database/Item/Superb Food.md"
+    "Walkthrough/Chapter 0.md",
+    "Walkthrough/Chapter 1.md",
+    "Database/Character/Elliot Craig.md",
+    "Database/Recipe/Recipe.md",
+    "Database/Craft/SCraft.md",
+    "Database/Craft/Craft.md",
+    "Database/Character/Nicholas.md",
+    "Database/Quest/Side Quest.md",
+    "Database/Character/Rean Schwarzer.md",
+    "Database/Item/Potion.md"
   ]
 }

@@ -7,20 +7,22 @@ banner_y: 0.6
 ID: "Walkthrough.Chapter.1"
 ---
 # 4/17
-课堂上老师的提问
-> [!tip] 答案: 诺尔德高原 ***AP+2***
+
+> [!tip] 课堂上老师的提问
+> 
+> 答案: 诺尔德高原 ***AP+2***
 
 下课后可以自由行动，此时校园大部分设施都开放了
 
-前往旧校舍有剧情。
+前往旧校舍有剧情
 
 在去学生会馆的路上会遇到克洛，选择那个都是输，不影响剧情
 
-从学生会长那拿了众人的学生证。
+从学生会长那拿了众人的学生证
 
-此时去图书馆能读到 [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]]，阅读后自动记录到笔记中。 ^book-di-guo-tie-lu-shi
+此时去图书馆能读到 [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]]，阅读后自动记录到笔记中 ^book-di-guo-tie-lu-shi
 
-晚上回去从2楼开始分发学生证。这一天结束。
+晚上回去从2楼开始分发学生证, 之后返回房间结束这一天
 
 > [!example] 第一章 4/17 小结
 > - 战斗笔记进度: 5/196
@@ -34,7 +36,7 @@ ID: "Walkthrough.Chapter.1"
 
 # 4/18
 羁绊事件(3选2)
-- 艾略特，位于宿舍2F，获得人物信息:[[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
+- 艾略特，位于宿舍2F，获得人物信息: [[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
 - 劳拉， 位于游泳池
 - 马奇亚斯，位于露天茶座
 
@@ -42,7 +44,7 @@ ID: "Walkthrough.Chapter.1"
 > - 艾略特
 > - 劳拉
 
-《凯因斯书店》和凯因斯对话可以获得:[[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]]，书店内可购买 ^book-hong-yue-de-luo-sai-1
+《凯因斯书店》和凯因斯对话可以获得: [[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]]，书店内可购买 ^book-hong-yue-de-luo-sai-1
 - [[Database/Item/Book#^di-guo-shi-bao-1|《帝国时报·第1号》]] ^book-di-guo-shi-bao-1
 - [[Database/Item/Link Book#^liao-yu-xi-yin-yue|《疗愈系音乐》]]
 - [[Database/Item/Link Book#^lei-ge-la-mu-dao-lan|《雷格拉姆导览》]]
@@ -58,19 +60,31 @@ ID: "Walkthrough.Chapter.1"
 - [[Database/Quest/Side Quest#^diu-shi-de-xue-sheng-shou-ce|丢失的学生手册]] ^quest-diu-shi-de-xue-sheng-shou-ce
 ## 主线任务
 - [[Database/Quest/Main Quest#^pei-song-dao-li-qi|配送导力器]] ^quest-pei-song-dao-li-qi
-  - 任务期间获得「料理手册」，开启料理功能，同时获得食谱:[[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] ^recipe-jian-dan-dan-bao-fan
+  - 任务期间获得「料理手册」，开启料理功能，同时获得食谱: [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] ^recipe-jian-dan-dan-bao-fan
 
-与第一学生宿舍门口的女仆萝德对话获得人物信息:[[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
+> [!tip] 刷钱攻略
+> 获取食谱 [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] 后, 可以在杂货店购买制作需要的食材, 能买多少买多少
+> 
+> 当 [[Database/Character/Elliot Craig|艾略特]] 在队伍时, 制作此食谱, 可以大概率获得
+> 
+> - 独门料理: [[Database/Item/Unique Food#^nuan-hu-hu-dan-hua-tang|暖呼蛋花汤]]
+> - 极品料理: [[Database/Item/Superb Food#^peng-song-nong-chou-dan-bao-fan|蓬松浓稠蛋包饭]]
+> 
+> 然后将制作产物拿到杂货店售卖, 赚取差价
+> 
+> 赚钱效率虽然不高, 但可以弥补一周目前期经常缺钱的问题
+
+与第一学生宿舍门口的女仆萝德对话获得人物信息: [[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
 
 > [!tip] 萝德会收集独门料理，每个食谱都对应一个独门料理 人，可以制作独门料理，将做出的 [[Database/Item/Unique Food|独门料理食物]] 交给萝德可以获得奖励
 
-技术栋乔治处可购买核心回路:[[Database/Quartz/Scepter|权杖]] ^quartz-scepter
+技术栋乔治处可购买核心回路: [[Database/Quartz/Scepter|权杖]] ^quartz-scepter
 
-确认完成所有羁绊事件和直线任务后推进主线。
+确认完成所有羁绊事件和直线任务后推进主线
 
 ## 主线任务
 - [[Database/Quest/Main Quest#^diao-cha-jiu-xiao-she|调查旧校舍]] ^quest-diao-cha-jiu-xiao-she
-  - 进入迷宫:[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]] ^location-jiu-xiao-she-di-xia-yi-ceng
+  - 进入迷宫: [[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]] ^location-jiu-xiao-she-di-xia-yi-ceng
 
 > [!example] 第一章 4/18 小结
 > - 战斗笔记进度: 9/196 (+4)
@@ -92,7 +106,7 @@ ID: "Walkthrough.Chapter.1"
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^yong-wan-de-tiao-wei-liao-diao-huo|用完的调味料调货]] ^quest-yong-wan-de-tiao-wei-liao-diao-huo
-  - 任务期间可获得尼可拉斯人物信息:[[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]] ^character-ni-ke-la-si-1
+  - 任务期间可获得尼可拉斯人物信息: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]] ^character-ni-ke-la-si-1
 
 全部完成后，回第三宿舍结束这一天
 
@@ -107,7 +121,11 @@ ID: "Walkthrough.Chapter.1"
 > - 奖杯进度: 2/51
 
 # 4/21
-Boss战:[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
+实习考试·4月
+
+Boss战:
+
+[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 
 > [!tip] 攻略
 > 两主攻链接，法师辅助
@@ -135,11 +153,11 @@ Boss战:[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 
 到达交易镇，安顿下来后，接到任务
 
-和酒场的老板娘对话可获得:[[Database/Item/Regular Food#^tian-mi-bing-gan|甜蜜饼干]]，同时获得食谱:[[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]] ^recipe-tian-mi-bing-gan
+和酒场的老板娘对话可获得: [[Database/Item/Regular Food#^tian-mi-bing-gan|甜蜜饼干]]，同时获得食谱: [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]] ^recipe-tian-mi-bing-gan
 
 和莎拉教官对话继续剧情
 
-和大市集的小女孩安妮塔对话获得:[[Database/Item/Book#^hong-yue-de-luo-sai-2|《红月的罗赛·第2卷》]] ^book-hong-yue-de-luo-sai-2
+和大市集的小女孩安妮塔对话获得: [[Database/Item/Book#^hong-yue-de-luo-sai-2|《红月的罗赛·第2卷》]] ^book-hong-yue-de-luo-sai-2
 
 大市集左边咪西摊子可以购买
 - [[Database/Item/Accessory#^zuo-zuo-mi-xi|坐坐咪西]]
@@ -156,7 +174,7 @@ Boss战:[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 
 ## 主线任务
 - [[Database/Quest/Main Quest#^geng-huan-huai-diao-de-lu-deng|更换坏掉的路灯]] ^quest-geng-huan-huai-diao-de-lu-deng
-    - 期间需要经过地区:
+    - 任务途径地区:
       - [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]] ^location-xi-kai-er-di-ke-jie-dao-1
       - [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]] ^location-xi-kai-er-di-ke-jie-dao-2
 
@@ -178,7 +196,7 @@ Boss战:[[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 - [[Database/Quest/Main Quest#^dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|东凯尔迪克街道的通缉魔兽]] ^quest-dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
   - 任务期间与屋内的齐赛尔对话获得食谱: [[Database/Recipe/Recipe#^xian-zha-guo-zhi|鲜榨果汁]] ^recipe-xian-zha-guo-zhi
 
-完成主线后，回城镇有剧情，前往大市集。漫长剧情后可以触发隐藏任务。
+完成主线后，回城镇有剧情，前往大市集。漫长剧情后可以触发隐藏支线任务任务
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^da-shi-ji-shang-ren-ti-yan|大市集商人体验]] ^quest-da-shi-ji-shang-ren-ti-yan
@@ -247,7 +265,7 @@ Boss战后剧情, 本章结束
 
 获得奖杯: [[Database/Trophy/Bronze#^xin-xue-qi-shou-ci-shi-xi|新學期～首次實習～]] ^trophy-xin-xue-qi-shou-ci-shi-xi
 
-按照本过略推进, 还将获得奖杯: [[Database/Trophy/Bronze#^te-you-sheng|特優生]] ^trophy-te-you-sheng
+按照本过略推进, 本章将获得S级评价, 获得奖杯: [[Database/Trophy/Bronze#^te-you-sheng|特優生]] ^trophy-te-you-sheng
 
 > [!example] 第一章 总结
 > - AP: 55, 总AP: 55
