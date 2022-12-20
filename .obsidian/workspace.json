@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adc0c605ff977355",
+        "id": "3f6e4a30337fd373",
         "type": "tabs",
         "children": [
           {
-            "id": "3b7ad75fde438077",
+            "id": "9ef9ccff378a60eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Quartz/Wing.md",
+                "file": "Database/Quartz/Juggler.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Wing.md",
+                "file": "Database/Quartz/Juggler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Wing.md",
+                "file": "Database/Quartz/Juggler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Quartz/Wing.md"
+                "file": "Database/Quartz/Juggler.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "3b7ad75fde438077",
+  "active": "9ef9ccff378a60eb",
   "lastOpenFiles": [
-    "Database/Quartz/Mistral.md",
-    "Database/Quartz/Falco.md",
-    "Database/Quartz/Criminal.md",
-    "Database/Quartz/Vermillion.md",
-    "Database/Quartz/Water N.md",
-    "Database/Quartz/Brave.md",
-    "Database/Quartz/Force.md",
-    "Database/Quartz/Aries.md",
-    "Database/Quartz/Canon.md",
-    "Database/Quartz/Scepter.md"
+    "Database/Quartz/Mirage.md",
+    "Database/Quartz/Juggler.md",
+    "Database/Quartz/Chevalier.md",
+    "Database/Quartz/Emblem.md",
+    "Database/Quartz/Moebius.md",
+    "Database/Quartz/Angel.md",
+    "Database/Quartz/Cypher.md",
+    "Database/Quartz/Katze.md",
+    "Database/Quartz/Raven.md",
+    "Database/Quartz/Murakumo.md"
   ]
 }

@@ -736,7 +736,7 @@ div[data-id="Magius"] div.setting-item-description::before,
 }
 
 div[data-id="Mirage"] div.setting-item-description::before,
-.data-link-icon[data-link-id="Quartz.Mirage.Mirage"]::before {
+.data-link-icon[data-link-path="Database/Art/Mirage.md"]::before {
     content: var(--Mirage-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -823,55 +823,55 @@ div[data-id="Wind-SR"] div.setting-item-description::before,
 }
 
 div[data-id="Time-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Time.N"]::before {
+.data-link-icon[data-link-id="Quartz.Time.N"]::before {
     content: var(--Time-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Time-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Time.R"]::before {
+.data-link-icon[data-link-id="Quartz.Time.R"]::before {
     content: var(--Time-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Time-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Time.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Time.SR"]::before {
     content: var(--Time-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Space-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Space.N"]::before {
+.data-link-icon[data-link-id="Quartz.Space.N"]::before {
     content: var(--Space-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Space-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Space.R"]::before {
+.data-link-icon[data-link-id="Quartz.Space.R"]::before {
     content: var(--Space-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Space-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Space.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Space.SR"]::before {
     content: var(--Space-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Mirage-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Mirage.N"]::before {
+.data-link-icon[data-link-id="Quartz.Mirage.N"]::before {
     content: var(--Mirage-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Mirage-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Mirage.R"]::before {
+.data-link-icon[data-link-id="Quartz.Mirage.R"]::before {
     content: var(--Mirage-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Mirage-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Mirage.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Mirage.SR"]::before {
     content: var(--Mirage-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -880,23 +880,23 @@ div[data-id="Mirage-SR"] div.setting-item-description::before,
 
 /* Quest */
 div[data-id="Main-Quest"] div.setting-item-description,
-[data-link-id^="Quest.Main-Quest"] {
+[data-link-id="Quest.Main-Quest"] {
     color: var(--Quest-Main-Color) !important;
 }
 
 div[data-id="Main-Quest"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quest.Main-Quest"]::before {
+.data-link-icon[data-link-id="Quest.Main-Quest"]::before {
     content: var(--Main-Quest-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Side-Quest"] div.setting-item-description,
-[data-link-id^="Quest.Side-Quest"] {
+[data-link-id="Quest.Side-Quest"] {
     color: var(--Quest-Side-Color) !important;
 }
 
 div[data-id="Side-Quest"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quest.Side-Quest"]::before {
+.data-link-icon[data-link-id="Quest.Side-Quest"]::before {
     content: var(--Side-Quest-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -910,40 +910,40 @@ div[data-id="trophy-platinum"] div.setting-item-description,
 }
 
 div[data-id="trophy-platinum"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Trophy.Platinum"]::before {
+.data-link-icon[data-link-id="Trophy.Platinum"]::before {
     content: var(--Trophy-Platinum-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="trophy-gold"] div.setting-item-description,
-[data-link-id^="Trophy.Gold"] {
+[data-link-id="Trophy.Gold"] {
     color: var(--Trophy-Gold-Color) !important;
 }
 
 div[data-id="trophy-gold"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Trophy.Gold"]::before {
+.data-link-icon[data-link-id="Trophy.Gold"]::before {
     content: var(--Trophy-Gold-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="trophy-silver"] div.setting-item-description,
-[data-link-id^="Trophy.Silver"] {
+[data-link-id="Trophy.Silver"] {
     color: var(--Trophy-Silver-Color) !important;
 }
 
 div[data-id="trophy-silver"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Trophy.Silver"]::before {
+.data-link-icon[data-link-id="Trophy.Silver"]::before {
     content: var(--Trophy-Silver-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="trophy-bronze"] div.setting-item-description,
-[data-link-id^="Trophy.Bronze"] {
+[data-link-id="Trophy.Bronze"] {
     color: var(--Trophy-Bronze-Color) !important;
 }
 
 div[data-id="trophy-bronze"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Trophy.Bronze"]::before {
+.data-link-icon[data-link-id="Trophy.Bronze"]::before {
     content: var(--Trophy-Bronze-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -952,23 +952,23 @@ div[data-id="trophy-bronze"] div.setting-item-description::before,
 
 /* Treasure Chest */
 div[data-id="treasure-chest"] div.setting-item-description,
-[data-link-id^="Treasure-Chest.Treasure-Chest"] {
+[data-link-id="Treasure-Chest.Treasure-Chest"] {
     color: var(--Treasure-Chest-Color) !important;
 }
 
 div[data-id="treasure-chest"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Treasure-Chest.Treasure-Chest"]::before {
+.data-link-icon[data-link-id="Treasure-Chest.Treasure-Chest"]::before {
     content: var(--Treasure-Chest-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="monster-treasure-chest"] div.setting-item-description,
-[data-link-id^="Treasure-Chest.Monster-Treasure-Chest"] {
+[data-link-id="Treasure-Chest.Monster-Treasure-Chest"] {
     color: var(--Treasure-Chest-Monster-Color) !important;
 }
 
 div[data-id="monster-treasure-chest"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Treasure-Chest.Monster-Treasure-Chest"]::before {
+.data-link-icon[data-link-id="Treasure-Chest.Monster-Treasure-Chest"]::before {
     content: var(--Monster-Treasure-Chest-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -977,23 +977,23 @@ div[data-id="monster-treasure-chest"] div.setting-item-description::before,
 
 /* Monster */
 div[data-id="enemy-monster"] div.setting-item-description,
-[data-link-id^="Enemy.Monster"] {
+[data-link-id="Enemy.Monster"] {
     color: var(--Enemy-Monster-Color) !important;
 }
 
 div[data-id="enemy-monster"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Enemy.Monster"]::before {
+.data-link-icon[data-link-id="Enemy.Monster"]::before {
     content: var(--Enemy-Monster-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="enemy-boss"] div.setting-item-description,
-[data-link-id^="Enemy.Boss"] {
+[data-link-id="Enemy.Boss"] {
     color: var(--Enemy-Boss-Color) !important;
 }
 
 div[data-id="enemy-boss"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Enemy.Boss"]::before {
+.data-link-icon[data-link-id="Enemy.Boss"]::before {
     content: var(--Enemy-Boss-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
