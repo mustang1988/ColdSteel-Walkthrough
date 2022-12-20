@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d32b3eb74c7427c",
+        "id": "adc0c605ff977355",
         "type": "tabs",
         "children": [
           {
-            "id": "57d1c0a235b1006d",
+            "id": "3b7ad75fde438077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walkthrough/Chapter 0.md",
-                "mode": "preview",
+                "file": "Database/Quartz/Wing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 0.md",
+                "file": "Database/Quartz/Wing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 0.md",
+                "file": "Database/Quartz/Wing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Chapter 0.md"
+                "file": "Database/Quartz/Wing.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "57d1c0a235b1006d",
+  "active": "3b7ad75fde438077",
   "lastOpenFiles": [
-    "Database/Enemy/Monster.md",
-    "Database/Enemy/Boss.md",
-    "Walkthrough/Chapter 0.md",
-    "Database/Enemy/DEBUG.md",
-    "Database/Character/Alisa Reinford.md",
-    "Database/Character/Alan.md",
-    "Walkthrough/Chapter 1.md",
-    "Database/Character/Elliot Craig.md",
-    "Database/Recipe/Recipe.md",
-    "Database/Craft/SCraft.md"
+    "Database/Quartz/Mistral.md",
+    "Database/Quartz/Falco.md",
+    "Database/Quartz/Criminal.md",
+    "Database/Quartz/Vermillion.md",
+    "Database/Quartz/Water N.md",
+    "Database/Quartz/Brave.md",
+    "Database/Quartz/Force.md",
+    "Database/Quartz/Aries.md",
+    "Database/Quartz/Canon.md",
+    "Database/Quartz/Scepter.md"
   ]
 }

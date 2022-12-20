@@ -2118,3 +2118,16 @@ div[data-id="Stealth"] div.setting-item-description::before,
     max-width: 20px;
     min-width: 15px;
 }
+.master-quartz-table {
+    width: 100%;
+}
+
+.master-quartz-table thead tr td {
+    border: none;
+    border-bottom: solid 1px;
+}
+
+.master-quartz-table tbody tr td {
+    border: none;
+    border-bottom: dashed 1px;
+}

@@ -1,10 +1,10 @@
 [
-  "supercharged-links-obsidian",
   "dataview",
   "obsidian-admonition",
   "obsidian-banners",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
   "tag-wrangler",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "supercharged-links-obsidian"
 ]
