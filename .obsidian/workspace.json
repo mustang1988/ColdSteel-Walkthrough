@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Quartz/Juggler.md",
+                "file": "Database/Quartz/Mirage.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Juggler.md",
+                "file": "Database/Quartz/Mirage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Juggler.md",
+                "file": "Database/Quartz/Mirage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Quartz/Juggler.md"
+                "file": "Database/Quartz/Mirage.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "9ef9ccff378a60eb",
   "lastOpenFiles": [
+    "Database/Quartz/Mirage N.md",
     "Database/Quartz/Mirage.md",
+    "Database/Art/Mirage.md",
     "Database/Quartz/Juggler.md",
     "Database/Quartz/Chevalier.md",
     "Database/Quartz/Emblem.md",
     "Database/Quartz/Moebius.md",
     "Database/Quartz/Angel.md",
     "Database/Quartz/Cypher.md",
-    "Database/Quartz/Katze.md",
-    "Database/Quartz/Raven.md",
-    "Database/Quartz/Murakumo.md"
+    "Database/Quartz/Katze.md"
   ]
 }

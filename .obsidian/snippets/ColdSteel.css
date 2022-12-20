@@ -333,43 +333,43 @@ div[data-id="Mirage"] div.setting-item-description,
 
 /* Art */
 div[data-id="Earth"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Earth"]::before {
+.data-link-icon[data-link-id="Art.Earth"]::before {
     content: var(--Earth-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Water"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Water"]::before {
+.data-link-icon[data-link-id="Art.Water"]::before {
     content: var(--Water-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Fire"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Fire"]::before {
+.data-link-icon[data-link-id="Art.Fire"]::before {
     content: var(--Fire-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Wind"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Wind"]::before {
+.data-link-icon[data-link-id="Art.Wind"]::before {
     content: var(--Wind-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Time"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Time"]::before {
+.data-link-icon[data-link-id="Art.Time"]::before {
     content: var(--Time-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Space"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Space"]::before {
+.data-link-icon[data-link-id="Art.Space"]::before {
     content: var(--Space-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Mirage"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Art.Mirage"]::before {
+.data-link-icon[data-link-id="Art.Mirage"]::before {
     content: var(--Mirage-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -383,43 +383,43 @@ div[data-id="Item"] div.setting-item-description,
 }
 
 div[data-id="Attack-Food"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Attack"]::before {
+.data-link-icon[data-link-id="Item.Food.Attack"]::before {
     content: var(--Attack-Food-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Peculiar-Food"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Peculiar"]::before {
+.data-link-icon[data-link-id="Item.Food.Peculiar"]::before {
     content: var(--Peculiar-Food-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Regular-Food"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Regular"]::before {
+.data-link-icon[data-link-id="Item.Food.Regular"]::before {
     content: var(--Regular-Food-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Superb-Food"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Superb"]::before {
+.data-link-icon[data-link-id="Item.Food.Superb"]::before {
     content: var(--Superb-Food-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Unique-Food"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Unique"]::before {
+.data-link-icon[data-link-id="Item.Food.Unique"]::before {
     content: var(--Unique-Food-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Food-Ingredient"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Food.Ingredient"]::before {
+.data-link-icon[data-link-id="Item.Food.Ingredient"]::before {
     content: var(--Food-Ingredient-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Sepith-Earth"] div.setting-item-description,
-[data-link-id="Item.Sepith.Earth" i] {
+[data-link-id="Item.Sepith.Earth"] {
     color: var(--Element-Earth-Color) !important;
 }
 
@@ -502,29 +502,29 @@ div[data-id="Sepith-Mass"] div.setting-item-description::before,
 }
 
 div[data-id="Book"] div.setting-item-description,
-[data-link-id^="Item.Book"] {
+[data-link-id="Item.Book"] {
     color: var(--Book-Color) !important;
 }
 
 div[data-id="Book"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Book"]::before {
+.data-link-icon[data-link-id="Item.Book"]::before {
     content: var(--Book-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="LinkBook"] div.setting-item-description,
-[data-link-id^="Item.LinkBook"] {
+[data-link-id="Item.LinkBook"] {
     color: var(--Link-Book-Color) !important;
 }
 
 div[data-id="LinkBook"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.LinkBook"]::before {
+.data-link-icon[data-link-id="Item.LinkBook"]::before {
     content: var(--Link-Book-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Potion"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Potion"]::before {
+.data-link-icon[data-link-id="Item.Potion"]::before {
     content: var(--Potion-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -536,31 +536,31 @@ div[data-id="U-Material"] div.setting-item-description::before,
 }
 
 div[data-id="Fish-Rod"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Fish.Rod"]::before {
+.data-link-icon[data-link-id="Item.Fish.Rod"]::before {
     content: var(--Fish-Rod-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Key"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Key"]::before {
+.data-link-icon[data-link-id="Item.Key"]::before {
     content: var(--Key-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Accessory"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Accessory"]::before {
+.data-link-icon[data-link-id="Item.Accessory"]::before {
     content: var(--Accessory-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Armour"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Armour"]::before {
+.data-link-icon[data-link-id="Item.Armour"]::before {
     content: var(--Armour-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Boot"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Item.Boot"]::before {
+.data-link-icon[data-link-id="Item.Boot"]::before {
     content: var(--Boot-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -571,7 +571,7 @@ div[data-id="Recipe"] div.setting-item-description,
 }
 
 div[data-id="Recipe"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Recipe.Recipe"]::before {
+.data-link-icon[data-link-id="Recipe.Recipe"]::before {
     content: var(--Recipe-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -736,7 +736,7 @@ div[data-id="Magius"] div.setting-item-description::before,
 }
 
 div[data-id="Mirage"] div.setting-item-description::before,
-.data-link-icon[data-link-path="Database/Art/Mirage.md"]::before {
+.data-link-icon[data-link-id="Quartz.Mirage.Mirage"]::before {
     content: var(--Mirage-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
@@ -751,73 +751,73 @@ div[data-id="Pandora"] div.setting-item-description::before,
 
 /* Quartz */
 div[data-id="Earth-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Earth.N"]::before {
+.data-link-icon[data-link-id="Quartz.Earth.N"]::before {
     content: var(--Earth-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Earth-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Earth.R"]::before {
+.data-link-icon[data-link-id="Quartz.Earth.R"]::before {
     content: var(--Earth-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Earth-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Earth.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Earth.SR"]::before {
     content: var(--Earth-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Water-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Water.N"]::before {
+.data-link-icon[data-link-id="Quartz.Water.N"]::before {
     content: var(--Water-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Water-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Water.R"]::before {
+.data-link-icon[data-link-id="Quartz.Water.R"]::before {
     content: var(--Water-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Water-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Water.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Water.SR"]::before {
     content: var(--Water-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Fire-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Fire.N"]::before {
+.data-link-icon[data-link-id="Quartz.Fire.N"]::before {
     content: var(--Fire-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Fire-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Fire.R"]::before {
+.data-link-icon[data-link-id="Quartz.Fire.R"]::before {
     content: var(--Fire-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Fire-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Fire.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Fire.SR"]::before {
     content: var(--Fire-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Wind-N"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Wind.N"]::before {
+.data-link-icon[data-link-id="Quartz.Wind.N"]::before {
     content: var(--Wind-N-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Wind-R"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Wind.R"]::before {
+.data-link-icon[data-link-id="Quartz.Wind.R"]::before {
     content: var(--Wind-R-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
 div[data-id="Wind-SR"] div.setting-item-description::before,
-.data-link-icon[data-link-id^="Quartz.Wind.SR"]::before {
+.data-link-icon[data-link-id="Quartz.Wind.SR"]::before {
     content: var(--Wind-SR-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
