@@ -46,7 +46,7 @@ Quartzs:
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
-await dv.view('Quartz/Time/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Time' });
 ```
 ^si-shen
 
@@ -54,7 +54,7 @@ await dv.view('Quartz/Time/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
-await dv.view('Quartz/Time/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Time' });
 ```
 ^luo-cha-ya
 
@@ -62,7 +62,7 @@ await dv.view('Quartz/Time/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
-await dv.view('Quartz/Time/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Time' });
 ```
 ^shen-xing-zhu
 
@@ -70,7 +70,7 @@ await dv.view('Quartz/Time/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
-await dv.view('Quartz/Time/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Time' });
 ```
 ^mo-wang-zhu
 

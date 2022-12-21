@@ -11,8 +11,12 @@
             "id": "032603ac4d00516f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Quartz/Wind SR.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Quartz/Wind SR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Quartz/Wind SR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Quartz/Wind SR.md"
+              }
             }
           }
         ],
@@ -131,15 +139,15 @@
   },
   "active": "032603ac4d00516f",
   "lastOpenFiles": [
-    "Database/Art/Mirage.md",
-    "Database/Art/Space.md",
-    "Database/Art/Time.md",
-    "Database/Art/Wind.md",
-    "Database/Art/Fire.md",
-    "Database/Art/Earth.md",
-    "Database/Art/Water.md",
-    "DEBUG.md",
-    "Index.md",
-    "Database/Quartz/Master/Master.Scepter.md"
+    "Database/Quartz/Wind R.md",
+    "Database/Quartz/Wind N.md",
+    "Database/Quartz/Water SR.md",
+    "Database/Quartz/Water R.md",
+    "Database/Quartz/Water N.md",
+    "Database/Quartz/Time SR.md",
+    "Database/Quartz/Time R.md",
+    "Database/Quartz/Time N.md",
+    "Database/Quartz/Space SR.md",
+    "Database/Quartz/Space R.md"
   ]
 }

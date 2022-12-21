@@ -1,3 +1,6 @@
+/**
+ * Custom render view for r rate quartz of element earth
+ */
 const {
   quartz: {
     ID: id,
@@ -7,6 +10,7 @@ const {
     Compositions: compositions,
     Exchanges: exchanges,
   },
+  element
 } = input;
 const buildEffects = (effects) => {
   if (effects != null) {
@@ -31,7 +35,7 @@ ${dv.markdownList(arts)}
 const buildComposition = (compositions) => {
   if (compositions != null) {
     return `
-\`\`\`ad-sepith-water
+\`\`\`ad-sepith-${element.toLowerCase()}
 title: 合成素材
 ${dv.markdownList(compositions)}
 \`\`\``;
@@ -49,16 +53,18 @@ ${dv.markdownList(
       Item: { path, subpath, display },
       Count,
     } = ex;
-            return (subpath
-          ? dv.blockLink(path, subpath, false, display)
-          : dv.fileLink(path, false, display)) + `\tx\t${Count}`;
+    return (
+      (subpath
+        ? dv.blockLink(path, subpath, false, display)
+        : dv.fileLink(path, false, display)) + `\tx\t${Count}`
+    );
   })
 )}
 \`\`\``;
   }
   return "";
 };
-const admonition = `\`\`\`\`ad-quartz-water-n
+const admonition = `\`\`\`\`ad-quartz-${element.toLowerCase()}-r
 title: ${name}
 ${buildEffects(effects)}
 ${buildArts(arts)}

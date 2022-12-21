@@ -31,7 +31,7 @@ Quartzs:
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
-await dv.view('Quartz/Fire/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Fire' });
 ```
 ^ye-huo
 
@@ -39,7 +39,7 @@ await dv.view('Quartz/Fire/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
-await dv.view('Quartz/Fire/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Fire' });
 ```
 ^zhu-que-ren
 
@@ -47,7 +47,7 @@ await dv.view('Quartz/Fire/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
-await dv.view('Quartz/Fire/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Fire' });
 ```
 ^wu-shen-zhu
 

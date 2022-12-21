@@ -42,7 +42,7 @@ Quartzs:
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
-await dv.view('Views/Quartz/Space/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Space' });
 ```
 ^chi-tian-shi
 
@@ -50,7 +50,7 @@ await dv.view('Views/Quartz/Space/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
-await dv.view('Views/Quartz/Space/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Space' });
 ```
 ^qi-lin-ya
 
@@ -58,7 +58,7 @@ await dv.view('Views/Quartz/Space/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
-await dv.view('Views/Quartz/Space/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Space' });
 ```
 ^ba-dao
 
@@ -66,6 +66,6 @@ await dv.view('Views/Quartz/Space/SR', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
-await dv.view('Views/Quartz/Space/SR', { quartz });
+await dv.view('Views/Quartz/SR', { quartz, element: 'Space' });
 ```
 ^tian-di-zhu

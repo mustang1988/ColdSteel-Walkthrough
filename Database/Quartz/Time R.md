@@ -135,7 +135,7 @@ Quartzs:
 ---
 ```dataviewjs
 const quartz = dv.current().Quartzs[0];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^xin-ling-zhi-xia-r
 
@@ -143,7 +143,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[1];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^e-mo-zhi-lian-r
 
@@ -151,7 +151,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[2];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^e-yun-zhi-die-r
 
@@ -159,7 +159,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[3];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^an-ying-wei-dian-r
 
@@ -167,7 +167,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[4];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^shi-jian-qu-dong-r
 
@@ -175,7 +175,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[5];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^shi-jian-jian-su-r
 
@@ -183,7 +183,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[6];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^shi-jian-bao-fa-r
 
@@ -191,7 +191,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[7];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^e-meng-zhi-ren
 
@@ -199,7 +199,7 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[8];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^po-xun-zhi-ya
 
@@ -207,6 +207,6 @@ await dv.view('Quartz/Time/R', { quartz });
 
 ```dataviewjs
 const quartz = dv.current().Quartzs[9];
-await dv.view('Quartz/Time/R', { quartz });
+await dv.view('Views/Quartz/R', { quartz, element: 'Time' });
 ```
 ^hei-yan-ling
