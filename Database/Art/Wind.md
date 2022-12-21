@@ -67,7 +67,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^feng-zhi-lun
 
@@ -75,7 +75,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^dian-liu-zhi-shi
 
@@ -83,7 +83,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^feng-zhi-ling-yu
 
@@ -91,7 +91,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^shen-pan-zhi-jian
 
@@ -99,7 +99,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^mo-ri-long-juan
 
@@ -107,7 +107,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^sheng-ming-zhi-xi
 
@@ -115,7 +115,7 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^sheng-ling-zhi-xi
 
@@ -123,6 +123,6 @@ await dv.view('Views/Art/Wind', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[7];
-await dv.view('Views/Art/Wind', { art });
+await dv.view('Views/Art', { art, element: 'Wind' });
 ```
 ^da-zhi-yu-shu

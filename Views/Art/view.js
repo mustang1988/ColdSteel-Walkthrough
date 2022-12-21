@@ -1,5 +1,5 @@
 /**
- * Custom render view for art of element time
+ * Custom render view for art of element earth
  */
 const {
   art: {
@@ -10,9 +10,10 @@ const {
     Effects: effects,
     Comment: comment,
   },
+  element,
 } = input;
 
-const admonition = `\`\`\`ad-art-time
+const admonition = `\`\`\`ad-art-${element.toLowerCase()}
 title: ${name}
 collapse: none
 ${type} : ${range} ${effects ? effects.join(" ") : ""}

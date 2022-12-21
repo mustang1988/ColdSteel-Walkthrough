@@ -62,7 +62,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^xin-ling-zhi-xia
 
@@ -70,7 +70,7 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^e-mo-zhi-lian
 
@@ -78,7 +78,7 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^e-yun-zhi-die
 
@@ -86,7 +86,7 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^an-ying-wei-dian
 
@@ -94,7 +94,7 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^shi-jian-qu-dong
 
@@ -102,7 +102,7 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^shi-jian-jian-su
 
@@ -110,6 +110,6 @@ await dv.view('Views/Art/Time', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Time', { art });
+await dv.view('Views/Art', { art, element: 'Time' });
 ```
 ^shi-jian-bao-fa

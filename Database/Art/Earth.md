@@ -76,7 +76,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^yan-shi-zhi-ci
 
@@ -84,7 +84,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^da-di-zhi-qiang
 
@@ -92,7 +92,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^da-di-beng-lie
 
@@ -100,7 +100,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^shi-jie-zhi-shu
 
@@ -108,7 +108,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^yuan-gu-ju-yan
 
@@ -116,7 +116,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^da-di-zhi-yu
 
@@ -124,7 +124,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^jie-jing-fang-hu
 
@@ -132,7 +132,7 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[7];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^jie-jing-fang-hu-fu
 
@@ -140,6 +140,6 @@ await dv.view('Views/Art/Earth', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[8];
-await dv.view('Views/Art/Earth', { art });
+await dv.view('Views/Art', { art, element: 'Earth' });
 ```
 ^jian-ren-shou-hu

@@ -61,7 +61,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^jiao-yue-zhi-guang
 
@@ -69,7 +69,7 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^yin-ye-zhi-ji
 
@@ -77,7 +77,7 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^xing-guang-zhi-jian
 
@@ -85,7 +85,7 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^qing-bao-jie-xi
 
@@ -93,7 +93,7 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^mei-ying-zhi-ju
 
@@ -101,7 +101,7 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^shen-sheng-zhi-li
 
@@ -109,6 +109,6 @@ await dv.view('Views/Art/Mirage', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Mirage', { art });
+await dv.view('Views/Art', { art, element: 'Mirage' });
 ```
 ^xin-yue-zhi-jing

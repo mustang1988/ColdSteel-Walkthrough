@@ -63,7 +63,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^huang-jin-qiu
 
@@ -71,7 +71,7 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^an-wu-zhi
 
@@ -79,7 +79,7 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^po-xie-zhi-yin
 
@@ -87,7 +87,7 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^tian-ying-zhi-yao
 
@@ -95,7 +95,7 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^mo-dao-zhu-fu
 
@@ -103,7 +103,7 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^shan-yao-tian-qi
 
@@ -111,6 +111,6 @@ await dv.view('Views/Art/Space', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Space', { art });
+await dv.view('Views/Art', { art, element: 'Space' });
 ```
 ^chi-tian-shi-zhi-huan

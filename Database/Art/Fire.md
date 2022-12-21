@@ -86,7 +86,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^huo-yan-jian
 
@@ -94,7 +94,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^zhuo-re-zhi-bo
 
@@ -102,7 +102,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^huo-yan-zhi-she
 
@@ -110,7 +110,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^huo-shan-dan-yu
 
@@ -118,7 +118,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^ran-dian-bao-lie
 
@@ -126,7 +126,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^qian-yang-xin-xing
 
@@ -134,7 +134,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^zhen-fen-zhi-ji
 
@@ -142,7 +142,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[7];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^zhan-yi-zai-qi
 
@@ -150,7 +150,7 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[8];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^qiang-yin-zhi-li
 
@@ -158,6 +158,6 @@ await dv.view('Views/Art/Fire', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[9];
-await dv.view('Views/Art/Fire', { art });
+await dv.view('Views/Art', { art, element: 'Fire' });
 ```
 ^qiang-yin-zhi-li-fu

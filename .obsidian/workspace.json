@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4763ee851b162a1d",
+        "id": "72d95405ddb79b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "0755d207169f9833",
+            "id": "032603ac4d00516f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walkthrough/Chapter 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ef0e7d71621e384b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quest/Main Quest.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "20c17ac77d169318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Enemy/Boss.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Walkthrough/Chapter 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,17 +129,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "0755d207169f9833",
+  "active": "032603ac4d00516f",
   "lastOpenFiles": [
-    "Database/Quest/Side Quest.md",
-    "Walkthrough/Chapter 1.md",
-    "Database/Quest/Main Quest.md",
-    "Database/Enemy/Boss.md",
-    "Database/Craft/Craft.md",
-    "Index.md",
+    "Database/Art/Mirage.md",
+    "Database/Art/Space.md",
+    "Database/Art/Time.md",
+    "Database/Art/Wind.md",
+    "Database/Art/Fire.md",
+    "Database/Art/Earth.md",
+    "Database/Art/Water.md",
     "DEBUG.md",
-    "Database/Quartz/Master/Master.Brave.md",
-    "Database/Quartz/Master/Master.Angel.md",
-    "Database/Treasure Chest/Treasure Chest.md"
+    "Index.md",
+    "Database/Quartz/Master/Master.Scepter.md"
   ]
 }

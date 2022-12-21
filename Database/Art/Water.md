@@ -85,7 +85,7 @@ Arts:
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^gao-ya-shui-kuai
 
@@ -93,7 +93,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[1];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^han-shuang-zhi-ren
 
@@ -101,7 +101,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[2];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^shui-liu-hong-ji
 
@@ -109,7 +109,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[3];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^shui-jing-hong-liu
 
@@ -117,7 +117,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[4];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^luo-xuan-ju-wo
 
@@ -125,7 +125,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[5];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^hui-fu-shu
 
@@ -133,7 +133,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[6];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^zhong-hui-fu-shu
 
@@ -141,7 +141,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[7];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^da-hui-fu-shu
 
@@ -149,7 +149,7 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[8];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^fu-huo-shu
 
@@ -157,6 +157,6 @@ await dv.view('Views/Art/Water', { art });
 
 ```dataviewjs
 const art = dv.current().Arts[9];
-await dv.view('Views/Art/Water', { art });
+await dv.view('Views/Art', { art, element: 'Water' });
 ```
 ^sheng-ling-shu
