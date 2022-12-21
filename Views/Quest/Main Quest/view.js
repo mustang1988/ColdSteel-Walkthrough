@@ -10,13 +10,16 @@ const {
 const admonition = `
 \`\`\`ad-main-quest
 title: ${name}
-AP: ${b_ap}+${e_ap}
 
-步骤：
-${dv.markdownList(steps)}
+AP:  ${b_ap}${e_ap > 0 ? `+${e_ap}` : ""}
 
-回报：
-${bonus || ""}
+步骤:
+
+${steps}
+
+奖励:
+
+${dv.markdownList(bonus) || ""}
 \`\`\`
   `;
 dv.paragraph(admonition);

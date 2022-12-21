@@ -175,7 +175,7 @@ const GetItems = (items, with_effects = true) => {
 const admonition = `
 \`\`\`ad-recipe
 title: ${recipe.Name}
-collapse: open
+collapse: none
 ${BuildRecipeTable(recipe)}
 \`\`\`
 `;

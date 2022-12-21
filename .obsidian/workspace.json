@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "62aef52a9f3c0c6a",
+        "id": "4763ee851b162a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "1724cb016a78b539",
+            "id": "0755d207169f9833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Walkthrough/Chapter 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ef0e7d71621e384b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Quest/Main Quest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "20c17ac77d169318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Boss.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "调查旧校舍",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Walkthrough/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Walkthrough/Chapter 1.md"
               }
             }
           }
@@ -137,17 +161,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "1724cb016a78b539",
+  "active": "0755d207169f9833",
   "lastOpenFiles": [
-    "DEBUG.md",
+    "Database/Quest/Side Quest.md",
+    "Walkthrough/Chapter 1.md",
+    "Database/Quest/Main Quest.md",
+    "Database/Enemy/Boss.md",
+    "Database/Craft/Craft.md",
     "Index.md",
+    "DEBUG.md",
     "Database/Quartz/Master/Master.Brave.md",
     "Database/Quartz/Master/Master.Angel.md",
-    "Walkthrough/Chapter 1.md",
-    "Database/Treasure Chest/Treasure Chest.md",
-    "Database/Treasure Chest/Monster Treasure Chest.md",
-    "Database/Enemy/Boss.md",
-    "Database/Enemy/Monster.md",
-    "Walkthrough/Chapter 0.md"
+    "Database/Treasure Chest/Treasure Chest.md"
   ]
 }

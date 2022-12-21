@@ -76,7 +76,7 @@ ID: "Walkthrough.Chapter.1"
 
 与第一学生宿舍门口的女仆萝德对话获得人物信息: [[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
 
-> [!tip] 萝德会收集独门料理，每个食谱都对应一个独门料理 人，可以制作独门料理，将做出的 [[Database/Item/Unique Food|独门料理食物]] 交给萝德可以获得奖励
+> [!tip] [[Database/Character/Lotte|萝德]] 会收集独门料理，每个食谱都对应一个独门料理 人，可以制作独门料理，将做出的 [[Database/Item/Unique Food|独门料理食物]] 交给她可以获得奖励
 
 技术栋乔治处可购买核心回路: [[Database/Quartz/Master/Master.Scepter|权杖]] ^quartz-scepter
 
@@ -127,7 +127,7 @@ Boss战:
 
 [[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 
-> [!tip] 攻略
+> [!tip] Boss攻略
 > 两主攻链接，法师辅助
 > 
 > 若无人陷入战斗不能 ***AP+1***
@@ -196,7 +196,7 @@ Boss战:
 - [[Database/Quest/Main Quest#^dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|东凯尔迪克街道的通缉魔兽]] ^quest-dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
   - 任务期间与屋内的齐赛尔对话获得食谱: [[Database/Recipe/Recipe#^xian-zha-guo-zhi|鲜榨果汁]] ^recipe-xian-zha-guo-zhi
 
-完成主线后，回城镇有剧情，前往大市集。漫长剧情后可以触发隐藏支线任务任务
+完成主线后，回城镇有剧情，前往大市集。漫长剧情后可以触发隐藏的支线任务
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^da-shi-ji-shang-ren-ti-yan|大市集商人体验]] ^quest-da-shi-ji-shang-ren-ti-yan
@@ -245,19 +245,21 @@ Boss战:
 
 [[Database/Location/Location#^lu-na-li-ya-zi-ran-gong-yuan-3|露纳利亚自然公园3]] ^location-lu-na-li-ya-zi-ran-gong-yuan-3
 
-回复点再往前到达最深处，BOSS二连战
+回复点过后继续前进, 到达最深处, BOSS二连战
 
 [[Database/Enemy/Boss#^jia-guan-li-yuan|假管理员x4]]
 
-> [!tip] 攻略
-> 实力很弱，用劳拉的「地裂斩」配和黎恩的 [[Database/Craft/Craft#^hong-ye-qie|红叶切]] 配合一下可轻松解决。
+> [!tip] Boss攻略
+> 实力很弱，用劳拉的「地裂斩」配和黎恩的 [[Database/Craft/Craft#^hong-ye-qie|红叶切]] 配合一下可轻松解决
 
 [[Database/Enemy/Boss#^gu-er-nuo-jia|古尔诺加]], [[Database/Enemy/Monster#^qiang-zhuang-ju-gu-xing|强壮巨骨猩x2]]
 
-> [!tip] 攻略
-> BOSS攻击力较高，攻击会附带气绝效果，建议携带防气绝的饰品。
+> [!tip] Boss攻略
+> BOSS攻击力较高，攻击会附带气绝效果，建议携带防气绝的饰品
 > 
-> 黎恩的S技 [[Database/Craft/SCraft#^yan-zhi-tai-dao|焰之太刀]] 解锁，带有炎伤效果，对BOSS有特效。
+> 黎恩的S技 [[Database/Craft/SCraft#^yan-zhi-tai-dao|焰之太刀]] 解锁
+> 
+> 带有[[Database/Status/Burn|炎伤]]效果，对此BOSS有特效
 
 Boss战后剧情, 本章结束
 
