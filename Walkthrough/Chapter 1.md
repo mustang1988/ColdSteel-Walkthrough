@@ -78,7 +78,7 @@ ID: "Walkthrough.Chapter.1"
 
 > [!tip] 萝德会收集独门料理，每个食谱都对应一个独门料理 人，可以制作独门料理，将做出的 [[Database/Item/Unique Food|独门料理食物]] 交给萝德可以获得奖励
 
-技术栋乔治处可购买核心回路: [[Database/Quartz/Scepter|权杖]] ^quartz-scepter
+技术栋乔治处可购买核心回路: [[Database/Quartz/Master/Master.Scepter|权杖]] ^quartz-scepter
 
 确认完成所有羁绊事件和直线任务后推进主线
 

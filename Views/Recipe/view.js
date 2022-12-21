@@ -116,12 +116,9 @@ const GetIngredients = (ingredients) => {
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    const fileName = link.path.split("/");
-    return `<a aria-label-position="top" aria-label="${
-      fileName[fileName.length - 1]
-    } > ^${link.subpath}" data-href="${fileName[fileName.length - 1]}#^${
+    return `<a aria-label-position="top" aria-label="${link.path} > ^${
       link.subpath
-    }" href="${fileName[fileName.length - 1]}#^${
+    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
       link.subpath
     }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
       file.ID
@@ -162,12 +159,9 @@ const GetItems = (items, with_effects = true) => {
       }).join(" ");
     }
 
-    const fileName = link.path.split("/");
-    const html = `<a aria-label-position="top" aria-label="${
-      fileName[fileName.length - 1]
-    } > ^${link.subpath}" data-href="${fileName[fileName.length - 1]}#^${
+    const html = `<a aria-label-position="top" aria-label="${link.path} > ^${
       link.subpath
-    }" href="${fileName[fileName.length - 1]}#^${
+    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
       link.subpath
     }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
       file.ID

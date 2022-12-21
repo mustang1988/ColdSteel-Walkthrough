@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e05a3b5930a0f99f",
+        "id": "abda19889ba9a6b5",
         "type": "tabs",
         "children": [
           {
-            "id": "caf182045005645a",
+            "id": "5b8090e16a612dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quartz/Pandora.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Pandora.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Pandora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Quartz/Pandora.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -137,17 +129,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "caf182045005645a",
+  "active": "5b8090e16a612dcb",
   "lastOpenFiles": [
-    "Database/Quartz/Magius.md",
-    "Database/Quartz/Mirage.md",
-    "Database/Quartz/Mirage N.md",
-    "Database/Art/Mirage.md",
-    "Database/Quartz/Juggler.md",
-    "Database/Quartz/Chevalier.md",
-    "Database/Quartz/Emblem.md",
-    "Database/Quartz/Moebius.md",
-    "Database/Quartz/Angel.md",
-    "Database/Quartz/Cypher.md"
+    "Database/Quartz/Master/Master.Aegis.md",
+    "Walkthrough/Chapter 0.md",
+    "Database/Quartz/Master/Master.Mirage.md",
+    "Database/Quartz/Master/Master.Magius.md",
+    "Database/Quartz/Master/Master.Wing.md",
+    "Database/Quartz/Master/Master.Angel.md",
+    "Database/Quartz/Master/Master.Vermillion.md",
+    "Database/Quartz/Master/Master.Thor.md",
+    "Database/Quartz/Master/Master.Tauros.md",
+    "Database/Quartz/Master/Master.Pandora.md"
   ]
 }

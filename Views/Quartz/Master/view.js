@@ -12,7 +12,6 @@ const {
   },
 } = input;
 const [name] = Aliases;
-console.error(input);
 const LinkToDisplay = (loots) => {
   if (loots.length === 0) {
     return ["-"];
@@ -23,12 +22,9 @@ const LinkToDisplay = (loots) => {
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    const fileName = link.path.split("/");
-    return `<a aria-label-position="top" aria-label="${
-      fileName[fileName.length - 1]
-    } > ^${link.subpath}" data-href="${fileName[fileName.length - 1]}#^${
+    return `<a aria-label-position="top" aria-label="${link.path} > ^${
       link.subpath
-    }" href="${fileName[fileName.length - 1]}#^${
+    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
       link.subpath
     }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
       file.ID || ""
@@ -46,12 +42,10 @@ const GetDataByLevel = (level, arts, abs, props) => {
           .filter((art) => art.Level <= level)
           .map((art) => art.Arts || [])
           .flat();
-  console.log("1111111111111", level_arts);
   const level_abs = abs
     .filter((ab) => ab.Level == level)
     .map((ab) => ab.Abilities || [])
     .flat();
-  console.log("2222222222", level_abs);
   const level_props = props
     .filter((prop) => prop.Level == level)
     .map((prop) => prop.Properties)
@@ -64,7 +58,6 @@ const GetDataByLevel = (level, arts, abs, props) => {
     ADF: "-",
     SPD: "-",
   };
-  console.log("3333333333", level_props);
   return {
     arts:
       "</br></br>" +

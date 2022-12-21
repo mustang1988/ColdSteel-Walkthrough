@@ -3,10 +3,10 @@
     "Element",
     "ID"
   ],
-  "targetTags": true,
-  "getFromInlineField": true,
+  "targetTags": false,
+  "getFromInlineField": false,
   "enableTabHeader": true,
-  "activateSnippet": true,
+  "activateSnippet": false,
   "enableEditor": true,
   "enableFileList": true,
   "enableBacklinks": true,

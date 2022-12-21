@@ -332,43 +332,43 @@ div[data-id="Mirage"] div.setting-item-description,
 /* End Common */
 
 /* Art */
-div[data-id="Earth"] div.setting-item-description::before,
+div[data-id="Art.Earth"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Earth"]::before {
     content: var(--Earth-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Water"] div.setting-item-description::before,
+div[data-id="Art.Water"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Water"]::before {
     content: var(--Water-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Fire"] div.setting-item-description::before,
+div[data-id="Art.Fire"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Fire"]::before {
     content: var(--Fire-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Wind"] div.setting-item-description::before,
+div[data-id="Art.Wind"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Wind"]::before {
     content: var(--Wind-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Time"] div.setting-item-description::before,
+div[data-id="Art.Time"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Time"]::before {
     content: var(--Time-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Space"] div.setting-item-description::before,
+div[data-id="Art.Space"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Space"]::before {
     content: var(--Space-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Mirage"] div.setting-item-description::before,
+div[data-id="Art.Mirage"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Art.Mirage"]::before {
     content: var(--Mirage-Art-Icon);
     padding-right: var(--Link-Icon-Padding);
@@ -579,169 +579,169 @@ div[data-id="Recipe"] div.setting-item-description::before,
 /* End Item */
 
 /* Master Quartz */
-div[data-id="Aegis"] div.setting-item-description::before,
+div[data-id="Quartz.Earth.Aegis"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Aegis"]::before {
     content: var(--Aegis-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Iron"] div.setting-item-description::before,
+div[data-id="Quartz.Earth.Iron"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Iron"]::before {
     content: var(--Iron-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Megalith"] div.setting-item-description::before,
+div[data-id="Quartz.Earth.Megalith"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Megalith"]::before {
     content: var(--Megalith-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Tauros"] div.setting-item-description::before,
+div[data-id="Quartz.Earth.Tauros"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Earth.Tauros"]::before {
     content: var(--Tauros-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Aries"] div.setting-item-description::before,
+div[data-id="Quartz.Water.Aries"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Aries"]::before {
     content: var(--Aries-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Canon"] div.setting-item-description::before,
+div[data-id="Quartz.Water.Canon"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Canon"]::before {
     content: var(--Canon-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Orochi"] div.setting-item-description::before,
+div[data-id="Quartz.Water.Orochi"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Orochi"]::before {
     content: var(--Orochi-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Scepter"] div.setting-item-description::before,
+div[data-id="Quartz.Water.Scepter"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Water.Scepter"]::before {
     content: var(--Scepter-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Brave"] div.setting-item-description::before,
+div[data-id="Quartz.Fire.Brave"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Brave"]::before {
     content: var(--Brave-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Criminal"] div.setting-item-description::before,
+div[data-id="Quartz.Fire.Criminal"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Criminal"]::before {
     content: var(--Criminal-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Force"] div.setting-item-description::before,
+div[data-id="Quartz.Fire.Force"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Force"]::before {
     content: var(--Force-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Vermillion"] div.setting-item-description::before,
+div[data-id="Quartz.Fire.Vermillion"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Fire.Vermillion"]::before {
     content: var(--Vermillion-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Falco"] div.setting-item-description::before,
+div[data-id="Quartz.Wind.Falco"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Falco"]::before {
     content: var(--Falco-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Mistral"] div.setting-item-description::before,
+div[data-id="Quartz.Wind.Mistral"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Mistral"]::before {
     content: var(--Mistral-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Thor"] div.setting-item-description::before,
+div[data-id="Quartz.Wind.Thor"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Thor"]::before {
     content: var(--Thor-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Wing"] div.setting-item-description::before,
+div[data-id="Quartz.Wind.Wing"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Wind.Wing"]::before {
     content: var(--Wing-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Cypher"] div.setting-item-description::before,
+div[data-id="Quartz.Time.Cypher"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Cypher"]::before {
     content: var(--Cypher-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Katze"] div.setting-item-description::before,
+div[data-id="Quartz.Time.Katze"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Katze"]::before {
     content: var(--Katze-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Murakumo"] div.setting-item-description::before,
+div[data-id="Quartz.Time.Murakumo"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Murakumo"]::before {
     content: var(--Murakumo-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Raven"] div.setting-item-description::before,
+div[data-id="Quartz.Time.Raven"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Time.Raven"]::before {
     content: var(--Raven-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Angel"] div.setting-item-description::before,
+div[data-id="Quartz.Space.Angel"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Angel"]::before {
     content: var(--Angel-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Chevalier"] div.setting-item-description::before,
+div[data-id="Quartz.Space.Chevalier"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Chevalier"]::before {
     content: var(--Chevalier-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Emblem"] div.setting-item-description::before,
+div[data-id="Quartz.Space.Emblem"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Emblem"]::before {
     content: var(--Emblem-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Moebius"] div.setting-item-description::before,
+div[data-id="Quartz.Space.Moebius"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Space.Moebius"]::before {
     content: var(--Moebius-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Juggler"] div.setting-item-description::before,
+div[data-id="Quartz.Mirage.Juggler"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Juggler"]::before {
     content: var(--Juggler-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Magius"] div.setting-item-description::before,
+div[data-id="Quartz.Mirage.Magius"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Magius"]::before {
     content: var(--Magius-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Mirage"] div.setting-item-description::before,
+div[data-id="Quartz.Mirage.Mirage"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Mirage"]::before {
     content: var(--Mirage-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 
-div[data-id="Pandora"] div.setting-item-description::before,
+div[data-id="Quartz.Mirage.Pandora"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Quartz.Mirage.Pandora"]::before {
     content: var(--Pandora-Icon);
     padding-right: var(--Link-Icon-Padding);
