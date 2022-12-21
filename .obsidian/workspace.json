@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Monster.md",
-                "mode": "preview",
+                "file": "Database/Enemy/Boss.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "Database/Enemy/Boss.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Enemy/Monster.md",
+                "file": "Database/Enemy/Boss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Enemy/Monster.md"
+                "file": "Database/Enemy/Boss.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "1708a6a919eb1668",
   "lastOpenFiles": [
+    "Database/Enemy/Monster.md",
     "Database/Enemy/Boss.md",
     "Database/Treasure Chest/Treasure Chest.md",
     "Database/Treasure Chest/Monster Treasure Chest.md",
@@ -147,7 +148,6 @@
     "Database/Quartz/Wind SR.md",
     "Database/Quartz/Wind R.md",
     "Database/Quartz/Wind N.md",
-    "Database/Quartz/Water SR.md",
-    "Database/Quartz/Water R.md"
+    "Database/Quartz/Water SR.md"
   ]
 }
