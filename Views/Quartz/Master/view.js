@@ -9,6 +9,8 @@ const {
     Aliases,
     Element: elem,
     ID: id,
+    When: when,
+    How: how,
   },
 } = input;
 const [name] = Aliases;
@@ -74,9 +76,9 @@ title: ${name}
     <table class="master-quartz-table">
         <thead>
             <tr>
-                <td colspan="10"><img class="${id
-                  .replace(/\./g, "-")
-                  .toLowerCase()}-image" /></td>
+                <td colspan="10">
+                  <img class="${id.replace(/\./g, "-").toLowerCase()}-image" />
+                </td>
             </tr>
             <tr>
                 <td>LV</td>

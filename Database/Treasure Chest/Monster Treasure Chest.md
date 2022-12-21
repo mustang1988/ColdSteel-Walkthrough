@@ -12,4 +12,4 @@ MonsterTreasureChests:
 const chest = dv.current().MonsterTreasureChests[0];
 await dv.view('Treasure Chest/Monster Treasure Chest', { chest });
 ```
-^029
+^028

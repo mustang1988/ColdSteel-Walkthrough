@@ -3,7 +3,7 @@ ID: "Quartz.Water.Orochi"
 Element: "Water"
 Aliases:
   - "大蛇"
-Time: ""
+When: ""
 How: ""
 Properties:
   - Level: 4

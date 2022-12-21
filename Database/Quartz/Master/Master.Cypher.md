@@ -4,7 +4,7 @@ Element: "Time"
 Aliases:
   - "虚无"
 When: ""
-How: "克洛初始回路"
+How: "克洛初始核心"
 Properties:
   - Level: 3
     Properties:

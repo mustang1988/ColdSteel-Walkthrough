@@ -4,7 +4,7 @@ Element: "Time"
 Aliases:
   - "渡鸦"
 When: ""
-How: "菲初始回路"
+How: "菲初始核心"
 Properties:
   - Level: 2
     Properties:

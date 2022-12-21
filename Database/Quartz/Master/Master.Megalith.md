@@ -3,7 +3,7 @@ ID: "Quartz.Earth.Megalith"
 Element: "Earth"
 Aliases:
   - "巨石"
-Time: ""
+When: ""
 How: ""
 Properties:
   - Level: 4

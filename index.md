@@ -6,7 +6,7 @@ banner_y: 0.33268
 
 ```ad-quote
 title: 奖杯
-collapse: open
+collapse: close
 ~~~dataviewjs
 // Read trophy DB files
 const trophies = []
@@ -34,7 +34,7 @@ dv.table(
 title: 攻略
 collapse: open
 ~~~ad-quote
-title: 攻略图例一览
+title: 图例
 collapse: close
 - 获得奖杯
   - [[Database/Trophy/Bronze|铜奖杯]]
@@ -49,7 +49,7 @@ collapse: close
   - [[Database/Recipe/Recipe|烹饪笔记]]
   - [[Database/Item/Book|书籍笔记]]
   - [[Database/Character/Rean Schwarzer|人物笔记]]
-  - [[Database/Quartz/Iron|]][[Database/Quartz/Scepter|]][[Database/Quartz/Force|]][[Database/Quartz/Wing|]][[Database/Quartz/Katze|]][[Database/Quartz/Angel|]][[Database/Quartz/Mirage|]] 核心回路
+  - [[Database/Quartz/Master/Master.Iron|]][[Database/Quartz/Master/Master.Aegis|]][[Database/Quartz/Master/Master.Tauros|]][[Database/Quartz/Master/Master.Megalith|]][[Database/Quartz/Master/Master.Aries|]][[Database/Quartz/Master/Master.Canon|]][[Database/Quartz/Master/Master.Scepter|]][[Database/Quartz/Master/Master.Orochi|]][[Database/Quartz/Master/Master.Force|]][[Database/Quartz/Master/Master.Criminal|]][[Database/Quartz/Master/Master.Brave|]][[Database/Quartz/Master/Master.Vermillion|]][[Database/Quartz/Master/Master.Wing|]][[Database/Quartz/Master/Master.Falco|]][[Database/Quartz/Master/Master.Mistral|]][[Database/Quartz/Master/Master.Thor|]][[Database/Quartz/Master/Master.Katze|]][[Database/Quartz/Master/Master.Cypher|]][[Database/Quartz/Master/Master.Murakumo|]][[Database/Quartz/Master/Master.Raven|]][[Database/Quartz/Master/Master.Angel|]][[Database/Quartz/Master/Master.Emblem|]][[Database/Quartz/Master/Master.Moebius|]][[Database/Quartz/Master/Master.Chevalier|]][[Database/Quartz/Master/Master.Mirage|]][[Database/Quartz/Master/Master.Juggler|]][[Database/Quartz/Master/Master.Pandora|]][[Database/Quartz/Master/Master.Magius|]] 核心回路
   - [[Database/Enemy/Monster|]][[Database/Enemy/Boss|]] 战斗笔记
   - [[Database/Treasure Chest/Treasure Chest|]][[Database/Treasure Chest/Monster Treasure Chest|]] 宝箱
 - 物品道具
@@ -78,3 +78,50 @@ dv.table(
 );
 ~~~
 ```
+
+````ad-quote
+title: 收集品一览
+
+```ad-quote
+title: 核心回路
+collapse: close
+~~~dataviewjs
+const master_quartzs = dv.pages('"Database/Quartz/Master"')
+.map(quartz => {
+  quartz.chapter = quartz.When ? dv.page(quartz.When.path) : null;
+  return quartz;
+})
+.sort(quartz => [ quartz.chapter?quartz.chapter.No:100, quartz.When.display, quartz.How ], 'asc');
+console.log(master_quartzs);
+dv.table(
+  [],
+  master_quartzs.map(quartz => [
+    dv.fileLink(quartz.file.path, false, quartz.Aliases[0]),
+    quartz.When ? dv.blockLink(quartz.When.path, quartz.When.subpath, false, quartz.When.display) : null,
+    quartz.How
+  ])
+);
+~~~
+```
+
+```ad-quote
+title: 书籍
+collapse: close
+```
+
+```ad-quote
+title: 食谱
+collapse: close
+```
+
+```ad-quote
+title: 宝箱
+collapse: close
+```
+
+```ad-quote
+title: 战斗笔记
+collapse: close
+```
+
+````

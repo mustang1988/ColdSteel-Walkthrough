@@ -3,8 +3,8 @@ ID: "Quartz.Water.Canon"
 Element: "Water"
 Aliases:
   - "法则"
-Time: ""
-How: ""
+When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
+How: "艾略特初始核心"
 Properties:
   - Level: 1
     Properties:

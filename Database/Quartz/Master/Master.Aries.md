@@ -3,7 +3,7 @@ ID: "Quartz.Water.Aries"
 Element: "Water"
 Aliases:
   - "白羊"
-Time: ""
+When: ""
 How: ""
 Properties:
   - Level: 3

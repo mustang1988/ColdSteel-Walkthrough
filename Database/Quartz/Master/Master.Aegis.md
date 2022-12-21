@@ -3,7 +3,7 @@ ID: "Quartz.Earth.Aegis"
 Element: "Earth"
 Aliases:
   - "神盾"
-Time: ""
+When: ""
 How: ""
 Properties:
   - Level: 3

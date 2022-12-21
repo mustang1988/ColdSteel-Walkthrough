@@ -36,7 +36,7 @@ Boss战后进入剧情
 
 走到军官学校门口后触发剧情
 
-剧情后进入迷宫:
+剧情后进入迷宫: ^master-quartz-get
 
 > [!warning] 目前S技和LINK均不可用
 
@@ -70,7 +70,7 @@ Boss战后进入剧情
 战斗结束后剧情, 序章结束, 获得奖杯: [[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]^trophy-tuo-er-zi-jun-guan-xue-yuan
 
 > [!example] 序章 章节结算
-> - 战斗笔记进度: 5/196 (+5) [^1]
+> - 战斗笔记进度: 5/197 (+5) [^1]
 > - 打开宝箱进度: 5/199 (+5) [^2]
 > - 烹饪笔记进度: 0/20
 > - 书籍笔记进度: 0/43
@@ -81,7 +81,7 @@ Boss战后进入剧情
 
 下一章: [[Walkthrough/Chapter 1|第一章 新学期～初次实习～]]
 
-[^1]: (+5)战斗笔记为: [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
-[^2]: (+5)宝箱为: [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
-[^3]: (+3)核心回路为: [[Database/Quartz/Master/Master.Force|力量(黎恩初始核心)]],[[Database/Quartz/Master/Master.Canon|法则(艾略特初始核心)]],[[Database/Quartz/Master/Master.Falco|迅隼(盖乌斯初始核心)]]
-[^4]: (+2)奖杯为: [[Database/Trophy/Bronze#^jun-guan-xue-yuan-ru-xue|軍官學院入學]],[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]
+[^1]: 新增战斗笔记(+5): [[Database/Enemy/Monster#^tiao-tiao-mao|跳跳猫]], [[Database/Enemy/Monster#^bo-li-ruan-ti-shou|玻璃软体兽]], [[Database/Enemy/Monster#^ying-bi-jia-ke-chong|硬币甲壳虫]],[[Database/Enemy/Boss#^yuan-gu-men-quan|远古门犬]],[[Database/Enemy/Boss#^yuan-gu-men-quan-2|远古门犬]]
+[^2]: 新增打开宝箱(+5): [[Database/Treasure Chest/Treasure Chest#^001|001]],[[Database/Treasure Chest/Treasure Chest#^002|002]],[[Database/Treasure Chest/Treasure Chest#^003|003]],[[Database/Treasure Chest/Treasure Chest#^004|004]],[[Database/Treasure Chest/Treasure Chest#^005|005]]
+[^3]: 新增核心回路(+3): [[Database/Quartz/Master/Master.Force|力量(黎恩初始核心)]],[[Database/Quartz/Master/Master.Canon|法则(艾略特初始核心)]],[[Database/Quartz/Master/Master.Falco|迅隼(盖乌斯初始核心)]]
+[^4]: 新增获得奖杯(+2): [[Database/Trophy/Bronze#^jun-guan-xue-yuan-ru-xue|軍官學院入學]],[[Database/Trophy/Bronze#^tuo-er-zi-jun-guan-xue-yuan|托爾茲軍官學院]]

@@ -3,8 +3,8 @@ ID: "Quartz.Fire.Brave"
 Element: "Fire"
 Aliases:
   - "勇气"
-When: ""
-How: ""
+When: "[[Walkthrough/Chapter 1#^master-quartz-get|第一章 4/24]]"
+How: "劳拉初始核心"
 Properties:
   - Level: 1
     Properties:

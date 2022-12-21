@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "abda19889ba9a6b5",
+        "id": "62aef52a9f3c0c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b8090e16a612dcb",
+            "id": "1724cb016a78b539",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ],
@@ -129,17 +137,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "5b8090e16a612dcb",
+  "active": "1724cb016a78b539",
   "lastOpenFiles": [
-    "Database/Quartz/Master/Master.Aegis.md",
-    "Walkthrough/Chapter 0.md",
-    "Database/Quartz/Master/Master.Mirage.md",
-    "Database/Quartz/Master/Master.Magius.md",
-    "Database/Quartz/Master/Master.Wing.md",
+    "DEBUG.md",
+    "Index.md",
+    "Database/Quartz/Master/Master.Brave.md",
     "Database/Quartz/Master/Master.Angel.md",
-    "Database/Quartz/Master/Master.Vermillion.md",
-    "Database/Quartz/Master/Master.Thor.md",
-    "Database/Quartz/Master/Master.Tauros.md",
-    "Database/Quartz/Master/Master.Pandora.md"
+    "Walkthrough/Chapter 1.md",
+    "Database/Treasure Chest/Treasure Chest.md",
+    "Database/Treasure Chest/Monster Treasure Chest.md",
+    "Database/Enemy/Boss.md",
+    "Database/Enemy/Monster.md",
+    "Walkthrough/Chapter 0.md"
   ]
 }

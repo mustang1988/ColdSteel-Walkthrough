@@ -3,8 +3,8 @@ ID: "Quartz.Wind.Falco"
 Element: "Wind"
 Aliases:
   - "迅隼"
-When: ""
-How: "盖乌斯初始回路"
+When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
+How: "盖乌斯初始核心"
 Properties:
   - Level: 1
     Properties:

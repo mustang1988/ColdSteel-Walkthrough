@@ -3,8 +3,8 @@ ID: "Quartz.Fire.Force"
 Element: "Fire"
 Aliases:
   - "力量"
-When: ""
-How: "黎恩初始回路"
+When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
+How: "黎恩初始核心"
 Properties:
   - Level: 1
     Properties:

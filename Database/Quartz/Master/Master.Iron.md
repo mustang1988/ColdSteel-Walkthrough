@@ -3,8 +3,8 @@ ID: "Quartz.Earth.Iron"
 Element: "Earth"
 Aliases: 
   - "钢铁"
-Time: ""
-How: "马奇亚斯初始回路"
+When: ""
+How: "马奇亚斯初始核心"
 Properties:
   - Level: 1
     Properties:

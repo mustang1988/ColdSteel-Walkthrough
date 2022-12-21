@@ -3,8 +3,8 @@ ID: "Quartz.Earth.Tauros"
 Element: "Earth"
 Aliases:
   - "金牛"
-Time: ""
-How: "马奇亚斯初始回路"
+When: ""
+How: ""
 Properties:
   - Level: 3
     Properties:

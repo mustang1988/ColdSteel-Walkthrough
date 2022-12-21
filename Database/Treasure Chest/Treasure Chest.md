@@ -376,3 +376,75 @@ await dv.view('Treasure Chest/Treasure Chest', { chest });
 ^020
 
 ---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[20];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^021
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[21];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^022
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[22];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^023
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[23];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^024
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[24];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^025
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[25];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^026
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[26];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^027
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[27];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^029
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[28];
+await dv.view('Treasure Chest/Treasure Chest', { chest });
+```
+^030
+
+---

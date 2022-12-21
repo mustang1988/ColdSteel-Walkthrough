@@ -4,7 +4,7 @@ Element: "Wind"
 Aliases:
   - "北风"
 When: ""
-How: "尤西斯初始回路"
+How: "尤西斯初始核心"
 Properties:
   - Level: 1
     Properties:
