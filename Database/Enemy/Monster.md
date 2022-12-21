@@ -7373,943 +7373,943 @@ Monsters:
 
 ---
 ```dataviewjs
-const monster = dv.current().Monsters[0];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[0];
+await dv.view('Enemy', { enemy });
 ```
 ^tiao-tiao-mao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[1];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[1];
+await dv.view('Enemy', { enemy });
 ```
 ^bo-li-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[2];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[2];
+await dv.view('Enemy', { enemy });
 ```
 ^ying-bi-jia-ke-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[3];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[3];
+await dv.view('Enemy', { enemy });
 ```
 ^bei-lie-ruan-nian-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[4];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[4];
+await dv.view('Enemy', { enemy });
 ```
 ^bo-mu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[5];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[5];
+await dv.view('Enemy', { enemy });
 ```
 ^rong-jie-hai-kuo-yu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[6];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[6];
+await dv.view('Enemy', { enemy });
 ```
 ^ken-yao-lang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[7];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[7];
+await dv.view('Enemy', { enemy });
 ```
 ^tian-di-po-huai-zhe
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[8];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[8];
+await dv.view('Enemy', { enemy });
 ```
 ^ju-hui-wu-ya
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[9];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[9];
+await dv.view('Enemy', { enemy });
 ```
 ^ren-wei-song-shu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[10];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[10];
+await dv.view('Enemy', { enemy });
 ```
 ^da-wang-qing-ting
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[11];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[11];
+await dv.view('Enemy', { enemy });
 ```
 ^ku-fan-qie-ren
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[12];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[12];
+await dv.view('Enemy', { enemy });
 ```
 ^si-wang-wo-niu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[13];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[13];
+await dv.view('Enemy', { enemy });
 ```
 ^jian-ying-hai-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[14];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[14];
+await dv.view('Enemy', { enemy });
 ```
 ^shui-mu-gu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[15];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[15];
+await dv.view('Enemy', { enemy });
 ```
 ^dao-ren-jiao-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[16];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[16];
+await dv.view('Enemy', { enemy });
 ```
 ^ji-feng-zhu-ye-mao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[17];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[17];
+await dv.view('Enemy', { enemy });
 ```
 ^gu-ren-ou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[18];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[18];
+await dv.view('Enemy', { enemy });
 ```
 ^fang-shi-xiang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[19];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[19];
+await dv.view('Enemy', { enemy });
 ```
 ^jie-deng-zhi-zhu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[20];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[20];
+await dv.view('Enemy', { enemy });
 ```
 ^qiang-zhuang-ju-gu-xing
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[21];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[21];
+await dv.view('Enemy', { enemy });
 ```
 ^you-sheng-shuang-jiao-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[22];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[22];
+await dv.view('Enemy', { enemy });
 ```
 ^gong-ji-ye-quan
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[23];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[23];
+await dv.view('Enemy', { enemy });
 ```
 ^dian-qie-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[24];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[24];
+await dv.view('Enemy', { enemy });
 ```
 ^dan-she
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[25];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[25];
+await dv.view('Enemy', { enemy });
 ```
 ^xiao-e-gui
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[26];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[26];
+await dv.view('Enemy', { enemy });
 ```
 ^shuang-jiao-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[27];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[27];
+await dv.view('Enemy', { enemy });
 ```
 ^ju-da-tang-lang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[28];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[28];
+await dv.view('Enemy', { enemy });
 ```
 ^dian-xiong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[29];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[29];
+await dv.view('Enemy', { enemy });
 ```
 ^ren-mian-niao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[30];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[30];
+await dv.view('Enemy', { enemy });
 ```
 ^bing-jing-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[31];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[31];
+await dv.view('Enemy', { enemy });
 ```
 ^bai-jin-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[32];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[32];
+await dv.view('Enemy', { enemy });
 ```
 ^cao-di-tiao-yue-zhe
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[33];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[33];
+await dv.view('Enemy', { enemy });
 ```
 ^yi-she
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[34];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[34];
+await dv.view('Enemy', { enemy });
 ```
 ^bai-yi-mao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[35];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[35];
+await dv.view('Enemy', { enemy });
 ```
 ^bao-shi-lao-shu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[36];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[36];
+await dv.view('Enemy', { enemy });
 ```
 ^shen-suo-wo-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[37];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[37];
+await dv.view('Enemy', { enemy });
 ```
 ^di-yu-tu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[38];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[38];
+await dv.view('Enemy', { enemy });
 ```
 ^kuang-nu-fang-jian-bei
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[39];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[39];
+await dv.view('Enemy', { enemy });
 ```
 ^xiao-niu-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[40];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[40];
+await dv.view('Enemy', { enemy });
 ```
 ^shan-dian-qiu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[41];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[41];
+await dv.view('Enemy', { enemy });
 ```
 ^hua-guan-niao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[42];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[42];
+await dv.view('Enemy', { enemy });
 ```
 ^man-niu-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[43];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[43];
+await dv.view('Enemy', { enemy });
 ```
 ^ying-ke-xi-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[44];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[44];
+await dv.view('Enemy', { enemy });
 ```
 ^gao-yuan-e-gui
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[45];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[45];
+await dv.view('Enemy', { enemy });
 ```
 ^you-ni-long
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[46];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[46];
+await dv.view('Enemy', { enemy });
 ```
 ^shi-wa
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[47];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[47];
+await dv.view('Enemy', { enemy });
 ```
 ^yuan-yang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[48];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[48];
+await dv.view('Enemy', { enemy });
 ```
 ^xue-bai-liao-ya
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[49];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[49];
+await dv.view('Enemy', { enemy });
 ```
 ^sai-si-fei
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[50];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[50];
+await dv.view('Enemy', { enemy });
 ```
 ^di-ge-lei-mu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[51];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[51];
+await dv.view('Enemy', { enemy });
 ```
 ^xi-xue-cao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[52];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[52];
+await dv.view('Enemy', { enemy });
 ```
 ^jun-ying
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[53];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[53];
+await dv.view('Enemy', { enemy });
 ```
 ^shen-yuan-san-tou-quan
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[54];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[54];
+await dv.view('Enemy', { enemy });
 ```
 ^huo-yan-zhi-zun
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[55];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[55];
+await dv.view('Enemy', { enemy });
 ```
 ^feng-kuang-ye-cao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[56];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[56];
+await dv.view('Enemy', { enemy });
 ```
 ^qi-hei-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[57];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[57];
+await dv.view('Enemy', { enemy });
 ```
 ^ju-qiu-bian-fu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[58];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[58];
+await dv.view('Enemy', { enemy });
 ```
 ^shi-shi-gui-tuan
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[59];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[59];
+await dv.view('Enemy', { enemy });
 ```
 ^ang-zang-lao-shu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[60];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[60];
+await dv.view('Enemy', { enemy });
 ```
 ^di-di-wu-ya
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[61];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[61];
+await dv.view('Enemy', { enemy });
 ```
 ^e-tou-yu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[62];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[62];
+await dv.view('Enemy', { enemy });
 ```
 ^shan-guang-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[63];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[63];
+await dv.view('Enemy', { enemy });
 ```
 ^ming-yun-fang-zhi-zhe
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[64];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[64];
+await dv.view('Enemy', { enemy });
 ```
 ^qi-man-bing-shuang-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[65];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[65];
+await dv.view('Enemy', { enemy });
 ```
 ^ying-hua-ju-gui
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[66];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[66];
+await dv.view('Enemy', { enemy });
 ```
 ^pang-da-ju-he-ti
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[67];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[67];
+await dv.view('Enemy', { enemy });
 ```
 ^tan-lan-shou-ge-zhe
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[68];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[68];
+await dv.view('Enemy', { enemy });
 ```
 ^nen-ya-bo-mu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[69];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[69];
+await dv.view('Enemy', { enemy });
 ```
 ^guo-dong-gu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[70];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[70];
+await dv.view('Enemy', { enemy });
 ```
 ^ye-zi-zhu-ye-mao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[71];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[71];
+await dv.view('Enemy', { enemy });
 ```
 ^huang-jin-xi-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[72];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[72];
+await dv.view('Enemy', { enemy });
 ```
 ^qiang-zhuang-da-zui-xing
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[73];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[73];
+await dv.view('Enemy', { enemy });
 ```
 ^qi-ji-jia-zhou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[74];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[74];
+await dv.view('Enemy', { enemy });
 ```
 ^an-ye-ye-quan
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[75];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[75];
+await dv.view('Enemy', { enemy });
 ```
 ^an-ying-ling-ti
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[76];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[76];
+await dv.view('Enemy', { enemy });
 ```
 ^qi-ji-chang-jian
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[77];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[77];
+await dv.view('Enemy', { enemy });
 ```
 ^si-wang-zhong-ji-zhe
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[78];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[78];
+await dv.view('Enemy', { enemy });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-hg
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[79];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[79];
+await dv.view('Enemy', { enemy });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-r2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[80];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[80];
+await dv.view('Enemy', { enemy });
 ```
 ^fang-zhen-bing-j-9-2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[81];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[81];
+await dv.view('Enemy', { enemy });
 ```
 ^you-yuan-zhi-hun
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[82];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[82];
+await dv.view('Enemy', { enemy });
 ```
 ^si-ta-la-mu-da
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[83];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[83];
+await dv.view('Enemy', { enemy });
 ```
 ^zi-ni
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[84];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[84];
+await dv.view('Enemy', { enemy });
 ```
 ^zhan-lan-fu-yin
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[85];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[85];
+await dv.view('Enemy', { enemy });
 ```
 ^chi-gui-qing-ting
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[86];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[86];
+await dv.view('Enemy', { enemy });
 ```
 ^ji-jing-piao-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[87];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[87];
+await dv.view('Enemy', { enemy });
 ```
 ^yan-she
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[88];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[88];
+await dv.view('Enemy', { enemy });
 ```
 ^feng-kuang-qi-e
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[89];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[89];
+await dv.view('Enemy', { enemy });
 ```
 ^tan-lan-lang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[90];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[90];
+await dv.view('Enemy', { enemy });
 ```
 ^gui-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[91];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[91];
+await dv.view('Enemy', { enemy });
 ```
 ^jin-shu-bian-fu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[92];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[92];
+await dv.view('Enemy', { enemy });
 ```
 ^you-xiao-luo-hai-die
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[93];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[93];
+await dv.view('Enemy', { enemy });
 ```
 ^zha-dan-zhi-zhu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[94];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[94];
+await dv.view('Enemy', { enemy });
 ```
 ^tiao-wu-mao-tou-ying
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[94];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[94];
+await dv.view('Enemy', { enemy });
 ```
 ^ju-lei-niao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[95];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[95];
+await dv.view('Enemy', { enemy });
 ```
 ^si-wang-lian-dao-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[96];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[96];
+await dv.view('Enemy', { enemy });
 ```
 ^da-peng-niao
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[97];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[97];
+await dv.view('Enemy', { enemy });
 ```
 ^la-ku-fan-qie-ren
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[98];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[98];
+await dv.view('Enemy', { enemy });
 ```
 ^jing-bei-lie-quan-g
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[99];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[99];
+await dv.view('Enemy', { enemy });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-r2-2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[100];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[100];
+await dv.view('Enemy', { enemy });
 ```
 ^yan-jiang-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[101];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[101];
+await dv.view('Enemy', { enemy });
 ```
 ^san-wei-yi-ti-gong-ji-zhe-hg-2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[102];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[102];
+await dv.view('Enemy', { enemy });
 ```
 ^jin-shu-jia-ke-chong
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[103];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[103];
+await dv.view('Enemy', { enemy });
 ```
 ^yue-lun-yan-shu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[104];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[104];
+await dv.view('Enemy', { enemy });
 ```
 ^fang-zhen-bing-j-9-3
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[105];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[105];
+await dv.view('Enemy', { enemy });
 ```
 ^jing-bei-lie-quan-g-2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[106];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[106];
+await dv.view('Enemy', { enemy });
 ```
 ^shi-er-te-er
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[107];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[107];
+await dv.view('Enemy', { enemy });
 ```
 ^yue-feng
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[108];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[108];
+await dv.view('Enemy', { enemy });
 ```
 ^qi-hei-men-quan
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[109];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[109];
+await dv.view('Enemy', { enemy });
 ```
 ^mi-nuo-si-e-mo-2
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[110];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[110];
+await dv.view('Enemy', { enemy });
 ```
 ^ji-han-shen-wei
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[111];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[111];
+await dv.view('Enemy', { enemy });
 ```
 ^lian-yu-tu
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[112];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[112];
+await dv.view('Enemy', { enemy });
 ```
 ^gang-tie-mo-xiang
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[113];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[113];
+await dv.view('Enemy', { enemy });
 ```
 ^shan-dian-duo-tou-long
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[114];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[114];
+await dv.view('Enemy', { enemy });
 ```
 ^ao-gu-ji-ou
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[115];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[115];
+await dv.view('Enemy', { enemy });
 ```
 ^du-er-ge-nie-sa
 
 ---
 
 ```dataviewjs
-const monster = dv.current().Monsters[116];
-await dv.view('Enemy/Monster', { monster });
+const enemy = dv.current().Monsters[116];
+await dv.view('Enemy', { enemy });
 ```
 ^di-sa-de-shen-pan

@@ -4865,631 +4865,631 @@ Bosses:
 
 ---
 ```dataviewjs
-const boss = dv.current().Bosses[0];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[0];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^yuan-gu-men-quan
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[1];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[1];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^yuan-gu-men-quan-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[2];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[2];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^zhan-shu-ke-alpha
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[3];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[3];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^mi-nuo-si-e-mo
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[4];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[4];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^kong-bu-xi-long
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[5];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[5];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ren-mian-niao
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[6];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[6];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^jia-guan-li-yuan
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[7];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[7];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^gu-er-nuo-jia
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[8];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[8];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^zhi-tian-shi-zhi-men
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[9];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[9];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^zhan-shu-ke-beta
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[10];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[10];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ming-yun-fang-zhi-zhe
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[11];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[11];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^san-tou-dian-qie-shou
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[12];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[12];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ling-bang-jun-shi-bing
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[13];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[13];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^jing-bei-lie-quan-b
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[14];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[14];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^jing-bei-lie-quan-r
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[15];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[15];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^gui-zu-xue-sheng-1
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[16];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[16];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^gui-zu-xue-sheng-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[17];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[17];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^gui-zu-xue-sheng-3
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[18];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[18];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^shen-yuan-e-mo
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[19];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[19];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^pai-cui-ke
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[20];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[20];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^lei-dian-zhen-bo-yu
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[21];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[21];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^luo-po-lie-bing
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[22];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[22];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^g-gi-di-en
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[23];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[23];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^mi-li-ya-mu
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[24];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[24];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^yan-shi-mo-xiang
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[25];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[25];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^fei
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[26];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[26];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^lao-la
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[27];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[27];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ji-nuo-xia-sai-na-ke
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[28];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[28];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^wu-tou-shou-wei
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[29];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[29];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^chi-tian-shi-zhi-men
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[30];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[30];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^zhan-shu-ke-gamma
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[31];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[31];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ju-xing-ruan-ti-shou
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[32];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[32];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^wu-xian-shen-yuan-she
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[33];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[33];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^e-tou-yu-wang
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[34];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[34];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ma-qi-ya-si
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[35];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[35];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^li-en
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[36];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[36];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^e-mo-diao-su
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[37];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[37];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^lao-la-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[38];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[38];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^gai-wu-si
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[39];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[39];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ma-qi-ya-si-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[40];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[40];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ling-zhi-kuo-bu-zhe
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[41];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[41];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ya-li-sha
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[42];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[42];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^fei-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[43];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[43];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ai-ma
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[44];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[44];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ai-lve-te
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[45];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[45];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^you-xi-si
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[46];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[46];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^an-si-er-te
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[47];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[47];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^fang-zhen-bing-j-9
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[48];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[48];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^sha-e
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[49];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[49];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^sha-la-jiao-guan
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[50];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[50];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^nuo-si-fei-er-du
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[51];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[51];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^guan-jia-ke-lao-si
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[52];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[52];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^di-guo-jie-fang-zhan-xian-jian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[53];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[53];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^di-guo-jie-fang-zhan-xian-bu-qiang
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[54];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[54];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^r-yu-lian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[55];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[55];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^yu-lian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[56];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[56];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^s-si-ka-lei-te
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[57];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[57];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ai-er-wei-li-ya
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[58];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[58];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^sha-la-jiao-guan-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[59];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[59];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^huang-jin-zhen-jun
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[60];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[60];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ju-shi-wa
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[61];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[61];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^an-jie-li-ka
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[62];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[62];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^duo-tou-she
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[63];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[63];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^b-yu-lian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[64];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[64];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^xing-tai-bing-qi-g
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[65];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[65];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^di-guo-jie-fang-zhan-xian-bu-qiang-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[66];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[66];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^g-yu-lian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[67];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[67];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^di-guo-jie-fang-zhan-xian-jian-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[68];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[68];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^nt-i
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[69];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[69];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^v-fu-er-kan
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[70];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[70];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^c
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[71];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[71];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^c-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[72];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[72];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^li-liang-sui-pian
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[73];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[73];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^long-ren
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[74];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[74];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^luo-ya-ai-lei-bo-ni-wu-si
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[75];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[75];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ming-jing
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[76];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[76];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ming-jing-2
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[77];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[77];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^cang-zhi-qi-shen
 
 ---
 
 ```dataviewjs
-const boss = dv.current().Bosses[78];
-await dv.view('Enemy/Boss', { boss });
+const enemy = dv.current().Bosses[78];
+await dv.view('Enemy', { enemy, boss: true });
 ```
 ^ya-er-sai-de-zi-jue

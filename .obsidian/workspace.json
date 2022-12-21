@@ -11,8 +11,12 @@
             "id": "1708a6a919eb1668",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Monster.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 295.5
   },
   "right": {
     "id": "adb1521153f8552f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Enemy/Monster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Enemy/Monster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Enemy/Monster.md"
+              }
             }
           }
         ],
@@ -131,6 +139,7 @@
   },
   "active": "1708a6a919eb1668",
   "lastOpenFiles": [
+    "Database/Enemy/Boss.md",
     "Database/Treasure Chest/Treasure Chest.md",
     "Database/Treasure Chest/Monster Treasure Chest.md",
     "Database/Quest/Main Quest.md",
@@ -139,7 +148,6 @@
     "Database/Quartz/Wind R.md",
     "Database/Quartz/Wind N.md",
     "Database/Quartz/Water SR.md",
-    "Database/Quartz/Water R.md",
-    "Database/Quartz/Water N.md"
+    "Database/Quartz/Water R.md"
   ]
 }

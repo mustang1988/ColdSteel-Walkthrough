@@ -1,4 +1,4 @@
-const { boss } = input;
+const { enemy, boss } = input;
 const BuildPage = (boss) => {
   const {
     ID: id,
@@ -143,44 +143,44 @@ const ArtRateTable = (rates) => {
         <tr>
             <td class="icon-td"><img class="icon-element-earth icon-min-size"></td>
             <td><div style="width: ${
-              (earthArtRate / 200) * 100
+              (earthArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-earth">
             </div>
             <span>${earthArtRate}</span></td>
             <td class="icon-td"><img class="icon-element-time icon-min-size"></td>
             <td><div style="width: ${
-              (timeArtRate / 200) * 100
+              (timeArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-time"></div>
             <span>${timeArtRate}</span></td>
         </tr>
         <tr>
             <td class="icon-td"><img class="icon-element-water icon-min-size"></td>
             <td><div style="width: ${
-              (waterArtRate / 200) * 100
+              (waterArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-water"></div>
             <span>${waterArtRate}</span></td>
             <td class="icon-td"><img class="icon-element-space icon-min-size"></td>
             <td><div style="width: ${
-              (spaceArtRate / 200) * 100
+              (spaceArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-space"></div>
             <span>${spaceArtRate}</span></td>
         </tr>
         <tr>
             <td class="icon-td"><img class="icon-element-fire icon-min-size"></td>
             <td><div style="width: ${
-              (fireArtRate / 200) * 100
+              (fireArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-fire"></div>
             <span>${fireArtRate}</span></td>
             <td class="icon-td"><img class="icon-element-mirage icon-min-size"></td>
             <td><div style="width: ${
-              (mirageArtRate / 200) * 100
+              (mirageArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-mirage"></div>
             <span>${mirageArtRate}</span></td>
         </tr>
         <tr>
             <td class="icon-td"><img class="icon-element-wind icon-min-size"></td>
             <td><div style="width: ${
-              (windArtRate / 200) * 100
+              (windArtRate / 200) * 80
             }%;" class="element-rate-bar element-rate-bar-wind"></div>
             <span>${windArtRate}</span></td>
         </tr>
@@ -401,9 +401,9 @@ const StatusRateTable = (status) => {
 };
 
 const admonition = `
-\`\`\`ad-enemy-boss
-title: ${boss.Name}
-${BuildPage(boss)}
+\`\`\`ad-enemy-${boss ? "boss" : "monster"}
+title: ${enemy.Name}
+${BuildPage(enemy)}
 \`\`\`
 `;
 dv.paragraph(admonition);
