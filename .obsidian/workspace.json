@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6e4a30337fd373",
+        "id": "e05a3b5930a0f99f",
         "type": "tabs",
         "children": [
           {
-            "id": "9ef9ccff378a60eb",
+            "id": "caf182045005645a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Quartz/Mirage.md",
+                "file": "Database/Quartz/Pandora.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Quartz/Mirage.md",
+                "file": "Database/Quartz/Pandora.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Quartz/Mirage.md",
+                "file": "Database/Quartz/Pandora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Quartz/Mirage.md"
+                "file": "Database/Quartz/Pandora.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 274.5,
     "collapsed": true
   },
-  "active": "9ef9ccff378a60eb",
+  "active": "caf182045005645a",
   "lastOpenFiles": [
-    "Database/Quartz/Mirage N.md",
+    "Database/Quartz/Magius.md",
     "Database/Quartz/Mirage.md",
+    "Database/Quartz/Mirage N.md",
     "Database/Art/Mirage.md",
     "Database/Quartz/Juggler.md",
     "Database/Quartz/Chevalier.md",
     "Database/Quartz/Emblem.md",
     "Database/Quartz/Moebius.md",
     "Database/Quartz/Angel.md",
-    "Database/Quartz/Cypher.md",
-    "Database/Quartz/Katze.md"
+    "Database/Quartz/Cypher.md"
   ]
 }
