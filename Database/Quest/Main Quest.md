@@ -73,7 +73,7 @@ Quests:
       > [!tip] Boss攻略
       > 劳拉实力强大，不止有S技，普通技能对BOSS的削弱也很有用
       > 
-      > 此BOSS还会蓄力技，用亚莉莎和黎恩的技能注意下可轻松打过
+      > 此BOSS还会蓄力技，用[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]和[[Database/Character/Rean Schwarzer#^li-en|黎恩]]的技能注意下可轻松打过
 
       4. 打败后回去报告
     Bonus:

@@ -13,20 +13,20 @@ Description: |
 
   对人的态度相当高傲, 且个性好胜,
 
-  对亚莉莎怀有莫名其妙的竞争意识.
+  对[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]怀有莫名其妙的竞争意识.
 
 Notes:
   - Title: "好对手"
     ID: "fei-li-si-1"
     Content: |
-      虽然过去与亚莉莎不对盘,
+      虽然过去与[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]不对盘,
 
       但在袋棍球社中几次交手之后,
 
       认同对方为好对手, 并因此萌生友情.
 
     When: ""
-    How: "亚莉莎羁绊事件"
+    How: "[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]羁绊事件"
 ---
 ```dataviewjs
 const character = dv.current();

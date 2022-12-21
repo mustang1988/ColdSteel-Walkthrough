@@ -240,15 +240,14 @@ const ItemLootTable = (loots) => {
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    return `<a aria-label-position="top" aria-label="${link.path} > ^${
-      link.subpath
-    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
-      link.subpath
+    const { path, subpath, display } = link;
+    return `<a aria-label-position="top" aria-label="${path}${
+      subpath ? ` > ^${subpath}` : ""
+    }" data-href="${path}${subpath ? `#^${subpath}` : ""}" href="${path}${
+      subpath ? `#^${subpath}` : ""
     }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
       file.ID || ""
-    }" data-link-tags="" data-link-path="${link.path}">${
-      link.display || ""
-    }</a>`;
+    }" data-link-tags="" data-link-path="${path}">${link.display || ""}</a>`;
   });
   const [l1, l2, l3, l4] = items;
   return `

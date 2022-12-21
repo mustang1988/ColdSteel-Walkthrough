@@ -48,6 +48,7 @@ Notes:
 const character = dv.current();
 await dv.view('Character/Description', { character });
 ```
+^an-jie-li-ka
 
 ```dataviewjs
 const note = dv.current().Notes[0];

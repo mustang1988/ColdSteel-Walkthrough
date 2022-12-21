@@ -4,7 +4,7 @@ Element: "Space"
 Aliases:
   - "天使"
 When: "[[Walkthrough/Chapter 1#^master-quartz-get|第一章 4/24]]"
-How: "亚莉莎初始核心"
+How: "[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]初始核心"
 Properties:
   - Level: 1
     Properties:

@@ -108,7 +108,7 @@ Quests:
       2. 前往 [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]] 去解决Boss [[Database/Enemy/Boss#^ren-mian-niao|人面鸟]]
       
       > [!tip] Boss攻略
-      > 属于飞行系的，射属性（亚莉莎）攻击有特效
+      > 属于飞行系的，射属性([[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]])攻击有特效
       >
       > Boss攻击强，还要小心它的风属性魔法，驱动挺快
       > 

@@ -19,12 +19,12 @@ Notes:
   - Title: "情同姐妹"
     ID: "xue-lun-1"
     Content: |
-      亚莉莎对她就有如姐姐般仰慕,
+      [[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]对她就有如姐姐般仰慕,
 
-      而雪伦似乎也将亚莉莎当作妹妹一样看待.
+      而雪伦似乎也将[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]当作妹妹一样看待.
 
     When: ""
-    How: "亚莉莎羁绊事件"
+    How: "[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]羁绊事件"
   - Title: "超级女仆"
     ID: "xue-lun-2"
     Content: |
