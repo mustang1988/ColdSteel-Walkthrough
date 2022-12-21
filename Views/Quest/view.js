@@ -6,9 +6,10 @@ const {
     Steps: steps,
     Bonus: bonus,
   },
+  type
 } = input;
 const admonition = `
-\`\`\`ad-main-quest
+\`\`\`ad-${type.toLowerCase()}-quest
 title: ${name}
 
 AP:  ${b_ap}${e_ap > 0 ? `+${e_ap}` : ""}

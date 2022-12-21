@@ -10,6 +10,6 @@ MonsterTreasureChests:
 ---
 ```dataviewjs
 const chest = dv.current().MonsterTreasureChests[0];
-await dv.view('Treasure Chest/Monster Treasure Chest', { chest });
+await dv.view('Treasure Chest', { chest, monster: true });
 ```
 ^028

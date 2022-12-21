@@ -135,7 +135,7 @@ Quests:
 ---
 ```dataviewjs
 const quest = dv.current().Quests[0];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^diu-shi-de-xue-sheng-shou-ce
 
@@ -143,7 +143,7 @@ await dv.view('Quest/Side Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[1];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^yong-wan-de-tiao-wei-liao-diao-huo
 
@@ -151,7 +151,7 @@ await dv.view('Quest/Side Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[2];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^shou-ji-yao-de-cai-liao
 
@@ -159,7 +159,7 @@ await dv.view('Quest/Side Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[3];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^da-shi-ji-shang-ren-ti-yan
 
@@ -167,7 +167,7 @@ await dv.view('Quest/Side Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[4];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^yi-shi-de-qian-bao
 
@@ -175,7 +175,7 @@ await dv.view('Quest/Side Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[5];
-await dv.view('Quest/Side Quest', { quest });
+await dv.view('Quest', { quest, type:'Side' });
 ```
 ^xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
 

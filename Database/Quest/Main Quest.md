@@ -100,7 +100,7 @@ Quests:
 ---
 ```dataviewjs
 const quest = dv.current().Quests[0];
-await dv.view('Quest/Main Quest', { quest });
+await dv.view('Quest', { quest, type:'Main' });
 ```
 ^pei-song-dao-li-qi
 
@@ -108,7 +108,7 @@ await dv.view('Quest/Main Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[1];
-await dv.view('Quest/Main Quest', { quest });
+await dv.view('Quest', { quest, type:'Main' });
 ```
 ^diao-cha-jiu-xiao-she
 
@@ -116,7 +116,7 @@ await dv.view('Quest/Main Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[2];
-await dv.view('Quest/Main Quest', { quest });
+await dv.view('Quest', { quest, type:'Main' });
 ```
 ^geng-huan-huai-diao-de-lu-deng
 
@@ -125,7 +125,7 @@ await dv.view('Quest/Main Quest', { quest });
 
 ```dataviewjs
 const quest = dv.current().Quests[3];
-await dv.view('Quest/Main Quest', { quest });
+await dv.view('Quest', { quest, type:'Main' });
 ```
 ^dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
 
