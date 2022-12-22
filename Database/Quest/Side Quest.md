@@ -120,15 +120,35 @@ Quests:
       - "[[Database/Item/U-Material|U物质x5]]"
     When: "[[Walkthrough/Chapter 1#^quest-xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|第一章 4/25]]"
 #--------------------------------------------------------------------------------------------------------------
-###################################
+  - Name: "代课老师的请托"
+    ID: "dai-ke-lao-shi-de-qing-tuo"
+    BasicAP: 3
+    ExtraAP: 2
+    Steps: |
+      1. 到第二学生宿舍内找克连领取
+
+      2. 到托里斯塔邸宅找主妇梅莉莎对话
+         
+      3. 授课中选中正确的选项
+         
+      > [!tips] 正确选项, 全正确 ***AP+2***
+      > - 约50年前
+      > - C·爱普斯泰恩博士  
+      > - 火药式的枪和大炮等武器
+
+    Bonus:
+      - "2000米拉"
+    When: ""
+
+
+
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
     ExtraAP: 0
     Steps: |
-      - ""
-      - ""
-      - ""
+      1. 
     Bonus:
       - ""
     When: ""
@@ -180,3 +200,12 @@ await dv.view('Quest', { quest, type:'Side' });
 ^xi-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
 
 ---
+
+```dataviewjs
+const quest = dv.current().Quests[6];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^dai-ke-lao-shi-de-qing-tuo
+
+---
+

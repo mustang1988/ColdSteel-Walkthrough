@@ -19,7 +19,7 @@ Notes:
     ID: "ai-ma-1"
     Content: |
       非常会照顾人, 主动教导菲念书.
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^character-ai-ma-1|第二章 5/22]]"
     How: "剧情自动获得"
   - Title: "瑟蕾奴"
     ID: "ai-ma-2"

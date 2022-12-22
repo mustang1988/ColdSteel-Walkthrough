@@ -23,7 +23,7 @@ Notes:
 
       家门位阶就算在1年级学生中也算相当高的.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 2^character-pai-cui-ke-1|第二章 5/22]]"
     How: "剧情自动获得"
   - Title: "意外的一面"
     ID: "pai-cui-ke-2"
