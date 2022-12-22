@@ -4,7 +4,7 @@ Element: "Wind"
 Aliases:
   - "迅隼"
 When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
-How: "盖乌斯初始核心"
+How: "[[Database/Character/Gaius Worzel#^gai-wu-si|盖乌斯]]初始核心"
 Properties:
   - Level: 1
     Properties:

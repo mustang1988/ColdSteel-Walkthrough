@@ -3,8 +3,8 @@ ID: "Quartz.Earth.Iron"
 Element: "Earth"
 Aliases: 
   - "钢铁"
-When: ""
-How: "马奇亚斯初始核心"
+When: "[[Walkthrough/Chapter 2#^master-quartz-get|第二章 5/29]]"
+How: "[[Database/Character/Machias Regnitz#^ma-qi-ya-si|马奇亚斯]]初始核心"
 Properties:
   - Level: 1
     Properties:

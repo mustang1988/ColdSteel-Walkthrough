@@ -502,7 +502,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  智天使之门  ----------------------------------------------------------------------------------------------
 - Name: "智天使之门"
   ID: "zhi-tian-shi-zhi-men"
@@ -512,7 +511,7 @@ Bosses:
     会从它中心的宝玉中放入扰乱精神、使人疯狂的怪异光线.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
   Properties:
     LV: 15
     HP: 9819

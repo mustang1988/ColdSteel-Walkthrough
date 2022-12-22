@@ -67,6 +67,17 @@ Locations:
     - "![[images/Maps/露纳利亚自然公园3.jpg]]"
   Fishes:
 
+- Name: "旧校舍地下·第二层"
+  ID: "jiu-xiao-she-di-xia-er-ceng"
+  Maps:
+    - "![[images/Maps/旧校舍地下·第二层.jpg]]"
+  Fishes:
+- Name: "北克鲁琴街道"
+  ID: "bei-ke-lu-qin-jie-dao"
+  Maps:
+    - "![[images/Maps/北克鲁琴街道.jpg]]"
+  Fishes:
+
 ##################################
 - Name: ""
   ID: ""
@@ -160,5 +171,21 @@ const location = dv.current().Locations[10];
 await dv.view('Location', { location });
 ```
 ^lu-na-li-ya-zi-ran-gong-yuan-3
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[11];
+await dv.view('Location', { location });
+```
+^jiu-xiao-she-di-xia-er-ceng
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[12];
+await dv.view('Location', { location });
+```
+^bei-ke-lu-qin-jie-dao
 
 ---

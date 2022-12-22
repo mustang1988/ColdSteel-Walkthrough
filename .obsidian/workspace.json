@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aad6a513dea7a2b",
+            "id": "a4525d8948460808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Boss.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b4412c65fa725fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Monster.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "16d8850971684bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Location/Location.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "16455c3a669f8225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Item/Recipe Book.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "03ea59d14f1bf513",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,20 +66,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ea48a56e083a7b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Quest/Side Quest.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2aad6a513dea7a2b",
+  "active": "03ea59d14f1bf513",
   "lastOpenFiles": [
-    "Database/Quest/Side Quest.md",
+    "Database/Location/Location.md",
     "Walkthrough/Chapter 2.md",
-    "Database/Item/Link Book.md",
+    "Database/Quest/Main Quest.md",
+    "Index.md",
+    "Database/Quest/Side Quest.md",
     "Walkthrough/Chapter 1.md",
-    "Database/Item/Book.md",
-    "Database/Character/Crow Armbrust.md",
-    "Database/Character/Emma Millstein.md",
-    "Database/Character/Patrick T Hyarms.md",
-    "Database/Character/Angelica Rogner.md",
-    "Database/Character/Alisa Reinford.md"
+    "Database/Quartz/Master/Master.Wing.md",
+    "Database/Quartz/Master/Master.Mistral.md",
+    "Database/Quartz/Master/Master.Iron.md",
+    "Database/Quartz/Master/Master.Raven.md"
   ]
 }

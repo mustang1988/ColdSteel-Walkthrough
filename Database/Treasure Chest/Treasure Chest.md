@@ -208,7 +208,30 @@ TreasureChests:
     - "[[Database/Quartz/Space N#^huang-jin-qiu|黄金球]]"
   Chapter: "[[Walkthrough/Chapter 1#^location-lu-na-li-ya-zi-ran-gong-yuan-3|第一章 4/15]]"
   Remark:
-
+- ID: "031"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x150]]"
+    - "[[Database/Item/Water Sepith|x150]]"
+    - "[[Database/Item/Fire Sepith|x150]]"
+    - "[[Database/Item/Wind Sepith|x150]]"
+    - "[[Database/Item/Time Sepith|x150]]"
+    - "[[Database/Item/Space Sepith|x150]]"
+    - "[[Database/Item/Mirage Sepith|x150]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-jiu-xiao-she-di-xia-er-ceng|第二章 5/23]]"
+  Remark:
+- ID: "032"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
+  Items:  
+    - "[[Database/Item/Accessory#^hua-zhi-ping|花之瓶]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-jiu-xiao-she-di-xia-er-ceng|第二章 5/23]]"
+  Remark:
+- ID: "034"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
+  Items:  
+    - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-jiu-xiao-she-di-xia-er-ceng|第二章 5/23]]"
+  Remark:
 ####################
 - ID: ""
   Location: ""
@@ -446,5 +469,29 @@ const chest = dv.current().TreasureChests[28];
 await dv.view('Treasure Chest', { chest });
 ```
 ^030
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[29];
+await dv.view('Treasure Chest', { chest });
+```
+^031
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[30];
+await dv.view('Treasure Chest', { chest });
+```
+^032
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[31];
+await dv.view('Treasure Chest', { chest });
+```
+^034
 
 ---

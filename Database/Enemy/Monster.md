@@ -1080,7 +1080,6 @@ Monsters:
     Sleep: 150
     Confuse: 150
     SDown: 150
-
 #  古人偶  ----------------------------------------------------------------------------------------------
 - Name: "古人偶"
   ID: "gu-ren-ou"
@@ -1090,7 +1089,7 @@ Monsters:
     真实身份不明的古代人偶.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
   Properties:
     LV: 13
     HP: 2621
@@ -1142,7 +1141,6 @@ Monsters:
     Sleep: 50
     Confuse: 100
     SDown: 100
-
 #  方石像  ----------------------------------------------------------------------------------------------
 - Name: "方石像"
   ID: "fang-shi-xiang"
@@ -1154,7 +1152,7 @@ Monsters:
     然后将全身重量从敌人头顶敲下.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
   Properties:
     LV: 13
     HP: 1637
@@ -1206,7 +1204,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  街灯蜘蛛  ----------------------------------------------------------------------------------------------
 - Name: "街灯蜘蛛"
   ID: "jie-deng-zhi-zhu"
@@ -1216,7 +1213,7 @@ Monsters:
     气囊里面积蓄着毒性很强的液体, 不能随便靠近.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-er-ceng|旧校舍地下·第二层]]"
   Properties:
     LV: 13
     HP: 1312
@@ -1268,7 +1265,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  强壮巨骨猩  ----------------------------------------------------------------------------------------------
 - Name: "强壮巨骨猩"
   ID: "qiang-zhuang-ju-gu-xing"

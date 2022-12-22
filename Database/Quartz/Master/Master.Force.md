@@ -4,7 +4,7 @@ Element: "Fire"
 Aliases:
   - "力量"
 When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
-How: "黎恩初始核心"
+How: "[[Database/Character/Rean Schwarzer#^li-en|黎恩]]初始核心"
 Properties:
   - Level: 1
     Properties:

@@ -3,8 +3,8 @@ ID: "Quartz.Time.Raven"
 Element: "Time"
 Aliases:
   - "渡鸦"
-When: ""
-How: "菲初始核心"
+When: "[[Walkthrough/Chapter 2#^master-quartz-get|第二章 5/29]]"
+How: "[[Database/Character/Fie Claussell#^fei|菲]]初始核心"
 Properties:
   - Level: 2
     Properties:

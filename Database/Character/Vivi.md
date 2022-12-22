@@ -20,8 +20,8 @@ Notes:
 
       有时会冒充姐姐以享受恶作剧的乐趣.
 
-    When: ""
-    How: "支线任务: [[领取鲜花]] 获得"
+    When: "[[Walkthrough/Chapter 2#^character-wei-wei-1|第二章 5/23晚]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^ling-qu-xian-hua|领取鲜花]] 获得"
   - Title: "对姐姐的信赖"
     ID: "wei-wei-2"
     Content: |

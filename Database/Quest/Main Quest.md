@@ -83,17 +83,51 @@ Quests:
       - "[[Database/Item/Food Ingredient#^feng-mi-tang-jiang|蜂蜜糖浆]]"
     When: "[[Walkthrough/Chapter 1#^quest-dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|第一章 4/24]]"
 #------------------------------------------------------------------------------------
-
-
-#######################
+  - Name: "调查旧校舍"
+    ID: "diao-cha-jiu-xiao-she-2"
+    BasicAP: 5
+    ExtraAP: 0
+    Steps: |
+      1. 不用找校长直接前往旧校舍
+         
+      2. 第一章的劳拉和亚莉莎都可以加入队伍搜索
+         
+      3. 这次多了个support角色，战斗中可以替换支援角色
+         
+      4. 迷宫不难，到上层拉动两个几关就可开路
+         
+      5. 解决掉boss: [[Database/Enemy/Boss#^zhi-tian-shi-zhi-men|智天使之门x3]], 直接返回入口离开旧校舍
+         
+      > [!tip] Boss 攻略
+      > 要是没有好装备，打这个可能有点难度, 攻击有范围混乱攻击和全屏咆哮
+      > 
+      > 推荐不上亚莉莎，艾略特依旧探视敌人和恢复, 前线角色之间不要站得太近
+      > 
+      > 要是黎恩已经学会【弧影斩】（15级）。可以在最左或者最右一直线劈过去，还带延迟
+    Bonus:
+      - "[[Database/Quartz/Space R#^tan-zhi|探知]]"
+    When: "[[Walkthrough/Chapter 2#^quest-diao-cha-jiu-xiao-she-2|第二章 5/23]]"
+#------------------------------------------------------------------------------------
+  - Name: "无杂质的半宝石"
+    ID: "wu-za-zhi-de-ban-bao-shi"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到工匠街的《透纳珠宝店》的布鲁克对话领取
+        
+      2. 到前往北克鲁琴街道寻找树精之泪
+         
+      3. 调查红箭头位置，完成委托
+    Bonus:
+      - "[[Database/Quartz/Space R#^xing-yun|幸运]]"
+    When: "[[Walkthrough/Chapter 2#^quest-wu-za-zhi-de-ban-bao-shi|第二章 5/29]]"
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
     ExtraAP: 0
-    Steps:
-      - ""
-      - ""
-      - ""
+    Steps: |
+      1. 
     Bonus:
       - ""
     When: ""
@@ -128,5 +162,22 @@ const quest = dv.current().Quests[3];
 await dv.view('Quest', { quest, type:'Main' });
 ```
 ^dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
+
+---
+
+
+```dataviewjs
+const quest = dv.current().Quests[4];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^diao-cha-jiu-xiao-she-2
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[5];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^wu-za-zhi-de-ban-bao-shi
 
 ---

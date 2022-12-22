@@ -20,8 +20,8 @@ Notes:
 
       母亲, 以及家中的弟弟妹妹们.
 
-    When: ""
-    How: "支线任务: [[代课老师的请托]] 获得"
+    When: "[[Walkthrough/Chapter 2#^character-ke-lian-1|第二章 5/23]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^dai-ke-lao-shi-de-qing-tuo|代课老师的请托]] 获得"
 ---
 ```dataviewjs
 const character = dv.current();

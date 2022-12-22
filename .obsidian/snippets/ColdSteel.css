@@ -48,6 +48,8 @@
     /* 书籍颜色 */
     --Link-Book-Color: #77b255;
     /* Link书籍颜色 */
+    --Recipe-Book-Color: #ffac33;
+    /* Link书籍颜色 */
     --Location-Color: #efefef;
     /* 地点链接颜色 */
     --Character-Color: #FFDEAD;
@@ -88,6 +90,7 @@
     --Boot-Icon: url("data:image/webp;base64,UklGRg4CAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSJIAAAABgFvb1rLo4i4NQBEUABkZqaUuEam7Z2QsSnELKcB1fCZ1fdj3UUNETAAASA32UsnnTkQsygsX/RMd/on+whfWfzowu+IL+QunDuaYU2O1OE2GeHpgD0UABI4D900LwHDL+9UD5vmB/6MTVA7XfmrVL1dt5ZrXAxGxWjaIgpPHzSPR4fDXUAGAWCk3JvO5qEkIAFZQOCBWAQAAsAkAnQEqDwAPAAAAACWMAnQ4gDeJqdAswP5v+LuiA/mf4gZID+1/jdqgH9r/EnXV/zP7gPeD/gPxm9QWoB/Fv4x/ZfyY/pH/05TP9QD0oI5JVGuYuwAA/v7jP7yYhOhqBoXz754qPbZOF7Y0uDWVrooi7GGWfx9tAyW/HXlwo4Mk//xzo93EWVWG6Mu3/JpByL/9N4MvEkRNY0U3/b2iv7HmWZ9UQ//3MW3+gJdOPeYrp96a4Jks8zlBBD4UdmVY7/TCMH6Vg8CXHDTl7faOy8KWpQLlzTjjWdOWP4cjQubbgaPBcZqR/n/HFt+PBvXRsgm6e6VTz0F//98n3bu+R/2l4elM0wJ+KT7hab+rKZbaxrF66+Xsx5DKkwa+ZZ3/+bcgx/VBv2Zf9rVp2lzdYeAhtACBC6/MVQF//kqSfexP/uxmhYqg/9e1RizkV/qqb9GtMmAA");
     --Recipe-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAPCAYAAADQ4S5JAAAACXBIWXMAAAsTAAALEwEAmpwYAAABhklEQVQoU4WNyytEYRjGn/c73zkxjNMMhSY1phiKLIZk4bKxoBkbFDurWbB0WVB27Cxcav4BKTYiKwolQjZTZCXX3KLJMJjjzPksODoONc/qfd739+ulQIGsjtQ7hsFEKdLk4Fo/4KONjuGgXx6yH/+LRJA4SJRbds8AnJaegKALkPADYADALUdM7Lw1hqsz5pwKlWkpcdOz9NKyd6kfnfSp6+Cs/o+QqSC3YyEeWupS12Kvxvb8YTJakM0UcOY1mV9CbyBjnqe04PmjtvyQpMPFzpxwVSEPASgymV8CiNzhWnVl90ofL3FLrTUeBBSJfmDALgAfT496xOdi3Vun+jSTxGzQr0zKDB4TsAqCgGnVzdtAqGyvYBEtJe42z7TBZp8yBSDPLpwKIARCyXfPVCTyNnnlsbuEsZGfxTrtgs8y/0RmVJyfRcVmN4Wnq7gR0w1z/X/uE8Y9B/A8sPpSN7P/fvyRRgC+PpxlK5KTiAgQwg7YQ4FC7hppcPTHk8JjpOGjt6noJxxbe4LoE4YvAAAAAElFTkSuQmCC");
     --Link-Book-Icon: url("data:image/webp;base64,UklGRjoBAABXRUJQVlA4WAoAAAAQAAAADQAADQAAQUxQSDgAAAABYFpr25I/WddNGIvsuoC3fwv2IfkGDun/Gj0iJoBF22c9eu0+H9QzH9j8TgYbeAd5CuSMtr3ECFZQOCDcAAAAcAQAnQEqDgAOAAAAACWwAnS6AfgAtv8ugDRANaA2Qv+N/3H8yjQ7UtMinAAA/v7B//5R7//D4HtKgk1kmw3vzkPfh4Xxf+n0cdp5s9qD/r///JN//lAc1/z0K5fn9p/d8+f22ZVRhkM6WB/c+7PLdlHZ0w5R9jpxqbGICPMNSmJSkjV+j+gWbf/9XQ2Kf8nyf/dHKFq1lIfnzOP9NwoTgfid/+m7fb09nxdzPwgNQ2/b4K2ghSfuJbUX+d/+/uO/XY9O/+5LaUyeffZecCmAj3xC7X0T88T78AAAAA==");
+    --Recipe-Book-Icon: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAKfwAACn8AG1cEgFAAAAB3RJTUUH5gIaEw0lqWcBhwAAAB1pVFh0U29mdHdhcmUAAAAAAHd3dy5pbmtzY2FwZS5vcmfsiluxAAAAKWlUWHRkYXRlOmNyZWF0ZQAAAAAAMjAyMi0wMi0yNlQxOToxMzoxNSswMDowMDyvUvMAAAApaVRYdGRhdGU6bW9kaWZ5AAAAAAAyMDIyLTAyLTI2VDE5OjEzOjE1KzAwOjAwiFFuygAAARpJREFUKFNj5OVgZOwMYMsLM+fKZ+KWVGBgZGH8z8jIgAsw//74596jVxuCZ/+IZ5wQyh6fbM+34KnDVobfHJJQJf9RNCCD379/MYhfrmPYuXldMYuCEJMZ47/fDMJPVzEwMHOiq0UB/1k4Gb7IBjF8kvJhEORer8TC8I+BkeHfHwaum7MY2AQl0NUjwH8Ghr/fPzMwP93H8FIhlYGBgYGRBSHLyMDCyYvgYgEsnDwMP9/chvsKSTMRgJGRgZGRCc4lTTMaGIGa/5Ot+fmHf1fI0vyBWepk9aZfs1j+MzF8R5fEB/4xsf7dsvPg9Pff/v9j9NVl0Zgfx7GFk51ZmUtKBV0tAvz/z/D7y/uv8/a8LMxa/mP2v3//GAApG1cpxnDP3wAAAABJRU5ErkJggg==");
     /* End Item Icons */
     /* Master Quartz Icons */
     --Aegis-Icon: url("data:image/webp;base64,UklGRjoCAABXRUJQVlA4WAoAAAAQAAAADgAADgAAQUxQSHEAAAABcFpr29O8PwoPv4QJYAAUtrMdruOQDEASjUxz/0GxQXqhlxUiYgIAEM2vWOVrBFMhb7tpmwsA6LFbPlKQoltbEL1d1epBtz44bjg2G5rrhmu2ITM3GFy5asdBqlfUEgB5v3CQAV5UnJTd3jeWeirlAQBWUDggogEAALAKAJ0BKg8ADwAAAAAlsAJ0ugH4AfqBTgJEr4ADpCP2g/VX2gLkByLPpB+pOS7/ADMQPxVzCP8l/KrUQPyO1yf9P5QXqB7gH8R/iX86/Iz+28hn+sB5uzBVZno5R4AA/v/++QnzoIGn2M/5LoMBwqlJhjxL+Kw6my7b50oqCQ0I/+3v/UB24822R1qjrSkKraf71/Gbo+u/Xu07tjs/Bff/4r7bHXETv/iQP3Vp96WFL0gbQwihxZzVJFz1SYCjY1r6UHTdpKRhKrcjqLI3h9543wVCTZnhtkP9/90Zq1hTADLdyhNH8f9Np+HGQW2Gqr/O1ij6LhqBDFNivPtobPGXtKr//kmO73/+LD4Yf/tC1stLvN+N/8G6h/4k+U4teu9ir54ZMWan/ypengLhG+vutGekAIN/C/NgNQCfdREb1j2syKxX+18hhbTa1GhTtbA//lFos/9czybB2Yof/a/x2VgfbT/xL5RW/w17c3rOl//ys/7/wyMyjZj7kD/+5HK/9/PuXqy6Tcm5gjNAnUSppczDiMb8/+NWTsPrAR+WAAA=");
@@ -520,6 +523,17 @@ div[data-id="LinkBook"] div.setting-item-description,
 div[data-id="LinkBook"] div.setting-item-description::before,
 .data-link-icon[data-link-id="Item.LinkBook"]::before {
     content: var(--Link-Book-Icon);
+    padding-right: var(--Link-Icon-Padding);
+}
+
+div[data-id="RecipeBook"] div.setting-item-description,
+[data-link-id="Item.RecipeBook"] {
+    color: var(--Recipe-Book-Color) !important;
+}
+
+div[data-id="RecipeBook"] div.setting-item-description::before,
+.data-link-icon[data-link-id="Item.RecipeBook"]::before {
+    content: var(--Recipe-Book-Icon);
     padding-right: var(--Link-Icon-Padding);
 }
 

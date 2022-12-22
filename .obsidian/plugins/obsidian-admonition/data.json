@@ -896,6 +896,18 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "recipe-book": {
+      "type": "recipe-book",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAcBJREFUSEvtljFMFEEUhv+3s+GAOyyEchHZcJecGEPAQEhsSOxoRTRQmJAQTTQSoqXmiIXlETGWVBQE7W0MDY0NVlBYEBWMIVnOW/a8hdtl5pHdcCYcQbJ3XnfTzGTy5v9m/pl5M4ST4mb1YUm4R4QnAKjcX0UtmfG6beboRTA2FHLnMaRI/xy0c+YM8p3jYNEMJhFJn1jB+DKFFnsdALuJpzJOhTdN14jVZqC0O/IJXiIZSbQczGCUPB/MjPatBXRsLUAp3KLCvBgjopUg0Ln9EfJSD0BaZAiLGKA1wXb+AIUfMNdGAtjdU4DIqhUDSuYD7N14BdexkFztPwdAhNhlIzLLdywo/xDW4CLsRN+/AXGjNzKApQ/311fkr05jz3z4/wHBjIo7G7A7J2ElZ+sE+LkJ25hoAM7f/2LDoosuR8OiixxCpUUa8djZbEqEanJRmCoqjqkOkaoPIPVM9X24HqcMDusC2E2//HYzbZrhm1zIijuk0fu/Btdk0QZ+d03DSj3PDKS750LAwVt0Sal/rxnAHO4Bi9b7bY+d5bJe+KvYz4pRoeEdQFdQxQpYHqGU2/bUQfFR675cogy8MuAY5gA+diNBPOQAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": true,
+      "title": "recipe-book",
+      "injectColor": true,
+      "noTitle": true
     }
   },
   "syntaxHighlight": false,

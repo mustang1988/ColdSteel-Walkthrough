@@ -4,7 +4,7 @@ Element: "Fire"
 Aliases:
   - "勇气"
 When: "[[Walkthrough/Chapter 1#^master-quartz-get|第一章 4/24]]"
-How: "劳拉初始核心"
+How: "[[Database/Character/Laura S Arseid#^lao-la|劳拉]]初始核心"
 Properties:
   - Level: 1
     Properties:

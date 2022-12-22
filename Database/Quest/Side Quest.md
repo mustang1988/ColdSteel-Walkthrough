@@ -131,17 +131,52 @@ Quests:
          
       3. 授课中选中正确的选项
          
-      > [!tips] 正确选项, 全正确 ***AP+2***
+      > [!tip] 正确选项, 全正确 ***AP+2***
       > - 约50年前
       > - C·爱普斯泰恩博士  
       > - 火药式的枪和大炮等武器
 
     Bonus:
       - "2000米拉"
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^quest-dai-ke-lao-shi-de-qing-tuo|第二章 5/23]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "配送教官用图书"
+    ID: "pei-song-jiao-guan-yong-tu-shu"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到书店《凯因斯》内找凯因斯领取
+         
+      2. 主校舍1楼教官室亨利主任 「分析·总体经济」
+         
+      3. 主校舍2楼音乐室玛丽教官 「近代美术全集」
+         
+      4. 主校舍屋顶 马卡洛夫教官 「科学新解」
+         
+      5. 图书馆 汤玛斯教官 「狮子战役之谜」
+         
+      6. 第三学生宿舍 莎拉教官 「啊呀！帝国旅情」
+         
+      7. 送完后回书店完成委托
 
-
-
+    Bonus:
+      - "[[Database/Item/Key#^you-er|诱饵x3]]"
+    When: "[[Walkthrough/Chapter 2#^quest-pei-song-jiao-guan-yong-tu-shu|第二章 5/23]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "领取鲜花"
+    ID: "ling-qu-xian-hua"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到主校舍2F美术室找琳黛
+         
+      2. 对话后前往托里斯塔大街的花店《珍》
+         
+      3. 回到主校舍2F，找琳黛对话
+    Bonus:
+      - "[[Database/Item/Accessory#^nuan-yang-yang-wa-zi|暖洋洋袜子]]"
+      - "[[Database/Item/Accessory#^bing-liang-pi-dai|冰凉皮带]]"
+    When: "[[Walkthrough/Chapter 2#^quest-ling-qu-xian-hua|第二章 5/23晚]]"
 #--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
@@ -209,3 +244,18 @@ await dv.view('Quest', { quest, type:'Side' });
 
 ---
 
+```dataviewjs
+const quest = dv.current().Quests[7];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^pei-song-jiao-guan-yong-tu-shu
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[8];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^ling-qu-xian-hua
+
+---

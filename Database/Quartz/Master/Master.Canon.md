@@ -4,7 +4,7 @@ Element: "Water"
 Aliases:
   - "法则"
 When: "[[Walkthrough/Chapter 0#^master-quartz-get|序章 3/31]]"
-How: "艾略特初始核心"
+How: "[[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]初始核心"
 Properties:
   - Level: 1
     Properties:

@@ -20,8 +20,8 @@ Notes:
 
       过着老是受她捉弄的每一天.
 
-    When: ""
-    How: "支线任务: [[领取鲜花]] 获得"
+    When: "[[Walkthrough/Chapter 2#^character-lin-dai-1|第二章 5/23晚]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^yong-wan-de-tiao-wei-liao-diao-huo|领取鲜花]] 获得"
   - Title: "妹妹由我保护！"
     ID: "lin-dai-2"
     Content: |

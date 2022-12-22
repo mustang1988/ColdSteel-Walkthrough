@@ -3,8 +3,8 @@ ID: "Quartz.Wind.Wing"
 Element: "Wind"
 Aliases:
   - "羽翼"
-When: ""
-How: ""
+When: "[[Walkthrough/Chapter 2#^master-quartz-wing|第二章 5/23]]"
+How: "技术栋乔治处购买"
 Properties:
   - Level: 2
     Properties:

@@ -3,8 +3,8 @@ ID: "Quartz.Wind.Mistral"
 Element: "Wind"
 Aliases:
   - "北风"
-When: ""
-How: "尤西斯初始核心"
+When: "[[Walkthrough/Chapter 2#^master-quartz-get|第二章 5/29]]"
+How: "[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]]初始核心"
 Properties:
   - Level: 1
     Properties:

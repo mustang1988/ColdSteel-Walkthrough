@@ -3,8 +3,8 @@ ID: "Quartz.Mirage.Mirage"
 Element: "Mirage"
 Aliases:
   - "幻象"
-When: ""
-How: ""
+When: "[[Walkthrough/Chapter 2#^master-quartz-get|第二章 5/29]]"
+How: "[[Database/Character/Emma Millstein#^ai-ma|艾玛]]初始核心"
 Properties:
   - Level: 2
     Properties:
