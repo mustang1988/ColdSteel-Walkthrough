@@ -17,7 +17,7 @@ Notes:
   - Title: "兜风"
     ID: "an-jie-li-ka-1"
     Content: |
-      有时会载着与她感情很好的托娃会长
+      有时会载着与她感情很好的 [[Database/Character/Towa Herschel#^tuo-wa|托娃会长]]
 
       骑导力机车外出兜风
 

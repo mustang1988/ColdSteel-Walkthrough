@@ -241,13 +241,23 @@ const ItemLootTable = (loots) => {
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
     const { path, subpath, display } = link;
-    return `<a aria-label-position="top" aria-label="${path}${
-      subpath ? ` > ^${subpath}` : ""
-    }" data-href="${path}${subpath ? `#^${subpath}` : ""}" href="${path}${
-      subpath ? `#^${subpath}` : ""
-    }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
-      file.ID || ""
-    }" data-link-tags="" data-link-path="${path}">${link.display || ""}</a>`;
+    const aria_label = subpath ? `${path} > ${subpath}` : path;
+    const data_href = subpath ? `${path}#^${subpath}` : path;
+    const href = data_href;
+    const data_link_id = file.ID || "";
+    return `
+  <a 
+  aria-label-position="top" 
+  aria-label="${aria_label}" 
+  data-href="${data_href}" 
+  href="${href}" 
+  class="internal-link data-link-icon data-link-icon-after data-link-text" 
+  target="_blank" 
+  rel="noopener" 
+  data-link-id="${data_link_id}" 
+  data-link-tags="" 
+  data-link-path="${path}">${display || ""}
+  </a>`;
   });
   const [l1, l2, l3, l4] = items;
   return `

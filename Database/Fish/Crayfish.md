@@ -17,6 +17,7 @@ Loots:
   - "[[Database/Item/Fire Sepith|x20]]"
   - "[[Database/Item/Fire Sepith|x30]]"
 Locations:
+  - "[[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]]"
 ---
 ```dataviewjs
 const fish = dv.current();

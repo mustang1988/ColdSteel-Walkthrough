@@ -18,17 +18,18 @@ Notes:
     Content: |
       虽然本家已发出了召回命令,
 
-      但为了派崔克而做了种种努力,
+      但为了 [[Database/Character/Patrick T Hyarms#^pai-cui-ke|派崔克]] 而做了种种努力,
 
       希望能留在托利斯塔.
 
     When: ""
-    How: "支线任务: [[游戏攻略/英雄传说 闪之轨迹/笔记/任务/管家的秘密|管家的秘密]] 获得"
+    How: ""
 ---
 ```dataviewjs
 const character = dv.current();
 await dv.view('Character/Description', { character });
 ```
+^se-lei-si-tan
 
 ```dataviewjs
 const note = dv.current().Notes[0];

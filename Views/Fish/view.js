@@ -16,16 +16,24 @@ const GetItems = (items) => {
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    const html = `<a aria-label-position="top" aria-label="${link.path} > ^${
-      link.subpath
-    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
-      link.subpath
-    }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
-      file.ID
-    }" data-link-tags="" data-link-path="${link.path}">${
-      link.display || ""
-    }</a>`;
-    return html;
+    const { path, subpath, display } = link;
+    const aria_label = subpath ? `${path} > ${subpath}` : path;
+    const data_href = subpath ? `${path}#^${subpath}` : path;
+    const href = data_href;
+    const data_link_id = file.ID || "";
+    return `
+<a 
+aria-label-position="top" 
+aria-label="${aria_label}" 
+data-href="${data_href}" 
+href="${href}" 
+class="internal-link data-link-icon data-link-icon-after data-link-text" 
+target="_blank" 
+rel="noopener" 
+data-link-id="${data_link_id}" 
+data-link-tags="" 
+data-link-path="${path}">${display || ""}
+</a>`;
   });
 };
 const SplitGroup = (list) => {
@@ -46,7 +54,7 @@ title: ${names[0]}
 <table class="fish-table full-width">
 <thead>
 <tr rowspan="2">
-<td colspan="8"><img class="fish-${id}-image" /></td>
+<td colspan="8"><img class="fish-${id.replace("Fish.", "")}-image" /></td>
 <td class="content-right-bottom"><span>稀有度:</span></td>
 <td><span class="content-super-big rank-color-${rank}">${rank}</span></td>
 </tr>

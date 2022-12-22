@@ -16,7 +16,7 @@ Notes:
   - Title: "与青梅竹马和解"
     ID: "bu-lai-xi-te-1"
     Content: |
-      和IV班的[[Database/Character/Alan#^ai-lun|艾伦]]是打从主日学校时代起的青梅竹马,
+      和IV班的 [[Database/Character/Alan#^ai-lun|艾伦]] 是打从主日学校时代起的青梅竹马,
 
       但不知为何对方却躲着她,
 

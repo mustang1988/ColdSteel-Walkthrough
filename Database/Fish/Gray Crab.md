@@ -17,6 +17,7 @@ Loots:
   - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳x2]]"
   - "[[Database/Item/Food Ingredient#^mo-shou-zhi-ke|魔兽之壳x3]]"
 Locations:
+  - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
 ---
 ```dataviewjs
 const fish = dv.current();

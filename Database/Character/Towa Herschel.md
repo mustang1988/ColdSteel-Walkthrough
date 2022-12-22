@@ -2,6 +2,7 @@
 Aliases:
   - "托娃"
   - "托娃·赫歇尔"
+  - "托娃会长"
 ID: "Character.tuo-wa"
 Category: "2年级(III IV V班)"
 CategoryNo: 5
@@ -49,6 +50,7 @@ Notes:
 const character = dv.current();
 await dv.view('Character/Description', { character });
 ```
+^tuo-wa
 
 ```dataviewjs
 const note = dv.current().Notes[0];

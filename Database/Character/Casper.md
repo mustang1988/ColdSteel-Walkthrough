@@ -20,7 +20,7 @@ Notes:
 
       相当熟悉海水浴, 因此相当尊敬
 
-      泳技比自己更好的社长和劳拉.
+      泳技比自己更好的 [[Database/Character/Klein#^ke-lian|社长]] 和 [[Database/Character/Laura S Arseid#^lao-la|劳拉]].
 
     When: ""
     How: "与体育馆的贾斯柏对话"
@@ -29,6 +29,7 @@ Notes:
 const character = dv.current();
 await dv.view('Character/Description', { character });
 ```
+^jia-si-bo
 
 ```dataviewjs
 const note = dv.current().Notes[0];

@@ -24,15 +24,24 @@ const LinkToDisplay = (loots) => {
       i.type === "file"
         ? dv.fileLink(i.path, false, i.display)
         : dv.blockLink(i.path, i.subpath, false, i.display);
-    return `<a aria-label-position="top" aria-label="${link.path} > ^${
-      link.subpath
-    }" data-href="${link.path}#^${link.subpath}" href="${link.path}#^${
-      link.subpath
-    }" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-id="${
-      file.ID || ""
-    }" data-link-tags="" data-link-path="${link.path}">${
-      link.display || ""
-    }</a>`;
+    const { path, subpath, display } = link;
+    const aria_label = subpath ? `${path} > ${subpath}` : path;
+    const data_href = subpath ? `${path}#^${subpath}` : path;
+    const href = data_href;
+    const data_link_id = display || "";
+    return `
+  <a 
+  aria-label-position="top" 
+  aria-label="${aria_label}" 
+  data-href="${data_href}" 
+  href="${href}" 
+  class="internal-link data-link-icon data-link-icon-after data-link-text" 
+  target="_blank" 
+  rel="noopener" 
+  data-link-id="${data_link_id}" 
+  data-link-tags="" 
+  data-link-path="${path}">${display || ""}
+  </a>`;
   });
   return items;
 };

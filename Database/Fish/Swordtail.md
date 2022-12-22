@@ -19,6 +19,7 @@ Loots:
   - "[[Database/Item/Water Sepith|x20]]"
   - "[[Database/Item/Water Sepith|x30]]"
 Locations:
+  - "[[Database/Location/Location#^jiu-xiao-she-di-xia-yi-ceng|旧校舍‧地下一层]]"
 ---
 ```dataviewjs
 const fish = dv.current();

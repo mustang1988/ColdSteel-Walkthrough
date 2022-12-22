@@ -12,15 +12,15 @@ ID: "Walkthrough.Chapter.1"
 > 
 > 答案: 诺尔德高原 ***AP+2***
 
-下课后可以自由行动，此时校园大部分设施都开放了
+下课后可以自由行动, 此时校园大部分设施都开放了
 
 前往旧校舍有剧情
 
-在去学生会馆的路上会遇到克洛，选择那个都是输，不影响剧情
+在去学生会馆的路上会遇到 [[Database/Character/Crow Armbrust#^ke-luo|克洛]], 选择那个都是输, 不影响剧情
 
-从学生会长那拿了众人的学生证
+从 [[Database/Character/Towa Herschel#^tuo-wa|托娃会长]] 那拿了众人的学生证
 
-此时去图书馆能读到 [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]]，阅读后自动记录到笔记中 ^book-di-guo-tie-lu-shi
+此时去图书馆能读到 [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]], 阅读后自动记录到笔记中 ^book-di-guo-tie-lu-shi
 
 晚上回去从2楼开始分发学生证, 之后返回房间结束这一天
 
@@ -36,21 +36,24 @@ ID: "Walkthrough.Chapter.1"
 
 # 4/18
 羁绊事件(3选2)
-- 艾略特，位于宿舍2F，获得人物信息: [[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
-- 劳拉， 位于游泳池
-- 马奇亚斯，位于露天茶座
+- [[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]
+  - 位于宿舍2F, 获得人物信息: [[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
+- [[Database/Character/Laura S Arseid#^lao-la|劳拉]]
+  - 位于游泳池
+- [[Database/Character/Machias Regnitz#^ma-qi-ya-si|马奇亚斯]]
+  - 位于露天茶座
 
 > [!tip] 推荐选择
-> - 艾略特
-> - 劳拉
+> - [[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]
+> - [[Database/Character/Laura S Arseid#^lao-la|劳拉]]
 
-《凯因斯书店》和凯因斯对话可以获得: [[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]]，书店内可购买 ^book-hong-yue-de-luo-sai-1
+《凯因斯书店》和凯因斯对话可以获得: [[Database/Item/Book#^hong-yue-de-luo-sai-1|《红月的罗赛·第1卷》]], 书店内可购买 ^book-hong-yue-de-luo-sai-1
 - [[Database/Item/Book#^di-guo-shi-bao-1|《帝国时报·第1号》]] ^book-di-guo-shi-bao-1
 - [[Database/Item/Link Book#^liao-yu-xi-yin-yue|《疗愈系音乐》]]
 - [[Database/Item/Link Book#^lei-ge-la-mu-dao-lan|《雷格拉姆导览》]]
 - [[Database/Item/Link Book#^gan-ren-zhi-shen-hui-hua-ji|《感人至深絵画集》]]
 
-托利斯塔桥上开启钓鱼。
+托利斯塔桥上开启钓鱼
 
 > [!warning] 二周目此时可在托利斯塔河川钓到高级鱼
 
@@ -60,7 +63,7 @@ ID: "Walkthrough.Chapter.1"
 - [[Database/Quest/Side Quest#^diu-shi-de-xue-sheng-shou-ce|丢失的学生手册]] ^quest-diu-shi-de-xue-sheng-shou-ce
 ## 主线任务
 - [[Database/Quest/Main Quest#^pei-song-dao-li-qi|配送导力器]] ^quest-pei-song-dao-li-qi
-  - 任务期间获得「料理手册」，开启料理功能，同时获得食谱: [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] ^recipe-jian-dan-dan-bao-fan
+  - 任务期间获得「料理手册」, 开启料理功能, 同时获得食谱: [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] ^recipe-jian-dan-dan-bao-fan
 
 > [!tip] 刷钱攻略
 > 获取食谱 [[Database/Recipe/Recipe#^jian-dan-dan-bao-fan|简单蛋包饭]] 后, 可以在杂货店购买制作需要的食材, 能买多少买多少
@@ -76,7 +79,7 @@ ID: "Walkthrough.Chapter.1"
 
 与第一学生宿舍门口的女仆萝德对话获得人物信息: [[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
 
-> [!tip] [[Database/Character/Lotte|萝德]] 会收集独门料理，每个食谱都对应一个独门料理 人，可以制作独门料理，将做出的 [[Database/Item/Unique Food|独门料理食物]] 交给她可以获得奖励
+> [!tip] [[Database/Character/Lotte#^luo-de|萝德]] 会收集独门料理, 每个食谱都对应一个独门料理 人, 可以制作独门料理, 将做出的 [[Database/Item/Unique Food|独门料理]] 交给她可以获得奖励
 
 技术栋乔治处可购买核心回路: [[Database/Quartz/Master/Master.Scepter|权杖]] ^quartz-scepter
 
@@ -98,17 +101,19 @@ ID: "Walkthrough.Chapter.1"
 
 # 4/18 晚
 羁绊事件(2选1)
-- 托娃会长，位于学生会馆2F
-- 亚莉莎，位于操场
+- [[Database/Character/Towa Herschel#^tuo-wa|托娃会长]]
+  - 位于学生会馆2F
+- [[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]
+  - 位于操场
 
 > [!tip] 推荐选择
-> - 托娃会长
+> - [[Database/Character/Towa Herschel#^tuo-wa|托娃会长]]
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^yong-wan-de-tiao-wei-liao-diao-huo|用完的调味料调货]] ^quest-yong-wan-de-tiao-wei-liao-diao-huo
   - 任务期间可获得尼可拉斯人物信息: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]] ^character-ni-ke-la-si-1
 
-全部完成后，回第三宿舍结束这一天
+全部完成后, 回第三宿舍结束这一天
 
 > [!example] 第一章 4/18晚 小结
 > - 战斗笔记进度: 9/197
@@ -128,11 +133,11 @@ Boss战:
 [[Database/Enemy/Boss#^zhan-shu-ke-alpha|战术壳α]]
 
 > [!tip] Boss攻略
-> 两主攻链接，法师辅助
+> 两主攻链接, 法师辅助
 > 
 > 若无人陷入战斗不能 ***AP+1***
 
-结束后，宣布接下来的实习任务
+结束后, 宣布接下来的实习任务
 
 > [!example] 第一章 4/21 小结
 > - 战斗笔记进度: 10/197 (+1) [^10]
@@ -145,15 +150,15 @@ Boss战:
 > - 奖杯进度: 2/51
 
 # 4/24
-在去小镇西南地图的广播台，会有意外剧情发现
+在去小镇西南地图的广播台, 会有意外剧情发现
 
 进去车站后购票开始了我们初次实习之旅
 
-在车上和艾略特对话可以和大家玩BLADE小游戏，和每个角色玩一次都能LINK+50，只加一次，无论输赢。
+在车上和 [[Database/Character/Elliot Craig#^ai-lve-te|艾略特]] 对话可以和大家玩BLADE小游戏, 和每个角色玩一次都能LINK+50, 只加一次, 无论输赢
 
-到达交易镇，安顿下来后，接到任务 ^master-quartz-get
+到达交易镇, 安顿下来后, 接到任务 ^master-quartz-get
 
-和酒场的老板娘对话可获得: [[Database/Item/Regular Food#^tian-mi-bing-gan|甜蜜饼干]]，同时获得食谱: [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]] ^recipe-tian-mi-bing-gan
+和酒场的老板娘对话可获得: [[Database/Item/Regular Food#^tian-mi-bing-gan|甜蜜饼干]], 同时获得食谱: [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]] ^recipe-tian-mi-bing-gan
 
 和莎拉教官对话继续剧情
 
@@ -161,13 +166,13 @@ Boss战:
 
 大市集左边咪西摊子可以购买
 - [[Database/Item/Accessory#^zuo-zuo-mi-xi|坐坐咪西]]
-  > [!warning] 和最终武器有关，砸锅卖铁也要买，虽然一周目前期严重缺钱
+  > [!warning] 和最终武器有关, 砸锅卖铁也要买, 虽然一周目前期严重缺钱
 
 左手边的商人汤米处的店铺购买
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-1|《红曜石文库版1》]] ^book-hong-yao-shi-wen-ku-ban-1
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-2|《红曜石文库版2》]] ^book-hong-yao-shi-wen-ku-ban-2
 
-在靠近 [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]] 入口有段小剧情。
+在靠近 [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-1|西凯尔迪克街道1]] 入口有段小剧情
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^shou-ji-yao-de-cai-liao|收集药的材料]] ^quest-shou-ji-yao-de-cai-liao
@@ -196,7 +201,7 @@ Boss战:
 - [[Database/Quest/Main Quest#^dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou|东凯尔迪克街道的通缉魔兽]] ^quest-dong-kai-er-di-ke-jie-dao-de-tong-ji-mo-shou
   - 任务期间与屋内的齐赛尔对话获得食谱: [[Database/Recipe/Recipe#^xian-zha-guo-zhi|鲜榨果汁]] ^recipe-xian-zha-guo-zhi
 
-完成主线后，回城镇有剧情，前往大市集。漫长剧情后可以触发隐藏的支线任务
+完成主线后, 回城镇有剧情, 前往大市集, 漫长剧情后可以触发隐藏的支线任务
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^da-shi-ji-shang-ren-ti-yan|大市集商人体验]] ^quest-da-shi-ji-shang-ren-ti-yan
@@ -213,10 +218,10 @@ Boss战:
 > - 奖杯进度: 2/51
 
 # 4/25
-一大早就刚看了任务就发生剧情，因为在不触发主线前是离不开城镇的。所以先触发主线到大市集发生剧情
-- 分别调查两名受害人。
+一大早就刚看了任务就发生剧情, 因为在不触发主线前是离不开城镇的, 所以先触发主线到大市集发生剧情
+- 分别调查两名受害人
 - 选择选项
-  > [!tip] 正确选项:「领邦军」***AP+1***
+> [!tip] 正确选项:「领邦军」***AP+1***
 - 前往城内领邦军驻扎点
 - 和教堂外的小女孩对话
 - 和西凯尔迪克街道出口附近的醉鬼强森对话
@@ -250,16 +255,16 @@ Boss战:
 [[Database/Enemy/Boss#^jia-guan-li-yuan|假管理员x4]]
 
 > [!tip] Boss攻略
-> 实力很弱，用劳拉的「地裂斩」配和黎恩的 [[Database/Craft/Craft#^hong-ye-qie|红叶切]] 配合一下可轻松解决
+> 实力很弱, 用劳拉的「地裂斩」配和黎恩的 [[Database/Craft/Craft#^hong-ye-qie|红叶切]] 配合一下可轻松解决
 
 [[Database/Enemy/Boss#^gu-er-nuo-jia|古尔诺加]], [[Database/Enemy/Monster#^qiang-zhuang-ju-gu-xing|强壮巨骨猩x2]]
 
 > [!tip] Boss攻略
-> BOSS攻击力较高，攻击会附带气绝效果，建议携带防气绝的饰品
+> BOSS攻击力较高, 攻击会附带气绝效果, 建议携带防气绝的饰品
 > 
 > 黎恩的S技 [[Database/Craft/SCraft#^yan-zhi-tai-dao|焰之太刀]] 解锁
 > 
-> 带有[[Database/Status/Burn|炎伤]]效果，对此BOSS有特效
+> 带有[[Database/Status/Burn|炎伤]]效果, 对此BOSS有特效
 
 Boss战后剧情, 本章结束
 

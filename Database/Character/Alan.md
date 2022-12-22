@@ -16,7 +16,7 @@ Notes:
   - Title: "在变强之前"
     ID: "ai-lun-1"
     Content: |
-      之所以躲着布莱希特,
+      之所以躲着 [[Database/Character/Bridget#^bu-lai-xi-te|布莱希特]],
 
       是出于他的个人坚持,
 

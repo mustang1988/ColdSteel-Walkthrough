@@ -19,6 +19,7 @@ Loots:
   - "[[Database/Item/Mirage Sepith|x20]]"
   - "[[Database/Item/Mirage Sepith|x30]]"
 Locations:
+  - "[[Database/Location/Location#^dong-kai-er-di-ke-jie-dao-1|东凯尔迪克街道1]]"
 ---
 ```dataviewjs
 const fish = dv.current();

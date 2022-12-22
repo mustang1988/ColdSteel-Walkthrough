@@ -23,12 +23,13 @@ Notes:
       「隐藏版七大不可思议」……
 
     When: ""
-    How: "支线任务: [[游戏攻略/英雄传说 闪之轨迹/笔记/任务/调查学院七大不可思议|调查学院七大不可思议]] 获得"
+    How: ""
 ---
 ```dataviewjs
 const character = dv.current();
 await dv.view('Character/Description', { character });
 ```
+^bei-li-er
 
 ```dataviewjs
 const note = dv.current().Notes[0];

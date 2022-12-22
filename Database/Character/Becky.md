@@ -16,7 +16,7 @@ Notes:
   - Title: "摆摊对决的结果"
     ID: "bei-qi-1"
     Content: |
-      在学院祭时与雨果比赛营业额,
+      在学院祭时与 [[Database/Character/Hugo Kleist#^yu-guo|雨果]] 比赛营业额,
 
       因此互相认同了彼此做生意得能力.
 
