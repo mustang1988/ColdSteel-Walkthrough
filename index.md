@@ -107,11 +107,38 @@ dv.table(
 ```ad-quote
 title: 书籍
 collapse: close
+~~~dataviewjs
+const db = "Database/Item/Book";
+const { Books: books } = dv.page(db);
+console.log(books);
+dv.table(
+  [],
+  books.map(book => [
+    dv.blockLink(db, book.ID, false, book.Name),
+    book.Series,
+    book.When,
+  ])
+);
+~~~
 ```
 
 ```ad-quote
 title: 食谱
 collapse: close
+~~~dataviewjs
+const db = "Database/Recipe/Recipe";
+const { Recipes: recipes } = dv.page(db)
+console.log(recipes)
+dv.table(
+  [],
+  recipes.map(recipe => [
+    dv.blockLink(db, recipe.ID, false, recipe.Name),
+    recipe.When,
+    recipe.UniqueCook,
+    dv.markdownList([recipe.Superb, recipe.Regular, (recipe.Peculiar||recipe.Attack), recipe.Unique]),
+  ])
+);
+~~~
 ```
 
 ```ad-quote
@@ -122,11 +149,58 @@ collapse: close
 ```ad-quote
 title: 战斗笔记
 collapse: close
+~~~dataviewjs
+const monster_db = "Database/Enemy/Monster";
+const boss_db = "Database/Enemy/Boss";
+const { Monsters: monsters } = dv.page(monster_db);
+const { Bosses: bosses } = dv.page(boss_db);
+const enemies = [
+  ...monsters.map((enemy) => {
+    enemy.Boss = false;
+    return enemy;
+  }),
+  ...bosses.map((enemy) => {
+    enemy.Boss = true;
+    return enemy;
+  }),
+].sort((e1,e2) => {
+  if(e1.Properties.LV != e2.Properties.LV){
+    return e1.Properties.LV-e2.Properties.LV;
+  }
+  return e1.ID-e2.ID;
+});
+dv.table(
+  [],
+  enemies.map((enemy) => [
+    dv.blockLink(
+      enemy.Boss ? boss_db : monster_db,
+      enemy.ID,
+      false,
+      enemy.Name
+    ),
+    dv.markdownList(enemy.Locations),
+    dv.markdownList(enemy.Loots.Items),
+  ])
+);
+~~~
 ```
 
 ```ad-quote
 title: 人物信息
 collapse: close
+~~~dataviewjs
+const characters = dv.pages('"Database/Character"').sort(page => [page.CategoryNo, page.Order], 'asc');
+dv.table(
+  [],
+  characters.map(chara => [
+    dv.fileLink(chara.file.path, false, chara.Aliases[0]),
+    chara.Category,
+    dv.markdownList(
+      chara.Notes.map((n, index) => dv.blockLink(chara.file.path, `${chara.ID.replace('Character.', '')}-${index+1}`, false, n.Title))
+    ),
+  ])
+);
+~~~
 ```
 
 ````

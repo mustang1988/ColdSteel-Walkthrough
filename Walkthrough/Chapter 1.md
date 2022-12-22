@@ -187,7 +187,7 @@ Boss战:
 > - 战斗笔记进度: 16/196 (+6)     [^11]
 > - 打开宝箱进度: 13/199 (+5)     [^12]
 > - 烹饪笔记进度: 2/20 (+1)         [^13]
-> - 书籍笔记进度: 5/43 (+2)         [^14]
+> - 书籍笔记进度: 6/43 (+3)         [^14]
 > - 人物笔记进度: 2/95
 > - 钓鱼笔记进度: 3/20 (+1)         [^15]
 > - 核心回路收集进度: 6/28 (+2)  [^16]
@@ -211,7 +211,7 @@ Boss战:
 > - 战斗笔记进度: 18/196 (+2) [^17]
 > - 打开宝箱进度: 20/199 (+7) [^18]
 > - 烹饪笔记进度: 3/20 (+1)     [^19]
-> - 书籍笔记进度: 5/43
+> - 书籍笔记进度: 6/43
 > - 人物笔记进度: 2/95
 > - 钓鱼笔记进度: 4/20 (+1)     [^20]
 > - 核心回路收集进度: 6/28
@@ -234,7 +234,7 @@ Boss战:
 > - 战斗笔记进度: 19/197 (+1) [^21]
 > - 打开宝箱进度: 20/199
 > - 烹饪笔记进度: 3/20
-> - 书籍笔记进度: 5/43
+> - 书籍笔记进度: 6/43
 > - 人物笔记进度: 2/95
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 6/28
@@ -279,7 +279,7 @@ Boss战后剧情, 本章结束
 > - 战斗笔记进度: 26/196 (+7)   [^22]
 > - 打开宝箱进度: 30/199 (+10) [^23]
 > - 烹饪笔记进度: 3/20
-> - 书籍笔记进度: 6/43 (+1)       [^24]
+> - 书籍笔记进度: 7/43 (+1)       [^24]
 > - 人物笔记进度: 3/95 (+1)       [^25]
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 6/28
@@ -298,7 +298,7 @@ Boss战后剧情, 本章结束
 [^11]: 新增战斗笔记(+6): [[Database/Enemy/Monster#^ken-yao-lang|啃咬狼]],[[Database/Enemy/Monster#^tian-di-po-huai-zhe|田地破坏者]],[[Database/Enemy/Monster#^ju-hui-wu-ya|巨喙乌鸦]],[[Database/Enemy/Monster#^da-wang-qing-ting|大王蜻蜓]],[[Database/Enemy/Monster#^ku-fan-qie-ren|苦番茄人]],[[Database/Enemy/Monster#^si-wang-wo-niu|死亡蜗牛]]
 [^12]: 新增打开宝箱(+5): [[Database/Treasure Chest/Treasure Chest#^009|009]],[[Database/Treasure Chest/Treasure Chest#^010|010]],[[Database/Treasure Chest/Treasure Chest#^011|011]],[[Database/Treasure Chest/Treasure Chest#^012|012]],[[Database/Treasure Chest/Treasure Chest#^013|013]]
 [^13]: 新增烹饪笔记(+1): [[Database/Recipe/Recipe#^tian-mi-bing-gan|甜蜜饼干]]
-[^14]: 新增书籍笔记(+2): [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-1|《红曜石文库版1》]],[[Database/Item/Book#^hong-yao-shi-wen-ku-ban-2|《红曜石文库版2》]]
+[^14]: 新增书籍笔记(+2): [[Database/Item/Book#^hong-yue-de-luo-sai-2|《红月的罗赛·第2卷》]],[[Database/Item/Book#^hong-yao-shi-wen-ku-ban-1|《红曜石文库版1》]],[[Database/Item/Book#^hong-yao-shi-wen-ku-ban-2|《红曜石文库版2》]]
 [^15]: 新增钓鱼笔记(+1): [[Database/Fish/Crayfish|鳌虾]]
 [^16]: 新增核心回路(+2): [[Database/Quartz/Master/Master.Angel|天使(亚莉莎初始核心)]],[[Database/Quartz/Master/Master.Brave|勇气(劳拉初始核心)]]
 [^17]: 新增战斗笔记(+2): [[Database/Enemy/Monster#^ren-wei-song-shu|刃尾松鼠]],[[Database/Enemy/Boss#^kong-bu-xi-long|恐怖蜥龙]]

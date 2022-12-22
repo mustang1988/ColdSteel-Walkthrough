@@ -2680,14 +2680,14 @@ Monsters:
   Locations: 
     - ""
   Properties:
-    LV: 0
-    HP: 0
-    EXP: 0
-    STR: 0
-    DEF: 0
+    LV: 25
+    HP: 4480
+    EXP: 132
+    STR: 632
+    DEF: 535
     ATS: 0
-    ADF: 0
-    SPD: 0
+    ADF: 449
+    SPD: 68
   ArtRate:
     Earth: 100
     Water: 115
@@ -2868,14 +2868,14 @@ Monsters:
   Locations: 
     - ""
   Properties:
-    LV: 0
-    HP: 0
-    EXP: 0
-    STR: 0
-    DEF: 0
+    LV: 27
+    HP: 762
+    EXP: 88
+    STR: 351
+    DEF: 302
     ATS: 0
     ADF: 0
-    SPD: 0
+    SPD: 87
   ArtRate:
     Earth: 165
     Water: 180
@@ -3697,7 +3697,7 @@ Monsters:
   Locations: 
     - ""
   Properties:
-    LV: 3
+    LV: 34
     HP: 4812
     EXP: 137
     STR: 745

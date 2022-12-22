@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "674d8b7e0e71136d",
+        "id": "fc4664b5671cf0cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a4525d8948460808",
+            "id": "1e50e1c154a8d98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Enemy/Boss.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7b4412c65fa725fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Enemy/Monster.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "16d8850971684bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Location/Location.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "16455c3a669f8225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Item/Recipe Book.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03ea59d14f1bf513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walkthrough/Chapter 2.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "亚莉莎",
+                "query": "食尸鬼团",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 2.md",
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 2.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Chapter 2.md"
+                "file": "Index.md"
               }
             }
           }
@@ -197,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03ea59d14f1bf513",
+  "active": "1e50e1c154a8d98d",
   "lastOpenFiles": [
-    "Database/Location/Location.md",
-    "Walkthrough/Chapter 2.md",
-    "Database/Quest/Main Quest.md",
+    "DEBUG.md",
+    "Database/Character/Alan.md",
     "Index.md",
-    "Database/Quest/Side Quest.md",
+    "Database/Enemy/Monster.md",
+    "Database/Enemy/Boss.md",
+    "Walkthrough/Chapter 2.md",
+    "Database/Item/Book.md",
     "Walkthrough/Chapter 1.md",
-    "Database/Quartz/Master/Master.Wing.md",
-    "Database/Quartz/Master/Master.Mistral.md",
-    "Database/Quartz/Master/Master.Iron.md",
-    "Database/Quartz/Master/Master.Raven.md"
+    "Walkthrough/Chapter 0.md",
+    "Database/Recipe/Recipe.md"
   ]
 }

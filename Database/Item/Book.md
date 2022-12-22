@@ -6,7 +6,7 @@ Books:
     ID:  "di-guo-shi-bao-1"
     Series: "帝国时报"
     SeriesNo: 1
-    When: ""
+    When: "[[Walkthrough/Chapter 1#^book-di-guo-shi-bao-1|第一章 4/18]]"
     How: "托利斯塔学生会馆福利社或凯因斯书房购买"
     Content: |
       **【政治】帝国政府发表年度预算**
@@ -81,7 +81,7 @@ Books:
     ID:  "di-guo-shi-bao-3"
     Series: "帝国时报"
     SeriesNo: 3
-    When: "[[第三章 横跨铁路 ~苍穹的大地~#^ch-3-6-15-book-02|第三章6/15]]"
+    When: ""
     How: "学生会馆1F购买"
     Content: |
       **【经济】RFTF对一般民众开放**
@@ -118,7 +118,7 @@ Books:
     ID:  "di-guo-shi-bao-4"
     Series: "帝国时报"
     SeriesNo: 4
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-17-book-02|第四章7/17]]"
+    When: ""
     How: "学生会馆1F购买"
     Content: |
       **【特集】帝都仲夏节举办在即**
@@ -155,7 +155,7 @@ Books:
     ID:  "di-guo-shi-bao-5"
     Series: "帝国时报"
     SeriesNo: 5
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-26-book-01|第四章7/26]]"
+    When: ""
     How: "凯旋大道的百货店购买"
     Content: |
       **【特别号】帝都仲夏节专题报道**
@@ -210,7 +210,7 @@ Books:
     ID:  "di-guo-shi-bao-6"
     Series: "帝国时报"
     SeriesNo: 6
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-21-book-02|第五章8/21]]"
+    When: ""
     How: "学生会馆购买"
     Content: |
       **【快报】帝都恐怖攻击事件·续报**
@@ -245,7 +245,7 @@ Books:
     ID:  "di-guo-shi-bao-7"
     Series: "帝国时报"
     SeriesNo: 7
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-30-book-02|第五章8/30]]"
+    When: ""
     How: "加雷利亚要塞司令区域士兵瑟因处购买"
     Content: |
       TODO  
@@ -254,7 +254,7 @@ Books:
     ID:  "di-guo-shi-bao-8"
     Series: "帝国时报"
     SeriesNo: 8
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-18-book-01|第六章9/18]]"
+    When: ""
     How: "学生会馆1F购买"
     Content: |
       TODO 
@@ -263,7 +263,7 @@ Books:
     ID:  "di-guo-shi-bao-9"
     Series: "帝国时报"
     SeriesNo: 9
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-26-book-01|第六章9/26]]"
+    When: ""
     How: "波罗尼亚商会购买"
     Content: |
       TODO  
@@ -272,7 +272,7 @@ Books:
     ID:  "di-guo-shi-bao-10"
     Series: "帝国时报"
     SeriesNo: 10
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/终章 士官学院祭、然后——#^ch-fin-10-21-book-02|终章10/21]]"
+    When: ""
     How: "学生会馆购买"
     Content: |
       TODO  
@@ -281,7 +281,7 @@ Books:
     ID:  "di-guo-shi-bao-11"
     Series: "帝国时报"
     SeriesNo: 11
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/终章 士官学院祭、然后——#^ch-fin-10-30-book-01|终章10/24]]"
+    When: ""
     How: "学生会馆购买"
     Content: |
       TODO
@@ -290,7 +290,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-1"
     Series: "红曜石文库版"
     SeriesNo: 1
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-24-book-02|第一章4/24]]"
+    When: "[[Walkthrough/Chapter 1#^book-hong-yao-shi-wen-ku-ban-1|第一章 4/24]]"
     How: "大市集西侧杂货店购买"
     Content: |
       TODO
@@ -299,7 +299,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-2"
     Series: "红曜石文库版"
     SeriesNo: 2
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-24-book-03|第一章4/24]]"
+    When: "[[Walkthrough/Chapter 1#^book-hong-yao-shi-wen-ku-ban-1|第一章 4/24]]"
     How: "大市集西侧杂货店购买"
     Content: |
       TODO
@@ -308,7 +308,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-3"
     Series: "红曜石文库版"
     SeriesNo: 3
-    When: "[[第二章 美丽的翡翠公都#^ch-2-5-29-book-01|第二章5/29]]"
+    When: ""
     How: "巴利亚哈特 高级品专卖《克里斯蒂的店》2F书店购买"
     Content: |
       TODO
@@ -317,7 +317,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-4"
     Series: "红曜石文库版"
     SeriesNo: 4
-    When: "[[第二章 美丽的翡翠公都#^ch-2-5-29-book-02|第二章5/29]]"
+    When: ""
     How: "巴利亚哈特 高级品专卖《克里斯蒂的店》2F书店购买"
     Content: |
       TODO
@@ -326,7 +326,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-5"
     Series: "红曜石文库版"
     SeriesNo: 5
-    When: "[[第三章 横跨铁路 ~苍穹的大地~#^ch-3-6-27-book-01|第三章6/27]]"
+    When: ""
     How: "商店购买"
     Content: |
       TODO
@@ -335,7 +335,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-6"
     Series: "红曜石文库版"
     SeriesNo: 6
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-24-book-01|第四章7/24]]"
+    When: ""
     How: "凯旋大道百货《彩虹桥广场》书店《欧塔纳》购买"
     Content: |
       TODO
@@ -344,7 +344,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-7"
     Series: "红曜石文库版"
     SeriesNo: 7
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-24-book-02|第四章7/24]]"
+    When: ""
     How: "凯旋大道百货《彩虹桥广场》书店《欧塔纳》购买"
     Content: |
       TODO
@@ -353,7 +353,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-8"
     Series: "红曜石文库版"
     SeriesNo: 8
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-24-book-03|第四章7/24]]"
+    When: ""
     How: "凯旋大道百货《彩虹桥广场》书店《欧塔纳》购买"
     Content: |
       TODO
@@ -362,7 +362,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-9"
     Series: "红曜石文库版"
     SeriesNo: 9
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-28-book-01|第五章8/28]]"
+    When: ""
     How: "武器·杂货《瓦托商店》购买"
     Content: |
       TODO
@@ -371,7 +371,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-10"
     Series: "红曜石文库版"
     SeriesNo: 10
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-25-book-01|第六章9/25]]"
+    When: ""
     How: "日用杂货《波罗尼亚商会》购买"
     Content: |
       TODO
@@ -380,7 +380,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-11"
     Series: "红曜石文库版"
     SeriesNo: 11
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-25-book-02|第六章9/25]]"
+    When: ""
     How: "日用杂货《波罗尼亚商会》购买"
     Content: |
       TODO
@@ -389,7 +389,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-1"
     Series: "红月的罗赛"
     SeriesNo: 1
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-18-book-02|第一章4/18]]"
+    When: "[[Walkthrough/Chapter 1#^book-hong-yue-de-luo-sai-1|第一章 4/18]]"
     How: "托利斯塔凯因斯书房与凯因斯对话获得"
     Content: |
       TODO
@@ -398,7 +398,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-2"
     Series: "红月的罗赛"
     SeriesNo: 2
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-24-book-01|第一章4/24]]"
+    When: "[[Walkthrough/Chapter 1#^book-hong-yue-de-luo-sai-2|第一章 4/24]]"
     How: "刚抵达凯尔迪克时, 与凯尔迪克大市集的安妮塔对话获得"
     Content: |
       TODO
@@ -407,7 +407,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-3"
     Series: "红月的罗赛"
     SeriesNo: 3
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-25-book-01|第一章4/25]]"
+    When: "[[Walkthrough/Chapter 1#^book-hong-yue-de-luo-sai-3|第一章 4/25]]"
     How: "前往自然公园前, [[西凯尔迪克街道2]] 农家与罗宾对话获得"
     Content: |
       TODO
@@ -416,7 +416,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-4"
     Series: "红月的罗赛"
     SeriesNo: 4
-    When: "[[第二章 美丽的翡翠公都#^ch-2-5-29-book-03|第二章5/29]]"
+    When: ""
     How: "奥洛克斯堡垒休息站《三日月亭》与弗米对话获得"
     Content: |
       TODO
@@ -425,7 +425,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-5"
     Series: "红月的罗赛"
     SeriesNo: 5
-    When: "[[第二章 美丽的翡翠公都#^ch-2-5-30-book-01|第二章5/30]]"
+    When: ""
     How: "尤西斯离队时与北克鲁琴街道口的雅妮特对话获得"
     Content: |
       TODO
@@ -434,7 +434,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-6"
     Series: "红月的罗赛"
     SeriesNo: 6
-    When: "[[第三章 横跨铁路 ~苍穹的大地~#^ch-3-6-27-quest-01|第三章6/27]]"
+    When: ""
     How: "支线任务: [[配送物品到监视塔]] 途中与监视塔军用车边上与士兵曼宁对话获得"
     Content: |
       TODO
@@ -443,7 +443,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-7"
     Series: "红月的罗赛"
     SeriesNo: 7
-    When: "[[第三章 横跨铁路 ~苍穹的大地~#^ch-3-6-28-book-01|第三章6/28]]"
+    When: ""
     How: "米莉亚姆入队后与坚达门战车上士兵霍佛对话获得"
     Content: |
       TODO
@@ -452,7 +452,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-8"
     Series: "红月的罗赛"
     SeriesNo: 8
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-24-book-04|第四章7/24]]"
+    When: ""
     How: "圣母公园与长椅上的罗贝特对话获得"
     Content: |
       TODO
@@ -461,7 +461,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-9"
     Series: "红月的罗赛"
     SeriesNo: 9
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-26-book-02|第四章7/26]]"
+    When: ""
     How: "与德莱凯尔斯广场东南方向的三个小朋友中的提姆对话获得"
     Content: |
       TODO
@@ -470,7 +470,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-10"
     Series: "红月的罗赛"
     SeriesNo: 10
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-28-book-02|第五章8/28]]"
+    When: ""
     How: "雷格拉姆民宅1的达芙妮婆婆对话"
     Content: |
       TODO
@@ -479,7 +479,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-11"
     Series: "红月的罗赛"
     SeriesNo: 11
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-30-book-01|第五章8/30]]"
+    When: ""
     How: "和劳拉家子爵府里二楼正在打扫的女仆普拉娜对话"
     Content: |
       TODO
@@ -488,7 +488,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-12"
     Series: "红月的罗赛"
     SeriesNo: 12
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-25-book-03|第六章9/25夜]]"
+    When: ""
     How: "自动扶梯下与左边长椅上的奥尔老先生对话"
     Content: |
       TODO
@@ -497,7 +497,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-13"
     Series: "红月的罗赛"
     SeriesNo: 13
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-26-book-02|第六章9/26]]"
+    When: ""
     How: "与卢雷工科大学和前台受理芙拉嘉对话"
     Content: |
       TODO
@@ -506,7 +506,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-14"
     Series: "红月的罗赛"
     SeriesNo: 14
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/终章 士官学院祭、然后——#^ch-fin-10-23-book-01|终章10/23黄昏(票用完前)]]"
+    When: ""
     How: "主校舍2F长椅处与和管家瑟雷斯坦对话"
     Content: |
       TODO
@@ -515,7 +515,7 @@ Books:
     ID:  "di-guo-tie-lu-shi"
     Series: "其他"
     SeriesNo: 1
-    When: "[[第一章 新学期～初次实习～#^ch-1-4-17-book-01|第一章4/17]]"
+    When: "[[Walkthrough/Chapter 1#^book-di-guo-tie-lu-shi|第一章 4/17]]"
     How: "图书馆阅读"
     Content: |
       「帝国铁道史 导力革命后的五十年」
@@ -535,7 +535,7 @@ Books:
     ID:  "jin-dai-yun-dong"
     Series: "其他"
     SeriesNo: 3
-    When: "[[第三章 横跨铁路 ~苍穹的大地~#^ch-3-6-15-book-01|第三章6/15]]"
+    When: ""
     How: "图书馆阅读"
     Content: |
       TODO
@@ -544,7 +544,7 @@ Books:
     ID:  "di-guo-de-chuan-shuo-zhong"
     Series: "其他"
     SeriesNo: 4
-    When: "[[第四章 绯之帝都 ~仲夏祭~#^ch-4-7-17-book-01|第四章7/17]]"
+    When: ""
     How: "图书馆阅读"
     Content: |
       TODO
@@ -553,7 +553,7 @@ Books:
     ID:  "bao-zhi-yu-guang-bo"
     Series: "其他"
     SeriesNo: 5
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第五章 开始行动的意志#^ch-5-8-21-book-01|第五章8/21]]"
+    When: ""
     How: "图书馆阅读"
     Content: |
       TODO
@@ -562,7 +562,7 @@ Books:
     ID:  "di-guo-de-chuan-shuo-xia"
     Series: "其他"
     SeriesNo: 6
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/第六章 黑与银 ~钢都动乱~#^ch-6-9-18-book-02|第六章9/18]]"
+    When: ""
     How: "图书馆阅读"
     Content: |
       TODO
@@ -571,7 +571,7 @@ Books:
     ID:  "rf-ji-tuan-de-li-shi"
     Series: "其他"
     SeriesNo: 7
-    When: "[[游戏攻略/英雄传说 闪之轨迹/攻略/终章 士官学院祭、然后——#^ch-fin-10-21-book-01|终章10/21]]"
+    When: ""
     How: "图书馆阅读"
     Content: |
       TODO

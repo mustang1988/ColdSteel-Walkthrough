@@ -41,7 +41,7 @@ ID: "Walkthrough.Chapter.2"
 > - 战斗笔记进度: 26/196
 > - 打开宝箱进度: 30/199 
 > - 烹饪笔记进度: 3/20
-> - 书籍笔记进度: 8/43 (+2) [^1]
+> - 书籍笔记进度: 9/43 (+2) [^1]
 > - 人物笔记进度: 6/95 (+3) [^2]
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 6/28
@@ -63,7 +63,7 @@ ID: "Walkthrough.Chapter.2"
 > - [[Database/Character/Gaius Worzel#^gai-wu-si|盖乌斯]]
 
 书店购买
-- [[Database/Item/Recipe Book#^lao-zi-de-liao-li-san-ming-zhi|老子的料理·三明治]]
+- [[Database/Item/Recipe Book#^lao-zi-de-liao-li-san-ming-zhi|老子的料理·三明治]] ^recipe-fan-qie-san-ming-zhi
 - [[Database/Item/Link Book#^gu-liu-gong-shu-zhi-nan|《古流弓术指南》]]
 - [[Database/Item/Link Book#^nuan-yang-yang-de-wu-shui-tian|《暖洋洋的午睡天》]]
 > [!warning] 如果前一天错过了 [[Database/Item/Book#^di-guo-shi-bao-2|《帝国时报·第2号》]] 此时可以在书店买到
@@ -84,7 +84,7 @@ ID: "Walkthrough.Chapter.2"
 > - 战斗笔记进度: 30/196 (+4)    [^3]
 > - 打开宝箱进度: 34/199 (+4)    [^4]
 > - 烹饪笔记进度: 4/20 (+1)        [^5]
-> - 书籍笔记进度: 8/43
+> - 书籍笔记进度: 9/43
 > - 人物笔记进度: 10/95 (+4)      [^6]
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 7/28 (+1) [^7]
@@ -127,7 +127,7 @@ ID: "Walkthrough.Chapter.2"
 > - 战斗笔记进度: 30/196
 > - 打开宝箱进度: 34/199
 > - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 8/43
+> - 书籍笔记进度: 9/43
 > - 人物笔记进度: 15/95 (+5) [^8]
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 7/28
@@ -159,7 +159,7 @@ Boss战
 > - 战斗笔记进度: 32/196 (+2) [^9]
 > - 打开宝箱进度: 34/199
 > - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 8/43
+> - 书籍笔记进度: 9/43
 > - 人物笔记进度: 15/95
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 7/28
@@ -176,7 +176,7 @@ Boss战
 
 - [[Database/Fish/Rainbow Trout|虹鳟鱼]]
 
-左边的贵族街的宅邸2，和罗娜对话，能得到食谱: [[Database/Recipe/Recipe#^feng-wei-yao-cao-cha|风味药草茶]]
+左边的贵族街的宅邸2，和罗娜对话，能得到食谱: [[Database/Recipe/Recipe#^feng-wei-yao-cao-cha|风味药草茶]] ^recipe-feng-wei-yao-cao-cha
 
 站前大道高级品专卖《克莉斯蒂的店》2F的《弗特南书店》购买
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-3|《红曜石文库版3》]]
@@ -189,6 +189,20 @@ Boss战
 ## 主线任务
 - [[Database/Quest/Main Quest#^wu-za-zhi-de-ban-bao-shi|无杂质的半宝石]] ^quest-wu-za-zhi-de-ban-bao-shi
     [[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [^1]: 新增书籍笔记(+2): [[Database/Item/Book#^di-guo-shi-bao-2|《帝国时报·第2号》]],[[Database/Item/Book#^di-guo-de-chuan-shuo-shang|《帝国的传说·传承 上》]]
 [^2]: 新增人物笔记(+3): [[Database/Character/Patrick T Hyarms#^pai-cui-ke-1|海恩斯家]],[[Database/Character/Emma Millstein#^ai-ma-1|家教老师]],[[Database/Character/Casper#^jia-si-po-1|滨海城市]]
