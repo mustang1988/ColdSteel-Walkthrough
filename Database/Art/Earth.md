@@ -16,7 +16,7 @@ Arts:
     Range: "圆S(指定地点)"
     Effects:
       - "石化(20%)"
-    Comment: "从地面刺出尖锐的石之枪. 有20%几率造成 [[Database/Status/Petrify|石化]]."
+    Comment: "从地面刺出尖锐的石之枪. 有20%几率造成 [[Database/Status/Petrify|石化]]"
     
   - Name: "大地崩裂"
     ID: "da-di-beng-lie"
@@ -24,7 +24,7 @@ Arts:
     Range: "圆M(指定地点)"
     Effects:
       - "MOV-50%"
-    Comment: "造成局部地震, 压缩地面. MOV-50%."
+    Comment: "造成局部地震, 压缩地面. MOV-50%"
     
   - Name: "世界之树"
     ID: "shi-jie-zhi-shu"
@@ -32,7 +32,7 @@ Arts:
     Range: "圆L(指定地点)"
     Effects:
       - "石化(30%)"
-    Comment: "以拥有意志的大树穿刺敌人, 有30%几率造成 [[Database/Status/Petrify|石化]]."
+    Comment: "以拥有意志的大树穿刺敌人, 有30%几率造成 [[Database/Status/Petrify|石化]]"
     
   - Name: "远古巨岩"
     ID: "yuan-gu-ju-yan"
@@ -40,7 +40,7 @@ Arts:
     Range: "圆LL(指定地点)"
     Effects:
       - "石化(20%)"
-    Comment: "在上空召唤出巨石, 使其坠落至交战区域. 有20%几率造成 [[Database/Status/Petrify|石化]]."
+    Comment: "在上空召唤出巨石, 使其坠落至交战区域, 有20%几率造成 [[Database/Status/Petrify|石化]]"
     
   - Name: "大地之愈"
     ID: "da-di-zhi-yu"
@@ -48,7 +48,7 @@ Arts:
     Range: "单体"
     Effects:
       - "逐渐回复HP"
-    Comment: "以地脉之力提升自我治愈能力. 每回合回复30%HP, 持续4回合."
+    Comment: "以地脉之力提升自我治愈能力. 每回合回复30%HP, 持续4回合"
     
   - Name: "结晶防护"
     ID: "jie-jing-fang-hu"
@@ -56,7 +56,7 @@ Arts:
     Range: "单体"
     Effects:
       - "4回合DEF+25%"
-    Comment: "赋予大地之守护, 提升防御力."
+    Comment: "赋予大地之守护, 提升防御力"
     
   - Name: "结晶防护·复"
     ID: "jie-jing-fang-hu-fu"
@@ -64,7 +64,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "4回合DEF+25%"
-    Comment: "赋予范围内伙伴大地之守护, 提升防御力."
+    Comment: "赋予范围内伙伴大地之守护, 提升防御力"
     
   - Name: "坚韧守护"
     ID: "jian-ren-shou-hu"
@@ -72,7 +72,7 @@ Arts:
     Range: "圆M"
     Effects:
       - "物理防御"
-    Comment: "张开金刚石之盾, 完全防御一次物理攻击."
+    Comment: "张开金刚石之盾, 完全防御一次物理攻击"
 ---
 ```dataviewjs
 const art = dv.current().Arts[0];

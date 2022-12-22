@@ -124,4 +124,9 @@ title: 战斗笔记
 collapse: close
 ```
 
+```ad-quote
+title: 人物信息
+collapse: close
+```
+
 ````
