@@ -72,11 +72,10 @@ Recipes:
     Unique: "[[Database/Item/Unique Food#^nuo-er-de-cha|诺尔德茶]]"
     Attack:
     UniqueCook: "[[Database/Character/Gaius Worzel#^gai-wu-si|盖乌斯]]"
-
   - Name: "香浓巧达汤"
     ID: "xiang-nong-qiao-da-tang"
-    When: ""
-    How: ""
+    When: "[[Walkthrough/Chapter 2#^recipe-xiang-nong-qiao-da-tang|第二章 5/30]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^huai-nian-de-cai-se|怀念的菜色]]"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xian-nai|鲜奶x1]]"
       - "[[Database/Item/Food Ingredient#^cheng-shu-ru-lao|成熟乳酪x1]]"

@@ -623,7 +623,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 100
-
 #  命运纺织者  ----------------------------------------------------------------------------------------------
 - Name: "命运纺织者"
   ID: "ming-yun-fang-zhi-zhe"
@@ -633,7 +632,7 @@ Bosses:
     会吐出引发幻觉·起火的残虐毒液.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
   Properties:
     LV: 18
     HP: 18890
@@ -684,7 +683,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 50
-
 #  三头颠茄兽  ----------------------------------------------------------------------------------------------
 - Name: "三头颠茄兽"
   ID: "san-tou-dian-qie-shou"
@@ -696,7 +694,7 @@ Bosses:
     毫不留情的喷向与其敌对的东西.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
   Properties:
     LV: 18
     HP: 16453
@@ -747,7 +745,6 @@ Bosses:
     Sleep: 50
     Confuse: 100
     SDown: 100
-
 #  领邦军士兵  ----------------------------------------------------------------------------------------------
 - Name: "领邦军士兵"
   ID: "ling-bang-jun-shi-bing"
@@ -759,7 +756,7 @@ Bosses:
     充满自信的击退入侵者.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 20
     HP: 6288
@@ -811,7 +808,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  警备猎犬B  ----------------------------------------------------------------------------------------------
 - Name: "警备猎犬B"
   ID: "jing-bei-lie-quan-b"
@@ -823,7 +819,7 @@ Bosses:
     绝不会让猎物逃走.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 21
     HP: 23580
@@ -874,7 +870,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 50
-
 #  警备猎犬R  ----------------------------------------------------------------------------------------------
 - Name: "警备猎犬R"
   ID: "jing-bei-lie-quan-r"
@@ -886,7 +881,7 @@ Bosses:
     使出厉害的合作攻击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 21
     HP: 23580

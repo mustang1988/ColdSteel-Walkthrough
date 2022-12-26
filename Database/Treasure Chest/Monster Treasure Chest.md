@@ -13,6 +13,18 @@ MonsterTreasureChests:
     - "[[Database/Quartz/Time SR#^si-shen|死神]]"
   Chapter: "[[Walkthrough/Chapter 2#^location-jiu-xiao-she-di-xia-er-ceng|第二章 5/23]]"
   Remark:
+- ID: "041"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+  Items:  
+    - "[[Database/Quartz/Wind SR#^xun-feng|熏风]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-2|第二章 5/29]]"
+  Remark:
+- ID: "047"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+  Items:  
+    - "[[Database/Quartz/Fire R#^lian-qi|炼气]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-2|第二章 5/30]]"
+  Remark:
 #-------------
 - ID: ""
   Location: ""
@@ -36,3 +48,17 @@ await dv.view('Treasure Chest', { chest, monster: true });
 ^033
 
 ---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[2];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^041
+
+---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[3];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^047

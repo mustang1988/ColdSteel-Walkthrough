@@ -25,7 +25,7 @@ Notes:
 
       艾尔巴雷亚公爵相当疏远.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^character-you-xi-si-1|第二章 5/29]]"
     How: "剧情自动获得"
   - Title: "照料马匹"
     ID: "you-xi-si-2"

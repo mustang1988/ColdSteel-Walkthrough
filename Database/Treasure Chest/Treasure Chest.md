@@ -232,6 +232,114 @@ TreasureChests:
     - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
   Chapter: "[[Walkthrough/Chapter 2#^location-jiu-xiao-she-di-xia-er-ceng|第二章 5/23]]"
   Remark:
+- ID: "035"
+  Location: "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x150]]"
+    - "[[Database/Item/Water Sepith|x150]]"
+    - "[[Database/Item/Fire Sepith|x150]]"
+    - "[[Database/Item/Wind Sepith|x150]]"
+    - "[[Database/Item/Time Sepith|x150]]"
+    - "[[Database/Item/Space Sepith|x150]]"
+    - "[[Database/Item/Mirage Sepith|x150]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-bei-ke-lu-qin-jie-dao|第二章 5/29]]"
+  Remark:
+- ID: "036"
+  Location: "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
+  Items:  
+    - "[[Database/Item/Potion#^fu-huo-yao|复活药]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-bei-ke-lu-qin-jie-dao|第二章 5/29]]"
+  Remark:
+- ID: "037"
+  Location: "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
+  Items:  
+    - "[[Database/Quartz/Wind N#^da-zhi-yu-shu|大治愈术]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-bei-ke-lu-qin-jie-dao|第二章 5/29]]"
+  Remark:
+- ID: "038"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+  Items:  
+    - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-1|第二章 5/29]]"
+  Remark:
+- ID: "039"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x150]]"
+    - "[[Database/Item/Water Sepith|x150]]"
+    - "[[Database/Item/Fire Sepith|x150]]"
+    - "[[Database/Item/Wind Sepith|x150]]"
+    - "[[Database/Item/Time Sepith|x150]]"
+    - "[[Database/Item/Space Sepith|x150]]"
+    - "[[Database/Item/Mirage Sepith|x150]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-2|第二章 5/29]]"
+  Remark:
+- ID: "040"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+  Items:  
+    - "[[Database/Quartz/Wind N#^hei-an-zhi-ren|黑暗之刃]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-2|第二章 5/29]]"
+  Remark:
+- ID: "042"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
+  Items:  
+    - "[[Database/Item/Key#^you-er|诱饵]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-3|第二章 5/29]]"
+  Remark:
+- ID: "043"
+  Location: "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
+  Items:  
+    - "[[Database/Quartz/Mirage N#^jing-shen-2|精神2]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-ao-luo-ke-si-xia-gu-dao-3|第二章 5/29]]"
+  Remark:
+- ID: "044"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-1|公都地下水路1]]"
+  Items:  
+    - "[[Database/Item/Potion#^huan-hun-fen|还魂粉]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-1|第二章 5/30]]"
+  Remark:
+- ID: "045"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+  Items:  
+    - "[[Database/Quartz/Earth N#^jie-jing-fang-hu-fu|结晶防护·复]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-2|第二章 5/30]]"
+  Remark:
+- ID: "046"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+  Items:  
+    - "[[Database/Quartz/Water N#^zhong-hui-fu-shu|中回复术]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-2|第二章 5/30]]"
+  Remark: "需爬楼梯回到中央广场"
+- ID: "048"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+  Items:  
+    - "[[Database/Item/Potion#^sheng-ling-yao|圣灵药]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-2|第二章 5/30]]"
+  Remark:
+- ID: "049"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
+  Items:  
+    - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-3|第二章 5/30]]"
+  Remark:
+- ID: "050"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
+  Items:  
+    - "[[Database/Quartz/Mirage N#^yin-ye-zhi-ji|银夜之棘]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-3|第二章 5/30]]"
+  Remark:
+- ID: "051"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
+  Items:  
+    - "[[Database/Item/Potion#^quan-yu-zhi-yao|痊愈之药]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-3|第二章 5/30]]"
+  Remark:
+- ID: "052"
+  Location: "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
+  Items:  
+    - "[[Database/Quartz/Time N#^qu-dong-1|驱动1]]"
+  Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-3|第二章 5/30]]"
+  Remark:
 ####################
 - ID: ""
   Location: ""
@@ -493,5 +601,134 @@ const chest = dv.current().TreasureChests[31];
 await dv.view('Treasure Chest', { chest });
 ```
 ^034
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[32];
+await dv.view('Treasure Chest', { chest });
+```
+^035
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[33];
+await dv.view('Treasure Chest', { chest });
+```
+^036
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[34];
+await dv.view('Treasure Chest', { chest });
+```
+^037
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[35];
+await dv.view('Treasure Chest', { chest });
+```
+^038
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[36];
+await dv.view('Treasure Chest', { chest });
+```
+^039
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[37];
+await dv.view('Treasure Chest', { chest });
+```
+^040
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[38];
+await dv.view('Treasure Chest', { chest });
+```
+^042
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[39];
+await dv.view('Treasure Chest', { chest });
+```
+^043
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[40];
+await dv.view('Treasure Chest', { chest });
+```
+^044
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[41];
+await dv.view('Treasure Chest', { chest });
+```
+^045
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[42];
+await dv.view('Treasure Chest', { chest });
+```
+^046
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[43];
+await dv.view('Treasure Chest', { chest });
+```
+^048
+
+---
+
+
+```dataviewjs
+const chest = dv.current().TreasureChests[44];
+await dv.view('Treasure Chest', { chest });
+```
+^049
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[45];
+await dv.view('Treasure Chest', { chest });
+```
+^050
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[46];
+await dv.view('Treasure Chest', { chest });
+```
+^051
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[47];
+await dv.view('Treasure Chest', { chest });
+```
+^052
 
 ---

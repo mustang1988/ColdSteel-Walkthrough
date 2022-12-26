@@ -34,10 +34,12 @@ ID: "Walkthrough.Chapter.1"
 > - 核心回路收集进度: 3/28
 > - 奖杯进度: 2/51
 
+---
+
 # 4/18
 羁绊事件(3选2)
 - [[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]
-  - 位于宿舍2F, 获得人物信息: [[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
+  - 位于宿舍2F, 获得人物笔记: [[Database/Character/Elliot Craig#^ai-lve-te-1|朝音乐领域发展]] ^character-ai-lve-te-1
 - [[Database/Character/Laura S Arseid#^lao-la|劳拉]]
   - 位于游泳池
 - [[Database/Character/Machias Regnitz#^ma-qi-ya-si|马奇亚斯]]
@@ -77,7 +79,7 @@ ID: "Walkthrough.Chapter.1"
 > 
 > 赚钱效率虽然不高, 但可以弥补一周目前期经常缺钱的问题
 
-与第一学生宿舍门口的女仆萝德对话获得人物信息: [[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
+与第一学生宿舍门口的女仆萝德对话获得人物笔记: [[Database/Character/Lotte#^luo-de-1|学习做菜]]^character-luo-de-1
 
 > [!tip] [[Database/Character/Lotte#^luo-de|萝德]] 会收集独门料理, 每个食谱都对应一个独门料理 人, 可以制作独门料理, 将做出的 [[Database/Item/Unique Food|独门料理]] 交给她可以获得奖励
 
@@ -99,6 +101,8 @@ ID: "Walkthrough.Chapter.1"
 > - 核心回路收集进度: 4/28 (+1)[^8]
 > - 奖杯进度: 2/51
 
+---
+
 # 4/18 晚
 羁绊事件(2选1)
 - [[Database/Character/Towa Herschel#^tuo-wa|托娃会长]]
@@ -111,7 +115,7 @@ ID: "Walkthrough.Chapter.1"
 
 ## 支线任务
 - [[Database/Quest/Side Quest#^yong-wan-de-tiao-wei-liao-diao-huo|用完的调味料调货]] ^quest-yong-wan-de-tiao-wei-liao-diao-huo
-  - 任务期间可获得尼可拉斯人物信息: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]] ^character-ni-ke-la-si-1
+  - 任务期间可获得尼可拉斯人物笔记: [[Database/Character/Nicholas#^ni-ke-la-si-1|厨师的资质]] ^character-ni-ke-la-si-1
 
 全部完成后, 回第三宿舍结束这一天
 
@@ -124,6 +128,8 @@ ID: "Walkthrough.Chapter.1"
 > - 钓鱼笔记进度: 2/20
 > - 核心回路收集进度: 4/28
 > - 奖杯进度: 2/51
+
+---
 
 # 4/21
 实习考试·4月
@@ -148,6 +154,8 @@ Boss战:
 > - 钓鱼笔记进度: 2/20
 > - 核心回路收集进度: 4/28
 > - 奖杯进度: 2/51
+
+---
 
 # 4/24
 在去小镇西南地图的广播台, 会有意外剧情发现
@@ -217,6 +225,8 @@ Boss战:
 > - 核心回路收集进度: 6/28
 > - 奖杯进度: 2/51
 
+---
+
 # 4/25
 一大早就刚看了任务就发生剧情, 因为在不触发主线前是离不开城镇的, 所以先触发主线到大市集发生剧情
 - 分别调查两名受害人
@@ -284,6 +294,8 @@ Boss战后剧情, 本章结束
 > - 钓鱼笔记进度: 4/20
 > - 核心回路收集进度: 6/28
 > - 奖杯进度: 4/51 (+2)              [^26]
+
+下一章: [[Walkthrough/Chapter 2|第二章 美丽的翡翠公都]]
 
 [^1]: 新增书籍笔记(+1): [[Database/Item/Book#^di-guo-tie-lu-shi|《帝国铁路史》]]
 [^2]: 新增战斗笔记(+4): [[Database/Enemy/Monster#^bei-lie-ruan-nian-shou|卑劣软黏兽]],[[Database/Enemy/Monster#^bo-mu|波姆]],[[Database/Enemy/Monster#^rong-jie-hai-kuo-yu|溶解海蛞蝓]],[[Database/Enemy/Boss#^mi-nuo-si-e-mo|米诺斯恶魔]]

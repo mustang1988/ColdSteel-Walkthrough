@@ -178,6 +178,50 @@ Quests:
       - "[[Database/Item/Accessory#^bing-liang-pi-dai|冰凉皮带]]"
     When: "[[Walkthrough/Chapter 2#^quest-ling-qu-xian-hua|第二章 5/23晚]]"
 #--------------------------------------------------------------------------------------------------------------
+  - Name: "寻找沐浴盐"
+    ID: "xun-zhao-mu-yu-yan"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到中央广场高级餐厅《索露榭拉》外，跟哈桑和伍迪罗对话领取
+         
+      2. 到 [[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]] 绿箭头位置采集盐
+         
+      3. 返回城中交任务, 不推荐回去，先搁着之后汇报
+    Bonus:
+      - "[[Database/Item/Accessory#^yin-zhi-lian|银之链]]"
+    When: "[[Walkthrough/Chapter 2#^quest-xun-zhao-mu-yu-yan|第二章 5/29]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "护送旅行者"
+    ID: "hu-song-lv-xing-zhe"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到前往奥洛克斯砦找到安敦
+         
+      2. 护送他回公都，中途会有剧情
+         
+      3. 到达公都后剧情
+    Bonus:
+      - "[[Database/Item/Accessory#^kun-kun-mi-xi|睏睏咪西]]"
+    When: "[[Walkthrough/Chapter 2#^quest-hu-song-lv-xing-zhe|第二章 5/30]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "怀念的菜色"
+    ID: "huai-nian-de-cai-se"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到中央广场高级料理店《索露榭拉》内找哈蒙德老板领取
+         
+      2. 到大聖堂找修女获得治疗草
+         
+      3. 如果身上有5个 [[Database/Item/Food Ingredient#^mo-shou-you-zhi|魔兽油脂]], 可以直接提交, 没有的话到 [[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]] 刷怪都会掉落
+         
+      4. 报告后获得奖励
+    Bonus:
+      - "[[Database/Item/Unique Food#^te-zhi-xiang-cao-qiao-da-tang|特制香草巧达汤x5]]"
+    When: "[[Walkthrough/Chapter 2#^quest-huai-nian-de-cai-se|第二章 5/30]]"
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -259,3 +303,25 @@ await dv.view('Quest', { quest, type:'Side' });
 ^ling-qu-xian-hua
 
 ---
+
+```dataviewjs
+const quest = dv.current().Quests[9];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^xun-zhao-mu-yu-yan
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[10];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^hu-song-lv-xing-zhe
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[11];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^huai-nian-de-cai-se

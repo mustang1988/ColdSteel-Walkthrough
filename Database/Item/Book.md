@@ -408,7 +408,7 @@ Books:
     Series: "红月的罗赛"
     SeriesNo: 3
     When: "[[Walkthrough/Chapter 1#^book-hong-yue-de-luo-sai-3|第一章 4/25]]"
-    How: "前往自然公园前, [[西凯尔迪克街道2]] 农家与罗宾对话获得"
+    How: "前往自然公园前, [[Database/Location/Location#^xi-kai-er-di-ke-jie-dao-2|西凯尔迪克街道2]] 农家与罗宾对话获得"
     Content: |
       TODO
 # 红月的罗赛4
@@ -416,7 +416,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-4"
     Series: "红月的罗赛"
     SeriesNo: 4
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^book-hong-yue-de-luo-sai-4|第二章 5/29]]"
     How: "奥洛克斯堡垒休息站《三日月亭》与弗米对话获得"
     Content: |
       TODO
@@ -425,7 +425,7 @@ Books:
     ID:  "hong-yue-de-luo-sai-5"
     Series: "红月的罗赛"
     SeriesNo: 5
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^book-hong-yue-de-luo-sai-5|第二章 5/30]]"
     How: "尤西斯离队时与北克鲁琴街道口的雅妮特对话获得"
     Content: |
       TODO

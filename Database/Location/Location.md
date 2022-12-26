@@ -77,7 +77,37 @@ Locations:
   Maps:
     - "![[images/Maps/北克鲁琴街道.jpg]]"
   Fishes:
-
+    - "[[Database/Fish/Rockeater|岩穴鱼]]"
+- Name: "奥洛克斯峡谷道1"
+  ID: "ao-luo-ke-si-xia-gu-dao-1"
+  Maps:
+    - "![[images/Maps/奥洛克斯峡谷道1.jpg]]"
+  Fishes:
+- Name: "奥洛克斯峡谷道2"
+  ID: "ao-luo-ke-si-xia-gu-dao-2"
+  Maps:
+    - "![[images/Maps/奥洛克斯峡谷道2.jpg]]"
+  Fishes:
+- Name: "奥洛克斯峡谷道3"
+  ID: "ao-luo-ke-si-xia-gu-dao-3"
+  Maps:
+    - "![[images/Maps/奥洛克斯峡谷道3.jpg]]"
+  Fishes:
+- Name: "公都地下水路1"
+  ID: "gong-du-di-xia-shui-lu-1"
+  Maps:
+    - "![[images/Maps/公都地下水路1.jpg]]"
+  Fishes:
+- Name: "公都地下水路2"
+  ID: "gong-du-di-xia-shui-lu-2"
+  Maps:
+    - "![[images/Maps/公都地下水路2.jpg]]"
+  Fishes:
+- Name: "公都地下水路3"
+  ID: "gong-du-di-xia-shui-lu-3"
+  Maps:
+    - "![[images/Maps/公都地下水路3.jpg]]"
+  Fishes:
 ##################################
 - Name: ""
   ID: ""
@@ -189,3 +219,50 @@ await dv.view('Location', { location });
 ^bei-ke-lu-qin-jie-dao
 
 ---
+
+```dataviewjs
+const location = dv.current().Locations[13];
+await dv.view('Location', { location });
+```
+^ao-luo-ke-si-xia-gu-dao-1
+
+---
+
+
+```dataviewjs
+const location = dv.current().Locations[14];
+await dv.view('Location', { location });
+```
+^ao-luo-ke-si-xia-gu-dao-2
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[15];
+await dv.view('Location', { location });
+```
+^ao-luo-ke-si-xia-gu-dao-3
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[16];
+await dv.view('Location', { location });
+```
+^gong-du-di-xia-shui-lu-1
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[17];
+await dv.view('Location', { location });
+```
+^gong-du-di-xia-shui-lu-2
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[18];
+await dv.view('Location', { location });
+```
+^gong-du-di-xia-shui-lu-3

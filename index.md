@@ -186,7 +186,7 @@ dv.table(
 ```
 
 ```ad-quote
-title: 人物信息
+title: 人物笔记
 collapse: close
 ~~~dataviewjs
 const characters = dv.pages('"Database/Character"').sort(page => [page.CategoryNo, page.Order], 'asc');

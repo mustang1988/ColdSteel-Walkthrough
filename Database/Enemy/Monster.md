@@ -1330,7 +1330,6 @@ Monsters:
     Sleep: 50
     Confuse: 100
     SDown: 100
-
 #  幼生双角兽  ----------------------------------------------------------------------------------------------
 - Name: "幼生双角兽"
   ID: "you-sheng-shuang-jiao-shou"
@@ -1342,7 +1341,9 @@ Monsters:
     并被坚硬甲壳包覆.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 15
     HP: 1169
@@ -1394,7 +1395,6 @@ Monsters:
     Sleep: 200
     Confuse: 10
     SDown: 150
-
 #  攻击野犬  ----------------------------------------------------------------------------------------------
 - Name: "攻击野犬"
   ID: "gong-ji-ye-quan"
@@ -1404,7 +1404,9 @@ Monsters:
     特征是长满全身的刺.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 16
     HP: 1763
@@ -1456,7 +1458,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 #  颠茄兽  ----------------------------------------------------------------------------------------------
 - Name: "颠茄兽"
   ID: "dian-qie-shou"
@@ -1466,7 +1467,7 @@ Monsters:
     将从深处汲取上来的大地的秽物喷向敌人.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
   Properties:
     LV: 19
     HP: 1959
@@ -1518,7 +1519,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  蛋蛇  ----------------------------------------------------------------------------------------------
 - Name: "蛋蛇"
   ID: "dan-she"
@@ -1528,7 +1528,7 @@ Monsters:
     牙齿带有剧毒.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^bei-ke-lu-qin-jie-dao|北克鲁琴街道]]"
   Properties:
     LV: 16
     HP: 1676
@@ -1580,7 +1580,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  小恶龟  ----------------------------------------------------------------------------------------------
 - Name: "小恶龟"
   ID: "xiao-e-gui"
@@ -1592,7 +1591,9 @@ Monsters:
     袭向经过的猎物.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 16
     HP: 1984
@@ -1644,7 +1645,6 @@ Monsters:
     Sleep: 150
     Confuse: 150
     SDown: 150
-
 #  双角兽  ----------------------------------------------------------------------------------------------
 - Name: "双角兽"
   ID: "shuang-jiao-shou"
@@ -1656,7 +1656,9 @@ Monsters:
     在慢慢用长舌吞食.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 16
     HP: 2279
@@ -1708,7 +1710,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 #  巨大螳螂  ----------------------------------------------------------------------------------------------
 - Name: "巨大螳螂"
   ID: "ju-da-tang-lang"
@@ -1718,7 +1719,9 @@ Monsters:
     拥有能一挥就取下猎物首级的锐利无比的镰刀.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 17
     HP: 1587
@@ -1770,7 +1773,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  电熊  ----------------------------------------------------------------------------------------------
 - Name: "电熊"
   ID: "dian-xiong"
@@ -1782,7 +1784,9 @@ Monsters:
     是从有毒的植物上折下来的.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 18
     HP: 1687
@@ -1834,7 +1838,6 @@ Monsters:
     Sleep: 150
     Confuse: 150
     SDown: 150
-
 #  人面鸟  ----------------------------------------------------------------------------------------------
 - Name: "人面鸟"
   ID: "ren-mian-niao"
@@ -1846,7 +1849,9 @@ Monsters:
     再用锐利的爪子胡乱捉住猎物.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-1|奥洛克斯峡谷道1]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]"
+    - "[[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]]"
   Properties:
     LV: 18
     HP: 9070
@@ -1898,7 +1903,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  冰晶软体兽  ----------------------------------------------------------------------------------------------
 - Name: "冰晶软体兽"
   ID: "bing-jing-ruan-ti-shou"
@@ -1912,7 +1916,9 @@ Monsters:
     发动水属性的魔法.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-1|公都地下水路1]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 19
     HP: 1722
@@ -1964,7 +1970,6 @@ Monsters:
     Sleep: 20
     Confuse: 50
     SDown: 150
-
 #  白金虫  ----------------------------------------------------------------------------------------------
 - Name: "白金虫"
   ID: "bai-jin-chong"
@@ -1976,7 +1981,9 @@ Monsters:
     使敌人昏迷.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-1|公都地下水路1]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 19
     HP: 1780
@@ -2158,7 +2165,6 @@ Monsters:
     Sleep: 100
     Confuse: 50
     SDown: 100
-
 #  白翼猫  ----------------------------------------------------------------------------------------------
 - Name: "白翼猫"
   ID: "bai-yi-mao"
@@ -2170,7 +2176,9 @@ Monsters:
     但被丢弃到地下就恢复野性了.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-1|公都地下水路1]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 19
     HP: 1433
@@ -2222,7 +2230,6 @@ Monsters:
     Sleep: 200
     Confuse: 100
     SDown: 100
-
 #  宝石老鼠  ----------------------------------------------------------------------------------------------
 - Name: "宝石老鼠"
   ID: "bao-shi-lao-shu"
@@ -2234,7 +2241,9 @@ Monsters:
     小心突然跳出的攻击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-1|公都地下水路1]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-2|公都地下水路2]]"
+    - "[[Database/Location/Location#^gong-du-di-xia-shui-lu-3|公都地下水路3]]"
   Properties:
     LV: 19
     HP: 2110

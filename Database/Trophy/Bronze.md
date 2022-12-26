@@ -202,7 +202,7 @@ Trophies:
   - ID: "mei-li-de-fei-cui-zhi-du"
     Title: "美麗的翡翠之都"
     Comment: "完成第二章「美麗的翡翠之都」"
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^trophy-mei-li-de-fei-cui-zhi-du|第二章 5/30]]"
     Tips: |
 
   - ID: "heng-kua-tie-lu-cang-qiong-de-da-di"

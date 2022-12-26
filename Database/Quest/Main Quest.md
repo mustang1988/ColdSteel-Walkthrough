@@ -122,6 +122,44 @@ Quests:
       - "[[Database/Quartz/Space R#^xing-yun|幸运]]"
     When: "[[Walkthrough/Chapter 2#^quest-wu-za-zhi-de-ban-bao-shi|第二章 5/29]]"
 #------------------------------------------------------------------------------------
+  - Name: "奥洛克斯峡谷道的通缉魔兽"
+    ID: "ao-luo-ke-si-xia-gu-dao-de-tong-ji-mo-shou"
+    BasicAP: 5
+    ExtraAP: 0
+    Steps: |
+      1. 目标Boss: [[Database/Enemy/Boss#^ming-yun-fang-zhi-zhe|命运纺织者]] 位于 [[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-2|奥洛克斯峡谷道2]]
+         
+      > [!tip] Boss 攻略
+      > Boss会强制锁血
+      > 
+      > 此战马奇亚斯与尤西斯强制要参战
+      > 
+      > 在一定回合之后，Link会强制切断，剧情所致不用理会
+      > 
+      > 小心此Boss的飞扑攻击，后排的队员都能中
+         
+      2. 击败后通过 [[Database/Location/Location#^ao-luo-ke-si-xia-gu-dao-3|奥洛克斯峡谷道3]] 前往奥洛克斯要塞, 与领邦军兵士对话交付任务
+    Bonus:
+      - "[[Database/Quartz/Wind N#^dian-liu-zhi-shi|电流之矢]]"
+    When: "[[Walkthrough/Chapter 2#^quest-ao-luo-ke-si-xia-gu-dao-de-tong-ji-mo-shou|第二章 5/29]]"
+# ------------------------------------------------------------------------------------
+  - Name: "北克鲁琴街道的通缉魔兽"
+    ID: "bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 找《艾梅拉妲酒店》的总管·里西琉领取
+         
+      2. 到北克鲁琴街道解Boss: [[Database/Enemy/Boss#^san-tou-dian-qie-shou|三头颠茄兽]]
+         
+         > [!tip] Boss 攻略
+         > 这回的难度比之前高不少，可以等小怪都走近的时候先用菲S技秒了
+         > 
+         > 马奇亚斯的CP省着点用，用来打断Boss的土系技能，Boss还会释放导致黑暗状态的魔法
+    Bonus:
+      - "[[Database/Quartz/Earth R#^di-yan-ling|地言铃]]"
+    When: "[[Walkthrough/Chapter 2#^quest-bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou|第二章 5/30]]"
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -181,3 +219,17 @@ await dv.view('Quest', { quest, type:'Main' });
 ^wu-za-zhi-de-ban-bao-shi
 
 ---
+
+```dataviewjs
+const quest = dv.current().Quests[6];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^ao-luo-ke-si-xia-gu-dao-de-tong-ji-mo-shou
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[7];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou

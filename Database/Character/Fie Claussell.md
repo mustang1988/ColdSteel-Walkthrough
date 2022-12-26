@@ -23,7 +23,7 @@ Notes:
 
       从小便待在《猎兵团》当中.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^character-fei-1|第二章 5/30]]"
     How: "剧情自动获得"
   - Title: "西风妖精"
     ID: "fei-2"
