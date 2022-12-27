@@ -1,4 +1,5 @@
 ---
+banner: "![[Chapter 1.jpg]]"
 No: 1
 Aliases:
   - "第一章 新学期～初次实习～"

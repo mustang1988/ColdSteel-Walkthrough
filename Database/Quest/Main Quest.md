@@ -202,6 +202,35 @@ Quests:
       - "[[Database/Item/Accessory#^bi-sheng-tou-jin|必胜头巾]]"
     When: "[[Walkthrough/Chapter 3#^quest-diao-cha-jiu-xiao-she-3|第三章 6/20]]"
 #------------------------------------------------------------------------------------
+  - Name: "寻找药草"
+    ID: "xun-zhao-cao-yao"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 药草在诺尔德高原·南部，地图上有标识
+         
+      2. 收集完成后回药师的家交任务
+    Bonus:
+      - "无"
+    When: "[[Walkthrough/Chapter 3#^quest-xun-zhao-cao-yao|第三章 6/27]]"
+#------------------------------------------------------------------------------------
+  - Name: "坚达门的请托"
+    ID: "jian-da-men-de-qing-tuo"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到坚达门找赛克斯中将领取
+         
+      2. 在 [[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]] 找到并解决Boss [[Database/Enemy/Boss#^lei-dian-zhen-bo-yu|雷电震波鱼]]
+         
+      > [!tip] Boss 攻略
+      > BOSS有范围攻击, 会附带 [[Database/Status/Mute|封魔]] 和 [[Database/Status/Seal|封技]]，不过3个S技砸下去后还是挺轻松的
+         
+      3. 自动回去报告
+    Bonus:
+      - "[[Database/Quartz/Time R#^po-xun-zhi-ya|破迅之牙]]"
+    When: "[[Walkthrough/Chapter 3#^quest-jian-da-men-de-qing-tuo|第三章 6/27]]"
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -291,3 +320,19 @@ const quest = dv.current().Quests[9];
 await dv.view('Quest', { quest, type:'Main' });
 ```
 ^diao-cha-jiu-xiao-she-3
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[10];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^xun-zhao-cao-yao
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[11];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^jian-da-men-de-qing-tuo

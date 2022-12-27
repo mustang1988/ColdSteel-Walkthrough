@@ -1,4 +1,5 @@
 ---
+banner: "![[Chapter 3.jpeg]]"
 No: 3
 Aliases:
   - "第三章 横跨铁路 ~苍穹的大地~"
@@ -37,7 +38,7 @@ ID: "Walkthrough.Chapter.3"
 - 还可以兑换一个不错的回路: [[Database/Quartz/Water SR#^qing-long-dao|青龙刀]], 推荐兑换
 - 此时钓鱼点全部更新, 可以用新钓竿清扫一遍
 
-技术栋可购买核心回路: [[Database/Quartz/Master/Master.Moebius|无限]]
+技术栋可购买核心回路: [[Database/Quartz/Master/Master.Moebius|无限]] ^quartz-moebius
 
 都触发完毕后，有6组同学自习(6选3)
 - [[Database/Character/Emma Millstein#^ai-ma|艾玛]]、[[Database/Character/Fie Claussell#^fei|菲]]
@@ -230,7 +231,7 @@ ID: "Walkthrough.Chapter.3"
 交易所可购买:
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-5|《红曜石文库版5》]] ^book-hong-yao-shi-wen-ku-ban-5
 
-先在村里接任务，然后前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]
+先在村里接任务，然后前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]] ^location-nuo-er-de-gao-yuan-nan-bu
 
 > [!tip] 攻略
 > 由于 [[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]] 的怪无限刷新，其中有部分失衡效率都较高
@@ -250,4 +251,35 @@ ID: "Walkthrough.Chapter.3"
 > - [[Database/Trophy/Bronze#^zhui-ji-da-shi|追擊大師]](追击500次)
 > - [[Database/Trophy/Bronze#^lian-xu-meng-gong-da-shi|連續猛攻大師]](发动连续猛攻100次)
 > - [[Database/Trophy/Bronze#^bao-lie-meng-gong-da-shi|爆裂猛攻大師]](发动爆裂猛攻50次, 需要二周目)
+
+## 支线任务
+- [[Database/Quest/Side Quest#^pei-song-wu-pin-dao-jian-shi-ta|配送物品到监视塔]] ^quest-pei-song-wu-pin-dao-jian-shi-ta
+  - 到达监视塔后, 与入口军用车边上与士兵曼宁对话可获得: [[Database/Item/Book#^hong-yue-de-luo-sai-6|《红月的罗赛6卷》]] ^book-hong-yue-de-luo-sai-6
+
+## 主线任务
+- [[Database/Quest/Main Quest#^xun-zhao-cao-yao|寻找药草]] ^quest-xun-zhao-cao-yao
+- [[Database/Quest/Main Quest#^jian-da-men-de-qing-tuo|坚达门的请托]] ^quest-jian-da-men-de-qing-tuo
+  - 在坚达门食堂内与马克斯对话两次习得食谱: [[Database/Recipe/Recipe#^su-cui-pi-sa|酥脆披萨]] ^recipe-su-cui-pi-sa
+
+> [!example] 第三章 6/27 小结
+> - 战斗笔记进度: 66/196 (+8) [^12]
+> - 打开宝箱进度: 66/199 (+8) [^13]
+> - 烹饪笔记进度: 9/20 (+2)     [^14]
+> - 书籍笔记进度: 17/43 (+2)   [^15]
+> - 人物笔记进度: 29/95
+> - 钓鱼笔记进度: 7/20
+> - 核心回路收集进度: 12/28
+> - 奖杯进度: 10/51 (+5)         [^16]
+
+回部落进入盖乌斯家进入午后剧情
+
+## 支线任务
+- [[Database/Quest/Side Quest#^hai-zi-men-de-te-bie-ke-cheng|孩子们的特别课程]] ^quest-hai-zi-men-de-te-bie-ke-cheng
+- [[Database/Quest/Side Quest#^sou-suo-mi-tu-de-yang|搜索迷路的羊]] ^quest-sou-suo-mi-tu-de-yang
+  > [!tip] 任务期间, 去一趟坚达门, 接隐藏支线任务
+- [[Database/Quest/Side Quest#^qing-gan-de-qiao-liang|感情的桥梁]]^quest-qing-gan-de-qiao-liang
+
+和伊凡长老对话后，可前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]，记得牵回3只羊回去找瓦塔利报告
+
+## 主线任务
 

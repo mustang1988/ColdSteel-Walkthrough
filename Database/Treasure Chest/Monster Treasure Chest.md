@@ -31,6 +31,18 @@ MonsterTreasureChests:
     - "[[Database/Quartz/Master/Master.Aries|白羊]]"
   Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
   Remark:
+- ID: "059"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Quartz/Fire SR#^zhu-que-ren|朱雀刃]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "064"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Quartz/Fire R#^huo-yan-zhi-she-r|熔岩之舌R]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
 #-------------
 - ID: ""
   Location: ""
@@ -76,3 +88,19 @@ const chest = dv.current().MonsterTreasureChests[4];
 await dv.view('Treasure Chest', { chest, monster: true });
 ```
 ^057
+
+---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[5];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^059
+
+---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[6];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^064

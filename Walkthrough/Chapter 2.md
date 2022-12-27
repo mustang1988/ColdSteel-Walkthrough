@@ -1,4 +1,5 @@
 ---
+banner: "![[Chapter 2.jpg]]"
 No: 2
 Aliases:
   - "第二章 美丽的翡翠公都"

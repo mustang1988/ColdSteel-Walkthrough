@@ -124,6 +124,12 @@ Locations:
   Maps:
     - "![[images/Maps/诺尔德高原·南部.jpg]]"
   Fishes:
+- Name: "诺尔德高原·北部"
+  ID: "nuo-er-de-gao-yuan-bei-bu"
+  Maps:
+    - "![[images/Maps/诺尔德高原·北部.jpg]]"
+  Fishes:
+
 ##################################
 - Name: ""
   ID: ""
@@ -306,3 +312,11 @@ const location = dv.current().Locations[21];
 await dv.view('Location', { location });
 ```
 ^nuo-er-de-gao-yuan-nan-bu
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[22];
+await dv.view('Location', { location });
+```
+^nuo-er-de-gao-yuan-bei-bu

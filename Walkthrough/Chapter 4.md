@@ -1,4 +1,5 @@
 ---
+banner: "![[Chapter 4.jpeg]]"
 No: 4
 Aliases:
   - "第四章 绯之帝都 ~仲夏祭~"

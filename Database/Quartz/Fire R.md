@@ -29,7 +29,7 @@ Quartzs:
       - Item: "[[Database/Item/U-Material|U物质]]"
         Count: 1
   - Name: "火焰之舌R"
-    ID: "huo-ya-nzhi-she-r"
+    ID: "huo-yan-zhi-she-r"
     Arts:
       - "[[Database/Art/Fire#^huo-yan-zhi-she|火焰之舌]]"
     Effects:
@@ -216,7 +216,7 @@ await dv.view('Views/Quartz/R', { quartz, element: 'Fire' });
 const quartz = dv.current().Quartzs[2];
 await dv.view('Views/Quartz/R', { quartz, element: 'Fire' });
 ```
-^huo-ya-nzhi-she-r
+^huo-yan-zhi-she-r
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+banner: "![[Chapter 0.jpeg]]"
 No: 0
 Aliases:
   - "序章 托尔兹士官学院"

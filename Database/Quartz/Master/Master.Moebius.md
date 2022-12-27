@@ -3,8 +3,8 @@ ID: "Quartz.Space.Moebius"
 Element: "Space"
 Aliases:
   - "无限"
-When: ""
-How: ""
+When: "[[Walkthrough/Chapter 3#^quartz-moebius|第三章 6/15]]"
+How: "技术栋乔治处购买"
 Properties:
   - Level: 3
     Properties:

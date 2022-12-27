@@ -376,6 +376,48 @@ TreasureChests:
     - "[[Database/Item/Key#^you-er|诱饵]]"
   Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
   Remark:
+- ID: "060"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x200]]"
+    - "[[Database/Item/Water Sepith|x200]]"
+    - "[[Database/Item/Fire Sepith|x200]]"
+    - "[[Database/Item/Wind Sepith|x200]]"
+    - "[[Database/Item/Time Sepith|x200]]"
+    - "[[Database/Item/Space Sepith|x200]]"
+    - "[[Database/Item/Mirage Sepith|x200]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "061"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Quartz/Mirage N#^shen-sheng-zhi-li|神圣之力]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "062"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Item/Accessory#^qing-piao-piao-shou-jin|轻飘飘手巾]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "063"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Item/Potion#^ep-tian-chong-ji-3|EP填充剂III]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "065"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Quartz/Time N#^shi-jian-qu-dong|时间驱动]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
+- ID: "066"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
+  Items:  
+    - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
+  Remark:
 ####################
 - ID: ""
   Location: ""
@@ -806,3 +848,51 @@ const chest = dv.current().TreasureChests[52];
 await dv.view('Treasure Chest', { chest });
 ```
 ^058
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[53];
+await dv.view('Treasure Chest', { chest });
+```
+^060
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[54];
+await dv.view('Treasure Chest', { chest });
+```
+^061
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[55];
+await dv.view('Treasure Chest', { chest });
+```
+^062
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[56];
+await dv.view('Treasure Chest', { chest });
+```
+^063
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[57];
+await dv.view('Treasure Chest', { chest });
+```
+^065
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[58];
+await dv.view('Treasure Chest', { chest });
+```
+^066

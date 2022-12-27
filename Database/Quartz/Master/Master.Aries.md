@@ -3,8 +3,8 @@ ID: "Quartz.Water.Aries"
 Element: "Water"
 Aliases:
   - "白羊"
-When: ""
-How: ""
+When: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
+How: "宝箱 [[Database/Treasure Chest/Monster Treasure Chest#^057|057]], 位于 [[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
 Properties:
   - Level: 3
     Properties:

@@ -2,7 +2,7 @@
 ID: "Item.Book"
 Books:
 # 帝国时报1
-  - Name: "帝国时报·第1号"
+  - Name: "《帝国时报·第1号》"
     ID:  "di-guo-shi-bao-1"
     Series: "帝国时报"
     SeriesNo: 1
@@ -44,7 +44,7 @@ Books:
       
       　　抢先为您献上莱恩福尔特集团的最新产品．有关导力产品的事, 一切请交给RF商店吧!
 # 帝国时报2 
-  - Name: "帝国时报·第2号"
+  - Name: "《帝国时报·第2号》"
     ID:  "di-guo-shi-bao-2"
     Series: "帝国时报"
     SeriesNo: 2
@@ -77,7 +77,7 @@ Books:
       
       　　雷克罗德公司德众多产品阵容当中, 又有全新产品登场了. 名称就叫做「雷克罗德之星」! 借由新材质, 实现了前所未有的强韧钓竿, 已堪称为钓具的革命了. 欢迎向附近的代理点洽购.
 # 帝国时报3
-  - Name: "帝国时报·第3号"
+  - Name: "《帝国时报·第3号》"
     ID:  "di-guo-shi-bao-3"
     Series: "帝国时报"
     SeriesNo: 3
@@ -114,7 +114,7 @@ Books:
       
       　　仲夏杯即将到来. 请各位也到场欣赏火热的比赛吧! ※我们将会为各位俱乐部会员准备特别观看席, 详情敬请洽询事务局.
 # 帝国时报4
-  - Name: "帝国时报·第4号"
+  - Name: "《帝国时报·第4号》"
     ID:  "di-guo-shi-bao-4"
     Series: "帝国时报"
     SeriesNo: 4
@@ -151,7 +151,7 @@ Books:
       
       　　乐器·唱片·音乐盒敬请认明利维特公司. 敝公司也负责修理故障的乐器. 愿您有一段至福时光.
 # 帝国时报5
-  - Name: "帝国时报·第5号"
+  - Name: "《帝国时报·第5号》"
     ID:  "di-guo-shi-bao-5"
     Series: "帝国时报"
     SeriesNo: 5
@@ -206,7 +206,7 @@ Books:
       
       　　帝都宪兵队负责人说: 「选在仲夏节前一天真是盲点」, 并表示今后将更进一步加强戒备.
 # 帝国时报6
-  - Name: "帝国时报·第6号"
+  - Name: "《帝国时报·第6号》"
     ID:  "di-guo-shi-bao-6"
     Series: "帝国时报"
     SeriesNo: 6
@@ -241,7 +241,7 @@ Books:
       
       　　本次造访的是位于帝国东部的艾贝尔湖. 在宁静湖畔住上一晚, 肯定能让身心获得最佳的纾解. 坐落在对岸的罗恩格林城以圣女之城而闻名, 应该也能够接触到悠久的历史. 交通方面可由巴利亚哈特往南, 经由艾贝尔支线前往. 
 # 帝国时报7
-  - Name: "帝国时报·第7号"
+  - Name: "《帝国时报·第7号》"
     ID:  "di-guo-shi-bao-7"
     Series: "帝国时报"
     SeriesNo: 7
@@ -250,7 +250,7 @@ Books:
     Content: |
       TODO  
 # 帝国时报8  
-  - Name: "帝国时报·第8号"
+  - Name: "《帝国时报·第8号》"
     ID:  "di-guo-shi-bao-8"
     Series: "帝国时报"
     SeriesNo: 8
@@ -259,7 +259,7 @@ Books:
     Content: |
       TODO 
 # 帝国时报9
-  - Name: "帝国时报·第9号"
+  - Name: "《帝国时报·第9号》"
     ID:  "di-guo-shi-bao-9"
     Series: "帝国时报"
     SeriesNo: 9
@@ -268,7 +268,7 @@ Books:
     Content: |
       TODO  
 # 帝国时报10
-  - Name: "帝国时报·第10号"
+  - Name: "《帝国时报·第10号》"
     ID:  "di-guo-shi-bao-10"
     Series: "帝国时报"
     SeriesNo: 10
@@ -277,7 +277,7 @@ Books:
     Content: |
       TODO  
 # 帝国时报11
-  - Name: "帝国时报·第11号"
+  - Name: "《帝国时报·第11号》"
     ID:  "di-guo-shi-bao-11"
     Series: "帝国时报"
     SeriesNo: 11
@@ -286,7 +286,7 @@ Books:
     Content: |
       TODO
 # 红曜石1
-  - Name: "红曜石文库版1"
+  - Name: "《红曜石文库版1》"
     ID:  "hong-yao-shi-wen-ku-ban-1"
     Series: "红曜石文库版"
     SeriesNo: 1
@@ -295,7 +295,7 @@ Books:
     Content: |
       TODO
 # 红曜石2
-  - Name: "红曜石文库版2"
+  - Name: "《红曜石文库版2》"
     ID:  "hong-yao-shi-wen-ku-ban-2"
     Series: "红曜石文库版"
     SeriesNo: 2
@@ -304,7 +304,7 @@ Books:
     Content: |
       TODO
 # 红曜石3
-  - Name: "红曜石文库版3"
+  - Name: "《红曜石文库版3》"
     ID:  "hong-yao-shi-wen-ku-ban-3"
     Series: "红曜石文库版"
     SeriesNo: 3
@@ -313,7 +313,7 @@ Books:
     Content: |
       TODO
 # 红曜石4
-  - Name: "红曜石文库版4"
+  - Name: "《红曜石文库版4》"
     ID:  "hong-yao-shi-wen-ku-ban-4"
     Series: "红曜石文库版"
     SeriesNo: 4
@@ -322,7 +322,7 @@ Books:
     Content: |
       TODO
 # 红曜石5
-  - Name: "红曜石文库版5"
+  - Name: "《红曜石文库版5》"
     ID:  "hong-yao-shi-wen-ku-ban-5"
     Series: "红曜石文库版"
     SeriesNo: 5
@@ -331,7 +331,7 @@ Books:
     Content: |
       TODO
 # 红曜石6
-  - Name: "红曜石文库版6"
+  - Name: "《红曜石文库版6》"
     ID:  "hong-yao-shi-wen-ku-ban-6"
     Series: "红曜石文库版"
     SeriesNo: 6
@@ -340,7 +340,7 @@ Books:
     Content: |
       TODO
 # 红曜石7
-  - Name: "红曜石文库版7"
+  - Name: "《红曜石文库版7》"
     ID:  "hong-yao-shi-wen-ku-ban-7"
     Series: "红曜石文库版"
     SeriesNo: 7
@@ -349,7 +349,7 @@ Books:
     Content: |
       TODO
 # 红曜石8
-  - Name: "红曜石文库版8"
+  - Name: "《红曜石文库版8》"
     ID:  "hong-yao-shi-wen-ku-ban-8"
     Series: "红曜石文库版"
     SeriesNo: 8
@@ -358,7 +358,7 @@ Books:
     Content: |
       TODO
 # 红曜石9
-  - Name: "红曜石文库版9"
+  - Name: "《红曜石文库版9》"
     ID:  "hong-yao-shi-wen-ku-ban-9"
     Series: "红曜石文库版"
     SeriesNo: 9
@@ -367,7 +367,7 @@ Books:
     Content: |
       TODO
 # 红曜石10
-  - Name: "红曜石文库版10"
+  - Name: "《红曜石文库版10》"
     ID:  "hong-yao-shi-wen-ku-ban-10"
     Series: "红曜石文库版"
     SeriesNo: 10
@@ -376,7 +376,7 @@ Books:
     Content: |
       TODO
 # 红曜石11
-  - Name: "红曜石文库版11"
+  - Name: "《红曜石文库版11》"
     ID:  "hong-yao-shi-wen-ku-ban-11"
     Series: "红曜石文库版"
     SeriesNo: 11
@@ -385,7 +385,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛1
-  - Name: "红月的罗赛1卷"
+  - Name: "《红月的罗赛1卷》"
     ID:  "hong-yue-de-luo-sai-1"
     Series: "红月的罗赛"
     SeriesNo: 1
@@ -394,7 +394,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛2
-  - Name: "红月的罗赛2卷"
+  - Name: "《红月的罗赛2卷》"
     ID:  "hong-yue-de-luo-sai-2"
     Series: "红月的罗赛"
     SeriesNo: 2
@@ -403,7 +403,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛3
-  - Name: "红月的罗赛3卷"
+  - Name: "《红月的罗赛3卷》"
     ID:  "hong-yue-de-luo-sai-3"
     Series: "红月的罗赛"
     SeriesNo: 3
@@ -412,7 +412,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛4
-  - Name: "红月的罗赛4卷"
+  - Name: "《红月的罗赛4卷》"
     ID:  "hong-yue-de-luo-sai-4"
     Series: "红月的罗赛"
     SeriesNo: 4
@@ -421,7 +421,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛5
-  - Name: "红月的罗赛5卷"
+  - Name: "《红月的罗赛5卷》"
     ID:  "hong-yue-de-luo-sai-5"
     Series: "红月的罗赛"
     SeriesNo: 5
@@ -430,16 +430,16 @@ Books:
     Content: |
       TODO
 # 红月的罗赛6
-  - Name: "红月的罗赛6卷"
+  - Name: "《红月的罗赛6卷》"
     ID:  "hong-yue-de-luo-sai-6"
     Series: "红月的罗赛"
     SeriesNo: 6
-    When: ""
-    How: "支线任务: [[配送物品到监视塔]] 途中与监视塔军用车边上与士兵曼宁对话获得"
+    When: "[[Walkthrough/Chapter 3#^book-hong-yue-de-luo-sai-6|第三章 6/27]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^pei-song-wu-pin-dao-jian-shi-ta|配送物品到监视塔]] 途中与监视塔军用车边上与士兵曼宁对话获得"
     Content: |
       TODO
 # 红月的罗赛7
-  - Name: "红月的罗赛7卷"
+  - Name: "《红月的罗赛7卷》"
     ID:  "hong-yue-de-luo-sai-7"
     Series: "红月的罗赛"
     SeriesNo: 7
@@ -448,7 +448,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛8
-  - Name: "红月的罗赛8卷"
+  - Name: "《红月的罗赛8卷》"
     ID:  "hong-yue-de-luo-sai-8"
     Series: "红月的罗赛"
     SeriesNo: 8
@@ -457,7 +457,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛9
-  - Name: "红月的罗赛9卷"
+  - Name: "《红月的罗赛9卷》"
     ID:  "hong-yue-de-luo-sai-9"
     Series: "红月的罗赛"
     SeriesNo: 9
@@ -466,7 +466,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛10
-  - Name: "红月的罗赛10卷"
+  - Name: "《红月的罗赛10卷》"
     ID:  "hong-yue-de-luo-sai-10"
     Series: "红月的罗赛"
     SeriesNo: 10
@@ -475,7 +475,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛11
-  - Name: "红月的罗赛11卷"
+  - Name: "《红月的罗赛11卷》"
     ID:  "hong-yue-de-luo-sai-11"
     Series: "红月的罗赛"
     SeriesNo: 11
@@ -484,7 +484,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛12
-  - Name: "红月的罗赛12卷"
+  - Name: "《红月的罗赛12卷》"
     ID:  "hong-yue-de-luo-sai-12"
     Series: "红月的罗赛"
     SeriesNo: 12
@@ -493,7 +493,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛13
-  - Name: "红月的罗赛13卷"
+  - Name: "《红月的罗赛13卷》"
     ID:  "hong-yue-de-luo-sai-13"
     Series: "红月的罗赛"
     SeriesNo: 13
@@ -502,7 +502,7 @@ Books:
     Content: |
       TODO
 # 红月的罗赛14
-  - Name: "红月的罗赛14卷"
+  - Name: "《红月的罗赛14卷》"
     ID:  "hong-yue-de-luo-sai-14"
     Series: "红月的罗赛"
     SeriesNo: 14
@@ -511,7 +511,7 @@ Books:
     Content: |
       TODO
 # 帝国铁路史
-  - Name: "帝国铁路史"
+  - Name: "《帝国铁路史》"
     ID:  "di-guo-tie-lu-shi"
     Series: "其他"
     SeriesNo: 1
@@ -522,7 +522,7 @@ Books:
       
       TODO
 # 帝国的传说·传承 上
-  - Name: "帝国的传说·传承 上"
+  - Name: "《帝国的传说·传承 上》"
     ID:  "di-guo-de-chuan-shuo-shang"
     Series: "其他"
     SeriesNo: 2
@@ -531,7 +531,7 @@ Books:
     Content: |
       「」
 # 近代运动
-  - Name: "近代运动"
+  - Name: "《近代运动》"
     ID:  "jin-dai-yun-dong"
     Series: "其他"
     SeriesNo: 3
@@ -540,7 +540,7 @@ Books:
     Content: |
       TODO
 # 帝国的传说·传承 中
-  - Name: "帝国的传说·传承 中"
+  - Name: "《帝国的传说·传承 中》"
     ID:  "di-guo-de-chuan-shuo-zhong"
     Series: "其他"
     SeriesNo: 4
@@ -549,7 +549,7 @@ Books:
     Content: |
       TODO
 # 报纸与广播
-  - Name: "报纸与广播"
+  - Name: "《报纸与广播》"
     ID:  "bao-zhi-yu-guang-bo"
     Series: "其他"
     SeriesNo: 5
@@ -558,7 +558,7 @@ Books:
     Content: |
       TODO
 # 帝国的传说·传承 下
-  - Name: "帝国的传说·传承 下"
+  - Name: "《帝国的传说·传承 下》"
     ID:  "di-guo-de-chuan-shuo-xia"
     Series: "其他"
     SeriesNo: 6
@@ -567,7 +567,7 @@ Books:
     Content: |
       TODO
 # RF集团的历史
-  - Name: "RF集团的历史"
+  - Name: "《RF集团的历史》"
     ID:  "rf-ji-tuan-de-li-shi"
     Series: "其他"
     SeriesNo: 7

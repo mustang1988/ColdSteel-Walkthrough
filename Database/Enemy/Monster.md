@@ -2035,7 +2035,6 @@ Monsters:
     Sleep: 50
     Confuse: 150
     SDown: 150
-
 #  草地跳跃者  ----------------------------------------------------------------------------------------------
 - Name: "草地跳跃者"
   ID: "cao-di-tiao-yue-zhe"
@@ -2049,7 +2048,7 @@ Monsters:
     其实会突然把沙丢过来.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 24
     HP: 2637
@@ -2101,7 +2100,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 150
-
 #  翼蛇  ----------------------------------------------------------------------------------------------
 - Name: "翼蛇"
   ID: "yi-she"
@@ -2113,7 +2111,7 @@ Monsters:
     村落的人们也十分小心.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 24
     HP: 3512
@@ -2487,7 +2485,6 @@ Monsters:
     Sleep: 50
     Confuse: 100
     SDown: 50
-
 #  小牛兽  ----------------------------------------------------------------------------------------------
 - Name: "小牛兽"
   ID: "xiao-niu-shou"
@@ -2499,7 +2496,7 @@ Monsters:
     并自行跟上集群的迁徙.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 23
     HP: 2479
@@ -2551,7 +2548,6 @@ Monsters:
     Sleep: 200
     Confuse: 150
     SDown: 150
-
 #  闪电鳅  ----------------------------------------------------------------------------------------------
 - Name: "闪电鳅"
   ID: "shan-dian-qiu"
@@ -2561,7 +2557,7 @@ Monsters:
     但用触角使出的点击不可忽视.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 24
     HP: 1848
@@ -2613,7 +2609,6 @@ Monsters:
     Sleep: 100
     Confuse: 150
     SDown: 100
-
 #  花冠鸟  ----------------------------------------------------------------------------------------------
 - Name: "花冠鸟"
   ID: "hua-guan-niao"
@@ -2623,7 +2618,7 @@ Monsters:
     它的吐息能将猎物石化.
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 25
     HP: 5251
@@ -2675,7 +2670,6 @@ Monsters:
     Sleep: 150
     Confuse: 150
     SDown: 100
-
 #  蛮牛兽  ----------------------------------------------------------------------------------------------
 - Name: "蛮牛兽"
   ID: "man-niu-shou"
@@ -2687,7 +2681,7 @@ Monsters:
     虽然很温和但地域性很强. 
  
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 25
     HP: 4480
@@ -2739,7 +2733,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 #  硬壳犀兽  ----------------------------------------------------------------------------------------------
 - Name: "硬壳犀兽"
   ID: "ying-ke-xi-shou"
@@ -2749,7 +2742,7 @@ Monsters:
     强烈且坚韧的冲刺攻击连导力车都能翻覆.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 26
     HP: 7860

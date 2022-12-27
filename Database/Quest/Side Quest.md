@@ -262,6 +262,79 @@ Quests:
       - "[[Database/Item/Accessory#^lan-se-zhui-shi|蓝色坠饰]]"
     When: "[[Walkthrough/Chapter 3#^quest-zhong-yao-de-tie-zhi|第三章 6/20晚]]"
 #--------------------------------------------------------------------------------------------------------------
+  - Name: "配送物品到监视塔"
+    ID: "pei-song-wu-pin-dao-jian-shi-ta"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      > [!tip] 建议和主线任务: [[Database/Quest/Main Quest#^xun-zhao-cao-yao|寻找药草]] 一起做
+    
+      1. 药师的家里，找亚蒙尔接下主线任务
+         
+      2. 到交易所找琪尔德领取本支线任务
+         
+      3. 前往监视塔
+         
+      4. 到了监视塔与门口的士兵萨兹对话发生剧情，并让我们带回帝国产的葡萄酒给琪尔德
+         
+      5. 回去报告获得奖励
+    Bonus:
+      - "[[Database/Item/Food Ingredient#^mo-shou-hong-rou|魔兽红肉x10]]"
+      - "[[Database/Item/Food Ingredient#^mo-shou-bai-rou|魔兽白肉x10]]"
+    When: "[[Walkthrough/Chapter 3#^quest-pei-song-wu-pin-dao-jian-shi-ta|第三章 6/27]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "孩子们的特别课程"
+    ID: "hai-zi-men-de-te-bie-ke-cheng"
+    BasicAP: 3
+    ExtraAP: 2
+    Steps: |
+      1. 找村中洁塔婆婆领取
+         
+      2. 回答问题, 全部答对 **AP+2**, 最后一题随便选, 不影响AP获取
+         
+      > [!tip] 问题答案:
+      > - 约8小时
+      > - 约80万人
+      > - 约220年前
+      > - 家人的羁绊
+      
+    Bonus:
+      - "[[Database/Item/Accessory#^huang-se-zhui-shi|黄色坠饰]]"
+    When: "[[Walkthrough/Chapter 3#^quest-hai-zi-men-de-te-bie-ke-cheng|第三章 6/27]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "搜索迷路的羊"
+    ID: "sou-suo-mi-tu-de-yang"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 因为现在还不能去北方，所以暂时不能完成，找村里瓦塔利接任务
+         
+      2. 先去南方牵回两只
+         
+      3. 剧情推进到可以前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]] 后, 牵回其他羊
+         
+      4. 牵最后一只羊的时候会有战斗, 战斗难度很低, 要注意获取怪物情报
+    Bonus:
+      - "[[Database/Item/Food Ingredient#^xian-nai|鲜奶x20]]"
+      - "[[Database/Item/Food Ingredient#^cheng-shu-ru-lao|成熟乳酪x20]]"
+    When: "[[Walkthrough/Chapter 3#^quest-sou-suo-mi-tu-de-yang|第三章 6/27]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "感情的桥梁"
+    ID: "qing-gan-de-qiao-liang"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 和坚达门食堂内小女孩夏儿对话两次领取
+         
+      2. 回部落找盖乌斯的弟弟托马对话
+         
+      3. 再山长水远跑回去报告
+
+      4. 再跑回部落
+    Bonus:
+      - "[[Database/Item/Superb Food#^te-zhi-pi-sa|特制披萨]]"
+    When: "[[Walkthrough/Chapter 3#^quest-qing-gan-de-qiao-liang|第三章 6/27]]"
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -381,3 +454,36 @@ const quest = dv.current().Quests[13];
 await dv.view('Quest', { quest, type:'Side' });
 ```
 ^zhong-yao-de-tie-zhi
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[14];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^pei-song-wu-pin-dao-jian-shi-ta
+
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[15];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^hai-zi-men-de-te-bie-ke-cheng
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[16];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^sou-suo-mi-tu-de-yang
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[17];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^qing-gan-de-qiao-liang

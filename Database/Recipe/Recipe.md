@@ -108,8 +108,8 @@ Recipes:
 
   - Name: "鲜奶粥"
     ID: "xian-nai-zhou"
-    When: ""
-    How: ""
+    When: "[[Walkthrough/Chapter 3#^recipe-xian-nai-zhou|第三章 6/26]]"
+    How: "早晨剧情后希妲对话"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xian-nai|鲜奶x1]]"
       - "[[Database/Item/Food Ingredient#^cheng-shu-ru-lao|成熟乳酪x1]]"
@@ -126,8 +126,8 @@ Recipes:
 
   - Name: "酥脆披萨"
     ID: "su-cui-pi-sa"
-    When: ""
-    How: ""
+    When: "[[Walkthrough/Chapter 3#^recipe-su-cui-pi-sa|第三章 6/27]]"
+    How: "坚达门食堂内与马克斯对话两次"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^cheng-shu-ru-lao|成熟乳酪x1]]"
       - "[[Database/Item/Food Ingredient#^xin-xian-xiang-cao|新鲜香草x1]]"
