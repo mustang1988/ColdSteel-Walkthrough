@@ -24,7 +24,7 @@ Notes:
 
       考试期间都由泰蕾莎负责教她功课.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-tai-lei-sha-1|第三章 6/15]]"
     How: "图书馆与泰雷莎对话"
 ---
 ```dataviewjs

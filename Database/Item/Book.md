@@ -81,7 +81,7 @@ Books:
     ID:  "di-guo-shi-bao-3"
     Series: "帝国时报"
     SeriesNo: 3
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^book-di-guo-shi-bao-3|第三章 6/15]]"
     How: "学生会馆1F购买"
     Content: |
       **【经济】RFTF对一般民众开放**
@@ -326,7 +326,7 @@ Books:
     ID:  "hong-yao-shi-wen-ku-ban-5"
     Series: "红曜石文库版"
     SeriesNo: 5
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^book-hong-yao-shi-wen-ku-ban-5|第三章 6/27]]"
     How: "商店购买"
     Content: |
       TODO
@@ -535,7 +535,7 @@ Books:
     ID:  "jin-dai-yun-dong"
     Series: "其他"
     SeriesNo: 3
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^book-jin-dai-yun-dong|第三章 6/15]]"
     How: "图书馆阅读"
     Content: |
       TODO

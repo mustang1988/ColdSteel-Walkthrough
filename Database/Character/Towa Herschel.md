@@ -25,7 +25,7 @@ Notes:
 
       获得压倒性的支持.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-tuo-wa-1|第三章 6/20]]"
     How: "托娃羁绊事件"
   - Title: "及早送到"
     Content: |

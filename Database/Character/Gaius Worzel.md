@@ -25,8 +25,8 @@ Notes:
 
       也就是帝国东北部的《诺尔德高原》.
 
-    When: ""
-    How: "盖乌斯羁绊事件"
+    When: "[[Walkthrough/Chapter 3#^character-gai-wu-si-1|第三章 6/23]]"
+    How: "剧情自动获得"
   - Title: "盖乌斯的决心"
     ID: "gai-wu-si-2"
     Content: |

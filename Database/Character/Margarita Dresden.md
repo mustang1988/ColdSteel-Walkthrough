@@ -22,8 +22,8 @@ Notes:
 
       做出符合华语「热烈求爱」的行动.
 
-    When: ""
-    How: "支线任务: [[未曾谋面的寄件者]] 获得"
+    When: "[[Walkthrough/Chapter 3#^character-ma-ge-li-te-1|第三章 6/20晚]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^wei-ceng-mou-mian-de-ji-jian-zhe|未曾谋面的寄件者]]"
 ---
 ```dataviewjs
 const character = dv.current();

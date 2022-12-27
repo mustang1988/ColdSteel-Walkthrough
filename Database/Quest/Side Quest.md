@@ -222,6 +222,46 @@ Quests:
       - "[[Database/Item/Unique Food#^te-zhi-xiang-cao-qiao-da-tang|特制香草巧达汤x5]]"
     When: "[[Walkthrough/Chapter 2#^quest-huai-nian-de-cai-se|第二章 5/30]]"
 #--------------------------------------------------------------------------------------------------------------
+  - Name: "未曾谋面的寄件者"
+    ID: "wei-ceng-mou-mian-de-ji-jian-zhe"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      > [!warning] 注意, 由于存在可能的Bug, 建议开始此任务前, 先前往主校舍2F料理教室与 [[Database/Character/Margarita Dresden#^ma-ge-li-te|玛格丽特]] 对话, 开启她的人物词条后再接任务
+    
+      1. 到操场体育仓库后面里找 [[Database/Character/Vincent Florald#^wen-sen|文森]] 领取
+         
+      2. 到花店的找珍对话
+         
+      3. 到托里斯塔礼拜堂外找 [[Database/Character/Rosine#^luo-xi-nu|萝西努]]
+         
+      4. 到学生会馆2F占卜室内找 [[Database/Character/Beryl#^bei-li-er|贝莉尔]]
+         
+      5. 到学院中庭花坛区找 [[Database/Character/Vivi#^wei-wei|薇薇]]
+         
+      6. 全部对话后回去报告
+    Bonus:
+      - "[[Database/Item/Accessory#^cai-hong-dou-peng|彩虹斗篷]]"
+    When: "[[Walkthrough/Chapter 3#^quest-wei-ceng-mou-mian-de-ji-jian-zhe|第三章 6/20]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "重要的贴纸"
+    ID: "zhong-yao-de-tie-zhi"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到中庭找孟亨领取
+         
+      2. 到操场北边大树下
+         
+      3. 到技术栋外的箱子上
+         
+      4. 到旧校舍入口处右侧大树旁
+         
+      5. 回去交任务
+    Bonus:
+      - "[[Database/Item/Accessory#^lan-se-zhui-shi|蓝色坠饰]]"
+    When: "[[Walkthrough/Chapter 3#^quest-zhong-yao-de-tie-zhi|第三章 6/20晚]]"
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -325,3 +365,19 @@ const quest = dv.current().Quests[11];
 await dv.view('Quest', { quest, type:'Side' });
 ```
 ^huai-nian-de-cai-se
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[12];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^wei-ceng-mou-mian-de-ji-jian-zhe
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[13];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^zhong-yao-de-tie-zhi

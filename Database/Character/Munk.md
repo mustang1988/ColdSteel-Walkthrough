@@ -22,8 +22,8 @@ Notes:
 
       签名贴纸.
 
-    When: ""
-    How: "支线任务: [[重要的贴纸]] 获得"
+    When: "[[Walkthrough/Chapter 3#^character-meng-heng-1|第三章 6/20晚]]"
+    How: "支线任务: [[Database/Quest/Side Quest#^zhong-yao-de-tie-zhi|重要的贴纸]]"
 ---
 ```dataviewjs
 const character = dv.current();

@@ -24,7 +24,7 @@ Notes:
 
       因此, 她把多出来的时间都花在创作作品上.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-ke-lai-la-1|第三章 6/15]]"
     How: "主校舍2F美术室与克莱菈对话"
 ---
 ```dataviewjs

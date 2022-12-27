@@ -160,6 +160,48 @@ Quests:
       - "[[Database/Quartz/Earth R#^di-yan-ling|地言铃]]"
     When: "[[Walkthrough/Chapter 2#^quest-bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou|第二章 5/30]]"
 #------------------------------------------------------------------------------------
+  - Name: "导力车性能测试"
+    ID: "dao-li-che-xing-neng-ce-shi"
+    BasicAP: 3
+    ExtraAP: 2
+    Steps: |
+      1. 到技术栋与 [[Database/Character/George Nome#^qiao-zhi|乔治]], [[Database/Character/Angelica Rogner#^an-jie-li-ka|安洁莉卡]] 对话
+         
+      2. 骑着摩托去兜风, 期间有选择项
+         
+      > [!tip] 正确选项
+      > - 确实且缓慢地放开握把
+      > - 快速握起，慢慢放开
+      > - 前轮用力，后轮轻巧
+      
+      3. 剧情后结束
+    Bonus:
+      - "[[Database/Quartz/Earth R#^long-mai|龙脉]]"
+    When: "[[Walkthrough/Chapter 3#^quest-dao-li-che-xing-neng-ce-shi|第三章 6/20]]"
+#------------------------------------------------------------------------------------
+  - Name: "调查旧校舍"
+    ID: "diao-cha-jiu-xiao-she-3"
+    BasicAP: 5
+    ExtraAP: 0
+    Steps: |
+      1. 到旧校舍，直接前往地下三层
+         
+      2. 可以自由选择角色，推荐那些会S技的。艾略特和班长带其中一个去分析怪物情报。
+         
+      3. 进入后连续猛攻解锁，LINK追击之后可以增加一点brave point（勇气点/士气）。累积到3点可以使用连续猛攻
+         
+      4. 一路收集宝箱，前往终点
+         
+      5. 击败Boss [[Database/Enemy/Boss#^shen-yuan-e-mo|深渊恶魔x3]] 后返回地面
+         
+      > [!tip] Boss 攻略
+      > 调查情报后，优先用S技解决一个。
+      > 
+      > 慢慢磨即可，注意BOSS的攻击带有[[Database/Status/Burn|炎伤]]，高难度下需要注意恢复。
+    Bonus:
+      - "[[Database/Item/Accessory#^bi-sheng-tou-jin|必胜头巾]]"
+    When: "[[Walkthrough/Chapter 3#^quest-diao-cha-jiu-xiao-she-3|第三章 6/20]]"
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -233,3 +275,19 @@ const quest = dv.current().Quests[7];
 await dv.view('Quest', { quest, type:'Main' });
 ```
 ^bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[8];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^dao-li-che-xing-neng-ce-shi
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[9];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^diao-cha-jiu-xiao-she-3

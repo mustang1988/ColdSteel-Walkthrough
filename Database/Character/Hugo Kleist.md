@@ -21,7 +21,7 @@ Notes:
 
       但也帮忙大理父亲经营的克莱斯特商会.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-yu-guo-1|第三章 6/20晚]]"
     How: "小镇上喫茶宿泊《樱桃》与雨果对话获得"
 ---
 ```dataviewjs

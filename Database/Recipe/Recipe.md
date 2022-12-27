@@ -88,11 +88,10 @@ Recipes:
     Unique: "[[Database/Item/Unique Food#^te-zhi-xiang-cao-qiao-da-tang|特制香草巧达汤]]"
     Attack: "[[Database/Item/Attack Food#^leng-dong-nong-tang|冷冻浓汤]]"
     UniqueCook: "[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]]"
-
   - Name: "梅果塔"
     ID: "mei-guo-ta"
-    When: ""
-    How: ""
+    When: "[[Walkthrough/Chapter 3#^recipe-mei-guo-ta|第三章 6/20]]"
+    How: "托利斯塔民家内与汉娜对话"
     Ingredients:
       - "[[Database/Item/Food Ingredient#^xin-xian-ji-dan|新鲜鸡蛋x1]]"
       - "[[Database/Item/Food Ingredient#^xing-xing-mei-guo|星形莓果x1]]"

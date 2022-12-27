@@ -2295,7 +2295,6 @@ Monsters:
     Sleep: 100
     Confuse: 150
     SDown: 150
-
 #  伸缩蜗兽  ----------------------------------------------------------------------------------------------
 - Name: "伸缩蜗兽"
   ID: "shen-suo-wo-shou"
@@ -2307,7 +2306,8 @@ Monsters:
     并慢慢吸收养分.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
   Properties:
     LV: 21
     HP: 3272
@@ -2359,7 +2359,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  地狱兔  ----------------------------------------------------------------------------------------------
 - Name: "地狱兔"
   ID: "di-yu-tu"
@@ -2371,7 +2370,8 @@ Monsters:
     似乎会瞬间失去魂魄.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
   Properties:
     LV: 21
     HP: 3865
@@ -2423,7 +2423,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 50
-
 #  狂怒方尖碑  ----------------------------------------------------------------------------------------------
 - Name: "狂怒方尖碑"
   ID: "kuang-nu-fang-jian-bei"
@@ -2435,7 +2434,8 @@ Monsters:
     让入侵者消失在光的那一端.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
   Properties:
     LV: 21
     HP: 1933

@@ -23,7 +23,21 @@ Books:
     ID: "nuan-yang-yang-de-wu-shui-tian"
     Character: "[[Database/Character/Fie Claussell#^fei|菲]]"
     Link: 50
-    
+  - Name: "中级者的西洋棋"
+    ID: "zhong-ji-zhe-de-xi-yang-qi"
+    Character: "[[Database/Character/Machias Regnitz#^ma-qi-ya-si|马奇亚斯]]"
+    Link: 50
+#---------
+  - Name: "简单易懂的教学方式"
+    ID: "jian-dan-yi-dong-de-jiao-xue-fang-shi"
+    Character: "[[Database/Character/Emma Millstein#^ai-ma|艾玛]]"
+    Link: 50
+#---------
+  - Name: "帝国马术教本"
+    ID: "di-guo-ma-shu-jiao-ben"
+    Character: "[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]]"
+    Link: 50
+
 #---------
   - Name: ""
     ID: ""
@@ -70,4 +84,24 @@ await dv.view('Item/Link Book', { book });
 
 ---
 
+```dataviewjs
+const book = dv.current().Books[5];
+await dv.view('Item/Link Book', { book });
+```
+^zhong-ji-zhe-de-xi-yang-qi
 
+---
+
+```dataviewjs
+const book = dv.current().Books[6];
+await dv.view('Item/Link Book', { book });
+```
+^jian-dan-yi-dong-de-jiao-xue-fang-shi
+
+---
+
+```dataviewjs
+const book = dv.current().Books[7];
+await dv.view('Item/Link Book', { book });
+```
+^di-guo-ma-shu-jiao-ben

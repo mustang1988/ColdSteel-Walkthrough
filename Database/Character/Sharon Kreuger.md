@@ -23,8 +23,8 @@ Notes:
 
       而雪伦似乎也将[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]当作妹妹一样看待.
 
-    When: ""
-    How: "[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]]羁绊事件"
+    When: "[[Walkthrough/Chapter 3#^character-xue-lun-1|第三章 6/20]]"
+    How: "[[Database/Character/Alisa Reinford#^ya-li-sha|亚莉莎]] 羁绊事件"
   - Title: "超级女仆"
     ID: "xue-lun-2"
     Content: |

@@ -1127,7 +1127,7 @@ Bosses:
     将其引诱至再也不会醒来的沉眠深渊当中.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
   Properties:
     LV: 23
     HP: 16768
@@ -1179,7 +1179,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 100
-
 #  派崔克  ----------------------------------------------------------------------------------------------
 - Name: "派崔克"
   ID: "pai-cui-ke"

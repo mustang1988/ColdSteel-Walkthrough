@@ -21,7 +21,7 @@ Notes:
       原来她是帝国最大规模的重工业制造商
       
       《莱恩福尔特公司》的千金.
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-ya-li-sha-1|第三章 6/16~6/19]]"
     How: "剧情自动获得"
   - Title: "给祖父的礼物"
     ID: "ya-li-sha-2"

@@ -25,6 +25,12 @@ MonsterTreasureChests:
     - "[[Database/Quartz/Fire R#^lian-qi|炼气]]"
   Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-2|第二章 5/30]]"
   Remark:
+- ID: "057"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
+  Items:  
+    - "[[Database/Quartz/Master/Master.Aries|白羊]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
+  Remark:
 #-------------
 - ID: ""
   Location: ""
@@ -62,3 +68,11 @@ const chest = dv.current().MonsterTreasureChests[3];
 await dv.view('Treasure Chest', { chest, monster: true });
 ```
 ^047
+
+---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[4];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^057

@@ -24,7 +24,7 @@ Notes:
 
       似乎可以拍出相当好的照片.
 
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-lei-ke-si|第三章 6/20晚]]"
     How: "学生会馆2F与裴德烈和雷克斯对话"
 ---
 ```dataviewjs

@@ -23,7 +23,7 @@ Notes:
       250年前在《狮子战役》中大为活跃的
 
       《圣女桑德罗特》
-    When: ""
+    When: "[[Walkthrough/Chapter 2#^character-lao-la-1|第二章 5/23晚]]"
     How: "剧情自动获得"
   - Title: "咪西"
     ID: "lao-la-2"
@@ -31,8 +31,8 @@ Notes:
       没有想到她似乎挺喜欢在杂货店看到的
 
       角色玩偶『咪西』
-    When: ""
-    How: "劳拉羁绊事件"
+    When: "[[Walkthrough/Chapter 3#^character-lao-la-2|第三章 6/20]]"
+    How: "[[Database/Character/Laura S Arseid#^lao-la|劳拉]] 羁绊事件"
   - Title: "父女间的羁绊"
     ID: "lao-la-3"
     Content: |

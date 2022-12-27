@@ -340,6 +340,42 @@ TreasureChests:
     - "[[Database/Quartz/Time N#^qu-dong-1|驱动1]]"
   Chapter: "[[Walkthrough/Chapter 2#^location-gong-du-di-xia-shui-lu-3|第二章 5/30]]"
   Remark:
+- ID: "053"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+  Items:  
+    - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂II]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-1|第三章 6/20]]"
+  Remark:
+- ID: "054"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+  Items:  
+    - "[[Database/Item/Accessory#^shen-sheng-zhi-lian|神圣之链]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-1|第三章 6/20]]"
+  Remark:
+- ID: "055"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-1|旧校舍地下·第3层1]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x200]]"
+    - "[[Database/Item/Water Sepith|x200]]"
+    - "[[Database/Item/Fire Sepith|x200]]"
+    - "[[Database/Item/Wind Sepith|x200]]"
+    - "[[Database/Item/Time Sepith|x200]]"
+    - "[[Database/Item/Space Sepith|x200]]"
+    - "[[Database/Item/Mirage Sepith|x200]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-1|第三章 6/20]]"
+  Remark:
+- ID: "056"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
+  Items:  
+    - "[[Database/Item/Accessory#^hei-se-shou-zhuo|黑色手镯]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
+  Remark:
+- ID: "058"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-san-ceng-2|旧校舍地下·第3层2]]"
+  Items:  
+    - "[[Database/Item/Key#^you-er|诱饵]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-jiu-xiao-she-di-xia-san-ceng-2|第三章 6/20]]"
+  Remark:
 ####################
 - ID: ""
   Location: ""
@@ -732,3 +768,41 @@ await dv.view('Treasure Chest', { chest });
 ^052
 
 ---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[48];
+await dv.view('Treasure Chest', { chest });
+```
+^053
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[49];
+await dv.view('Treasure Chest', { chest });
+```
+^054
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[50];
+await dv.view('Treasure Chest', { chest });
+```
+^055
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[51];
+await dv.view('Treasure Chest', { chest });
+```
+^056
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[52];
+await dv.view('Treasure Chest', { chest });
+```
+^058

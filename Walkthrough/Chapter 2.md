@@ -186,11 +186,11 @@ Boss战
 
 左边的贵族街的宅邸2，和罗娜对话，能得到食谱: [[Database/Recipe/Recipe#^feng-wei-yao-cao-cha|风味药草茶]] ^recipe-feng-wei-yao-cao-cha
 
-站前大道高级品专卖《克莉斯蒂的店》2F的《弗特南书店》购买
+站前大道高级品专卖「克莉斯蒂的店」2F的「弗特南书店」购买
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-3|《红曜石文库版3》]]
 - [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-4|《红曜石文库版4》]]
 
-高级品专卖《克莉斯蒂的店》食材 杂货《亨德森商会》购买
+高级品专卖「克莉斯蒂的店」食材 杂货「亨德森商会」购买
 - [[Database/Item/Accessory#^gua-gua-diao-shi|呱呱吊饰]]
 > [!warning] 与第一章的 [[Database/Item/Accessory#^zuo-zuo-mi-xi|坐坐咪西]] 相同, 和最终武器有关, 砸锅卖铁也要买
 
@@ -203,11 +203,11 @@ Boss战
 > [!example] 第二章 5/29 小结
 > - 战斗笔记进度: 34(35)/196 (+2/3) [^10]
 > - 打开宝箱进度: 37/199 (+3)           [^11]
-> - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 9/43
+> - 烹饪笔记进度: 5/20 (+1)               [^12]
+> - 书籍笔记进度:11/43 (+2)              [^13]
 > - 人物笔记进度: 15/95
-> - 钓鱼笔记进度: 4/20
-> - 核心回路收集进度: 7/28
+> - 钓鱼笔记进度: 6/20 (+2)               [^14]
+> - 核心回路收集进度: 11/28 (+4)      [^15]
 > - 奖杯进度: 4/51
 
 返回城中, 前往中央广场接直线任务
@@ -227,13 +227,13 @@ Boss战
   - 完成支线任务: [[Database/Quest/Side Quest#^xun-zhao-mu-yu-yan|寻找沐浴盐]]
 
 > [!example] 第二章 5/29 小结
-> - 战斗笔记进度: 42/196 (+7/8)    [^12]
-> - 打开宝箱进度: 43/199 (+6)        [^13]
-> - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 9/43
+> - 战斗笔记进度: 42/196 (+7/8)    [^16]
+> - 打开宝箱进度: 43/199 (+6)       [^17]
+> - 烹饪笔记进度: 5/20
+> - 书籍笔记进度: 11/43
 > - 人物笔记进度: 15/95
-> - 钓鱼笔记进度: 4/20
-> - 核心回路收集进度: 7/28
+> - 钓鱼笔记进度: 6/20
+> - 核心回路收集进度: 11/28
 > - 奖杯进度: 4/51
 
 前往奥洛克斯堡垒，在休息所【三日月亭】与弗米对话获得: [[Database/Item/Book#^hong-yue-de-luo-sai-4|《红月的罗赛·第4卷》]] ^book-hong-yue-de-luo-sai-4
@@ -250,11 +250,11 @@ Boss战
 > - AP：12, 总AP：92
 > - 战斗笔记进度: 42/196
 > - 打开宝箱进度: 43/199
-> - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 10/43 (+1) [^14]
-> - 人物笔记进度: 16/95 (+1) [^15]
-> - 钓鱼笔记进度: 4/20
-> - 核心回路收集进度: 7/28
+> - 烹饪笔记进度: 5/20
+> - 书籍笔记进度: 12/43 (+1) [^18]
+> - 人物笔记进度: 16/95 (+1) [^19]
+> - 钓鱼笔记进度: 6/20
+> - 核心回路收集进度: 11/28
 > - 奖杯进度: 4/51
 
 # 5/30
@@ -272,16 +272,16 @@ Boss战
 ## 主线任务
 - [[Database/Quest/Main Quest#^bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou|北克鲁琴街道的通缉魔兽]] ^quest-bei-ke-lu-qin-jie-dao-de-tong-ji-mo-shou
 
-任务完成之后返回城中，发生剧情，马奇亚斯离队
+任务完成之后返回城中，发生剧情，[[Database/Character/Machias Regnitz#^ma-qi-ya-si|马奇亚斯]] 被迫离队
 
 > [!example] 第二章 5/30 小结
-> - 战斗笔记进度: 43/196 (+1) [^16]
+> - 战斗笔记进度: 43/196 (+1) [^20]
 > - 打开宝箱进度: 43/199
-> - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 10/43
+> - 烹饪笔记进度: 6/20 (+1)      [^21]
+> - 书籍笔记进度: 13/43 (+1)    [^22]
 > - 人物笔记进度: 16/95
-> - 钓鱼笔记进度: 4/20
-> - 核心回路收集进度: 7/28
+> - 钓鱼笔记进度: 6/20
+> - 核心回路收集进度: 11/28
 > - 奖杯进度: 4/51
 
 剧情过后，前往站前大道提示"???"的下水道入口
@@ -320,14 +320,14 @@ Boss战
 
 > [!example] 第二章总结
 > - AP：55 , 总AP：110
-> - 战斗笔记进度: 50/196 (+7) [^17]
-> - 打开宝箱进度: 52/199 (+9) [^18]
-> - 烹饪笔记进度: 4/20
-> - 书籍笔记进度: 10/43
-> - 人物笔记进度: 17/95 (+1)   [^19]
-> - 钓鱼笔记进度: 4/20
-> - 核心回路收集进度: 7/28
-> - 奖杯进度: 5/51 (+1)             [^20]
+> - 战斗笔记进度: 50/196 (+7) [^23]
+> - 打开宝箱进度: 52/199 (+9) [^24]
+> - 烹饪笔记进度: 6/20
+> - 书籍笔记进度: 13/43
+> - 人物笔记进度: 17/95 (+1)   [^25]
+> - 钓鱼笔记进度: 6/20
+> - 核心回路收集进度: 11/28
+> - 奖杯进度: 5/51 (+1)             [^26]
 
 
 [^1]: 新增书籍笔记(+2): [[Database/Item/Book#^di-guo-shi-bao-2|《帝国时报·第2号》]],[[Database/Item/Book#^di-guo-de-chuan-shuo-shang|《帝国的传说·传承 上》]]
@@ -341,12 +341,18 @@ Boss战
 [^9]: 新增战斗笔记(+2): [[Database/Enemy/Boss#^zhan-shu-ke-beta|战术壳β]],[[Database/Enemy/Boss#^sha-la-jiao-guan|莎拉教官]]
 [^10]: 新增战斗笔记(+2/+3): [[Database/Enemy/Monster#^dian-qie-shou|颠茄兽]],[[Database/Enemy/Monster#^dan-she|蛋蛇]],[[Database/Enemy/Monster#^dian-xiong|电熊(战斗中随机出现)]]
 [^11]: 新增打开宝箱(+3): [[Database/Treasure Chest/Treasure Chest#^035|035]],[[Database/Treasure Chest/Treasure Chest#^036|036]],[[Database/Treasure Chest/Treasure Chest#^037|037]]
-[^12]: 新增战斗笔记(+7/8): [[Database/Enemy/Monster#^you-sheng-shuang-jiao-shou|幼生双角兽]],[[Database/Enemy/Monster#^gong-ji-ye-quan|攻击野犬]],[[Database/Enemy/Monster#^xiao-e-gui|小恶龟]],[[Database/Enemy/Monster#^shuang-jiao-shou|双角兽]],[[Database/Enemy/Monster#^ju-da-tang-lang|巨大螳螂]],[[Database/Enemy/Monster#^dian-xiong|电熊(战斗中随机出现)]],[[Database/Enemy/Monster#^ren-mian-niao|人面鸟]],[[Database/Enemy/Boss#^ming-yun-fang-zhi-zhe|命运纺织者]]
-[^13]: 新增打开宝箱(+6): [[Database/Treasure Chest/Treasure Chest#^038|038]],[[Database/Treasure Chest/Treasure Chest#^039|039]],[[Database/Treasure Chest/Treasure Chest#^040|040]],[[Database/Treasure Chest/Monster Treasure Chest#^041|041]],[[Database/Treasure Chest/Treasure Chest#^042|042]],[[Database/Treasure Chest/Treasure Chest#^043|043]]
-[^14]: 新增书记笔记(+1): [[Database/Item/Book#^hong-yue-de-luo-sai-4|《红月的罗赛·第4卷》]]
-[^15]: 新增人物笔记(+1): [[Database/Character/Jusis Albarea#^you-xi-si-1|侧室之子]]
-[^16]: 新增战斗笔记(+1): [[Database/Enemy/Boss#^san-tou-dian-qie-shou|三头颠茄兽]]
-[^17]: 新增战斗笔记(+7): TODO
-[^18]: 新增打开宝箱(+9): TODO
-[^19]: 新增人物笔记(+1): [[Database/Character/Fie Claussell#^fei-1|猎兵团]]
-[^20]: 新增获得奖杯(+1): [[Database/Trophy/Bronze#^mei-li-de-fei-cui-zhi-du|美麗的翡翠之都]] 
+[^12]: 新增烹饪笔记(+1): [[Database/Recipe/Recipe#^feng-wei-yao-cao-cha|风味药草茶]]
+[^13]: 新增书籍笔记(+2): [[Database/Item/Book#^hong-yao-shi-wen-ku-ban-3|《红曜石文库版3》]],[[Database/Item/Book#^hong-yao-shi-wen-ku-ban-4|《红曜石文库版4》]]
+[^14]: 新增钓鱼笔记(+2): [[Database/Fish/Rainbow Trout|虹鳟鱼]],[[Database/Fish/Rockeater|岩穴鱼]]
+[^15]: 新增核心回路(+4): [[Database/Quartz/Master/Master.Iron|钢铁(马奇亚斯初始核心)]],[[Database/Quartz/Master/Master.Mirage|幻象(艾玛初始核心)]],[[Database/Quartz/Master/Master.Mistral|北风(尤西斯初始核心)]],[[Database/Quartz/Master/Master.Raven|渡鸦(菲初始核心)]]
+[^16]: 新增战斗笔记(+7/8): [[Database/Enemy/Monster#^you-sheng-shuang-jiao-shou|幼生双角兽]],[[Database/Enemy/Monster#^gong-ji-ye-quan|攻击野犬]],[[Database/Enemy/Monster#^xiao-e-gui|小恶龟]],[[Database/Enemy/Monster#^shuang-jiao-shou|双角兽]],[[Database/Enemy/Monster#^ju-da-tang-lang|巨大螳螂]],[[Database/Enemy/Monster#^dian-xiong|电熊(战斗中随机出现)]],[[Database/Enemy/Monster#^ren-mian-niao|人面鸟]],[[Database/Enemy/Boss#^ming-yun-fang-zhi-zhe|命运纺织者]]
+[^17]: 新增打开宝箱(+6): [[Database/Treasure Chest/Treasure Chest#^038|038]],[[Database/Treasure Chest/Treasure Chest#^039|039]],[[Database/Treasure Chest/Treasure Chest#^040|040]],[[Database/Treasure Chest/Monster Treasure Chest#^041|041]],[[Database/Treasure Chest/Treasure Chest#^042|042]],[[Database/Treasure Chest/Treasure Chest#^043|043]]
+[^18]: 新增书记笔记(+1): [[Database/Item/Book#^hong-yue-de-luo-sai-4|《红月的罗赛·第4卷》]]
+[^19]: 新增人物笔记(+1): [[Database/Character/Jusis Albarea#^you-xi-si-1|侧室之子]]
+[^20]: 新增战斗笔记(+1): [[Database/Enemy/Boss#^san-tou-dian-qie-shou|三头颠茄兽]]
+[^21]: 新增烹饪笔记(+1): [[Database/Recipe/Recipe#^xiang-nong-qiao-da-tang|香浓巧达汤]]
+[^22]: 新增书籍笔记(+1): [[Database/Item/Book#^hong-yue-de-luo-sai-5|《红月的罗赛·第5卷》]]
+[^23]: 新增战斗笔记(+7): [[Database/Enemy/Monster#^bai-yi-mao|白翼猫]],[[Database/Enemy/Monster#^bing-jing-ruan-ti-shou|冰晶软体兽]],[[Database/Enemy/Monster#^bao-shi-lao-shu|宝石老鼠]],[[Database/Enemy/Monster#^bai-jin-chong|白金虫]],[[Database/Enemy/Boss#^ling-bang-jun-shi-bing|领邦军士兵]],[[Database/Enemy/Boss#^jing-bei-lie-quan-b|警备猎犬B]], [[Database/Enemy/Boss#^jing-bei-lie-quan-r|警备猎犬R]]
+[^24]: 新增打开宝箱(+9): [[Database/Treasure Chest/Treasure Chest#^044|044]],[[Database/Treasure Chest/Treasure Chest#^045|045]],[[Database/Treasure Chest/Treasure Chest#^046|046]],[[Database/Treasure Chest/Monster Treasure Chest#^047|047]],[[Database/Treasure Chest/Treasure Chest#^048|048]],[[Database/Treasure Chest/Treasure Chest#^049|049]],[[Database/Treasure Chest/Treasure Chest#^050|050]],[[Database/Treasure Chest/Treasure Chest#^051|051]],[[Database/Treasure Chest/Treasure Chest#^052|052]]
+[^25]: 新增人物笔记(+1): [[Database/Character/Fie Claussell#^fei-1|猎兵团]]
+[^26]: 新增获得奖杯(+1): [[Database/Trophy/Bronze#^mei-li-de-fei-cui-zhi-du|美麗的翡翠之都]] 

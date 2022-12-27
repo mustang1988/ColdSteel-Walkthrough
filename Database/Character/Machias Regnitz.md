@@ -31,7 +31,7 @@ Notes:
       来自于他的表姐与贵族之间的一段过去.
 
       不过, 他的憎恨之情似乎已稍微缓和下来了.
-    When: ""
+    When: "[[Walkthrough/Chapter 3#^character-ma-qi-ya-si-1|第三章 6/23]]"
     How: "剧情自动获得"
   - Title: "棋艺社的和解"
     ID: "ma-qi-ya-si-2"

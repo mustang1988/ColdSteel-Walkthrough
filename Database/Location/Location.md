@@ -108,6 +108,22 @@ Locations:
   Maps:
     - "![[images/Maps/公都地下水路3.jpg]]"
   Fishes:
+- Name: "旧校舍地下·第3层1"
+  ID: "jiu-xiao-she-di-xia-san-ceng-1"
+  Maps:
+    - "![[images/Maps/旧校舍地下·第3层1.jpg]]"
+  Fishes:
+    - "[[Database/Fish/Anor Carp|亚诺鲁鲫鱼]]"
+- Name: "旧校舍地下·第3层2"
+  ID: "jiu-xiao-she-di-xia-san-ceng-2"
+  Maps:
+    - "![[images/Maps/旧校舍地下·第3层2.jpg]]"
+  Fishes:
+- Name: "诺尔德高原·南部"
+  ID: "nuo-er-de-gao-yuan-nan-bu"
+  Maps:
+    - "![[images/Maps/诺尔德高原·南部.jpg]]"
+  Fishes:
 ##################################
 - Name: ""
   ID: ""
@@ -266,3 +282,27 @@ const location = dv.current().Locations[18];
 await dv.view('Location', { location });
 ```
 ^gong-du-di-xia-shui-lu-3
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[19];
+await dv.view('Location', { location });
+```
+^jiu-xiao-she-di-xia-san-ceng-1
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[20];
+await dv.view('Location', { location });
+```
+^jiu-xiao-she-di-xia-san-ceng-2
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[21];
+await dv.view('Location', { location });
+```
+^nuo-er-de-gao-yuan-nan-bu

@@ -34,8 +34,8 @@ Notes:
 
       因此与学院的马也能心灵相通.
 
-    When: ""
-    How: "尤西斯羁绊事件"
+    When: "[[Walkthrough/Chapter 3#^character-you-xi-si-2|第三章 6/20]]"
+    How: "[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]] 羁绊事件"
   - Title: "天敌是米莉亚姆"
     ID: "you-xi-si-3"
     Content: |
