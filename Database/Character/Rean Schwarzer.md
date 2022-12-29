@@ -53,6 +53,20 @@ await dv.view('Character/Description', { character });
 ^li-en
 
 ```dataviewjs
+/**
+const character = dv.current();
+const crafts = dv.page('Database/Craft/Craft').Crafts
+              .filter(c => character.Aliases.includes(c.Character.display))
+              .map(c => dv.blockLink('Database/Craft/Craft', c.ID, false, c.Name));
+const scrafts = dv.page('Database/Craft/SCraft').SCrafts
+              .filter(c => character.Aliases.includes(c.Character.display))
+              .map(c => dv.blockLink('Database/Craft/SCraft', c.ID, false, c.Name));            
+dv.list([...crafts, ...scrafts]);
+**/
+```
+^crafts
+
+```dataviewjs
 const note = dv.current().Notes[0];
 await dv.view('Character/Note', { note });
 ```
