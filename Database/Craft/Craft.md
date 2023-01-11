@@ -1,6 +1,7 @@
 ---
 ID: "Craft.Craft"
 Crafts:
+# 黎恩 -------------------------------------------------------------------
   - Name: "红叶切"
     ID: "hong-ye-qie"
     Description: "在与敌人擦身而过的瞬间加以斩击, 造成失衡机率+10%"
@@ -54,7 +55,7 @@ Crafts:
     Cost: "CP-35"
     Character: "[[Database/Character/Rean Schwarzer#^li-en|黎恩]]"
     How: "LV55习得"
-#
+# 艾玛 -------------------------------------------------------------------
   - Name: "识破弱点"
     ID: "shi-po-ruo-dian"
     Description: "看穿敌人的弱点, 使我方更加容易使其失衡"
@@ -110,7 +111,7 @@ Crafts:
     Cost: "CP-40"
     Character: "[[Database/Character/Emma Millstein#^ai-ma|艾玛]]"
     How: "LV48习得"
-#
+# 菲 -------------------------------------------------------------------
   - Name: "扫荡"
     ID: "sao-dang"
     Description: "以成对的枪剑同时进行扫射, 能有效造成失衡"
@@ -155,7 +156,7 @@ Crafts:
     Cost: "CP-40"
     Character: "[[Database/Character/Fie Claussell#^fei|菲]]"
     How: "LV56习得"
-#
+# 艾略特 -------------------------------------------------------------------
   - Name: "识破弱点"
     ID: "shi-po-ruo-dian-2"
     Description: "看穿敌人的弱点, 使我方更加容易使其失衡"
@@ -210,7 +211,52 @@ Crafts:
     Cost: "CP-40"
     Character: "[[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]"
     How: "LV57习得"
-#########
+# 劳拉 -------------------------------------------------------------------
+  - Name: "铁碎刃"
+    ID: "tie-sui-ren"
+    Description: "用豪迈的一击使敌人的装甲剥落, 造成失衡几率+30%"
+    Type: "攻击(威力A+)"
+    Range: "单体"
+    Effects:
+      - "DEF-25%"
+      - "[[Database/Status/Seal|封技]] 30%"
+    Cost: "CP-25"
+    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
+    How: "初始习得"
+  - Name: "地裂斩"
+    ID: "di-lie-zhan"
+    Description: "用使地面崩裂的的斩击使敌人无处可站, 造成失衡几率+10%"
+    Type: "攻击(威力B)"
+    Range: "直线M(指定地点)"
+    Effects:
+      - "MOV-50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
+    How: "LV9习得"
+  - Name: "洸圆牙"
+    ID: "guang-yuan-ya"
+    Description: "以光之漩涡吸近敌人, 一口气将其砍倒, 能有效造成失衡"
+    Type: "攻击(威力S)"
+    Range: "圆L(指定地点)"
+    Effects:
+      - "吸近"
+      - "[[Database/Status/Faint|气绝]] 30%"
+    Cost: "CP-45"
+    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
+    How: "LV36习得"
+  - Name: "洸翼阵"
+    ID: "guang-yi-zhen"
+    Description: "牺牲魔力, 提升自己的身体能力"
+    Type: "辅助"
+    Range: "自身"
+    Effects:
+      - "STR·DEF+50%"
+      - "[[Database/Status/Insight|心眼]]"
+      - "ATS·ADF+50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
+    How: "LV45习得"
+# ?? -------------------------------------------------------------------
   - Name: ""
     ID: ""
     Description: ""
@@ -221,7 +267,7 @@ Crafts:
       - ""
       - ""
     Cost: "CP-"
-    Character: "[[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]"
+    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
     How: ""
 ---
 ```dataviewjs
@@ -373,3 +419,35 @@ const craft = dv.current().Crafts[18];
 await dv.view('Craft/Craft', { craft });
 ```
 ^an-ye-zhong-sheng
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[19];
+await dv.view('Craft/Craft', { craft });
+```
+^tie-sui-ren
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[20];
+await dv.view('Craft/Craft', { craft });
+```
+^di-lie-zhan
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[21];
+await dv.view('Craft/Craft', { craft });
+```
+^guang-yuan-ya
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[22];
+await dv.view('Craft/Craft', { craft });
+```
+^guang-yi-zhen
