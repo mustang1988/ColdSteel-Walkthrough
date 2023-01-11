@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "25ecc70597089a8f",
+        "id": "35037b2a5e1d630d",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4db61d18e5a806",
+            "id": "9d7cc37f30d3e070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walkthrough/Chapter 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "564261b85992c61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "6c19443eab719431",
+            "id": "d9283e4c9fe7b534",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "adb1521153f8552f",
@@ -161,17 +174,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c19443eab719431",
+  "active": "d9283e4c9fe7b534",
   "lastOpenFiles": [
     "Database/Craft/Craft.md",
     "Database/Craft/SCraft.md",
+    "Walkthrough/Chapter 1.md",
+    "Index.md",
+    "DEBUG.md",
+    "Walkthrough/Chapter 4.md",
     "Walkthrough/Chapter 3.md",
-    "Database/Enemy/Monster.md",
-    "Database/Quest/Main Quest.md",
-    "Database/Character/Rean Schwarzer.md",
-    "Database/Enemy/Boss.md",
-    "Database/Quest/Side Quest.md",
-    "Database/Location/Location.md",
-    "Database/Treasure Chest/Treasure Chest.md"
+    "Database/Status/Mute.md",
+    "Walkthrough/Chapter 2.md",
+    "Walkthrough/Chapter 0.md"
   ]
 }

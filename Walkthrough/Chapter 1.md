@@ -276,6 +276,7 @@ Boss战:
 > 黎恩的S技 [[Database/Craft/SCraft#^yan-zhi-tai-dao|焰之太刀]] 解锁
 > 
 > 带有[[Database/Status/Burn|炎伤]]效果, 对此BOSS有特效
+^s-craft-yan-zhi-tai-dao
 
 Boss战后剧情, 本章结束
 
