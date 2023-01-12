@@ -1,5 +1,4 @@
 ---
-banner: "![[Chapter 7.jpeg]]"
 No: 7
 Aliases:
   - "终章 士官学院祭、然后——"

@@ -1,5 +1,4 @@
 ---
-banner: "![[Chapter 3.jpeg]]"
 No: 3
 Aliases:
   - "第三章 横跨铁路 ~苍穹的大地~"

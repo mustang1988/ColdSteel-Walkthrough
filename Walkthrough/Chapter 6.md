@@ -1,5 +1,4 @@
 ---
-banner: "![[Chapter 6.jpeg]]"
 No: 6
 Aliases:
   - "第六章 黑与银 ~钢都动乱~"
