@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "074a187e8452fe30",
+        "id": "793b16938019d556",
         "type": "tabs",
         "children": [
           {
-            "id": "56fa973ed9441866",
+            "id": "1ae10c500ce1a852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/Craft/Craft.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "特制披萨",
+                "query": "心意",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/Craft/Craft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/Craft/Craft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/Craft/Craft.md"
+              }
             }
           }
         ],
@@ -140,17 +148,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "56fa973ed9441866",
+  "active": "e9a920dda4cc7f1e",
   "lastOpenFiles": [
+    "Database/Craft/SCraft.md",
+    "Database/Character/Alan.md",
+    "Database/Character/Bridget.md",
+    "Database/Quest/Side Quest.md",
+    "Database/Quest/Main Quest.md",
     "Index.md",
     "Database/Character/Crow Armbrust.md",
     "Database/Craft/Craft.md",
     "Database/Character/Millium Orion.md",
-    "Database/Character/Gaius Worzel.md",
-    "Database/Character/Fie Claussell.md",
-    "Database/Character/Jusis Albarea.md",
-    "Database/Character/Emma Millstein.md",
-    "Database/Character/Machias Regnitz.md",
-    "Database/Character/Laura S Arseid.md"
+    "Database/Character/Gaius Worzel.md"
   ]
 }

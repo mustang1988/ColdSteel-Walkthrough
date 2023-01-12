@@ -92,7 +92,6 @@ const master_quartzs = dv.pages('"Database/Quartz/Master"')
   return quartz;
 })
 .sort(quartz => [ quartz.chapter?quartz.chapter.No:100, quartz.When.display, quartz.How ], 'asc');
-console.log(master_quartzs);
 dv.table(
   [],
   master_quartzs.map(quartz => [
@@ -110,7 +109,6 @@ collapse: close
 ~~~dataviewjs
 const db = "Database/Item/Book";
 const { Books: books } = dv.page(db);
-console.log(books);
 dv.table(
   [],
   books.map(book => [
@@ -128,7 +126,6 @@ collapse: close
 ~~~dataviewjs
 const db = "Database/Recipe/Recipe";
 const { Recipes: recipes } = dv.page(db)
-console.log(recipes)
 dv.table(
   [],
   recipes.map(recipe => [

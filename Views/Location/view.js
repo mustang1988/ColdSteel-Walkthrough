@@ -78,7 +78,6 @@ const BuildChests = (id) => {
   const chest_list = [...chests, ...monster_chests].sort(
     (c1, c2) => parseInt(c1.subpath) - parseInt(c2.subpath)
   );
-  console.log(chest_list);
   return `
 <h1 class="treasure-chest-header">宝箱</span>
 
