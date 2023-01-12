@@ -18,6 +18,14 @@ const GetLinks = (items) => {
     const data_href = subpath ? `${path}#^${subpath}` : path;
     const href = data_href;
     const data_link_id = file.ID || "";
+    let data = dv.page(path)?.TreasureChests
+      ? dv.page(path)?.TreasureChests?.filter((tc) => tc.ID === display)
+      : dv.page(path)?.MonsterTreasureChests?.filter((tc) => tc.ID === display);
+    data = Array.isArray(data) ? data[0] || null : null;
+    console.log(data);
+    const link_display =
+      display +
+      (data != null && data.Remark != null ? "(" + data.Remark + ")" : "");
     return `
 <a 
 aria-label-position="top" 
@@ -29,7 +37,7 @@ target="_blank"
 rel="noopener" 
 data-link-id="${data_link_id}" 
 data-link-tags="" 
-data-link-path="${path}">${display || ""}
+data-link-path="${path}">${link_display || ""}
 </a>`;
   });
 };
