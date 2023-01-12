@@ -65,6 +65,53 @@ SCrafts:
     Effects:
     Character: "[[Database/Character/Laura S Arseid|劳拉]]"
     How: "TODO 第五章8/28"
+# 尤西斯 -------------------------------------------------------------------
+  - Name: "水晶之刃"
+    ID: "shui-jing-zhi-ren"
+    Description: "以结界包围地方集团, 华丽的加以扫荡"
+    Type: "攻击(威力SS)"
+    Range: "圆L"
+    Effects:
+    Character: "[[Database/Character/Jusis Albarea|尤西斯]]"
+    How: "TODO 第二章最后一天"
+# 马齐亚斯 -------------------------------------------------------------------
+  - Name: "极限射击"
+    ID: "ji-xian-she-ji"
+    Description: "超越极限放出如怒涛般的射击"
+    Type: "攻击(威力SS)"
+    Range: "圆L"
+    Effects:
+      - "随机异常状态"
+    Character: "[[Database/Character/Machias Regnitz|马奇亚斯]]"
+    How: "TODO 第四章"
+# 亚莉莎 -------------------------------------------------------------------
+  - Name: "罗塞塔之箭"
+    ID: "luo-sai-ta-zhi-jian"
+    Description: "TODO"
+    Type: "魔法攻击(威力SS)"
+    Range: "直线L(指定地点)"
+    Effects:
+      - "[[Database/Status/Mute|封魔]] 100%"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "TODO 第三章6/27"
+  - Name: "审判之箭"
+    ID: "shen-pan-zhi-jian"
+    Description: "以审判之箭剿灭视线所及之处的敌人"
+    Type: "魔法攻击(威力SS+)"
+    Range: "直线L(指定地点)"
+    Effects:
+      - "[[Database/Status/Mute|封魔]] 100%"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "TODO 第六章9/26"
+# 盖乌斯 -------------------------------------------------------------------
+  - Name: "灾厄之鹰"
+    ID: "zai-e-zhi-ying"
+    Description: "身披象征空之王者的鹰形斗气进行突击"
+    Type: "攻击(威力SS+)"
+    Range: "圆L"
+    Effects:
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    How: "TODO 第三章6/27"
 # ?? -------------------------------------------------------------------
   - Name: ""
     ID: ""
@@ -131,3 +178,43 @@ const craft = dv.current().SCrafts[6];
 await dv.view('Craft/SCraft', { craft });
 ```
 ^zhen-guang-ren-luan-wu
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[7];
+await dv.view('Craft/SCraft', { craft });
+```
+^shui-jing-zhi-ren
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[8];
+await dv.view('Craft/SCraft', { craft });
+```
+^ji-xian-she-ji
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[9];
+await dv.view('Craft/SCraft', { craft });
+```
+^luo-sai-ta-zhi-jian
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[10];
+await dv.view('Craft/SCraft', { craft });
+```
+^shen-pan-zhi-jian
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[11];
+await dv.view('Craft/SCraft', { craft });
+```
+^zai-e-zhi-ying

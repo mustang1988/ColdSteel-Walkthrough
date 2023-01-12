@@ -256,6 +256,177 @@ Crafts:
     Cost: "CP-30"
     Character: "[[Database/Character/Laura S Arseid|劳拉]]"
     How: "LV45习得"
+# 尤西斯 -------------------------------------------------------------------
+  - Name: "快速突刺"
+    ID: "kuai-su-tu-ci"
+    Description: "快速而激烈的三段攻击, 造成失衡几率+20%"
+    Type: "攻击(威力A)"
+    Range: "单体"
+    Effects:
+      - "解除驱动"
+      - "延迟+30"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Jusis Albarea|尤西斯]]"
+    How: "初始习得"
+  - Name: "符文锐锋"
+    ID: "fu-wen-rui-feng"
+    Description: "以散发冷光的魔力之剑斩断敌人"
+    Type: "攻击(威力B)"
+    Range: "圆M"
+    Effects:
+      - "ADF-50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Jusis Albarea|尤西斯]]"
+    How: "LV16习得"
+  - Name: "贵族号令"
+    ID: "gui-zu-hao-ling"
+    Description: "以毅然决然的呼喊激起伙伴们的士气"
+    Type: "辅助"
+    Range: "圆LL(自身中心)"
+    Effects:
+      - "STR·ATS·SPD +25%"
+    Cost: "CP-25"
+    Character: "[[Database/Character/Jusis Albarea|尤西斯]]"
+    How: "LV26习得"
+  - Name: "名贵剑击"
+    ID: "ming-gui-jian-ji"
+    Description: "以冰冻气息封住敌人, 再将其粉碎, 造成失衡几率+20%"
+    Type: "攻击(威力A)"
+    Range: "圆M(指定地点)"
+    Effects:
+      - "[[Database/Status/Seal|封技]] 50%"
+      - "[[Database/Status/Freeze|冻结]] 50%"
+    Cost: "CP-40"
+    Character: "[[Database/Character/Jusis Albarea|尤西斯]]"
+    How: "LV46习得"
+# 马奇亚斯 -------------------------------------------------------------------
+  - Name: "穿甲射击"
+    ID: "chuan-jia-she-ji"
+    Description: "以穿甲弹破坏敌人装甲, 造成失衡几率+20%"
+    Type: "攻击(威力A)"
+    Range: "单体"
+    Effects:
+      - "解除驱动"
+      - "DEF-25%"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Machias Regnitz|马奇亚斯]]"
+    How: "初始习得"
+  - Name: "能源弹"
+    ID: "neng-yuan-dan"
+    Description: "发射填充了能源的特殊回复弹"
+    Type: "回复"
+    Range: "圆M"
+    Effects:
+      - "回复25% HP·EP"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Machias Regnitz|马奇亚斯]]"
+    How: "LV17习得"
+  - Name: "固态弹夹"
+    ID: "gu-tai-dan-jia"
+    Description: "装填石化弹后射出, 能有效造成失衡"
+    Type: "攻击(威力B)"
+    Range: "圆L"
+    Effects:
+      - "[[Database/Status/Petrify|石化]] 50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Machias Regnitz|马奇亚斯]]"
+    How: "LV34习得"
+  - Name: "爆发驱动"
+    ID: "bao-fa-qu-dong"
+    Description: "射穿时间的结界, 提前友方的行动顺序"
+    Type: "辅助"
+    Range: "圆M"
+    Effects:
+      - "加速"
+    Cost: "CP-35"
+    Character: "[[Database/Character/Machias Regnitz|马奇亚斯]]"
+    How: "LV57习得"
+# 亚莉莎 -------------------------------------------------------------------
+  - Name: "焰刃箭"
+    ID: "yan-ren-jian"
+    Description: "用炽热的箭矢贯穿敌人, 造成失衡几率+20%"
+    Type: "攻击(威力B)"
+    Range: "单体"
+    Effects:
+      - "解除驱动"
+      - "[[Database/Status/Burn|炎伤]] 50%"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "初始习得"
+  - Name: "神圣疗愈"
+    ID: "shen-sheng-liao-yu"
+    Description: "施放祝福之箭, 治愈范围内友方"
+    Type: "回复"
+    Range: "圆S(指定地点)"
+    Effects:
+      - "HP小回复"
+      - "CP+40"
+    Cost: "CP-40"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "LV8习得"
+  - Name: "熔焰之雨"
+    ID: "rong-yan-zhi-yu"
+    Description: "将灼热的箭矢施放至上空, 使其如雨般降下, 能有效造成失衡"
+    Type: "攻击(威力C)"
+    Range: "圆L(指定地点)"
+    Effects:
+    Cost: "CP-35"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "LV24习得"
+  - Name: "天堂赠礼"
+    ID: "tian-tang-zeng-li"
+    Description: "赋予范围内友方[[Database/Status/Insight|心眼]]效果, 且每回合CP+20"
+    Type: "辅助"
+    Range: "圆M(指定地点)"
+    Effects:
+      - "[[Database/Status/Insight|心眼]]"
+      - "CP逐渐上升"
+    Cost: "CP-50"
+    Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
+    How: "LV52习得"
+# 盖乌斯 -------------------------------------------------------------------
+  - Name: "疾风旋刺"
+    ID: "ji-feng-xuan-ci"
+    Description: "放出直线状的龙卷风, 能有效造成失衡"
+    Type: "攻击(威力C)"
+    Range: "直线S(指定地点)"
+    Effects:
+      - "[[Database/Status/Seal|封技]] 50%"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    How: "初始习得"
+  - Name: "狂暴涡流"
+    ID: "kuang-bao-wo-liu"
+    Description: "以乱流吞没敌人, 造成失衡几率+10%"
+    Type: "攻击(威力A)"
+    Range: "圆M"
+    Effects:
+      - "[[Database/Status/Blind|黑暗]] 50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    How: "LV14习得"
+  - Name: "野性怒火"
+    ID: "ye-xing-nu-huo"
+    Description: "爆发野性之怒, 牺牲体力作为代价获得CP"
+    Type: "辅助"
+    Range: "自身"
+    Effects:
+      - "HP-30%"
+      - "CP+50"
+    Cost: "CP-0"
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    How: "LV25习得"
+  - Name: "蛮荒之牙"
+    ID: "man-huang-zhi-ya"
+    Description: "以破竹之势贯穿敌人, 造成失衡几率+20%"
+    Type: "攻击(威力S+)"
+    Range: "圆M(指定地点)"
+    Effects:
+      - "MOV-50%"
+      - "延迟+35"
+    Cost: "CP-40"
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    How: "LV47习得"
 # ?? -------------------------------------------------------------------
   - Name: ""
     ID: ""
@@ -267,7 +438,7 @@ Crafts:
       - ""
       - ""
     Cost: "CP-"
-    Character: "[[Database/Character/Laura S Arseid|劳拉]]"
+    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
     How: ""
 ---
 ```dataviewjs
@@ -451,3 +622,131 @@ const craft = dv.current().Crafts[22];
 await dv.view('Craft/Craft', { craft });
 ```
 ^guang-yi-zhen
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[23];
+await dv.view('Craft/Craft', { craft });
+```
+^kuai-su-tu-ci
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[24];
+await dv.view('Craft/Craft', { craft });
+```
+^fu-wen-rui-feng
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[25];
+await dv.view('Craft/Craft', { craft });
+```
+^gui-zu-hao-ling
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[26];
+await dv.view('Craft/Craft', { craft });
+```
+^ming-gui-jian-ji
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[27];
+await dv.view('Craft/Craft', { craft });
+```
+^chuan-jia-she-ji
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[28];
+await dv.view('Craft/Craft', { craft });
+```
+^neng-yuan-dan
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[29];
+await dv.view('Craft/Craft', { craft });
+```
+^gu-tai-dan-jia
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[30];
+await dv.view('Craft/Craft', { craft });
+```
+^bao-fa-qu-dong
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[31];
+await dv.view('Craft/Craft', { craft });
+```
+^yan-ren-jian
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[32];
+await dv.view('Craft/Craft', { craft });
+```
+^shen-sheng-liao-yu
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[33];
+await dv.view('Craft/Craft', { craft });
+```
+^rong-yan-zhi-yu
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[34];
+await dv.view('Craft/Craft', { craft });
+```
+^tian-tang-zeng-li
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[35];
+await dv.view('Craft/Craft', { craft });
+```
+^ji-feng-xuan-ci
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[36];
+await dv.view('Craft/Craft', { craft });
+```
+^kuang-bao-wo-liu
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[37];
+await dv.view('Craft/Craft', { craft });
+```
+^ye-xing-nu-huo
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[38];
+await dv.view('Craft/Craft', { craft });
+```
+^man-huang-zhi-ya
