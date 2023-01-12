@@ -13,13 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walkthrough/Chapter 7.md",
+                "file": "Database/Quest/Main Quest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e80224a1b208b977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Quest/Side Quest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7bb1d308c7f6aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walkthrough/Chapter 3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "859cc14b6f251b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Trophy/Bronze.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ba82db155fd42a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Location/Location.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6c6db5509b188edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Monster.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "feb71b410aeb98f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Treasure Chest/Treasure Chest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "32c57705f5790623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Treasure Chest/Monster Treasure Chest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5c3aad669aadacd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Enemy/Boss.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "心意",
+                "query": "破灵",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough/Chapter 7.md",
+                "file": "Walkthrough/Chapter 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough/Chapter 7.md",
+                "file": "Walkthrough/Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough/Chapter 7.md"
+                "file": "Walkthrough/Chapter 3.md"
               }
             }
           }
@@ -148,17 +245,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad613d4e268b1307",
+  "active": "f7bb1d308c7f6aeb",
   "lastOpenFiles": [
-    "Walkthrough/Chapter 6.md",
-    "Walkthrough/Chapter 5.md",
-    "Walkthrough/Chapter 4.md",
+    "Database/Enemy/Boss.md",
     "Walkthrough/Chapter 3.md",
-    "Walkthrough/Chapter 2.md",
-    "Walkthrough/Chapter 1.md",
-    "Walkthrough/Chapter 0.md",
-    "Walkthrough/Chapter 7.md",
-    "Database/Craft/Craft.md",
-    "Database/Craft/SCraft.md"
+    "Database/Trophy/Bronze.md",
+    "Database/Enemy/Monster.md",
+    "Database/Location/Location.md",
+    "Database/Treasure Chest/Treasure Chest.md",
+    "Database/Quest/Side Quest.md",
+    "Database/Quest/Main Quest.md",
+    "Database/Treasure Chest/Monster Treasure Chest.md",
+    "Database/Item/Book.md"
   ]
 }

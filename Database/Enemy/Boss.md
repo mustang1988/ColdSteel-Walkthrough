@@ -1299,7 +1299,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  落魄猎兵  ----------------------------------------------------------------------------------------------
 - Name: "落魄猎兵"
   ID: "luo-po-lie-bing"
@@ -1309,7 +1308,7 @@ Bosses:
     为了米拉可以赌上性命的佣兵为职业努力生活着.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 29
     HP: 16768
@@ -1361,8 +1360,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
-
 #  G-基迪恩  ----------------------------------------------------------------------------------------------
 - Name: "G-基迪恩"
   ID: "g-gi-di-en"
@@ -1376,7 +1373,7 @@ Bosses:
     从后方进行支援攻击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 30
     HP: 26986
@@ -1426,7 +1423,6 @@ Bosses:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  米莉亚姆  ----------------------------------------------------------------------------------------------
 - Name: "米莉亚姆"
   ID: "mi-li-ya-mu"
@@ -1436,7 +1432,7 @@ Bosses:
     命令银色的战斗傀儡给予敌人猛烈的一击.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-nan-bu|诺尔德高原·南部]]"
   Properties:
     LV: 30
     HP: 24235
@@ -1486,7 +1482,6 @@ Bosses:
     Sleep: 20
     Confuse: 20
     SDown: 20
-
 #  岩石魔像  ----------------------------------------------------------------------------------------------
 - Name: "岩石魔像"
   ID: "yan-shi-mo-xiang"
@@ -1498,7 +1493,7 @@ Bosses:
     能够踩踏大地而引发巨大的地震.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 30
     HP: 41631
@@ -1673,7 +1668,6 @@ Bosses:
     Sleep: 50
     Confuse: 50
     SDown: 50
-
 #  基诺夏·赛纳克  ----------------------------------------------------------------------------------------------
 - Name: "基诺夏·赛纳克"
   ID: "ji-nuo-xia-sai-na-ke"
@@ -1687,7 +1681,7 @@ Bosses:
     当作自己孩子的饵食.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 31
     HP: 46505

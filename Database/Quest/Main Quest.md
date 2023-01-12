@@ -231,6 +231,18 @@ Quests:
       - "[[Database/Quartz/Time R#^po-xun-zhi-ya|破迅之牙]]"
     When: "[[Walkthrough/Chapter 3#^quest-jian-da-men-de-qing-tuo|第三章 6/27]]"
 #------------------------------------------------------------------------------------
+  - Name: "护送摄影师"
+    ID: "hu-song-she-ying-shi"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 在高原北部巨石像前能找到摄影师
+         
+      2. 找到记者就继续剧情
+    Bonus:
+      - "[[Database/Item/Accessory#^nuo-er-de-bu-liao|诺尔德布料]]"
+    When: "[[Walkthrough/Chapter 3#^quest-hu-song-she-ying-shi|第三章 6/27]]"
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -336,3 +348,11 @@ const quest = dv.current().Quests[11];
 await dv.view('Quest', { quest, type:'Main' });
 ```
 ^jian-da-men-de-qing-tuo
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[12];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^hu-song-she-ying-shi

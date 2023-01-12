@@ -335,6 +335,26 @@ Quests:
       - "[[Database/Item/Superb Food#^te-zhi-pi-sa|特制披萨]]"
     When: "[[Walkthrough/Chapter 3#^quest-qing-gan-de-qiao-liang|第三章 6/27]]"
 #--------------------------------------------------------------------------------------------------------------
+  - Name: "诺尔德高原·北部 通缉魔兽"
+    ID: "nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 村里中找拉岗领取
+         
+      2. 在 [[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]] 找到通缉魔兽 [[Database/Enemy/Boss#^yan-shi-mo-xiang|岩石魔像]]
+         
+         > [!tip] Boss 攻略
+         > Boss会全体攻击，注意恢复
+         > 
+         > 皮厚血多，但米莉亚姆的刚属性攻击可触发失衡
+
+      3. 回去汇报
+    Bonus:
+      - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药x5]]"
+      - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂x5]]"
+    When: "[[Walkthrough/Chapter 3#^quest-nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou|第三章 6/28]]"
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -487,3 +507,11 @@ const quest = dv.current().Quests[17];
 await dv.view('Quest', { quest, type:'Side' });
 ```
 ^qing-gan-de-qiao-liang
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[18];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou

@@ -418,6 +418,78 @@ TreasureChests:
     - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药]]"
   Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-nan-bu|第三章 6/27]]"
   Remark:
+- ID: "067"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "069"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Quartz/Space N#^an-wu-zhi|暗物质]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "070"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Item/Earth Sepith|x200]]"
+    - "[[Database/Item/Water Sepith|x200]]"
+    - "[[Database/Item/Fire Sepith|x200]]"
+    - "[[Database/Item/Wind Sepith|x200]]"
+    - "[[Database/Item/Time Sepith|x200]]"
+    - "[[Database/Item/Space Sepith|x200]]"
+    - "[[Database/Item/Mirage Sepith|x200]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "072"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Quartz/Earth N#^da-di-zhi-yu|大地之愈]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "073"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Item/Key#^you-er|诱饵]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "074"
+  Location: "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
+  Items:  
+    - "[[Database/Quartz/Fire R#^zhen-fen-zhi-ji-r|振奋之激R]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
+  Remark:
+- ID: "075"
+  Location: "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
+  Items:  
+    - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-gao-yuan-cai-shi-chang|第三章 6/28]]"
+  Remark: "位于采石场外部, 通过内部岔路到达"
+- ID: "076"
+  Location: "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
+  Items:  
+    - "[[Database/Quartz/Water R#^po-ling-zhi-ya|破灵之牙]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-gao-yuan-cai-shi-chang|第三章 6/28]]"
+  Remark:
+- ID: "077"
+  Location: "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
+  Items:  
+    - "[[Database/Item/Potion#^sheng-ling-yao|圣灵药]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-gao-yuan-cai-shi-chang|第三章 6/28]]"
+  Remark:
+- ID: "078"
+  Location: "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
+  Items:  
+    - "[[Database/Quartz/Space N#^sheng-ep-2|省EP2]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-gao-yuan-cai-shi-chang|第三章 6/28]]"
+  Remark:
+- ID: "079"
+  Location: "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
+  Items:  
+    - "[[Database/Quartz/Time N#^qu-dong-2|驱动2]]"
+  Chapter: "[[Walkthrough/Chapter 3#^location-gao-yuan-cai-shi-chang|第三章 6/28]]"
+  Remark:
 ####################
 - ID: ""
   Location: ""
@@ -896,3 +968,91 @@ const chest = dv.current().TreasureChests[58];
 await dv.view('Treasure Chest', { chest });
 ```
 ^066
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[59];
+await dv.view('Treasure Chest', { chest });
+```
+^067
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[60];
+await dv.view('Treasure Chest', { chest });
+```
+^069
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[61];
+await dv.view('Treasure Chest', { chest });
+```
+^070
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[62];
+await dv.view('Treasure Chest', { chest });
+```
+^072
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[63];
+await dv.view('Treasure Chest', { chest });
+```
+^073
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[64];
+await dv.view('Treasure Chest', { chest });
+```
+^074
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[65];
+await dv.view('Treasure Chest', { chest });
+```
+^075
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[66];
+await dv.view('Treasure Chest', { chest });
+```
+^076
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[67];
+await dv.view('Treasure Chest', { chest });
+```
+^077
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[68];
+await dv.view('Treasure Chest', { chest });
+```
+^078
+
+---
+
+```dataviewjs
+const chest = dv.current().TreasureChests[69];
+await dv.view('Treasure Chest', { chest });
+```
+^079

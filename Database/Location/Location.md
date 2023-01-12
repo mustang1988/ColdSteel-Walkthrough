@@ -129,7 +129,13 @@ Locations:
   Maps:
     - "![[images/Maps/诺尔德高原·北部.jpg]]"
   Fishes:
-
+    - "[[Database/Fish/Salamander|山椒鱼]]"
+- Name: "高原·采石场"
+  ID: "gao-yuan-cai-shi-chang"
+  Maps:
+    - "![[images/Maps/高原·采石场1.jpg]]"
+    - "![[images/Maps/高原·采石场2.jpg]]"
+  Fishes:
 ##################################
 - Name: ""
   ID: ""
@@ -320,3 +326,11 @@ const location = dv.current().Locations[22];
 await dv.view('Location', { location });
 ```
 ^nuo-er-de-gao-yuan-bei-bu
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[23];
+await dv.view('Location', { location });
+```
+^gao-yuan-cai-shi-chang

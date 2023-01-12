@@ -278,7 +278,113 @@ ID: "Walkthrough.Chapter.3"
   > [!tip] 任务期间, 去一趟坚达门, 接隐藏支线任务
 - [[Database/Quest/Side Quest#^qing-gan-de-qiao-liang|感情的桥梁]]^quest-qing-gan-de-qiao-liang
 
-和伊凡长老对话后，可前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]，记得牵回3只羊回去找瓦塔利报告
+和伊凡长老对话后，可前往 [[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]，记得牵回3只羊回去找瓦塔利报告 ^location-nuo-er-de-gao-yuan-bei-bu
 
 ## 主线任务
+- [[Database/Quest/Main Quest#^hu-song-she-ying-shi|护送摄影师]] ^quest-hu-song-she-ying-shi
 
+剧情回到村落，之后要去拉克里玛湖
+
+拉克里玛湖钓鱼点可获得: [[Database/Fish/Rainbow Trout|虹鳟鱼]]
+
+> [!example] 第三章 6/27 小结
+> - 战斗笔记进度: 72/196 (+6) [^17]
+> - 打开宝箱进度: 74/199 (+8)  [^18]
+> - 烹饪笔记进度: 9/20
+> - 书籍笔记进度: 17/43
+> - 人物笔记进度: 29/95
+> - 钓鱼笔记进度: 9/20 (+2)    [^19]
+> - 核心回路收集进度: 12/28
+> - 奖杯进度: 10/51
+
+# 6/28
+一早剧情后前往坚达门
+
+自动获得人物笔记: [[Database/Character/Gaius Worzel#^gai-wu-si-2|盖乌斯的决心]] ^character-gai-wu-si-2
+
+剧情后到达监视塔。调查四个红色的感叹号
+
+> [!tip] 剧情选项
+> - 「凌晨3：00左右」
+> - 「用来炮击的武器」
+> 
+> 选择正确 ==**AP+1**==
+
+前往诺尔德高原西南部炮击地点，爬上梯子后剧情
+
+需要在2分钟之内追上目标。2分钟之内到达的话==**AP+**==1。终点是石柱群
+
+到达石柱群后Boss战: 
+
+[[Database/Enemy/Boss#^mi-li-ya-mu|米利亚姆]]
+
+> [!tip] Boss 攻略
+> 不强，不过攻击带气绝。注意恢复围殴她就行了
+
+> [!example] 第三章 6/27 小结
+> - 战斗笔记进度: 73/196 (+1) [^20]
+> - 打开宝箱进度: 74/199
+> - 烹饪笔记进度: 9/20
+> - 书籍笔记进度: 17/43
+> - 人物笔记进度: 30/95 (+1)   [^21]
+> - 钓鱼笔记进度: 9/20
+> - 核心回路收集进度: 12/28
+> - 奖杯进度: 10/51
+
+战斗结束后米莉亚姆加入队伍，但不能换装备和回路
+
+离开石柱群后，自动回到村落中
+
+跑到坚达门与战车上的兵士霍佛对话获得: [[Database/Item/Book#^hong-yue-de-luo-sai-7|《红月的罗赛7卷》]] ^book-hong-yue-de-luo-sai-7
+
+## 支线任务
+- [[Database/Quest/Side Quest#^nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou|诺尔德高原·北部 通缉魔兽]] ^quest-nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou
+
+> [!example] 第三章 6/27 小结
+> - 战斗笔记进度: 74/196 (+1) [^22]
+> - 打开宝箱进度: 74/199
+> - 烹饪笔记进度: 9/20
+> - 书籍笔记进度: 18/43 (+1)  [^23]
+> - 人物笔记进度: 30/95
+> - 钓鱼笔记进度: 9/20
+> - 核心回路收集进度: 12/28
+> - 奖杯进度: 10/51
+
+准备好如 [[Database/Item/Accessory#^shen-sheng-zhi-lian|神圣之链]], [[Database/Item/Accessory#^shen-sheng-yuan-qiu|神圣圆球]], [[Database/Item/Accessory#^shen-yuan-zhi-ying|深渊之影]] 之类的防 [[Database/Status/Death|即死]] 饰品后开始主线
+
+前往 [[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]] ^location-gao-yuan-cai-shi-chang
+
+石门剧情，进入发生杂兵战
+
+利用米莉亚姆的地图攻击可以打通路
+
+这里怪物属性中增加了 [[Database/Art/Time|时]], [[Database/Art/Space|空]], [[Database/Art/Mirage|幻]] 三种上位属性，战斗奖励也增加了 [[Database/Status/Death|即死]], [[Database/Status/Vanish|消失]] 等
+
+最深处Boss两连战
+
+[[Database/Enemy/Boss#^g-gi-di-en|G-基迪恩]], [[Database/Enemy/Boss#^luo-po-lie-bing|落魄猎兵x4]]
+
+> [!tip] Boss 攻略
+> 一开始可以爆S清了杂兵，剩下 G-基迪恩 慢慢攻击攒CP
+
+[[Database/Enemy/Boss#^ji-nuo-xia-sai-na-ke|基诺夏·赛纳克]]
+
+> [!tip] Boss 攻略
+> BOSS不算强，就攻击带毒效果，而且会不断召唤杂兵
+> 
+> 多抢感叹号放S技难度不大
+
+战后漫长剧情，结束第三章
+
+获得奖杯: [[Database/Trophy/Bronze#^heng-kua-tie-lu-cang-qiong-de-da-di|橫跨鐵路～蒼穹的大地～]] ^trophy-heng-kua-tie-lu-cang-qiong-de-da-di
+
+> [!example] 第三章 总结
+> - AP: 72, 总AP:182
+> - 战斗笔记进度: 80/196 (+6) [^24]
+> - 打开宝箱进度: 79/199 (+5) [^25]
+> - 烹饪笔记进度: 9/20
+> - 书籍笔记进度: 18/43
+> - 人物笔记进度: 30/95
+> - 钓鱼笔记进度: 9/20
+> - 核心回路收集进度: 12/28
+> - 奖杯进度: 11/51 (+1)         [^26]

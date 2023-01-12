@@ -2794,7 +2794,6 @@ Monsters:
     Sleep: 150
     Confuse: 100
     SDown: 100
-
 #  高原恶龟  ----------------------------------------------------------------------------------------------
 - Name: "高原恶龟"
   ID: "gao-yuan-e-gui"
@@ -2804,7 +2803,7 @@ Monsters:
     即使笨重, 也在高原上猎捕猎物而活下来的熊猫魔兽之一.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 27
     HP: 2908
@@ -2856,7 +2855,6 @@ Monsters:
     Sleep: 150
     Confuse: 150
     SDown: 150
-
 #  幼拟龙  ----------------------------------------------------------------------------------------------
 - Name: "幼拟龙"
   ID: "you-ni-long"
@@ -2868,7 +2866,7 @@ Monsters:
     藏有能将周遭烧成荒原的潜力.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 27
     HP: 762
@@ -2920,8 +2918,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
-
 #  石蛙  ----------------------------------------------------------------------------------------------
 - Name: "石蛙"
   ID: "shi-wa"
@@ -2933,7 +2929,7 @@ Monsters:
     吐出粘液夺去其自由.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 27
     HP: 4163
@@ -2985,7 +2981,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  猿羊  ----------------------------------------------------------------------------------------------
 - Name: "猿羊"
   ID: "yuan-yang"
@@ -2997,7 +2992,7 @@ Monsters:
     使用独有的拳法.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 27
     HP: 1853
@@ -3049,7 +3044,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  雪白獠牙  ----------------------------------------------------------------------------------------------
 - Name: "雪白獠牙"
   ID: "xue-bai-liao-ya"
@@ -3059,7 +3053,7 @@ Monsters:
     拥有群体一起追捕猎物的习性.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 27
     HP: 2903
@@ -3111,7 +3105,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  赛斯菲  ----------------------------------------------------------------------------------------------
 - Name: "赛斯菲"
   ID: "sai-si-fei"
@@ -3123,7 +3116,7 @@ Monsters:
     受人们恐惧.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 29
     HP: 1959
@@ -3175,7 +3168,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  迪格雷姆  ----------------------------------------------------------------------------------------------
 - Name: "迪格雷姆"
   ID: "di-ge-lei-mu"
@@ -3187,7 +3179,7 @@ Monsters:
     从宝玉中会放出降低身体能力的诡异光线.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 29
     HP: 4388
@@ -3239,7 +3231,6 @@ Monsters:
     Sleep: 0
     Confuse: 100
     SDown: 100
-
 #  吸血草  ----------------------------------------------------------------------------------------------
 - Name: "吸血草"
   ID: "xi-xue-cao"
@@ -3251,7 +3242,7 @@ Monsters:
     将捕捉到的猎物的血一滴不剩的吸干.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^gao-yuan-cai-shi-chang|高原·采石场]]"
   Properties:
     LV: 29
     HP: 2606
@@ -3303,7 +3294,6 @@ Monsters:
     Sleep: 0
     Confuse: 100
     SDown: 50
-
 #  骏鹰  ----------------------------------------------------------------------------------------------
 - Name: "骏鹰"
   ID: "jun-ying"
@@ -3315,7 +3305,7 @@ Monsters:
     还会吐出猛烈燃烧的火焰气息  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^nuo-er-de-gao-yuan-bei-bu|诺尔德高原·北部]]"
   Properties:
     LV: 30
     HP: 11645
