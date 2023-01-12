@@ -112,6 +112,24 @@ SCrafts:
     Effects:
     Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
     How: "TODO 第三章6/27"
+# 米莉亚姆 -------------------------------------------------------------------
+  - Name: "十亿强击"
+    ID: "shi-yi-qiang-ji"
+    Description: "命令银臂变形成巨锤后, 用它来全力挥击"
+    Type: "攻击(威力SSS)"
+    Range: "全体"
+    Effects:
+    Character: "[[Database/Character/Millium Orion|米莉亚姆]]"
+    How: "初始习得"
+# 克洛 -------------------------------------------------------------------
+  - Name: "屠戮之鸦"
+    ID: "tu-lu-zhi-ya"
+    Description: "连续击发双枪, 并透过操作弹道让所有子弹同时命中目标"
+    Type: "攻击(威力SSS)"
+    Range: "圆LL(指定地点)"
+    Effects:
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    How: "初始习得"
 # ?? -------------------------------------------------------------------
   - Name: ""
     ID: ""
@@ -218,3 +236,19 @@ const craft = dv.current().SCrafts[11];
 await dv.view('Craft/SCraft', { craft });
 ```
 ^zai-e-zhi-ying
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[12];
+await dv.view('Craft/SCraft', { craft });
+```
+^shi-yi-qiang-ji
+
+---
+
+```dataviewjs
+const craft = dv.current().SCrafts[13];
+await dv.view('Craft/SCraft', { craft });
+```
+^tu-lu-zhi-ya

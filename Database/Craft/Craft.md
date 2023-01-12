@@ -427,6 +427,80 @@ Crafts:
     Cost: "CP-40"
     Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
     How: "LV47习得"
+# 米莉亚姆 -------------------------------------------------------------------
+  - Name: "破坏拳击"
+    ID: "po-huai-quan-ji"
+    Description: "命令银臂使出浑身解数的一击, 造成失衡几率+20%"
+    Type: "攻击(威力B)"
+    Range: "圆M"
+    Effects:
+      - "解除驱动"
+      - "[[Database/Status/Faint|气绝]] 50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Millium Orion|米莉亚姆]]"
+    How: "初始习得"
+  - Name: "究极防护"
+    ID: "jiu-ji-fang-hu"
+    Description: "展开银之屏障, 完全防御一次物理攻击"
+    Type: "辅助"
+    Range: "自身"
+    Effects:
+      - "[[Database/Status/Craft Guard|物理防御]]"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Millium Orion|米莉亚姆]]"
+    How: "初始习得"
+  - Name: "镇暴光线"
+    ID: "zhen-bao-guang-xian"
+    Description: "命令银臂射出光线"
+    Type: "攻击(威力A)"
+    Range: "直线M(指定地点)"
+    Effects:
+      - "STR-25%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Millium Orion|米莉亚姆]]"
+    How: "LV42习得"
+# 克洛 -------------------------------------------------------------------
+  - Name: "迅捷双枪"
+    ID: "xun-jie-shuang-qiang"
+    Description: "轻快而迅速的连续射击, 能有效造成失衡"
+    Type: "攻击(威力C)"
+    Range: "圆M(指定地点)"
+    Effects:
+      - "延迟+15"
+    Cost: "CP-20"
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    How: "初始习得"
+  - Name: "冷冻弹"
+    ID: "leng-dong-dan"
+    Description: "射出蕴含着冰冻气息的没法子弹"
+    Type: "魔法攻击(威力C)"
+    Range: "圆M(指定地点)"
+    Effects:
+      - "[[Database/Status/Freeze|冻结]] 50%"
+    Cost: "CP-30"
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    How: "初始习得"
+  - Name: "万用王牌"
+    ID: "wan-yong-wang-pai"
+    Description: "将一切交给运气的最终王牌, 会发生什么要等用了才知道♪"
+    Type: "辅助"
+    Range: "单体"
+    Effects:
+      - "对敌人或伙伴发动随机效果"
+    Cost: "CP-5"
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    How: "LV42习得"
+  - Name: "混沌扳机"
+    ID: "hun-dun-ban-ji"
+    Description: "装填内含疯狂气息的特殊弹后射出, 能有效造成失衡"
+    Type: "攻击(威力S)"
+    Range: "直线M(指定地点)"
+    Effects:
+      - "[[Database/Status/Confuse|混乱]] 50%"
+      - "[[Database/Status/Nightmare|恶梦]] 50%"
+    Cost: "CP-45"
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    How: "LV54习得"
 # ?? -------------------------------------------------------------------
   - Name: ""
     ID: ""
@@ -438,7 +512,7 @@ Crafts:
       - ""
       - ""
     Cost: "CP-"
-    Character: "[[Database/Character/Gaius Worzel|盖乌斯]]"
+    Character: "[[Database/Character/Crow Armbrust|克洛]]"
     How: ""
 ---
 ```dataviewjs
@@ -750,3 +824,59 @@ const craft = dv.current().Crafts[38];
 await dv.view('Craft/Craft', { craft });
 ```
 ^man-huang-zhi-ya
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[39];
+await dv.view('Craft/Craft', { craft });
+```
+^po-huai-quan-ji
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[40];
+await dv.view('Craft/Craft', { craft });
+```
+^jiu-ji-fang-hu
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[41];
+await dv.view('Craft/Craft', { craft });
+```
+^zhen-bao-guang-xian
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[42];
+await dv.view('Craft/Craft', { craft });
+```
+^xun-jie-shuang-qiang
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[43];
+await dv.view('Craft/Craft', { craft });
+```
+^leng-dong-dan
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[44];
+await dv.view('Craft/Craft', { craft });
+```
+^wan-yong-wang-pai
+
+---
+
+```dataviewjs
+const craft = dv.current().Crafts[45];
+await dv.view('Craft/Craft', { craft });
+```
+^hun-dun-ban-ji
