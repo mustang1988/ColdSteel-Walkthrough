@@ -243,6 +243,29 @@ Quests:
       - "[[Database/Item/Accessory#^nuo-er-de-bu-liao|诺尔德布料]]"
     When: "[[Walkthrough/Chapter 3#^quest-hu-song-she-ying-shi|第三章 6/27]]"
 #------------------------------------------------------------------------------------
+  - Name: "调查旧校舍"
+    ID: "diao-cha-jiu-xiao-she-4"
+    BasicAP: 5
+    ExtraAP: 0
+    Steps: |
+      1. 到旧校舍地下·第4层，此次劳拉和菲不能共存, 需要2选1
+         
+      2. 障碍需要刚属性的劳拉或者马奇亚斯解除, 此二人至少选择其一
+         
+      3. 开机关进入最深处，解决BOSS, [[Database/Enemy/Boss#^chi-tian-shi-zhi-men|炽天使之门]]
+         
+         > [!tip] Boss 攻略
+         > BOSS物防超高，物理系几乎打不动
+         > 
+         > 推荐[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]], [[Database/Character/Elliot Craig#^ai-lve-te|艾略特]], [[Database/Character/Emma Millstein#^ai-ma|艾玛]] 上去魔法攻击
+         > 
+         > 注意会[[Database/Status/Confuse|混乱]]攻击
+         
+      4. 返回地面
+    Bonus:
+      - "[[Database/Quartz/Space R#^long-tong|龙瞳]]"
+    When: ""
+#------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -356,3 +379,11 @@ const quest = dv.current().Quests[12];
 await dv.view('Quest', { quest, type:'Main' });
 ```
 ^hu-song-she-ying-shi
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[13];
+await dv.view('Quest', { quest, type:'Main' });
+```
+^diao-cha-jiu-xiao-she-4

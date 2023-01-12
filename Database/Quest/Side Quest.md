@@ -355,6 +355,72 @@ Quests:
       - "[[Database/Item/Potion#^ep-tian-chong-ji-2|EP填充剂x5]]"
     When: "[[Walkthrough/Chapter 3#^quest-nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou|第三章 6/28]]"
 #--------------------------------------------------------------------------------------------------------------
+  - Name: "青梅竹马的心意"
+    ID: "qing-mei-zhu-ma-de-xin-yi"
+    BasicAP: 3
+    ExtraAP: 2
+    Steps: |
+      1. 到第一学生宿舍找 [[Database/Character/Bridget#^bu-lai-xi-te|布莱希特]] 领取
+         
+      2. 到体育馆右侧房间和 [[Database/Character/Friedel#^fu-lie-da|弗列妲]] 和 [[Database/Character/Loggins#^luo-jin-si|罗金斯]] 对话
+         
+      3. 到操场角落处与 [[Database/Character/Alan#^ai-lun|艾伦]] 对话开始Boss战, [[Database/Enemy/Boss#^zhan-shu-ke-gamma|战术壳γ]]
+         
+         > [!tip] Boss 攻略
+         > 无难度
+         >
+         > 由 [[Database/Character/Alan#^ai-lun|艾伦]] 完成最后一击并且战斗胜利时 [[Database/Character/Alan#^ai-lun|艾伦]] 生存, ==**AP+2**==
+ 
+      4. 回第一学生宿舍找两人对话
+    Bonus:
+      - "[[Database/Quartz/Water R#^shui-yan-ling|水言铃]]"
+    When: "[[Walkthrough/Chapter 4#^quest-qing-mei-zhu-ma-de-xin-yi|第四章 7/18]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "举发偷拍照"
+    ID: "ju-fa-tou-pai-zhao"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到学生会馆2F写真部找 [[Database/Character/Fidelio#^pei-de-lie|裴德烈]] 领取
+         
+      2. 到操场仓库角落
+         
+      3. 到旧校舍
+         
+      4. 到军官学院·礼堂进入舞台左手边的门剧情、剧情后出门走到底，上右手边的楼梯到2F找到 [[Database/Character/Rex#^lei-ke-si|雷克斯]]
+         
+      5. 完成委托
+    Bonus:
+      - "[[Database/Item/Accessory#^lv-se-zhui-shi|绿色坠饰]]"
+    When: "[[Walkthrough/Chapter 4#^quest-ju-fa-tou-pai-zhao|第四章 7/18]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "游泳训练"
+    ID: "you-yong-xun-lian"
+    BasicAP: 4
+    ExtraAP: 1
+    Steps: |
+      1. 到主校舍1楼办公室找奈特哈尔教官认领
+         
+      2. 选择同伴，该同伴LINK +100
+         
+      3. 输的话可以重复挑战，胜利的话==**AP+1**==
+    Bonus:
+      - "[[Database/Item/Potion#^da-hui-fu-yao|大回复药x5]]"
+    When: "[[Walkthrough/Chapter 4#^quest-you-yong-xun-lian|第四章 7/18]]"
+#--------------------------------------------------------------------------------------------------------------
+  - Name: "东方式的笔"
+    ID: "dong-fang-shi-de-bi"
+    BasicAP: 4
+    ExtraAP: 0
+    Steps: |
+      1. 到操场入口边锅炉处，找工友盖勒领取
+         
+      2. 到主校舍1F学院长室与梵戴克院长对话
+
+    Bonus:
+      - "[[Database/Item/Accessory#^shen-sheng-yuan-qiu|神圣圆球]]"
+    When: "[[Walkthrough/Chapter 4#^quest-dong-fang-shi-de-bi|第四章 7/18晚]]"
+#--------------------------------------------------------------------------------------------------------------
   - Name: ""
     ID: ""
     BasicAP: 4
@@ -515,3 +581,35 @@ const quest = dv.current().Quests[18];
 await dv.view('Quest', { quest, type:'Side' });
 ```
 ^nuo-er-de-gao-yuan-bei-bu-tong-ji-mo-shou
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[19];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^qing-mei-zhu-ma-de-xin-yi
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[20];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^ju-fa-tou-pai-zhao
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[21];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^you-yong-xun-lian
+
+---
+
+```dataviewjs
+const quest = dv.current().Quests[22];
+await dv.view('Quest', { quest, type:'Side' });
+```
+^dong-fang-shi-de-bi

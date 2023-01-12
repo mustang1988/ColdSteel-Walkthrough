@@ -55,6 +55,12 @@ MonsterTreasureChests:
     - "[[Database/Quartz/Earth SR#^feng-rao|丰饶]]"
   Chapter: "[[Walkthrough/Chapter 3#^location-nuo-er-de-gao-yuan-bei-bu|第三章 6/27]]"
   Remark:
+- ID: "085"
+  Location: "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-2|旧校舍地下·第4层2]]"
+  Items:  
+    - "[[Database/Item/Accessory#^chang-qing-zhi-lv|长青之绿]]"
+  Chapter: "[[Walkthrough/Chapter 4#^location-jiu-xiao-she-di-xia-si-ceng-2|第四章 7/18]]"
+  Remark:
 #-------------
 - ID: ""
   Location: ""
@@ -132,3 +138,11 @@ const chest = dv.current().MonsterTreasureChests[8];
 await dv.view('Treasure Chest', { chest, monster: true });
 ```
 ^071
+
+---
+
+```dataviewjs
+const chest = dv.current().MonsterTreasureChests[9];
+await dv.view('Treasure Chest', { chest, monster: true });
+```
+^085

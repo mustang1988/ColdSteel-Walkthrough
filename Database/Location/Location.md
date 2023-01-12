@@ -136,6 +136,17 @@ Locations:
     - "![[images/Maps/高原·采石场1.jpg]]"
     - "![[images/Maps/高原·采石场2.jpg]]"
   Fishes:
+- Name: "旧校舍地下·第4层1"
+  ID: "jiu-xiao-she-di-xia-si-ceng-1"
+  Maps:
+    - "![[images/Maps/旧校舍地下·第4层1.jpg]]"
+  Fishes:
+    - "[[Database/Fish/Gluttonous Bass|大口鲈鱼]]"
+- Name: "旧校舍地下·第4层2"
+  ID: "jiu-xiao-she-di-xia-si-ceng-2"
+  Maps:
+    - "![[images/Maps/旧校舍地下·第4层2.jpg]]"
+  Fishes:
 ##################################
 - Name: ""
   ID: ""
@@ -334,3 +345,19 @@ const location = dv.current().Locations[23];
 await dv.view('Location', { location });
 ```
 ^gao-yuan-cai-shi-chang
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[24];
+await dv.view('Location', { location });
+```
+^jiu-xiao-she-di-xia-si-ceng-1
+
+---
+
+```dataviewjs
+const location = dv.current().Locations[25];
+await dv.view('Location', { location });
+```
+^jiu-xiao-she-di-xia-si-ceng-2

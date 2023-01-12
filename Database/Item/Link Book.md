@@ -37,7 +37,21 @@ Books:
     ID: "di-guo-ma-shu-jiao-ben"
     Character: "[[Database/Character/Jusis Albarea#^you-xi-si|尤西斯]]"
     Link: 50
-
+#---------
+  - Name: "如何成为游泳高手"
+    ID: "ru-he-cheng-wei-you-yong-gao-shou"
+    Character: "[[Database/Character/Laura S Arseid#^lao-la|劳拉]]"
+    Link: 100
+#---------
+  - Name: "军事迷手册"
+    ID: "jun-shi-mi-shou-ce"
+    Character: "[[Database/Character/Fie Claussell#^fei|菲]]"
+    Link: 100
+#---------
+  - Name: "帝国美术史"
+    ID: "di-guo-mei-shu-shi"
+    Character: "[[Database/Character/Gaius Worzel#^gai-wu-si|盖乌斯]]"
+    Link: 100
 #---------
   - Name: ""
     ID: ""
@@ -105,3 +119,27 @@ const book = dv.current().Books[7];
 await dv.view('Item/Link Book', { book });
 ```
 ^di-guo-ma-shu-jiao-ben
+
+---
+
+```dataviewjs
+const book = dv.current().Books[8];
+await dv.view('Item/Link Book', { book });
+```
+^ru-he-cheng-wei-you-yong-gao-shou
+
+---
+
+```dataviewjs
+const book = dv.current().Books[9];
+await dv.view('Item/Link Book', { book });
+```
+^jun-shi-mi-shou-ce
+
+---
+
+```dataviewjs
+const book = dv.current().Books[10];
+await dv.view('Item/Link Book', { book });
+```
+^di-guo-mei-shu-shi

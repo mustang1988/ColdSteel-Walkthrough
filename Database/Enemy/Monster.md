@@ -3357,7 +3357,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  深渊三头犬  ----------------------------------------------------------------------------------------------
 - Name: "深渊三头犬"
   ID: "shen-yuan-san-tou-quan"
@@ -3367,7 +3366,8 @@ Monsters:
     散发出能瞬间夺走猎物视野的凶恶瘴气.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-1|旧校舍地下·第4层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-2|旧校舍地下·第4层2]]"
   Properties:
     LV: 31
     HP: 5095
@@ -3419,7 +3419,6 @@ Monsters:
     Sleep: 50
     Confuse: 100
     SDown: 100
-
 #  火焰之尊  ----------------------------------------------------------------------------------------------
 - Name: "火焰之尊"
   ID: "huo-yan-zhi-zun"
@@ -3433,7 +3432,8 @@ Monsters:
     甚至会使用火的魔法.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-1|旧校舍地下·第4层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-2|旧校舍地下·第4层2]]"
   Properties:
     LV: 31
     HP: 5410
@@ -3485,7 +3485,6 @@ Monsters:
     Sleep: 100
     Confuse: 100
     SDown: 100
-
 #  疯狂野草  ----------------------------------------------------------------------------------------------
 - Name: "疯狂野草"
   ID: "feng-kuang-ye-cao"
@@ -3495,7 +3494,8 @@ Monsters:
     无止境的散发出能确实降低生命力的污秽瘴气.  
 
   Locations: 
-    - ""
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-1|旧校舍地下·第4层1]]"
+    - "[[Database/Location/Location#^jiu-xiao-she-di-xia-si-ceng-2|旧校舍地下·第4层2]]"
   Properties:
     LV: 31
     HP: 3296
