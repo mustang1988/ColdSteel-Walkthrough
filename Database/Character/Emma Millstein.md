@@ -46,6 +46,30 @@ await dv.view('Character/Description', { character });
 ```
 ^ai-ma
 
+---
+
+```dataviewjs
+const character = dv.current();
+const crafts = dv.page('Database/Craft/Craft').Crafts
+              .filter(c => character.Aliases.includes(c.Character.display))
+              .map(c => dv.blockLink('Database/Craft/Craft', c.ID, false, c.Name));
+const scrafts = dv.page('Database/Craft/SCraft').SCrafts
+              .filter(c => character.Aliases.includes(c.Character.display))
+              .map(c => dv.blockLink('Database/Craft/SCraft', c.ID, false, c.Name));            
+dv.table(
+  [],
+  [...crafts, ...scrafts].map(c => {
+    const cs = dv.page(c.path).Crafts 
+              ? dv.page(c.path).Crafts.filter(cr => cr.ID === c.subpath) 
+              : dv.page(c.path).SCrafts.filter(cr => cr.ID === c.subpath);
+    return [c, cs[0].How];
+  })
+);
+```
+^crafts
+
+---
+
 ```dataviewjs
 const note = dv.current().Notes[0];
 await dv.view('Character/Note', { note });

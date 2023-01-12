@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "35037b2a5e1d630d",
+        "id": "074a187e8452fe30",
         "type": "tabs",
         "children": [
           {
-            "id": "9d7cc37f30d3e070",
+            "id": "56fa973ed9441866",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walkthrough/Chapter 1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "564261b85992c61b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Craft/Craft.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d9283e4c9fe7b534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Craft/SCraft.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "adb1521153f8552f",
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Craft/SCraft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Craft/SCraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/Craft/SCraft.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,17 +140,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d9283e4c9fe7b534",
+  "active": "56fa973ed9441866",
   "lastOpenFiles": [
-    "Database/Craft/Craft.md",
-    "Database/Craft/SCraft.md",
-    "Walkthrough/Chapter 1.md",
     "Index.md",
-    "DEBUG.md",
-    "Walkthrough/Chapter 4.md",
-    "Walkthrough/Chapter 3.md",
-    "Database/Status/Mute.md",
-    "Walkthrough/Chapter 2.md",
-    "Walkthrough/Chapter 0.md"
+    "Database/Character/Crow Armbrust.md",
+    "Database/Craft/Craft.md",
+    "Database/Character/Millium Orion.md",
+    "Database/Character/Gaius Worzel.md",
+    "Database/Character/Fie Claussell.md",
+    "Database/Character/Jusis Albarea.md",
+    "Database/Character/Emma Millstein.md",
+    "Database/Character/Machias Regnitz.md",
+    "Database/Character/Laura S Arseid.md"
   ]
 }

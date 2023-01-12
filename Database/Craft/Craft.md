@@ -512,7 +512,7 @@ Crafts:
       - ""
       - ""
     Cost: "CP-"
-    Character: "[[Database/Character/Crow Armbrust|克洛]]"
+    Character: ""
     How: ""
 ---
 ```dataviewjs

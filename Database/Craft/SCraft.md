@@ -19,7 +19,7 @@ SCrafts:
     Effects:
       - "[[Database/Status/Burn|炎伤]] 100%"
     Character: "[[Database/Character/Rean Schwarzer#^li-en|黎恩]]"
-    How: "TODO终章自动习得"
+    How: "TODO 终章自动习得"
 # 艾玛 -------------------------------------------------------------------
   - Name: "巨塔之主"
     ID: "ju-ta-zhi-zhu"
@@ -28,7 +28,7 @@ SCrafts:
     Range: "全体"
     Effects:
     Character: "[[Database/Character/Emma Millstein#^ai-ma|艾玛]]"
-    How: "TODO"
+    How: "TODO 第五章8/29"
 # 菲 -------------------------------------------------------------------
   - Name: "风精之舞"
     ID: "feng-jing-zhi-wu"
@@ -37,7 +37,7 @@ SCrafts:
     Range: "圆LL"
     Effects:
     Character: "[[Database/Character/Fie Claussell#^fei|菲]]"
-    How: "TODO"
+    How: "初始习得"
 # 艾略特 -------------------------------------------------------------------
   - Name: "七彩狂想曲"
     ID: "qi-cai-kuang-xiang-qu"
@@ -47,7 +47,7 @@ SCrafts:
     Effects:
       - "[[Database/Status/Confuse|混乱]] 100%"
     Character: "[[Database/Character/Elliot Craig#^ai-lve-te|艾略特]]"
-    How: "TODO第四章7/25"
+    How: "TODO 第四章7/25"
 # 劳拉 -------------------------------------------------------------------
   - Name: "洸刃乱舞"
     ID: "guang-ren-luan-wu"
@@ -87,9 +87,9 @@ SCrafts:
 # 亚莉莎 -------------------------------------------------------------------
   - Name: "罗塞塔之箭"
     ID: "luo-sai-ta-zhi-jian"
-    Description: "TODO"
+    Description: "以凝聚了魔力的箭矢扫荡眼前的敌人"
     Type: "魔法攻击(威力SS)"
-    Range: "直线L(指定地点)"
+    Range: "直线M(指定地点)"
     Effects:
       - "[[Database/Status/Mute|封魔]] 100%"
     Character: "[[Database/Character/Alisa Reinford|亚莉莎]]"
